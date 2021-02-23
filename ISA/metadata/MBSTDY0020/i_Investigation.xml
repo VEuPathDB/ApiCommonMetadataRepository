@@ -1,6 +1,76 @@
 <investigation identifierRegex="^(MBSTDY)\d+$" identifierIsDirectoryName="true">
 
 
+  <study fileName="EcoCF.txt" identifierSuffix="-19" sampleRegex="MBSMPL">
+    <dataset>otuDADA2_EcoCF_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>
+    <node name="Sample" type="sample from organism"/>
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="DailyBaby.txt" identifierSuffix="-18" sampleRegex="MBSMPL">
+    <dataset>otuDADA2_DailyBaby_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>
+    <node name="Sample" type="sample from organism"/>
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+  <study fileName="StLouisNICU.txt" identifierSuffix="-17" sampleRegex="MBSMPL">
+    <dataset>otuDADA2_StLouisNICU_RSRC</dataset>
+
+    <node name="Source" type="host" suffix="Source"/>
+    <node name="Sample" type="sample from organism"/>
+    <node name="Extract" type="DNA extract" suffix="Extract"/>
+    <node name="Assay" suffix="Assay"/>
+    <node name="DataTransformation" suffix="OTU"/>
+
+    <edge input="Source" output="Sample">
+        <protocol>specimen collection</protocol>
+    </edge>
+    <edge input="Sample" output="Extract">
+      <protocol>DNA extraction</protocol>
+    </edge>
+    <edge input="Extract" output="Assay">
+        <protocol>DNA sequencing</protocol>
+    </edge>
+    <edge input="Assay" output="DataTransformation">
+        <protocol>data transformation</protocol>
+    </edge>
+  </study>
+
+
   <study fileName="PIH_Uganda.txt" identifierSuffix="-16" sampleRegex="MBSMPL">
     <dataset>otuDADA2_PIH_Uganda_RSRC</dataset>
 

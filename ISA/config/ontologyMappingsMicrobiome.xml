@@ -14,7 +14,8 @@
   <ontologySource>EFO</ontologySource>
   <ontologySource>UO</ontologySource>
   <ontologySource>HP</ontologySource>
-  
+  <ontologySource>FMA</ontologySource> 
+  <ontologySource>CHEBI</ontologySource>
 
   <!-- Protocol Params -->
 
@@ -135,6 +136,9 @@
   <ontologyTerm source_id="EuPathDB_0009054" type="characteristicQualifier" parent="Source">
   <name>days on antibiotics</name>
   </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009102" type="characteristicQualifier" parent="Source">
+  <name>Percentage of life on antibiotics</name>
+  </ontologyTerm>
   <ontologyTerm source_id="EuPathDB_0009055" type="characteristicQualifier" parent="Source">
   <name>days since last diarrheal episode</name>
   </ontologyTerm>
@@ -153,8 +157,7 @@
   <ontologyTerm source_id="EUPATH_0010375" type="characteristicQualifier" parent="Source">
     <name>case_control</name>
   </ontologyTerm>
-  <ontologyTerm source_id="OBI_0001627" type="characteristicQualifier" parent="Source">
-      <name>country</name>
+  <ontologyTerm source_id="ENVO_00000004" type="characteristicQualifier" parent="Source">
     <name>country name</name>
     <name>country</name>
     <name>geo_loc_name</name>
@@ -168,6 +171,7 @@
   <ontologyTerm source_id="OBI_0001169" type="characteristicQualifier" parent="Source">
     <name>age</name>
     <name>host_age</name>
+    <name>Age (years)</name>
     <function>splitUnitFromValue</function>
     <function>setUnitToYear</function>
   </ontologyTerm>
@@ -176,6 +180,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000579" type="characteristicQualifier" parent="Source">
     <name>day_of_life</name>
+    <name>Age (days)</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000512" type="characteristicQualifier" parent="Source">
     <name>host_common_name</name>
@@ -210,7 +215,7 @@
     <name>env_biome</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
-  <ontologyTerm source_id="ENVO_00002297" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="ENVO_01000739" type="characteristicQualifier" parent="Source">
     <name>env_feature</name>
     <function>valueIsOntologyTerm</function>
   </ontologyTerm>
@@ -254,6 +259,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000602" type="characteristicQualifier" parent="Source">
     <name>pet_farm_animal</name>
+    <name>presence_of_pets</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000607" type="characteristicQualifier" parent="Source">
     <name>weight_loss_3_month</name>
@@ -262,11 +268,16 @@
   <ontologyTerm source_id="EUPATH_0000582" type="characteristicQualifier" parent="Source">
     <name>abx_name</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MICRO_0000463" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0009121" type="characteristicQualifier" parent="Source">
     <name>abx_pmp_all</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000580" type="characteristicQualifier" parent="Source">
     <name>antiexposedall</name>
+    <name>antibiotic_exposure</name>
+    <function>enforceYesNoForBoolean</function>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009123" type="characteristicQualifier" parent="Source">
+    <name>antifungal_exposure</name>
     <function>enforceYesNoForBoolean</function>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000583" type="characteristicQualifier" parent="Source">
@@ -279,6 +290,7 @@
   <ontologyTerm source_id="EUPATH_0000581" type="characteristicQualifier" parent="Source">
       <name>csection</name>
     <name>delivery</name>
+    <name>baby_delivery_mode</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000585" type="characteristicQualifier" parent="Source">
     <name>diet_2_month</name>
@@ -286,6 +298,7 @@
   <ontologyTerm source_id="EUPATH_0000584" type="characteristicQualifier" parent="Source">
     <name>diet_3</name>
     <name>diet_2</name>
+    <name>child_diet</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000493" type="characteristicQualifier" parent="Source">
     <name>family</name>
@@ -304,6 +317,7 @@
   <ontologyTerm source_id="EUPATH_0000497" type="characteristicQualifier" parent="Source">
     <name>mom_courses_ofdeliveryabx</name>
   </ontologyTerm>
+  <!--
   <ontologyTerm source_id="MICRO_0000481" type="characteristicQualifier" parent="Source">
     <name>mom_ld_abx</name>
     <function>enforceYesNoForBoolean</function>
@@ -311,6 +325,7 @@
   <ontologyTerm source_id="MICRO_0000482" type="characteristicQualifier" parent="Source">
     <name>mom_pre_post_ld</name>
   </ontologyTerm>
+  -->
   <ontologyTerm source_id="EUPATH_0000599" type="characteristicQualifier" parent="Source">
     <name>mom_prenatal_abx</name>
     <function>enforceYesNoForBoolean</function>
@@ -321,7 +336,7 @@
   <ontologyTerm source_id="EUPATH_0000601" type="characteristicQualifier" parent="Source">
     <name>mom_prenatal_abx_trimester</name>
   </ontologyTerm>
-  <ontologyTerm source_id="MICRO_0000486" type="characteristicQualifier" parent="Source">
+  <ontologyTerm source_id="EUPATH_0009122" type="characteristicQualifier" parent="Source">
     <name>move_time</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000588" type="characteristicQualifier" parent="Source">
@@ -353,6 +368,7 @@
     <name>subject</name>
     <name>child ID</name>
     <name>host_subject_id</name>
+    <name>subject_id</name>
     <name>SubjectID</name>
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0009003" type="characteristicQualifier" parent="Source">
@@ -581,11 +597,68 @@
   <ontologyTerm source_id="HP_0000238" type="characteristicQualifier" parent="Source">
     <name>hydrocephalus</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="HP_0032319" type="characteristicQualifier" parent="Source">
+    <name>Clinical Status</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009087" type="characteristicQualifier" parent="Source">
+    <name>Forced Expiratory Volume (FEV1) percentage</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009088" type="characteristicQualifier" parent="Source">
+    <name>Forced Expiratory Volume (FEV1) liter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_2955" type="characteristicQualifier" parent="Source">
+    <name>Azithromycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_28864" type="characteristicQualifier" parent="Source">
+    <name>Tobramycin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_37943" type="characteristicQualifier" parent="Source">
+    <name>Colistin</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="CHEBI_161680" type="characteristicQualifier" parent="Source">
+    <name>Aztreonam</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="DRON_00018567" type="characteristicQualifier" parent="Source">
+    <name>Dornase</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009091" type="characteristicQualifier" parent="Source">
+    <name>F508del-CFTR genotype</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009092" type="characteristicQualifier" parent="Source">
+    <name>Mutation 1</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009032" type="characteristicQualifier" parent="Source">
+    <name>Mutation 2</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C83101" type="characteristicQualifier" parent="Source">
+    <name>Visit Number</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009098" type="characteristicQualifier" parent="Source">
+    <name>Period of study</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009099" type="characteristicQualifier" parent="Source">
+    <name>Hospital room type</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009100" type="characteristicQualifier" parent="Source">
+    <name>Breast milk by percent volume</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009102" type="characteristicQualifier" parent="Source">
+    <name>Percentage of life on antibiotics</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009095" type="characteristicQualifier" parent="Source">
+    <name>Gestational age at birth (days)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="HP_0032319" type="characteristicQualifier" parent="Source">
+    <name>Clinical Status</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0011036" type="characteristicQualifier" parent="Source">
+    <name>age_first_solid_food_given_days</name>
+  </ontologyTerm>
   <!-- Characteristics associated with Sample -->
 
   <ontologyTerm source_id="OBI_0001616" type="characteristicQualifier" parent="Sample">
     <name>clinepi_sample</name>
+    <name>submitted_sample_id</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000463" type="characteristicQualifier" parent="Sample">
     <name>host_body_product</name>
@@ -606,6 +679,7 @@
   </ontologyTerm>
   <ontologyTerm source_id="EUPATH_0000608" type="characteristicQualifier" parent="Sample">
     <name>samp_collect_device</name>
+    <name>sample_collection_method</name>
   </ontologyTerm>
   <ontologyTerm source_id="OBI_0100051" type="characteristicQualifier" parent="Sample">
     <name>sample_type</name>
@@ -657,7 +731,192 @@
   <ontologyTerm source_id="EUPATH_0009031" type="characteristicQualifier" parent="Sample">
     <name>Barcode Sequence</name>
   </ontologyTerm>
-
+  <ontologyTerm source_id="EUPATH_0009089" type="characteristicQualifier" parent="Sample">
+    <name>Virology result</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_10508" type="characteristicQualifier" parent="Sample">
+    <name>Adenovirus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_11118" type="characteristicQualifier" parent="Sample">
+    <name>Coronavirus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_11137" type="characteristicQualifier" parent="Sample">
+    <name>Coronavirus 229E</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_290028" type="characteristicQualifier" parent="Sample">
+    <name>Coronavirus HKU1</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_277944" type="characteristicQualifier" parent="Sample">
+    <name>Coronavirus NL63</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_31631" type="characteristicQualifier" parent="Sample">
+    <name>Coronavirus OC43</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_12059" type="characteristicQualifier" parent="Sample">
+    <name>Enterovirus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_162145" type="characteristicQualifier" parent="Sample">
+    <name>Human metapneumovirus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009103" type="characteristicQualifier" parent="Sample">
+    <name>Influenza</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_36420" type="characteristicQualifier" parent="Sample">
+    <name>Influenza A 2009</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009111" type="characteristicQualifier" parent="Sample">
+    <name>Rhinovirus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_12814" type="characteristicQualifier" parent="Sample">
+    <name>Respiratory syncytial virus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_11216" type="characteristicQualifier" parent="Sample">
+    <name>parainfluenza 3</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="ARO_3004306" type="characteristicQualifier" parent="Sample">
+    <name>methicillin resistant Staphylococcus aureus (MRSA)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009096" type="characteristicQualifier" parent="Sample">
+    <name>methicillin sensitive Staphylococcus aureus (MSSA)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCIT_C120707" type="characteristicQualifier" parent="Sample">
+    <name>Mixed Commensal Flora (MCF)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009106" type="characteristicQualifier" parent="Sample">
+    <name>Pseudomonas (nonmucoid)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009105" type="characteristicQualifier" parent="Sample">
+    <name>Pseudomonas (mucoid)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_562" type="characteristicQualifier" parent="Sample">
+    <name>Escherichia coli</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_222" type="characteristicQualifier" parent="Sample">
+    <name>Achromobacter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_724" type="characteristicQualifier" parent="Sample">
+    <name>Haemophilus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_40323" type="characteristicQualifier" parent="Sample">
+    <name>Stenotrophomonas</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_59732" type="characteristicQualifier" parent="Sample">
+    <name>Chryseobacterium</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_570" type="characteristicQualifier" parent="Sample">
+    <name>Klebsiella</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5476" type="characteristicQualifier" parent="Sample">
+    <name>Candida albicans</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_5067" type="characteristicQualifier" parent="Sample">
+    <name>Aspergillus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_469" type="characteristicQualifier" parent="Sample">
+    <name>Acinetobacter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_87883" type="characteristicQualifier" parent="Sample">
+    <name>Burkholderia multivorans</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_614" type="characteristicQualifier" parent="Sample">
+    <name>Serratia liquifaciens</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_615" type="characteristicQualifier" parent="Sample">
+    <name>Serratia marcescens</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_253" type="characteristicQualifier" parent="Sample">
+    <name>Chryseobacterium indologenes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_24" type="characteristicQualifier" parent="Sample">
+    <name>Shewanella putrifaciens</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_544" type="characteristicQualifier" parent="Sample">
+    <name>Citrobacter</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_546" type="characteristicQualifier" parent="Sample">
+    <name>Citrobacter freundii</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_487" type="characteristicQualifier" parent="Sample">
+    <name>Neisseria meningitidis</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_1817" type="characteristicQualifier" parent="Sample">
+    <name>Nocardia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_36809" type="characteristicQualifier" parent="Sample">
+    <name>Mycobacterium abcessus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_547" type="characteristicQualifier" parent="Sample">
+    <name>Enterobacter</name>
+  </ontologyTerm>	
+  <ontologyTerm source_id="NCBITaxon_1314" type="characteristicQualifier" parent="Sample">
+    <name>Streptococcus pyogenes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_85698" type="characteristicQualifier" parent="Sample">
+    <name>Achromobacter xyloxidans</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="SNOMEDCT_83088009" type="characteristicQualifier" parent="Sample">
+    <name>Acinetobacter lwoffi</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_95486" type="characteristicQualifier" parent="Sample">
+    <name>Burkholderia cenocepacia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_253" type="characteristicQualifier" parent="Sample">
+    <name>Chryseobacterium indologenes</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_727" type="characteristicQualifier" parent="Sample">
+    <name>Haemophilus influenza</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_571" type="characteristicQualifier" parent="Sample">
+    <name>Klebsiella oxytoca</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_573" type="characteristicQualifier" parent="Sample">
+    <name>Klebsiella pneumoniae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009117" type="characteristicQualifier" parent="Sample">
+    <name>MCF (prelim)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009119" type="characteristicQualifier" parent="Sample">
+    <name>MSSA (prelim)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_286" type="characteristicQualifier" parent="Sample">
+    <name>Pseudomonas</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009120" type="characteristicQualifier" parent="Sample">
+    <name>Pseudomonas (prelim)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_47886" type="characteristicQualifier" parent="Sample">
+    <name>Pseudomonas luteola</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_303" type="characteristicQualifier" parent="Sample">
+    <name>Pseudomonas putida</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_613" type="characteristicQualifier" parent="Sample">
+    <name>Serratia</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_1279" type="characteristicQualifier" parent="Sample">
+    <name>Staphylococcus</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="NCBITaxon_1313" type="characteristicQualifier" parent="Sample">
+    <name>Streptococcus pneumoniae</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009094" type="characteristicQualifier" parent="Sample">
+    <name>Age at sample collection (days)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009097" type="characteristicQualifier" parent="Sample">
+    <name>Postmenstrual age at sample collection (days)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009101" type="characteristicQualifier" parent="Sample">
+    <name>Blood culture results</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009094" type="characteristicQualifier" parent="Sample">
+    <name>Age at sample collection (days)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009097" type="characteristicQualifier" parent="Sample">
+    <name>Postmenstrual age at sample collection (days)</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="EUPATH_0009101" type="characteristicQualifier" parent="Sample">
+    <name>Blood culture results</name>
+  </ontologyTerm>
   
 <!-- characteristicValues -->
   <!-- PATO terms -->
@@ -779,6 +1038,9 @@
   <ontologyTerm source_id="GAZ_00002721" type="characteristicValue" parent="characteristicQualifier">
     <name>Russia</name>
   </ontologyTerm>
+  <ontologyTerm source_id="GAZ_00002699" type="characteristicValue" parent="characteristicQualifier">
+    <name>Norway</name>
+  </ontologyTerm>
 
   <!-- UBERON terms -->
   <ontologyTerm source_id="UBERON_0000468" type="characteristicValue" parent="characteristicQualifier">
@@ -823,9 +1085,28 @@
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000167" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:oral cavity</name>
+    <name>oral cavity</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000341" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:throat</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0002048" type="characteristicValue" parent="characteristicQualifier">
+    <name>Lung</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0001729" type="characteristicValue" parent="characteristicQualifier">
+    <name>Oropharynx</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="FMA_26660" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bronchial tree and alveoli</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0007311" type="characteristicValue" parent="characteristicQualifier">
+    <name>Sputum</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="OBI_0100067" type="characteristicValue" parent="characteristicQualifier">
+    <name>Bronchoalveolar lavage fluid</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_0000065" type="characteristicValue" parent="characteristicQualifier">
+    <name>Respiratory tract</name>
   </ontologyTerm>
   <ontologyTerm source_id="UBERON_0000912" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:mucus</name>
@@ -876,8 +1157,6 @@
   <ontologyTerm source_id="UBERON_0001137" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:back</name>
     <name>back</name>
-    <name>left back</name>
-    <name>right back</name>
   </ontologyTerm>
   <ontologyTerm source_id="FMA_73100" type="characteristicValue" parent="characteristicQualifier">
     <name>left chest</name>
@@ -1009,6 +1288,12 @@ r">
   <ontologyTerm source_id="UBERON_0002240" type="characteristicValue" parent="characteristicQualifier">
     <name>UBERON:spinal cord</name>
     <name>spinal cord</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_8000006" type="characteristicValue" parent="characteristicQualifier">
+    <name>left back</name>
+  </ontologyTerm>
+  <ontologyTerm source_id="UBERON_8000007" type="characteristicValue" parent="characteristicQualifier">
+    <name>right back</name>
   </ontologyTerm>
   <!--units-->
   <ontologyTerm source_id="UO_0000036" type="unit">
