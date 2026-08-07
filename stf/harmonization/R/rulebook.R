@@ -1,11 +1,29 @@
 VARIABLES_COLS <- c('variable', 'action', 'new_name', 'new_display_name',
                     'new_parent', 'reason')
 VALID_ACTIONS  <- c('rename', 'reparent', 'drop')
+NON_VOCABULARY_COLS <- c('variable', 'reason')
 
 empty_vocabulary <- function() {
   tibble(variable = character(), raw_value = character(),
          canonical_value = character(), ontology_term_id = character(),
          note = character())
+}
+
+empty_non_vocabulary <- function() {
+  tibble(variable = character(), reason = character())
+}
+
+# Output schemas for the apply step. Defined here, beside the input schemas, so the
+# empty and non-empty code paths in apply_rules.R cannot drift apart: both are built by
+# seeding bind_rows() with these, which also fixes column order in one place.
+empty_changes <- function() {
+  tibble(variable = character(), raw_value = character(),
+         canonical_value = character(), rows_affected = integer(),
+         layer = integer(), ontology_term_id = character())
+}
+
+empty_unresolved <- function() {
+  tibble(variable = character(), raw_value = character(), rows_affected = integer())
 }
 
 empty_variable_actions <- function() {
@@ -31,6 +49,9 @@ read_rules_tsv <- function(path, expected_cols, empty_fn) {
 }
 
 read_vocabulary <- function(path) read_rules_tsv(path, VOCAB_COLS, empty_vocabulary)
+read_non_vocabulary <- function(path) {
+  read_rules_tsv(path, NON_VOCABULARY_COLS, empty_non_vocabulary)
+}
 read_variable_actions <- function(path) {
   read_rules_tsv(path, VARIABLES_COLS, empty_variable_actions)
 }
@@ -207,7 +228,9 @@ load_rulebook <- function(rules_dir, project, organism) {
     vocab1 = read_vocabulary(file.path(rules_dir, 'global', 'vocabulary.tsv')),
     vocab2 = read_vocabulary(file.path(study_dir, 'vocabulary.tsv')),
     acts1  = read_variable_actions(file.path(rules_dir, 'global', 'variables.tsv')),
-    acts2  = read_variable_actions(file.path(study_dir, 'variables.tsv'))
+    acts2  = read_variable_actions(file.path(study_dir, 'variables.tsv')),
+    nonvocab1 = read_non_vocabulary(file.path(rules_dir, 'global', 'non_vocabulary.tsv')),
+    nonvocab2 = read_non_vocabulary(file.path(study_dir, 'non_vocabulary.tsv'))
   )
   # Validate up front: shadow accounting below must not depend on merge_vocabulary_layers
   # happening to validate later. Double validation on a 361-row table is free.
@@ -226,6 +249,17 @@ load_rulebook <- function(rules_dir, project, organism) {
     arrange(desc(layer)) %>%
     distinct(variable, .keep_all = TRUE)
 
+  # Non-vocabulary exclusions UNION rather than replace: a study cannot un-exclude an
+  # identifier, only add to the list. Removing a global exclusion is not expressible in a
+  # (variable, reason) table and there is no known need for it -- if one appears, that is
+  # a schema change, not something to smuggle in via precedence. Study rows win on
+  # duplicate variable names so the more specific reason is the one reported.
+  merged_nonvocab <- bind_rows(layers$nonvocab2 %>% mutate(layer = 2L),
+                               layers$nonvocab1 %>% mutate(layer = 1L)) %>%
+    arrange(desc(layer)) %>%
+    distinct(variable, .keep_all = TRUE)
+
   list(vocabulary = merged_vocab, actions = merged_acts,
+       non_vocabulary = merged_nonvocab,
        n_shadowed = nrow(shadowed), shadowed = shadowed)
 }

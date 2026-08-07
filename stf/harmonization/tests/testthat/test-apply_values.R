@@ -91,11 +91,8 @@ test_that("a blank canonical_value is rejected rather than erasing data", {
 })
 
 test_that("identifier and date-like variables are excluded from harmonization", {
-  e <- tiny_entity()
-  # the fixture has no such variables, so assert the filter directly
-  expect_true(all(c('dataset_id', 'collection_year', 'organism_id') %in%
-                    NON_VOCABULARY_VARIABLES))
-  expect_setequal(harmonizable_variables(e), c('organism', 'specimen', 'country'))
+  expect_setequal(harmonizable_variables(tiny_entity()),
+                  c('organism', 'specimen', 'country'))
 })
 
 test_that("an all-NA column is handled without error", {
@@ -112,4 +109,69 @@ test_that("rows_affected is NA-safe: a column with NAs still counts correctly", 
   res <- apply_value_rules(tiny_entity(), tiny_vocab())
   expect_false(any(is.na(res$changes$rows_affected)))
   expect_equal(res$changes %>% filter(raw_value == 'Human') %>% pull(rows_affected), 1L)
+})
+
+test_that("non-categorical columns are never touched", {
+  # The whole rationale for harmonizable_variables() is that substituting into a date or
+  # numeric column would corrupt it. The fixture has no such column, so build one here.
+  e <- tiny_entity() %>%
+    modify_data(mutate(body_temperature = c(37.1, 38.0, 37.1, 39.2, 37.1, 38.0))) %>%
+    sync_variable_metadata()
+  v <- merge_vocabulary_layers(
+    layer0 = tibble(variable = '*', raw_value = '37.1', canonical_value = 'MANGLED',
+                    ontology_term_id = NA_character_, note = NA_character_),
+    layer1 = empty_vocabulary(), layer2 = empty_vocabulary())
+  res <- apply_value_rules(e, v)
+  expect_equal(class(get_data(res$entity)$body_temperature), 'numeric')
+  expect_equal(get_data(res$entity)$body_temperature, get_data(e)$body_temperature)
+  expect_equal(nrow(res$changes %>% filter(variable == 'body_temperature')), 0)
+})
+
+test_that("an entity with zero harmonizable variables returns empty results, not an error", {
+  # Regression: TriTrypDB/cfasCfCl has only dataset_id and sample_display_name, both
+  # excluded, so vars is character(0) and arrange() died on a 0x0 tibble.
+  e <- tiny_entity() %>% modify_data(select(sample_id)) %>% sync_variable_metadata()
+  expect_equal(harmonizable_variables(e), character(0))
+  u <- unresolved_values(e, tiny_vocab())
+  expect_equal(nrow(u), 0)
+  expect_setequal(colnames(u), c('variable', 'raw_value', 'rows_affected'))
+  res <- apply_value_rules(e, tiny_vocab())
+  expect_equal(nrow(res$changes), 0)
+  expect_true(validate(quiet(res$entity)))
+})
+
+test_that("an excluded variable is absent from both substitution and the queue", {
+  # The previous exclusion test was a tautology: it asserted a literal was in the literal
+  # it was copied from. Assert the FILTER, on an entity that actually has the variable.
+  e <- tiny_entity() %>%
+    modify_data(mutate(dataset_id = 'Blood')) %>%   # value that WOULD match a rule
+    sync_variable_metadata()
+  expect_false('dataset_id' %in% harmonizable_variables(e, NON_VOCABULARY_VARIABLES))
+  res <- apply_value_rules(e, tiny_vocab(), NON_VOCABULARY_VARIABLES)
+  expect_equal(get_data(res$entity)$dataset_id, rep('Blood', 6))   # untouched
+  expect_equal(nrow(unresolved_values(e, tiny_vocab(), NON_VOCABULARY_VARIABLES) %>%
+                      filter(variable == 'dataset_id')), 0)
+})
+
+test_that("unresolved_values is ordered by rows_affected descending", {
+  u <- unresolved_values(tiny_entity(), tiny_vocab())
+  expect_equal(u$rows_affected, sort(u$rows_affected, decreasing = TRUE))
+})
+
+test_that("a blank raw_value is rejected", {
+  expect_error(
+    validate_vocabulary_layer(
+      tibble(variable = 'specimen', raw_value = NA_character_,
+             canonical_value = 'blood', ontology_term_id = NA_character_,
+             note = NA_character_), 'global'),
+    'Blank raw_value')
+})
+
+test_that("a study-layer substitution is logged with layer 2", {
+  v <- merge_vocabulary_layers(
+    empty_vocabulary(), empty_vocabulary(),
+    tibble(variable = 'country', raw_value = 'PLU', canonical_value = 'Thailand',
+           ontology_term_id = NA_character_, note = NA_character_))
+  res <- apply_value_rules(tiny_entity(), v)
+  expect_equal(res$changes %>% filter(raw_value == 'PLU') %>% pull(layer), 2L)
 })
