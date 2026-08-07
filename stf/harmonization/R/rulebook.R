@@ -26,6 +26,12 @@ empty_unresolved <- function() {
   tibble(variable = character(), raw_value = character(), rows_affected = integer())
 }
 
+empty_applied_actions <- function() {
+  tibble(variable = character(), action = character(), new_name = character(),
+         new_display_name = character(), new_parent = character(),
+         reason = character(), layer = integer())
+}
+
 empty_variable_actions <- function() {
   tibble(variable = character(), action = character(), new_name = character(),
          new_display_name = character(), new_parent = character(), reason = character())

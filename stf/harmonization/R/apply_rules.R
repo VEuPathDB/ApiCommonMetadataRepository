@@ -131,3 +131,102 @@ unresolved_values <- function(entity, merged_vocab,
   bind_rows(empty_unresolved(), !!!per_var) %>%
     arrange(desc(rows_affected))
 }
+
+#' Rename a variable: column + metadata, preserving provenance.
+#'
+#' Three steps are mandatory. modify_data(rename()) alone leaves the entity invalid
+#' (metadata refers to a column that no longer exists); sync_variable_metadata() fixes
+#' validity but WIPES display_name/definition/parent_variable and rewrites provider_label
+#' to the new name. So: capture first, rename, sync, re-apply.
+rename_variable <- function(entity, old_name, new_name, new_display_name = NA_character_) {
+  old <- get_variable_metadata(entity) %>% filter(variable == old_name)
+  if (nrow(old) != 1) stop(glue::glue("Expected exactly one metadata row for '{old_name}'"))
+
+  display <- if (!is.na(new_display_name)) new_display_name else old$display_name
+
+  entity <- rlang::eval_bare(rlang::expr(
+    modify_data(entity, rename(!!rlang::sym(new_name) := !!rlang::sym(old_name)))))
+
+  entity %>%
+    sync_variable_metadata() %>%
+    set_variable_metadata(new_name,
+      display_name    = display,
+      definition      = old$definition,
+      parent_variable = old$parent_variable,
+      data_type       = as.character(old$data_type),
+      data_shape      = as.character(old$data_shape),
+      # provider_label is PROVENANCE: keep what the provider called it, not the new name.
+      provider_label  = as.list(unlist(old$provider_label)))
+}
+
+#' Apply variable rename/reparent/drop actions.
+#'
+#' @param artifact_allowlist variables that may be dropped despite being populated,
+#'        because they are header-parsing artifacts with no interpretable meaning.
+#' @return list(entity, applied = tibble of actions applied, not_applicable = integer)
+apply_variable_actions <- function(entity, actions, artifact_allowlist = character()) {
+  applied <- list()
+  not_applicable <- 0L
+
+  if (nrow(actions) == 0) {
+    return(list(entity = entity, applied = empty_applied_actions(), not_applicable = 0L))
+  }
+
+  categories <- get_category_metadata(entity)$variable
+
+  for (i in seq_len(nrow(actions))) {
+    a <- actions[i, ]
+    if (!(a$variable %in% colnames(get_data(entity)))) {
+      not_applicable <- not_applicable + 1L
+      next
+    }
+
+    if (a$action == 'drop') {
+      col <- get_data(entity)[[a$variable]]
+      n_populated <- sum(!is.na(col))
+      if (n_populated > 0 && !(a$variable %in% artifact_allowlist)) {
+        stop(glue::glue(
+          "Refusing to drop '{a$variable}': it is populated ({n_populated} non-null ",
+          "rows) and is not on the header-artifact allowlist. Dropping a populated, ",
+          "interpretable variable is a structural change (spec section 4.2) and belongs ",
+          "in pass two. It is reported in structural_findings.md instead."))
+      }
+      nm <- a$variable
+      entity <- rlang::eval_bare(rlang::expr(
+        modify_data(entity, select(-!!rlang::sym(nm))))) %>%
+        sync_variable_metadata()
+
+    } else if (a$action == 'reparent') {
+      if (is.na(a$new_parent)) {
+        stop(glue::glue("Action 'reparent' for '{a$variable}' has no new_parent"))
+      }
+      if (!(a$new_parent %in% categories)) {
+        stop(glue::glue(
+          "Cannot reparent '{a$variable}' to '{a$new_parent}': no such category in this ",
+          "entity. Existing categories: {toString(categories)}"))
+      }
+      entity <- entity %>%
+        set_variable_metadata(a$variable, parent_variable = a$new_parent)
+
+    } else if (a$action == 'rename') {
+      if (!is.na(a$new_name)) {
+        entity <- rename_variable(entity, a$variable, a$new_name, a$new_display_name)
+      } else if (!is.na(a$new_display_name)) {
+        entity <- entity %>%
+          set_variable_metadata(a$variable, display_name = a$new_display_name)
+      } else {
+        stop(glue::glue(
+          "Action 'rename' for '{a$variable}' supplies neither new_name nor ",
+          "new_display_name"))
+      }
+    }
+
+    applied[[length(applied) + 1]] <- a
+  }
+
+  list(
+    entity = entity,
+    applied = bind_rows(empty_applied_actions(), !!!applied),
+    not_applicable = not_applicable
+  )
+}
