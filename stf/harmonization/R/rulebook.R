@@ -16,8 +16,11 @@ empty_variable_actions <- function() {
 #' Read a rules TSV, returning an empty typed tibble when the file is absent.
 read_rules_tsv <- function(path, expected_cols, empty_fn) {
   if (!file.exists(path)) return(empty_fn())
+  # quote = '' disables RFC4180 quote interpretation: a raw_value beginning with a
+  # literal '"' must stay one field, not swallow the following tabs or newlines.
+  # Curated vocabularies are the input here, so this is a stated decision, not a default.
   df <- readr::read_tsv(path, col_types = readr::cols(.default = readr::col_character()),
-                        na = character())
+                        na = character(), quote = '')
   missing <- setdiff(expected_cols, colnames(df))
   if (length(missing) > 0) {
     stop(glue::glue("'{path}' is missing required column(s): {toString(missing)}"))
@@ -66,6 +69,27 @@ validate_variable_actions <- function(a, layer_label) {
     stop(glue::glue("Multiple actions for variable(s) in '{layer_label}': ",
                     "{toString(dupes$variable)}"))
   }
+
+  # A rename must say what to rename TO -- either a new column name, a new display
+  # name, or both. Catching this at load time names the offending row; catching it at
+  # apply time would surface a confusing failure far from the TSV that caused it.
+  # This validates PRESENCE only: whether new_parent names a category that actually
+  # exists can only be checked against a specific entity, which is the apply-time task.
+  bad_rename <- a %>%
+    filter(action == 'rename', is.na(new_name), is.na(new_display_name))
+  if (nrow(bad_rename) > 0) {
+    stop(glue::glue(
+      "Action 'rename' in '{layer_label}' variables layer supplies neither new_name ",
+      "nor new_display_name for: {toString(bad_rename$variable)}"))
+  }
+
+  bad_reparent <- a %>% filter(action == 'reparent', is.na(new_parent))
+  if (nrow(bad_reparent) > 0) {
+    stop(glue::glue(
+      "Action 'reparent' in '{layer_label}' variables layer has no new_parent for: ",
+      "{toString(bad_reparent$variable)}"))
+  }
+
   invisible(a)
 }
 
@@ -134,6 +158,10 @@ merge_vocabulary_layers <- function(layer0, layer1, layer2) {
   ) %>%
     mutate(key = norm_value(raw_value),
            specificity = if_else(variable == '*', 0L, 1L)) %>%
+    # Sort by layer first, then specificity. NOTE: desc(specificity) is a no-op for the
+    # distinct() below -- 'variable' is part of the dedupe key and specificity is a pure
+    # function of 'variable', so every group has constant specificity. Wildcard-vs-specific
+    # arbitration happens in resolve_value(), which is where both rows are still visible.
     arrange(desc(layer), desc(specificity)) %>%
     distinct(variable, key, .keep_all = TRUE)
 }

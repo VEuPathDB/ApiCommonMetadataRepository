@@ -144,3 +144,24 @@ test_that("resolve_value rejects a vector rather than silently using the first e
                                    vocab(), vocab())
   expect_error(resolve_value(merged, 'organism', c('human', 'blood')), 'single value')
 })
+
+test_that("a rename action with no new_name and no new_display_name is rejected", {
+  a <- tibble(variable = 'organism', action = 'rename', new_name = NA_character_,
+              new_display_name = NA_character_, new_parent = NA_character_,
+              reason = 'stated')
+  expect_error(validate_variable_actions(a, 'global'), 'neither new_name')
+})
+
+test_that("a reparent action with no new_parent is rejected", {
+  a <- tibble(variable = 'country', action = 'reparent', new_name = NA_character_,
+              new_display_name = NA_character_, new_parent = NA_character_,
+              reason = 'stated')
+  expect_error(validate_variable_actions(a, 'global'), 'no new_parent')
+})
+
+test_that("a rename with only new_display_name is valid (display-name-only change)", {
+  a <- tibble(variable = 'organism', action = 'rename', new_name = NA_character_,
+              new_display_name = 'Host organism', new_parent = NA_character_,
+              reason = 'label only')
+  expect_silent(validate_variable_actions(a, 'global'))
+})
