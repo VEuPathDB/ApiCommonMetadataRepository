@@ -19,3 +19,4 @@ mic_of_fk506	Measurement (minimum inhibitory concentration)
 mic_of_natamycin	Measurement (minimum inhibitory concentration)
 mic_of_tebuconazole	Measurement (minimum inhibitory concentration)
 mic_of_terbinafine	Measurement (minimum inhibitory concentration)
+parasite_clearance_half_life	Measurement, not a controlled vocabulary

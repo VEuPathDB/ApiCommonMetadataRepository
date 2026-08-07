@@ -32,9 +32,10 @@ RULES_DIR       <- file.path(HARMONIZATION_DIR, 'rules')
 OUT_STF_ROOT    <- file.path(REPO_ROOT, 'stf', 'studies_harmonized')
 OUT_REPORT_ROOT <- file.path(REPO_ROOT, 'stf', 'reports')
 
-# Populated, interpretable variables may NOT be dropped in pass one (spec 4.2).
-# These are header-parsing artifacts with no interpretable meaning, so they may.
-ARTIFACT_ALLOWLIST <- c('and', 'group')
+# Populated, interpretable variables may NOT be dropped in pass one (spec 4.2). The
+# exceptions -- header-parsing artifacts, plus anything the data owner has explicitly
+# authorised -- live in rules/global/approved_drops.tsv with a stated reason, so the
+# authorisation is reviewable data rather than a constant in this file.
 
 #' Find project/organism study directories.
 #' @param only NULL for all, or a character vector of "Project/organism" selectors.
@@ -60,8 +61,7 @@ discover_studies <- function(studies_root, only = NULL) {
 #' Never throws for per-study problems: returns status 'failed' with a message so a
 #' 62-study run continues.
 harmonize_one_study <- function(study_dir, project, organism, rules_dir,
-                                out_stf_root, out_report_root,
-                                artifact_allowlist = ARTIFACT_ALLOWLIST) {
+                                out_stf_root, out_report_root) {
   report_dir <- file.path(out_report_root, project, organism)
   stf_dir    <- file.path(out_stf_root, project, organism)
 
@@ -107,7 +107,7 @@ harmonize_one_study <- function(study_dir, project, organism, rules_dir,
       return(fail(paste('value rules failed on', ename, ':', conditionMessage(vres))))
     }
     ares <- tryCatch(
-      apply_variable_actions(vres$entity, rb$actions, artifact_allowlist),
+      apply_variable_actions(vres$entity, rb$actions, rb$approved_drops$variable),
       error = function(x) x)
     if (inherits(ares, 'error')) {
       return(fail(paste('variable actions failed on', ename, ':', conditionMessage(ares))))

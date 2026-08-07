@@ -116,8 +116,18 @@ test_that("shadow detection is not inflated by duplicate keys within a layer", {
 })
 
 test_that("absent rulebook files load as empty layers, not errors", {
-  rb <- load_rulebook(file.path(HARMONIZATION_DIR, 'rules'), 'PlasmoDB', 'pfal3D7')
+  # A rules tree holding ONLY the generated layer 0. The real tree now carries global and
+  # study layers, so pointing this test at it would assert their row counts rather than
+  # the thing under test: that missing layer-1/layer-2 files are empty, not an error.
+  tmp_rules <- file.path(tempfile('rules_'), 'rules')
+  dir.create(file.path(tmp_rules, 'generated'), recursive = TRUE)
+  file.copy(file.path(HARMONIZATION_DIR, 'rules', 'generated',
+                      'vocabulary_from_corpus.tsv'),
+            file.path(tmp_rules, 'generated', 'vocabulary_from_corpus.tsv'))
+  rb <- load_rulebook(tmp_rules, 'PlasmoDB', 'pfal3D7')
   expect_equal(nrow(rb$vocabulary), 361)   # real layer 0, layers 1 and 2 absent
+  expect_equal(nrow(rb$non_vocabulary), 0)
+  expect_equal(nrow(rb$approved_drops), 0)
   expect_equal(nrow(rb$actions), 0)
   expect_equal(rb$n_shadowed, 0)
   expect_equal(nrow(rb$shadowed), 0)
@@ -164,4 +174,10 @@ test_that("a rename with only new_display_name is valid (display-name-only chang
               new_display_name = 'Host organism', new_parent = NA_character_,
               reason = 'label only')
   expect_silent(validate_variable_actions(a, 'global'))
+})
+
+test_that("load_rulebook reads approved drops with reasons", {
+  rb <- load_rulebook(file.path(HARMONIZATION_DIR, 'rules'), 'PlasmoDB', 'pfal3D7')
+  expect_true('continent' %in% rb$approved_drops$variable)
+  expect_true(all(!is.na(rb$approved_drops$reason)))
 })

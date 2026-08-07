@@ -2,6 +2,7 @@ VARIABLES_COLS <- c('variable', 'action', 'new_name', 'new_display_name',
                     'new_parent', 'reason')
 VALID_ACTIONS  <- c('rename', 'reparent', 'drop')
 NON_VOCABULARY_COLS <- c('variable', 'reason')
+APPROVED_DROPS_COLS <- c('variable', 'reason')
 
 empty_vocabulary <- function() {
   tibble(variable = character(), raw_value = character(),
@@ -10,6 +11,14 @@ empty_vocabulary <- function() {
 }
 
 empty_non_vocabulary <- function() {
+  tibble(variable = character(), reason = character())
+}
+
+# Which populated variables the data owner has explicitly authorised dropping. Same shape
+# as non_vocabulary, deliberately a SEPARATE table: the two lists mean different things
+# (excluded from value harmonization vs. approved for removal) and conflating them would
+# make an exclusion silently grant deletion authority.
+empty_approved_drops <- function() {
   tibble(variable = character(), reason = character())
 }
 
@@ -57,6 +66,9 @@ read_rules_tsv <- function(path, expected_cols, empty_fn) {
 read_vocabulary <- function(path) read_rules_tsv(path, VOCAB_COLS, empty_vocabulary)
 read_non_vocabulary <- function(path) {
   read_rules_tsv(path, NON_VOCABULARY_COLS, empty_non_vocabulary)
+}
+read_approved_drops <- function(path) {
+  read_rules_tsv(path, APPROVED_DROPS_COLS, empty_approved_drops)
 }
 read_variable_actions <- function(path) {
   read_rules_tsv(path, VARIABLES_COLS, empty_variable_actions)
@@ -236,7 +248,9 @@ load_rulebook <- function(rules_dir, project, organism) {
     acts1  = read_variable_actions(file.path(rules_dir, 'global', 'variables.tsv')),
     acts2  = read_variable_actions(file.path(study_dir, 'variables.tsv')),
     nonvocab1 = read_non_vocabulary(file.path(rules_dir, 'global', 'non_vocabulary.tsv')),
-    nonvocab2 = read_non_vocabulary(file.path(study_dir, 'non_vocabulary.tsv'))
+    nonvocab2 = read_non_vocabulary(file.path(study_dir, 'non_vocabulary.tsv')),
+    drops1 = read_approved_drops(file.path(rules_dir, 'global', 'approved_drops.tsv')),
+    drops2 = read_approved_drops(file.path(study_dir, 'approved_drops.tsv'))
   )
   # Validate up front: shadow accounting below must not depend on merge_vocabulary_layers
   # happening to validate later. Double validation on a 361-row table is free.
@@ -265,7 +279,16 @@ load_rulebook <- function(rules_dir, project, organism) {
     arrange(desc(layer)) %>%
     distinct(variable, .keep_all = TRUE)
 
+  # Approved drops UNION for the same reason as non_vocabulary, in the opposite direction:
+  # a study may authorise an extra drop locally, but must not be able to revoke a global
+  # authorisation by shadowing it -- revocation is not expressible here, and a study
+  # silently reinstating a variable the owner approved for removal would be invisible.
+  merged_drops <- bind_rows(layers$drops2 %>% mutate(layer = 2L),
+                            layers$drops1 %>% mutate(layer = 1L)) %>%
+    arrange(desc(layer)) %>%
+    distinct(variable, .keep_all = TRUE)
+
   list(vocabulary = merged_vocab, actions = merged_acts,
-       non_vocabulary = merged_nonvocab,
+       non_vocabulary = merged_nonvocab, approved_drops = merged_drops,
        n_shadowed = nrow(shadowed), shadowed = shadowed)
 }
