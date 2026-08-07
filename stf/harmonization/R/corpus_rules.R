@@ -11,6 +11,13 @@ read_ontology_corpus <- function(path) {
 #' Scoped to variable '*' because these are value vocabularies that apply wherever the
 #' value appears (organism, host_common_name and lab_host share a host-species vocabulary).
 corpus_to_vocabulary <- function(corpus) {
+  if (is.null(corpus[['corpus']])) {
+    stop(paste0(
+      "Malformed ontology corpus: no top-level 'corpus' key. Expected a named map of ",
+      "normalized_key -> term. Refusing to emit an empty vocabulary, which would ",
+      'silently truncate the generated layer-0 file.'))
+  }
+
   terms <- corpus$corpus %>% keep(~ identical(.x$type, 'characteristicValue'))
 
   if (length(terms) == 0) {
@@ -30,14 +37,14 @@ corpus_to_vocabulary <- function(corpus) {
         note             = 'generated from ontology_corpus.json'
       )
     }) %>%
-    bind_rows()
+    bind_rows() %>%
+    mutate(key = norm_value(raw_value))
 
   # The engine matches on the NORMALIZED key, so two spellings that normalize alike are
   # redundant and must not both survive -- a later validator rejects duplicate normalized
   # keys. Collapsing them is lossless ONLY when they agree on the canonical value.
   # Disagreement is a curation error in the corpus and must surface, not be papered over.
   conflicts <- all_rules %>%
-    mutate(key = norm_value(raw_value)) %>%
     group_by(variable, key) %>%
     filter(n_distinct(canonical_value) > 1) %>%
     ungroup()
@@ -57,7 +64,6 @@ corpus_to_vocabulary <- function(corpus) {
   }
 
   all_rules %>%
-    mutate(key = norm_value(raw_value)) %>%
     distinct(variable, key, .keep_all = TRUE) %>%
     select(all_of(VOCAB_COLS))
 }

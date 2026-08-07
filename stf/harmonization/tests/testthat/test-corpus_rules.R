@@ -76,3 +76,29 @@ test_that("the real corpus generates no duplicate normalized keys", {
     file.path(REPO_ROOT, 'stf', 'ontology_corpus.json')))
   expect_equal(length(unique(norm_value(v$raw_value))), nrow(v))
 })
+
+test_that("the committed layer-0 file is byte-identical to a fresh generation", {
+  # Guards against the generator and its checked-in output silently desyncing.
+  committed <- file.path(HARMONIZATION_DIR, 'rules', 'generated',
+                         'vocabulary_from_corpus.tsv')
+  skip_if_not(file.exists(committed), 'generated layer-0 file not present')
+  fresh <- tempfile(fileext = '.tsv')
+  write_corpus_vocabulary(file.path(REPO_ROOT, 'stf', 'ontology_corpus.json'), fresh)
+  expect_equal(unname(tools::md5sum(fresh)), unname(tools::md5sum(committed)),
+               info = paste('Regenerate with write_corpus_vocabulary() and commit the',
+                            'result, or the engine runs on a stale rulebook.'))
+})
+
+test_that("non-value term types are excluded from the real corpus output", {
+  v <- corpus_to_vocabulary(read_ontology_corpus(
+    file.path(REPO_ROOT, 'stf', 'ontology_corpus.json')))
+  # 'country' (ENVO_00000009) and 'organism' (OBI_0100026) are characteristicQualifier
+  # terms describing column HEADERS, not cell values. If either appears here, the filter
+  # has regressed and we would rewrite data values using header vocabulary.
+  expect_false('ENVO_00000009' %in% v$ontology_term_id)
+  expect_false('OBI_0100026' %in% v$ontology_term_id)
+})
+
+test_that("a corpus lacking the top-level 'corpus' key errors instead of emitting empty", {
+  expect_error(corpus_to_vocabulary(list(notcorpus = list())), 'Malformed ontology corpus')
+})
