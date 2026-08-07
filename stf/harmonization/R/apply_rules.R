@@ -132,31 +132,68 @@ unresolved_values <- function(entity, merged_vocab,
     arrange(desc(rows_affected))
 }
 
+#' Capture every preservable metadata field from a one-row metadata tibble.
+#'
+#' Returns a named list suitable for splicing into set_variable_metadata(). This is
+#' deliberately PRESERVE-EVERYTHING rather than an enumerated whitelist: a whitelist
+#' silently resets to defaults any field it forgot to name, and because validate() does
+#' NOT notice missing metadata (a renamed variable with its display_name, definition and
+#' parent_variable wiped still validates TRUE), such a loss is undetectable downstream.
+#' Enumerating fields would therefore mean that every field added to STF upstream --
+#' ordinal_levels and vocabulary_order being the ones curation will actually need -- gets
+#' dropped by omission. Copying the row means it is kept by default.
+#'
+#' Three shape rules, established empirically against set_variable_metadata():
+#'   - list columns (provider_label, ordinal_levels, vocabulary_order, hidden) must be
+#'     passed back as lists; a bare string errors (trap 2).
+#'   - factor columns (data_type, data_shape, display_type, scale) must be passed back as
+#'     character; the factor itself is rejected.
+#'   - fields already NA/NULL/empty hold nothing worth preserving and are skipped, because
+#'     assigning NA into a factor-valued field errors ("Can't convert to factor").
+capture_variable_metadata <- function(old) {
+  fields <- setdiff(colnames(old), 'variable')   # 'variable' IS the name being changed
+  payload <- list()
+  for (f in fields) {
+    v <- old[[f]]
+    if (is.list(v)) {
+      flat <- unlist(v)
+      if (length(flat) == 0 || all(is.na(flat))) next
+      # as.character before as.list: 'hidden' holds factors, and the setter validates
+      # list-column contents against the default's levels, which characters satisfy.
+      payload[[f]] <- as.list(as.character(flat))
+    } else {
+      if (length(v) != 1 || is.na(v)) next
+      payload[[f]] <- if (is.factor(v)) as.character(v) else v
+    }
+  }
+  payload
+}
+
 #' Rename a variable: column + metadata, preserving provenance.
 #'
 #' Three steps are mandatory. modify_data(rename()) alone leaves the entity invalid
 #' (metadata refers to a column that no longer exists); sync_variable_metadata() fixes
 #' validity but WIPES display_name/definition/parent_variable and rewrites provider_label
 #' to the new name. So: capture first, rename, sync, re-apply.
+#'
+#' This function is the ONLY safe way to rename. validate() cannot tell a preserved
+#' rename from a gutted one, so nothing but this code path -- and the tests pinning it --
+#' prevents a rename from quietly destroying metadata.
 rename_variable <- function(entity, old_name, new_name, new_display_name = NA_character_) {
   old <- get_variable_metadata(entity) %>% filter(variable == old_name)
   if (nrow(old) != 1) stop(glue::glue("Expected exactly one metadata row for '{old_name}'"))
 
-  display <- if (!is.na(new_display_name)) new_display_name else old$display_name
+  # Capture BEFORE the rename: after sync_variable_metadata() this row no longer exists.
+  # provider_label rides along here, which is what keeps provenance honest -- sync would
+  # rewrite it to the new column name, a false claim about what the provider called it.
+  payload <- capture_variable_metadata(old)
+  if (!is.na(new_display_name)) payload$display_name <- new_display_name
 
   entity <- rlang::eval_bare(rlang::expr(
     modify_data(entity, rename(!!rlang::sym(new_name) := !!rlang::sym(old_name)))))
 
-  entity %>%
-    sync_variable_metadata() %>%
-    set_variable_metadata(new_name,
-      display_name    = display,
-      definition      = old$definition,
-      parent_variable = old$parent_variable,
-      data_type       = as.character(old$data_type),
-      data_shape      = as.character(old$data_shape),
-      # provider_label is PROVENANCE: keep what the provider called it, not the new name.
-      provider_label  = as.list(unlist(old$provider_label)))
+  entity <- sync_variable_metadata(entity)
+  do.call(set_variable_metadata, c(list(entity, new_name), payload))
 }
 
 #' Apply variable rename/reparent/drop actions.
@@ -172,6 +209,10 @@ apply_variable_actions <- function(entity, actions, artifact_allowlist = charact
     return(list(entity = entity, applied = empty_applied_actions(), not_applicable = 0L))
   }
 
+  # Safe to hoist: the category set is invariant across the loop. No action can target a
+  # category (they have has_values: no, hence no data column, so the colnames() guard below
+  # skips them), no action creates one, and sync_variable_metadata() does not prune them.
+  # If that guard ever moves, this hoist becomes a stale-read bug.
   categories <- get_category_metadata(entity)$variable
 
   for (i in seq_len(nrow(actions))) {
@@ -197,6 +238,10 @@ apply_variable_actions <- function(entity, actions, artifact_allowlist = charact
         sync_variable_metadata()
 
     } else if (a$action == 'reparent') {
+      # Defence-in-depth: validate_variable_actions() already rejects these at load time,
+      # so these branches are unreachable via load_rulebook(). They guard direct callers
+      # that construct action tibbles by hand. Do not add tests for paths the TSV loader
+      # makes impossible.
       if (is.na(a$new_parent)) {
         stop(glue::glue("Action 'reparent' for '{a$variable}' has no new_parent"))
       }
@@ -215,6 +260,7 @@ apply_variable_actions <- function(entity, actions, artifact_allowlist = charact
         entity <- entity %>%
           set_variable_metadata(a$variable, display_name = a$new_display_name)
       } else {
+        # Defence-in-depth; see the note in the 'reparent' branch above.
         stop(glue::glue(
           "Action 'rename' for '{a$variable}' supplies neither new_name nor ",
           "new_display_name"))
