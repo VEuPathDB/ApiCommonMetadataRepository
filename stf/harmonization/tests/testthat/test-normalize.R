@@ -28,9 +28,12 @@ test_that("known quirk: non-ASCII characters are stripped, not folded", {
   # exactly one non-ASCII value exists across all 62 studies (Leon, in
   # FungiDB/alenIFM54703 geographic_location), and that variable is not harmonized
   # in pass one. Revisit if accented country names ever appear.
-  expect_equal(norm_value('León'), 'len')
+  # Written as a \u escape so this file stays pure ASCII: a test about byte-level
+  # normalization must not itself depend on the file's encoding or the reader's locale.
+  leon_accented <- 'Le\u00f3n'
+  expect_equal(norm_value(leon_accented), 'len')
   expect_equal(norm_value('Leon'), 'leon')
-  expect_false(norm_value('León') == norm_value('Leon'))
+  expect_false(norm_value(leon_accented) == norm_value('Leon'))
 })
 
 test_that("known quirk: values differing only in punctuation collide", {
