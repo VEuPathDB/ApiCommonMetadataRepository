@@ -1,0 +1,15 @@
+# generated harmonization outputs
+stf/studies_harmonized/
+stf/reports/
+
+# large source data
+*.tar.gz
+.nextflow/
+.nextflow.log*
+work/
+results/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
