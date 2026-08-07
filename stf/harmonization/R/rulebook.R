@@ -69,12 +69,42 @@ validate_variable_actions <- function(a, layer_label) {
   invisible(a)
 }
 
-#' How many layer-2 rules collide with a layer-1 rule on the same key?
+#' Which layer-2 rules shadow a layer-1 rule?
+#'
+#' Shadowing means: same normalized key AND overlapping variable scope. Scope overlap
+#' includes the wildcard cases -- a layer-2 '*' rule overrides a layer-1 variable-specific
+#' rule for that variable, and is the BROADEST possible local override, so it is exactly
+#' what this warning must catch. Joining on exact variable equality misses it entirely.
+#'
+#' @return tibble of shadowed rule pairs, zero rows if none
+shadowed_rules <- function(layer1, layer2) {
+  empty <- tibble(variable_global = character(), variable_study = character(),
+                  key = character(), global = character(), study = character(),
+                  scope = character())
+  if (nrow(layer1) == 0 || nrow(layer2) == 0) return(empty)
+
+  k1 <- layer1 %>%
+    transmute(variable_global = variable, key = norm_value(raw_value),
+              global = canonical_value) %>%
+    distinct(variable_global, key, .keep_all = TRUE)
+  k2 <- layer2 %>%
+    transmute(variable_study = variable, key = norm_value(raw_value),
+              study = canonical_value) %>%
+    distinct(variable_study, key, .keep_all = TRUE)
+
+  dplyr::inner_join(k1, k2, by = 'key', relationship = 'many-to-many') %>%
+    filter(variable_global == variable_study |
+           variable_global == '*' | variable_study == '*') %>%
+    mutate(scope = case_when(
+      variable_global == variable_study ~ 'exact',
+      variable_study == '*'             ~ 'study wildcard broadens over global specific',
+      TRUE                              ~ 'study specific narrows a global wildcard')) %>%
+    select(all_of(names(empty)))
+}
+
+#' How many layer-2 rules shadow a layer-1 rule? Kept for the summary report.
 count_shadowed_rules <- function(layer1, layer2) {
-  if (nrow(layer1) == 0 || nrow(layer2) == 0) return(0L)
-  k1 <- layer1 %>% transmute(variable, key = norm_value(raw_value))
-  k2 <- layer2 %>% transmute(variable, key = norm_value(raw_value))
-  nrow(dplyr::inner_join(k1, k2, by = c('variable', 'key')))
+  nrow(shadowed_rules(layer1, layer2))
 }
 
 #' Merge the three layers into one lookup keyed (variable, key).
@@ -85,17 +115,15 @@ merge_vocabulary_layers <- function(layer0, layer1, layer2) {
   validate_vocabulary_layer(layer1, 'global')
   validate_vocabulary_layer(layer2, 'study')
 
-  n_shadowed <- count_shadowed_rules(layer1, layer2)
-  if (n_shadowed > 0) {
-    shadowed <- dplyr::inner_join(
-      layer1 %>% transmute(variable, key = norm_value(raw_value), global = canonical_value),
-      layer2 %>% transmute(variable, key = norm_value(raw_value), study  = canonical_value),
-      by = c('variable', 'key'))
-    warning(glue::glue(
-      "{n_shadowed} study rule(s) shadow a global rule: ",
-      "{paste(shadowed$variable, shadowed$key, ' global=', shadowed$global,
-               ' study=', shadowed$study, collapse='; ')}. ",
-      "Promote to global, or confirm the local override is intended."),
+  shadowed <- shadowed_rules(layer1, layer2)
+  if (nrow(shadowed) > 0) {
+    detail <- shadowed %>%
+      mutate(line = glue::glue(
+        "  {variable_study}/{key}: global='{global}' study='{study}' [{scope}]")) %>%
+      pull(line)
+    warning(paste0(
+      nrow(shadowed), ' study rule(s) shadow a global rule. Promote to global, or ',
+      "confirm the local override is intended:\n", paste(detail, collapse = '\n')),
       call. = FALSE)
   }
 
@@ -112,6 +140,10 @@ merge_vocabulary_layers <- function(layer0, layer1, layer2) {
 
 #' Look up the winning rule for one (variable, value). Zero rows if none.
 resolve_value <- function(merged, variable_name, raw) {
+  if (length(raw) != 1) {
+    stop(glue::glue('resolve_value() takes a single value, got {length(raw)}. ',
+                    'Callers should iterate or use a join.'))
+  }
   if (nrow(merged) == 0) return(merged)
   k <- norm_value(raw)
   merged %>%
@@ -131,10 +163,15 @@ load_rulebook <- function(rules_dir, project, organism) {
     acts1  = read_variable_actions(file.path(rules_dir, 'global', 'variables.tsv')),
     acts2  = read_variable_actions(file.path(study_dir, 'variables.tsv'))
   )
+  # Validate up front: shadow accounting below must not depend on merge_vocabulary_layers
+  # happening to validate later. Double validation on a 361-row table is free.
+  validate_vocabulary_layer(layers$vocab0, 'generated')
+  validate_vocabulary_layer(layers$vocab1, 'global')
+  validate_vocabulary_layer(layers$vocab2, 'study')
   validate_variable_actions(layers$acts1, 'global')
   validate_variable_actions(layers$acts2, 'study')
 
-  n_shadowed <- count_shadowed_rules(layers$vocab1, layers$vocab2)
+  shadowed <- shadowed_rules(layers$vocab1, layers$vocab2)
   merged_vocab <- merge_vocabulary_layers(layers$vocab0, layers$vocab1, layers$vocab2)
 
   # study actions override global actions for the same variable
@@ -143,5 +180,6 @@ load_rulebook <- function(rules_dir, project, organism) {
     arrange(desc(layer)) %>%
     distinct(variable, .keep_all = TRUE)
 
-  list(vocabulary = merged_vocab, actions = merged_acts, n_shadowed = n_shadowed)
+  list(vocabulary = merged_vocab, actions = merged_acts,
+       n_shadowed = nrow(shadowed), shadowed = shadowed)
 }

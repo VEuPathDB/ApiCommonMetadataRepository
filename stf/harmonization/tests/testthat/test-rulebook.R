@@ -86,3 +86,61 @@ test_that("count_shadowed_rules reports the shadow count for the summary", {
       layer2 = vocab(vrow('organism', 'human', 'human')))),
     1L)
 })
+
+test_that("a layer-2 wildcard shadowing a layer-1 specific rule IS detected", {
+  # Regression: joining on exact variable equality missed this entirely, letting the
+  # BROADEST possible local override slip past the warning that exists to catch it.
+  l1 <- vocab(vrow('specimen', 'blood', 'L1_SPECIFIC'))
+  l2 <- vocab(vrow('*', 'blood', 'L2_WILDCARD'))
+  s <- shadowed_rules(l1, l2)
+  expect_equal(nrow(s), 1)
+  expect_match(s$scope, 'broadens')
+  expect_warning(merge_vocabulary_layers(vocab(), l1, l2), 'shadow')
+  # and the wildcard really does win, which is why it must be reported
+  merged <- suppressWarnings(merge_vocabulary_layers(vocab(), l1, l2))
+  expect_equal(resolve_value(merged, 'specimen', 'blood')$canonical_value, 'L2_WILDCARD')
+})
+
+test_that("a layer-2 specific rule narrowing a layer-1 wildcard IS detected", {
+  s <- shadowed_rules(vocab(vrow('*', 'blood', 'L1_WILDCARD')),
+                      vocab(vrow('specimen', 'blood', 'L2_SPECIFIC')))
+  expect_equal(nrow(s), 1)
+  expect_match(s$scope, 'narrows')
+})
+
+test_that("shadow detection is not inflated by duplicate keys within a layer", {
+  # 'Blood' and 'blood' share a normalized key. Even unvalidated, the count must be 1.
+  l1 <- vocab(vrow('specimen', 'Blood', 'blood'), vrow('specimen', 'blood', 'blood'))
+  l2 <- vocab(vrow('specimen', 'blood', 'LOCAL'))
+  expect_equal(count_shadowed_rules(l1, l2), 1L)
+})
+
+test_that("absent rulebook files load as empty layers, not errors", {
+  rb <- load_rulebook(file.path(HARMONIZATION_DIR, 'rules'), 'PlasmoDB', 'pfal3D7')
+  expect_equal(nrow(rb$vocabulary), 361)   # real layer 0, layers 1 and 2 absent
+  expect_equal(nrow(rb$actions), 0)
+  expect_equal(rb$n_shadowed, 0)
+  expect_equal(nrow(rb$shadowed), 0)
+  expect_equal(resolve_value(rb$vocabulary, 'organism', 'Human')$canonical_value,
+               'Homo sapiens')
+})
+
+test_that("blank cells become NA but the literal string 'NA' survives", {
+  # 'NA' is a plausible country abbreviation, so it must not be read as missing.
+  p <- tempfile(fileext = '.tsv')
+  readr::write_tsv(tibble(
+    variable = c('country', 'country'), raw_value = c('NA', 'X'),
+    canonical_value = c('Namibia', '   '), ontology_term_id = c(NA, NA),
+    note = c('', NA)), p, na = '')
+  v <- read_vocabulary(p)
+  expect_false(is.na(v$raw_value[1]))
+  expect_equal(v$raw_value[1], 'NA')
+  expect_true(is.na(v$canonical_value[2]))   # spaces-only -> NA
+  expect_true(is.na(v$note[1]))              # empty -> NA
+})
+
+test_that("resolve_value rejects a vector rather than silently using the first element", {
+  merged <- merge_vocabulary_layers(vocab(vrow('*', 'human', 'Homo sapiens')),
+                                   vocab(), vocab())
+  expect_error(resolve_value(merged, 'organism', c('human', 'blood')), 'single value')
+})
