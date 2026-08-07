@@ -1,3 +1,15 @@
+# Variables that are declared string/categorical but are NOT controlled vocabularies:
+# identifiers, free-text provenance, and dates/numbers carried as strings. Excluded from
+# BOTH substitution and the curation queue. Substituting into an identifier would corrupt
+# the join back to source data; listing them as "unresolved" buries the real work queue in
+# thousands of unique IDs.
+NON_VOCABULARY_VARIABLES <- c(
+  'dataset_id', 'sample_display_name', 'alternative_sample_id', 'organism_id',
+  'repository_id',
+  'collection_date', 'collection_date_original', 'collection_year', 'collection_month',
+  'latitude_coordinate_measurement_datum', 'longitude_coordinate_measurement_datum'
+)
+
 #' Which variables are eligible for value harmonization?
 #'
 #' Categorical/string variables only. Never the ID column, never continuous or date
@@ -7,7 +19,8 @@ harmonizable_variables <- function(entity) {
   get_variable_metadata(entity) %>%
     filter(as.character(data_shape) == 'categorical',
            as.character(data_type) %in% c('string', 'category'),
-           variable != id_col) %>%
+           variable != id_col,
+           !variable %in% NON_VOCABULARY_VARIABLES) %>%
     pull(variable) %>%
     intersect(colnames(get_data(entity)))
 }

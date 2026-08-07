@@ -78,3 +78,38 @@ test_that("unresolved_values lists every value with no rule, with counts", {
   # ID column excluded
   expect_equal(nrow(u %>% filter(variable == 'sample_id')), 0)
 })
+
+test_that("a blank canonical_value is rejected rather than erasing data", {
+  # Regression: a blank cell in a hand-authored TSV used to fire as a rule and NULL the
+  # cell. Data deletion must never be an accident of an empty spreadsheet cell.
+  expect_error(
+    validate_vocabulary_layer(
+      tibble(variable = 'specimen', raw_value = 'culture',
+             canonical_value = NA_character_, ontology_term_id = NA_character_,
+             note = NA_character_), 'global'),
+    'Blank canonical_value')
+})
+
+test_that("identifier and date-like variables are excluded from harmonization", {
+  e <- tiny_entity()
+  # the fixture has no such variables, so assert the filter directly
+  expect_true(all(c('dataset_id', 'collection_year', 'organism_id') %in%
+                    NON_VOCABULARY_VARIABLES))
+  expect_setequal(harmonizable_variables(e), c('organism', 'specimen', 'country'))
+})
+
+test_that("an all-NA column is handled without error", {
+  e <- tiny_entity() %>% modify_data(mutate(country = NA_character_))
+  res <- apply_value_rules(e, tiny_vocab())
+  expect_true(validate(quiet(res$entity)))
+  expect_equal(nrow(res$changes %>% filter(variable == 'country')), 0)
+  expect_equal(nrow(unresolved_values(e, tiny_vocab()) %>%
+                      filter(variable == 'country')), 0)
+})
+
+test_that("rows_affected is NA-safe: a column with NAs still counts correctly", {
+  # organism has one NA; without na.rm the sum would be NA for every affected value.
+  res <- apply_value_rules(tiny_entity(), tiny_vocab())
+  expect_false(any(is.na(res$changes$rows_affected)))
+  expect_equal(res$changes %>% filter(raw_value == 'Human') %>% pull(rows_affected), 1L)
+})

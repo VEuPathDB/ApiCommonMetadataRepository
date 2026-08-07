@@ -48,6 +48,24 @@ validate_vocabulary_layer <- function(v, layer_label) {
       "{paste(dupes$variable, dupes$key, sep='/', collapse=', ')}. ",
       "Ambiguous curation must be resolved, not silently picked."))
   }
+
+  # A blank canonical would fire as a rule and NULL the cell. A curator's empty TSV cell
+  # must not be a data-deletion instruction; use a 'drop' action to remove a variable.
+  blank_canonical <- v %>% filter(is.na(canonical_value) | trimws(canonical_value) == '')
+  if (nrow(blank_canonical) > 0) {
+    stop(glue::glue(
+      "Blank canonical_value in the '{layer_label}' vocabulary layer for: ",
+      "{toString(paste0(blank_canonical$variable, '/', blank_canonical$raw_value))}. ",
+      'A blank canonical would erase the value. Supply a canonical, or remove the rule.'))
+  }
+
+  blank_raw <- v %>% filter(is.na(raw_value) | trimws(raw_value) == '')
+  if (nrow(blank_raw) > 0) {
+    stop(glue::glue(
+      "Blank raw_value in the '{layer_label}' vocabulary layer for variable(s): ",
+      "{toString(blank_raw$variable)}. A rule must say which value it matches."))
+  }
+
   invisible(v)
 }
 
