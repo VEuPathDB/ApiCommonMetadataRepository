@@ -57,3 +57,23 @@ test_that("write_summary aggregates one row per study", {
   expect_equal(nrow(back), 1)
   expect_equal(back$organism, 'pfal3D7')
 })
+
+test_that("write_unresolved_summary aggregates across studies", {
+  p <- file.path(tempdir(), 'unres_summary.tsv')
+  write_unresolved_summary(list(
+    tibble(variable = 'country', raw_value = 'PLU', rows_affected = 3L),
+    tibble(variable = 'country', raw_value = 'PLU', rows_affected = 2L),
+    tibble(variable = 'specimen', raw_value = 'culture', rows_affected = 9L)), p)
+  back <- readr::read_tsv(p, show_col_types = FALSE)
+  plu <- back %>% filter(raw_value == 'PLU')
+  expect_equal(plu$rows_affected, 5)
+  expect_equal(plu$n_studies, 2)
+  # ordered by rows_affected descending
+  expect_equal(back$rows_affected, sort(back$rows_affected, decreasing = TRUE))
+})
+
+test_that("write_unresolved_summary handles empty input", {
+  p <- file.path(tempdir(), 'unres_empty.tsv')
+  write_unresolved_summary(list(empty_unresolved()), p)
+  expect_true(file.exists(p))
+})
