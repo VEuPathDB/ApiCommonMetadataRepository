@@ -224,7 +224,6 @@ variable	raw_value	canonical_value	ontology_term_id	note
 *	Kingdom of the Netherlands	Netherlands	GAZ_00001549	generated from ontology_corpus.json
 *	Honduras	Honduras	GAZ_00002894	generated from ontology_corpus.json
 *	Vietnam	Vietnam	GAZ_00003756	generated from ontology_corpus.json
-*	Viet Nam	Vietnam	GAZ_00003756	generated from ontology_corpus.json
 *	Malaysia	Malaysia	GAZ_00003902	generated from ontology_corpus.json
 *	Laos	Laos	GAZ_00006889	generated from ontology_corpus.json
 *	Nigeria	Nigeria	GAZ_00000912	generated from ontology_corpus.json

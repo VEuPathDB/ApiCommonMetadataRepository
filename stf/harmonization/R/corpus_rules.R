@@ -19,7 +19,7 @@ corpus_to_vocabulary <- function(corpus) {
                   note = character()))
   }
 
-  terms %>%
+  all_rules <- terms %>%
     imap(function(term, key) {
       spellings <- unique(c(unlist(term$spellings), term$canonical))
       tibble(
@@ -30,8 +30,35 @@ corpus_to_vocabulary <- function(corpus) {
         note             = 'generated from ontology_corpus.json'
       )
     }) %>%
-    bind_rows() %>%
-    distinct(variable, raw_value, .keep_all = TRUE) %>%
+    bind_rows()
+
+  # The engine matches on the NORMALIZED key, so two spellings that normalize alike are
+  # redundant and must not both survive -- a later validator rejects duplicate normalized
+  # keys. Collapsing them is lossless ONLY when they agree on the canonical value.
+  # Disagreement is a curation error in the corpus and must surface, not be papered over.
+  conflicts <- all_rules %>%
+    mutate(key = norm_value(raw_value)) %>%
+    group_by(variable, key) %>%
+    filter(n_distinct(canonical_value) > 1) %>%
+    ungroup()
+
+  if (nrow(conflicts) > 0) {
+    detail <- conflicts %>%
+      group_by(key) %>%
+      summarise(canonicals = paste(sort(unique(canonical_value)), collapse = ' vs '),
+                spellings = paste(sort(unique(raw_value)), collapse = ', '),
+                .groups = 'drop') %>%
+      mutate(line = glue::glue("  key '{key}': {canonicals}  (from: {spellings})")) %>%
+      pull(line)
+    stop(paste0(
+      'ontology_corpus.json has spellings that normalize to the same key but map to ',
+      'different canonical values. Fix the corpus; this cannot be resolved here:\n',
+      paste(detail, collapse = '\n')))
+  }
+
+  all_rules %>%
+    mutate(key = norm_value(raw_value)) %>%
+    distinct(variable, key, .keep_all = TRUE) %>%
     select(all_of(VOCAB_COLS))
 }
 

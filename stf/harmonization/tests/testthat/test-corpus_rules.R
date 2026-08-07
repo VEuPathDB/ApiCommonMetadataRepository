@@ -46,3 +46,33 @@ test_that("the real corpus produces the known Homo sapiens collapse", {
   expect_true(all(hs$ontology_term_id == 'NCBITaxon_9606'))
   expect_gt(nrow(v), 300)   # 361 characteristicValue terms, >=1 spelling each
 })
+
+test_that("spellings normalizing to the same key collapse when the canonical agrees", {
+  corpus <- list(corpus = list(
+    vietnam = list(source_id = 'GAZ_00003756', type = 'characteristicValue',
+                   canonical = 'Vietnam', spellings = list('Vietnam', 'Viet Nam'))
+  ))
+  v <- corpus_to_vocabulary(corpus)
+  # 'Vietnam' and 'Viet Nam' share a normalized key; only one row may survive, or the
+  # duplicate-key validator in the rulebook layer rejects our own generated file.
+  expect_equal(nrow(v), 1)
+  expect_equal(v$canonical_value, 'Vietnam')
+  expect_equal(length(unique(norm_value(v$raw_value))), nrow(v))
+})
+
+test_that("spellings normalizing to the same key with DIFFERENT canonicals hard-error", {
+  corpus <- list(corpus = list(
+    a = list(source_id = 'X_1', type = 'characteristicValue',
+             canonical = 'Thing One', spellings = list('thing-one')),
+    b = list(source_id = 'X_2', type = 'characteristicValue',
+             canonical = 'Thing Two', spellings = list('Thing One'))
+  ))
+  # both normalize to 'thingone' but claim different canonicals: a corpus curation error
+  expect_error(corpus_to_vocabulary(corpus), 'different canonical')
+})
+
+test_that("the real corpus generates no duplicate normalized keys", {
+  v <- corpus_to_vocabulary(read_ontology_corpus(
+    file.path(REPO_ROOT, 'stf', 'ontology_corpus.json')))
+  expect_equal(length(unique(norm_value(v$raw_value))), nrow(v))
+})
