@@ -12,7 +12,14 @@ suppressPackageStartupMessages(
   devtools::load_all(file.path(REPO_ROOT, 'study-wrangler'), quiet = TRUE)
 )
 
-# Source every engine file.
+# Source every engine file, then the CLI (which defines the orchestration functions).
 for (f in list.files(file.path(HARMONIZATION_DIR, 'R'), pattern = '\\.R$', full.names = TRUE)) {
   source(f)
 }
+HARMONIZATION_BOOTSTRAPPED <- TRUE   # suppress the CLI's own bootstrap block
+# local = TRUE is load-bearing, not style. Default source() evaluates in globalenv, where
+# neither the flag above nor HARMONIZATION_DIR/REPO_ROOT exist (testthat sources helpers
+# into the test environment, not globalenv). The CLI would then re-bootstrap, resolve
+# HARMONIZATION_DIR from a relative --file= belonging to run_tests.R, and fail to find
+# study-wrangler. Evaluating in this environment lets the guard and the constants see it.
+source(file.path(HARMONIZATION_DIR, 'harmonize_stf.R'), local = TRUE)
