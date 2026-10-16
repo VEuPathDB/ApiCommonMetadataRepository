@@ -72,7 +72,8 @@ ISA_ALIAS={'fungal genotype':'fungal_genotype','state':'state',
            'repository id':'repository_id','fingerprint clade':'fingerprint_clade'}
 # taxon-dependent targets: (fungidb_target, other_target)
 TAXON={'pathogen_organism':('fungus organism','parasite organism'),
-       'pathogen_strain'  :('fungal strain','parasite strain')}
+       'pathogen_strain'  :('fungal strain','parasite strain'),
+       'pathogen_genotype':('fungal genotype','parasite genotype')}
 
 # samplesheet header -> (kind, target)
 #   kind: map|split|taxon|mint|id|drop
@@ -107,7 +108,7 @@ _set(['Collection_Date','Collection Date','collection date'],'map','Collection d
 _set(['time interval'],'map','Collection Year')
 _set(['collected_by','collector_name'],'map','specimen collector')
 _set(['collecting_institution'],'mint','collecting_institution')
-_set(['genotype'],'mint','fungal_genotype')
+_set(['genotype'],'taxon','pathogen_genotype')
 _set(['ploidy'],'mint','ploidy')
 _set(['dev_stage'],'mint','developmental_stage')
 _set(['known_pathogenicity'],'mint','known_pathogenicity')

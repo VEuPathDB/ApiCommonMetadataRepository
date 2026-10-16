@@ -115,14 +115,6 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: specimen_and_culture
-  - variable: fungal_genotype
-    provider_label:
-      - fungal_genotype
-    display_name: Fungal genotype
-    definition: Genotype designation of the fungal isolate.
-    data_type: string
-    data_shape: categorical
-    parent_variable: organism_under_investigation
   - variable: geographic_location
     provider_label:
       - geographic_location
