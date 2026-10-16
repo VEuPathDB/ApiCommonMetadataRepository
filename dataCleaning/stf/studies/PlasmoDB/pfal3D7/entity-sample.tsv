@@ -1,538 +1,546 @@
-sample_id \\ Descriptors	dataset_id	sample_display_name	age	collection_date	collection_date_original	collection_month	collection_site	collection_year	continent	country	days_in_culture	geographic_location	health_status	organism	organism_id	parasite_clearance_half_life	parasite_organism	parasite_phenotype	parasite_strain	sex	specimen
-5.1	DS_a75da6fb96	5.1								Mozambique				human	EUSTDY0006 Subject 36		Plasmodium falciparum		Plasmodium falciparum SEV2_H5		specimen from organism
-7G8_2	DS_a75da6fb96	7G8_2								Uganda		Tororo		human	EUSTDY0006 Subject 1		Plasmodium falciparum		Plasmodium falciparum 5.1		specimen from organism
-G224	DS_a75da6fb96	G224								French Guiana				human	EUSTDY0006 Subject 3		Plasmodium falciparum		Plasmodium falciparum G224		specimen from organism
-H209	DS_a75da6fb96	H209								French Guiana				human	EUSTDY0006 Subject 4		Plasmodium falciparum		Plasmodium falciparum H209		specimen from organism
-M113-A	DS_a75da6fb96	M113-A			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 33		Plasmodium falciparum		Plasmodium falciparum PS206_E11		specimen from organism
-M219-D	DS_a75da6fb96	M219-D			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 34		Plasmodium falciparum		Plasmodium falciparum PS250		specimen from organism
-M271-D	DS_a75da6fb96	M271-D		2009-03-23	23/3/2009	3		2009		French Guiana		Saint-Georges		human	EUSTDY0006 Subject 5		Plasmodium falciparum		Plasmodium falciparum M113-A		specimen from organism
-M312-D	DS_a75da6fb96	M312-D		2009-06-01	1/6/09	6		2009		French Guiana		Saint Laurent du Maroni		human	EUSTDY0006 Subject 6		Plasmodium falciparum		Plasmodium falciparum M219-D		specimen from organism
-N011-A	DS_a75da6fb96	N011-A		2009-06-26	26/6/2009	6		2009		French Guiana		Saul		human	EUSTDY0006 Subject 7		Plasmodium falciparum		Plasmodium falciparum M271-D		specimen from organism
-N023-A	DS_a75da6fb96	N023-A		2009-07-11	11/7/09	7		2009		French Guiana		Cayenne		human	EUSTDY0006 Subject 8		Plasmodium falciparum		Plasmodium falciparum M312-D		specimen from organism
-N071-I	DS_a75da6fb96	N071-I		2010-01-05	5/1/10	1		2010		French Guiana		Saul		human	EUSTDY0006 Subject 9		Plasmodium falciparum		Plasmodium falciparum N011-A		specimen from organism
-N164-A	DS_a75da6fb96	N164-A		2010-01-10	10/1/10	1		2010		French Guiana		Camopi		human	EUSTDY0006 Subject 10		Plasmodium falciparum		Plasmodium falciparum N023-A		specimen from organism
-N497-C	DS_a75da6fb96	N497-C		2010-02-09	9/2/10	2		2010		French Guiana		Camopi		human	EUSTDY0006 Subject 11		Plasmodium falciparum		Plasmodium falciparum N071-I		specimen from organism
-N579-A	DS_a75da6fb96	N579-A		2010-03-14	14/3/2010	3		2010		French Guiana		Camopi		human	EUSTDY0006 Subject 12		Plasmodium falciparum		Plasmodium falciparum N164-A		specimen from organism
-O079-B	DS_a75da6fb96	O079-B		2010-11-19	19/11/2010	11		2010		French Guiana		Cayenne		human	EUSTDY0006 Subject 13		Plasmodium falciparum		Plasmodium falciparum N497-C		specimen from organism
-O141-A	DS_a75da6fb96	O141-A		2010-12-23	23/12/2010	12		2010		French Guiana		Cayenne		human	EUSTDY0006 Subject 14		Plasmodium falciparum		Plasmodium falciparum N579-A		specimen from organism
-O222-A	DS_a75da6fb96	O222-A		2011-02-04	4/2/11	2		2011		French Guiana		Cayenne		human	EUSTDY0006 Subject 15		Plasmodium falciparum		Plasmodium falciparum O079-B		specimen from organism
-O306-A	DS_a75da6fb96	O306-A		2011-04-07	7/4/11	4		2011		French Guiana		Cayenne		human	EUSTDY0006 Subject 16		Plasmodium falciparum		Plasmodium falciparum O141-A		specimen from organism
-O314	DS_a75da6fb96	O314		2011-06-01	1/6/11	6		2011		French Guiana		Cayenne		human	EUSTDY0006 Subject 17		Plasmodium falciparum		Plasmodium falciparum O222-A		specimen from organism
-P164-C	DS_a75da6fb96	P164-C		2011-09-20	20/9/2011	9		2011		French Guiana		Cayenne		human	EUSTDY0006 Subject 18		Plasmodium falciparum		Plasmodium falciparum O306-A		specimen from organism
-P167-B	DS_a75da6fb96	P167-B		2011-09-27	27/9/2011	9		2011		French Guiana		Cayenne		human	EUSTDY0006 Subject 19		Plasmodium falciparum		Plasmodium falciparum O314		specimen from organism
-P196J3-C	DS_a75da6fb96	P196J3-C								El Salvador				human	EUSTDY0006 Subject 35		Plasmodium falciparum		Plasmodium falciparum Santa Lucia (Salvador I)		specimen from organism
-P237-C	DS_a75da6fb96	P237-C		2012-08-01	1/8/12	8		2012		French Guiana		Cayenne		human	EUSTDY0006 Subject 20		Plasmodium falciparum		Plasmodium falciparum P164-C		specimen from organism
-P241-D	DS_a75da6fb96	P241-D		2012-08-02	2/8/12	8		2012		French Guiana		Cayenne		human	EUSTDY0006 Subject 21		Plasmodium falciparum		Plasmodium falciparum P167-B		specimen from organism
-PS097	DS_a75da6fb96	PS097		2012-09-04	4/9/12	9		2012		French Guiana		Saint Laurent du Maroni		human	EUSTDY0006 Subject 22		Plasmodium falciparum		Plasmodium falciparum P196J3-C		specimen from organism
-PS103	DS_a75da6fb96	PS103		2012-09-30	30/9/2012	9		2012		French Guiana		Cayenne		human	EUSTDY0006 Subject 23		Plasmodium falciparum		Plasmodium falciparum P237-C		specimen from organism
-PS122_G11	DS_a75da6fb96	PS122_G11		2012-10-02	2/10/12	10		2012		French Guiana		Cayenne		human	EUSTDY0006 Subject 24		Plasmodium falciparum		Plasmodium falciparum P241-D		specimen from organism
-PS149	DS_a75da6fb96	PS149			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 25		Plasmodium falciparum		Plasmodium falciparum PS097		specimen from organism
-PS170	DS_a75da6fb96	PS170			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 26		Plasmodium falciparum		Plasmodium falciparum PS103		specimen from organism
-PS183	DS_a75da6fb96	PS183			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 27		Plasmodium falciparum		Plasmodium falciparum PS122_G11		specimen from organism
-PS186	DS_a75da6fb96	PS186			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 28		Plasmodium falciparum		Plasmodium falciparum PS149		specimen from organism
-PS189	DS_a75da6fb96	PS189			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 29		Plasmodium falciparum		Plasmodium falciparum PS170		specimen from organism
-PS206_E11	DS_a75da6fb96	PS206_E11			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 30		Plasmodium falciparum		Plasmodium falciparum PS183		specimen from organism
-PS250	DS_a75da6fb96	PS250			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 31		Plasmodium falciparum		Plasmodium falciparum PS186		specimen from organism
-SEV2_H5	DS_a75da6fb96	SEV2_H5			1999-2002					Mali		Bandiagara		human	EUSTDY0006 Subject 32		Plasmodium falciparum		Plasmodium falciparum PS189		specimen from organism
-SantaLucia_SalvadorI	DS_a75da6fb96	SantaLucia_SalvadorI								Brazil				human	EUSTDY0006 Subject 2		Plasmodium falciparum		Plasmodium falciparum 7G8		specimen from organism
-UGK_396.1	DS_a75da6fb96	UGK_396.1			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 37		Plasmodium falciparum		Plasmodium falciparum UGK_396.1		specimen from organism
-UGK_408.2	DS_a75da6fb96	UGK_408.2			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 40		Plasmodium falciparum		Plasmodium falciparum UGK_408.2		specimen from organism
-UGK_432.4	DS_a75da6fb96	UGK_432.4			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 41		Plasmodium falciparum		Plasmodium falciparum UGK_432.4		specimen from organism
-UGK_443.2	DS_a75da6fb96	UGK_443.2			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 39		Plasmodium falciparum		Plasmodium falciparum UGK_443.2		specimen from organism
-UGK_659.1	DS_a75da6fb96	UGK_659.1			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 42		Plasmodium falciparum		Plasmodium falciparum UGK_659.1		specimen from organism
-UGK_661.1	DS_a75da6fb96	UGK_661.1			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 43		Plasmodium falciparum		Plasmodium falciparum UGK_661.1		specimen from organism
-UGK_674.4	DS_a75da6fb96	UGK_674.4			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 44		Plasmodium falciparum		Plasmodium falciparum UGK_674.4		specimen from organism
-UGK_707.3	DS_a75da6fb96	UGK_707.3			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 45		Plasmodium falciparum		Plasmodium falciparum UGK_707.3		specimen from organism
-UGK_730.2	DS_a75da6fb96	UGK_730.2			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 46		Plasmodium falciparum		Plasmodium falciparum UGK_730.2		specimen from organism
-UGK_815.1	DS_a75da6fb96	UGK_815.1			2010			2010		Uganda		Kampala		human	EUSTDY0006 Subject 38		Plasmodium falciparum		Plasmodium falciparum UGK_815.1		specimen from organism
-SenT001.07	DS_302d3e3bc0	SenT001.07			2007			2007		Senegal		Thies		human	EUSTDY0007 Subject 44		Plasmodium falciparum		Plasmodium falciparum SenT001.07		specimen from organism
-SenT001.08	DS_302d3e3bc0	SenT001.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 66		Plasmodium falciparum		Plasmodium falciparum SenT001.08		specimen from organism
-SenT002.07	DS_302d3e3bc0	SenT002.07			2007			2007		Senegal		Thies		human	EUSTDY0007 Subject 43		Plasmodium falciparum		Plasmodium falciparum SenT002.07		specimen from organism
-SenT002.09	DS_302d3e3bc0	SenT002.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 47		Plasmodium falciparum		Plasmodium falciparum SenT002.09		specimen from organism
-SenT015.08	DS_302d3e3bc0	SenT015.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 13		Plasmodium falciparum		Plasmodium falciparum SenT015.08		specimen from organism
-SenT015.09	DS_302d3e3bc0	SenT015.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 45		Plasmodium falciparum		Plasmodium falciparum SenT015.09		specimen from organism
-SenT018.09	DS_302d3e3bc0	SenT018.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 14		Plasmodium falciparum		Plasmodium falciparum SenT018.09		specimen from organism
-SenT021.09	DS_302d3e3bc0	SenT021.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 15		Plasmodium falciparum		Plasmodium falciparum SenT021.09		specimen from organism
-SenT022.09	DS_302d3e3bc0	SenT022.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 25		Plasmodium falciparum		Plasmodium falciparum SenT022.09		specimen from organism
-SenT024.08	DS_302d3e3bc0	SenT024.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 16		Plasmodium falciparum		Plasmodium falciparum SenT024.08		specimen from organism
-SenT029.09	DS_302d3e3bc0	SenT029.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 1		Plasmodium falciparum		Plasmodium falciparum SenT029.09		specimen from organism
-SenT032.09	DS_302d3e3bc0	SenT032.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 2		Plasmodium falciparum		Plasmodium falciparum SenT032.09		specimen from organism
-SenT033.08	DS_302d3e3bc0	SenT033.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 27		Plasmodium falciparum		Plasmodium falciparum SenT033.08		specimen from organism
-SenT033.09	DS_302d3e3bc0	SenT033.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 40		Plasmodium falciparum		Plasmodium falciparum SenT033.09		specimen from organism
-SenT037.08	DS_302d3e3bc0	SenT037.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 17		Plasmodium falciparum		Plasmodium falciparum SenT037.08		specimen from organism
-SenT042.09	DS_302d3e3bc0	SenT042.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 29		Plasmodium falciparum		Plasmodium falciparum SenT042.09		specimen from organism
-SenT044.08	DS_302d3e3bc0	SenT044.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 18		Plasmodium falciparum		Plasmodium falciparum SenT044.08		specimen from organism
-SenT044.10	DS_302d3e3bc0	SenT044.10			2010			2010		Senegal		Thies		human	EUSTDY0007 Subject 46		Plasmodium falciparum		Plasmodium falciparum SenT044.10		specimen from organism
-SenT046.10	DS_302d3e3bc0	SenT046.10			2010			2010		Senegal		Thies		human	EUSTDY0007 Subject 39		Plasmodium falciparum		Plasmodium falciparum SenT046.10		specimen from organism
-SenT047.09	DS_302d3e3bc0	SenT047.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 36		Plasmodium falciparum		Plasmodium falciparum SenT047.09		specimen from organism
-SenT061.09	DS_302d3e3bc0	SenT061.09			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 63		Plasmodium falciparum		Plasmodium falciparum SenT061.09		specimen from organism
-SenT063.07	DS_302d3e3bc0	SenT063.07			2007			2007		Senegal		Thies		human	EUSTDY0007 Subject 33		Plasmodium falciparum		Plasmodium falciparum SenT063.07		specimen from organism
-SenT064.10	DS_302d3e3bc0	SenT064.10			2010			2010		Senegal		Thies		human	EUSTDY0007 Subject 34		Plasmodium falciparum		Plasmodium falciparum SenT064.10		specimen from organism
-SenT066.08	DS_302d3e3bc0	SenT066.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 38		Plasmodium falciparum		Plasmodium falciparum SenT066.08		specimen from organism
-SenT067.09	DS_302d3e3bc0	SenT067.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 52		Plasmodium falciparum		Plasmodium falciparum SenT067.09		specimen from organism
-SenT075.10	DS_302d3e3bc0	SenT075.10			2010			2010		Senegal		Thies		human	EUSTDY0007 Subject 35		Plasmodium falciparum		Plasmodium falciparum SenT075.10		specimen from organism
-SenT077.08	DS_302d3e3bc0	SenT077.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 37		Plasmodium falciparum		Plasmodium falciparum SenT077.08		specimen from organism
-SenT084.09	DS_302d3e3bc0	SenT084.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 41		Plasmodium falciparum		Plasmodium falciparum SenT084.09		specimen from organism
-SenT087.08	DS_302d3e3bc0	SenT087.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 50		Plasmodium falciparum		Plasmodium falciparum SenT087.08		specimen from organism
-SenT090.08	DS_302d3e3bc0	SenT090.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 3		Plasmodium falciparum		Plasmodium falciparum SenT090.08		specimen from organism
-SenT090.09	DS_302d3e3bc0	SenT090.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 19		Plasmodium falciparum		Plasmodium falciparum SenT090.09		specimen from organism
-SenT092.08	DS_302d3e3bc0	SenT092.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 42		Plasmodium falciparum		Plasmodium falciparum SenT092.08		specimen from organism
-SenT093.09	DS_302d3e3bc0	SenT093.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 4		Plasmodium falciparum		Plasmodium falciparum SenT093.09		specimen from organism
-SenT094.09	DS_302d3e3bc0	SenT094.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 62		Plasmodium falciparum		Plasmodium falciparum SenT094.09		specimen from organism
-SenT097.09	DS_302d3e3bc0	SenT097.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 60		Plasmodium falciparum		Plasmodium falciparum SenT097.09		specimen from organism
-SenT101.09	DS_302d3e3bc0	SenT101.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 20		Plasmodium falciparum		Plasmodium falciparum SenT101.09		specimen from organism
-SenT102.08	DS_302d3e3bc0	SenT102.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 57		Plasmodium falciparum		Plasmodium falciparum SenT102.08		specimen from organism
-SenT104.07	DS_302d3e3bc0	SenT104.07			2007			2007		Senegal		Thies		human	EUSTDY0007 Subject 54		Plasmodium falciparum		Plasmodium falciparum SenT104.07		specimen from organism
-SenT106.08	DS_302d3e3bc0	SenT106.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 56		Plasmodium falciparum		Plasmodium falciparum SenT106.08		specimen from organism
-SenT110.09	DS_302d3e3bc0	SenT110.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 48		Plasmodium falciparum		Plasmodium falciparum SenT110.09		specimen from organism
-SenT111.09	DS_302d3e3bc0	SenT111.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 49		Plasmodium falciparum		Plasmodium falciparum SenT111.09		specimen from organism
-SenT112.09	DS_302d3e3bc0	SenT112.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 31		Plasmodium falciparum		Plasmodium falciparum SenT112.09		specimen from organism
-SenT113.09	DS_302d3e3bc0	SenT113.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 69		Plasmodium falciparum		Plasmodium falciparum SenT113.09		specimen from organism
-SenT119.09	DS_302d3e3bc0	SenT119.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 59		Plasmodium falciparum		Plasmodium falciparum SenT119.09		specimen from organism
-SenT123.09	DS_302d3e3bc0	SenT123.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 53		Plasmodium falciparum		Plasmodium falciparum SenT123.09		specimen from organism
-SenT127.09	DS_302d3e3bc0	SenT127.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 5		Plasmodium falciparum		Plasmodium falciparum SenT127.09		specimen from organism
-SenT128.08	DS_302d3e3bc0	SenT128.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 65		Plasmodium falciparum		Plasmodium falciparum SenT128.08		specimen from organism
-SenT135.09	DS_302d3e3bc0	SenT135.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 32		Plasmodium falciparum		Plasmodium falciparum SenT135.09		specimen from organism
-SenT137.08	DS_302d3e3bc0	SenT137.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 21		Plasmodium falciparum		Plasmodium falciparum SenT137.08		specimen from organism
-SenT137.09	DS_302d3e3bc0	SenT137.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 30		Plasmodium falciparum		Plasmodium falciparum SenT137.09		specimen from organism
-SenT139.08	DS_302d3e3bc0	SenT139.08			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 6		Plasmodium falciparum		Plasmodium falciparum SenT139.08		specimen from organism
-SenT140.08	DS_302d3e3bc0	SenT140.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 7		Plasmodium falciparum		Plasmodium falciparum SenT140.08		specimen from organism
-SenT142.09	DS_302d3e3bc0	SenT142.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 22		Plasmodium falciparum		Plasmodium falciparum SenT142.09		specimen from organism
-SenT144.08	DS_302d3e3bc0	SenT144.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 23		Plasmodium falciparum		Plasmodium falciparum SenT144.08		specimen from organism
-SenT145.08	DS_302d3e3bc0	SenT145.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 8		Plasmodium falciparum		Plasmodium falciparum SenT145.08		specimen from organism
-SenT149.09	DS_302d3e3bc0	SenT149.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 58		Plasmodium falciparum		Plasmodium falciparum SenT149.09		specimen from organism
-SenT150.09	DS_302d3e3bc0	SenT150.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 67		Plasmodium falciparum		Plasmodium falciparum SenT150.09		specimen from organism
-SenT151.09	DS_302d3e3bc0	SenT151.09			2009			2009		Senegal		Thies		human	EUSTDY0007 Subject 68		Plasmodium falciparum		Plasmodium falciparum SenT151.09		specimen from organism
-SenT170.08	DS_302d3e3bc0	SenT170.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 51		Plasmodium falciparum		Plasmodium falciparum SenT170.08		specimen from organism
-SenT175.08	DS_302d3e3bc0	SenT175.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 9		Plasmodium falciparum		Plasmodium falciparum SenT175.08		specimen from organism
-SenT179.08	DS_302d3e3bc0	SenT179.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 26		Plasmodium falciparum		Plasmodium falciparum SenT179.08		specimen from organism
-SenT180.08	DS_302d3e3bc0	SenT180.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 64		Plasmodium falciparum		Plasmodium falciparum SenT180.08		specimen from organism
-SenT190.08	DS_302d3e3bc0	SenT190.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 10		Plasmodium falciparum		Plasmodium falciparum SenT190.08		specimen from organism
-SenT197.08	DS_302d3e3bc0	SenT197.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 11		Plasmodium falciparum		Plasmodium falciparum SenT197.08		specimen from organism
-SenT224.08	DS_302d3e3bc0	SenT224.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 61		Plasmodium falciparum		Plasmodium falciparum SenT224.08		specimen from organism
-SenT227.08	DS_302d3e3bc0	SenT227.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 24		Plasmodium falciparum		Plasmodium falciparum SenT227.08		specimen from organism
-SenT230.08	DS_302d3e3bc0	SenT230.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 28		Plasmodium falciparum		Plasmodium falciparum SenT230.08		specimen from organism
-SenT235.08	DS_302d3e3bc0	SenT235.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 55		Plasmodium falciparum		Plasmodium falciparum SenT235.08		specimen from organism
-SenT238.08	DS_302d3e3bc0	SenT238.08			2008			2008		Senegal		Thies		human	EUSTDY0007 Subject 12		Plasmodium falciparum		Plasmodium falciparum SenT238.08		specimen from organism
-BM_0008	DS_26754fb0d5	BM_0008								Gambia				human	EUSTDY0010 Subject 39		Plasmodium falciparum		Plasmodium falciparum BM_0008		specimen from organism
-BM_0009	DS_26754fb0d5	BM_0009								Gambia				human	EUSTDY0010 Subject 38		Plasmodium falciparum		Plasmodium falciparum BM_0009		specimen from organism
-RV_3600	DS_26754fb0d5	RV_3600								Gambia				human	EUSTDY0010 Subject 13		Plasmodium falciparum		Plasmodium falciparum RV_3600		specimen from organism
-RV_3606	DS_26754fb0d5	RV_3606								Gambia				human	EUSTDY0010 Subject 1		Plasmodium falciparum		Plasmodium falciparum RV_3606		specimen from organism
-RV_3610	DS_26754fb0d5	RV_3610								Gambia				human	EUSTDY0010 Subject 14		Plasmodium falciparum		Plasmodium falciparum RV_3610		specimen from organism
-RV_3611	DS_26754fb0d5	RV_3611								Gambia				human	EUSTDY0010 Subject 15		Plasmodium falciparum		Plasmodium falciparum RV_3611		specimen from organism
-RV_3614	DS_26754fb0d5	RV_3614								Gambia				human	EUSTDY0010 Subject 2		Plasmodium falciparum		Plasmodium falciparum RV_3614		specimen from organism
-RV_3630	DS_26754fb0d5	RV_3630								Gambia				human	EUSTDY0010 Subject 16		Plasmodium falciparum		Plasmodium falciparum RV_3630		specimen from organism
-RV_3635	DS_26754fb0d5	RV_3635								Gambia				human	EUSTDY0010 Subject 17		Plasmodium falciparum		Plasmodium falciparum RV_3635		specimen from organism
-RV_3637	DS_26754fb0d5	RV_3637								Gambia				human	EUSTDY0010 Subject 18		Plasmodium falciparum		Plasmodium falciparum RV_3637		specimen from organism
-RV_3642	DS_26754fb0d5	RV_3642								Gambia				human	EUSTDY0010 Subject 3		Plasmodium falciparum		Plasmodium falciparum RV_3642		specimen from organism
-RV_3650	DS_26754fb0d5	RV_3650								Gambia				human	EUSTDY0010 Subject 4		Plasmodium falciparum		Plasmodium falciparum RV_3650		specimen from organism
-RV_3655	DS_26754fb0d5	RV_3655								Gambia				human	EUSTDY0010 Subject 19		Plasmodium falciparum		Plasmodium falciparum RV_3655		specimen from organism
-RV_3671	DS_26754fb0d5	RV_3671								Gambia				human	EUSTDY0010 Subject 20		Plasmodium falciparum		Plasmodium falciparum RV_3671		specimen from organism
-RV_3672	DS_26754fb0d5	RV_3672								Gambia				human	EUSTDY0010 Subject 21		Plasmodium falciparum		Plasmodium falciparum RV_3672		specimen from organism
-RV_3673	DS_26754fb0d5	RV_3673								Gambia				human	EUSTDY0010 Subject 22		Plasmodium falciparum		Plasmodium falciparum RV_3673		specimen from organism
-RV_3675	DS_26754fb0d5	RV_3675								Gambia				human	EUSTDY0010 Subject 23		Plasmodium falciparum		Plasmodium falciparum RV_3675		specimen from organism
-RV_3687	DS_26754fb0d5	RV_3687								Gambia				human	EUSTDY0010 Subject 5		Plasmodium falciparum		Plasmodium falciparum RV_3687		specimen from organism
-RV_3695	DS_26754fb0d5	RV_3695								Gambia				human	EUSTDY0010 Subject 24		Plasmodium falciparum		Plasmodium falciparum RV_3695		specimen from organism
-RV_3696	DS_26754fb0d5	RV_3696								Gambia				human	EUSTDY0010 Subject 25		Plasmodium falciparum		Plasmodium falciparum RV_3696		specimen from organism
-RV_3701	DS_26754fb0d5	RV_3701								Gambia				human	EUSTDY0010 Subject 6		Plasmodium falciparum		Plasmodium falciparum RV_3701		specimen from organism
-RV_3702	DS_26754fb0d5	RV_3702								Gambia				human	EUSTDY0010 Subject 26		Plasmodium falciparum		Plasmodium falciparum RV_3702		specimen from organism
-RV_3703	DS_26754fb0d5	RV_3703								Gambia				human	EUSTDY0010 Subject 7		Plasmodium falciparum		Plasmodium falciparum RV_3703		specimen from organism
-RV_3708	DS_26754fb0d5	RV_3708								Gambia				human	EUSTDY0010 Subject 27		Plasmodium falciparum		Plasmodium falciparum RV_3708		specimen from organism
-RV_3714	DS_26754fb0d5	RV_3714								Gambia				human	EUSTDY0010 Subject 8		Plasmodium falciparum		Plasmodium falciparum RV_3714		specimen from organism
-RV_3717	DS_26754fb0d5	RV_3717								Gambia				human	EUSTDY0010 Subject 28		Plasmodium falciparum		Plasmodium falciparum RV_3717		specimen from organism
-RV_3721	DS_26754fb0d5	RV_3721								Gambia				human	EUSTDY0010 Subject 29		Plasmodium falciparum		Plasmodium falciparum RV_3721		specimen from organism
-RV_3729	DS_26754fb0d5	RV_3729								Gambia				human	EUSTDY0010 Subject 30		Plasmodium falciparum		Plasmodium falciparum RV_3729		specimen from organism
-RV_3730	DS_26754fb0d5	RV_3730								Gambia				human	EUSTDY0010 Subject 31		Plasmodium falciparum		Plasmodium falciparum RV_3730		specimen from organism
-RV_3731	DS_26754fb0d5	RV_3731								Gambia				human	EUSTDY0010 Subject 32		Plasmodium falciparum		Plasmodium falciparum RV_3731		specimen from organism
-RV_3735	DS_26754fb0d5	RV_3735								Gambia				human	EUSTDY0010 Subject 9		Plasmodium falciparum		Plasmodium falciparum RV_3735		specimen from organism
-RV_3736	DS_26754fb0d5	RV_3736								Gambia				human	EUSTDY0010 Subject 33		Plasmodium falciparum		Plasmodium falciparum RV_3736		specimen from organism
-RV_3737	DS_26754fb0d5	RV_3737								Gambia				human	EUSTDY0010 Subject 10		Plasmodium falciparum		Plasmodium falciparum RV_3737		specimen from organism
-RV_3739	DS_26754fb0d5	RV_3739								Gambia				human	EUSTDY0010 Subject 34		Plasmodium falciparum		Plasmodium falciparum RV_3739		specimen from organism
-RV_3740	DS_26754fb0d5	RV_3740								Gambia				human	EUSTDY0010 Subject 11		Plasmodium falciparum		Plasmodium falciparum RV_3740		specimen from organism
-RV_3741	DS_26754fb0d5	RV_3741								Gambia				human	EUSTDY0010 Subject 35		Plasmodium falciparum		Plasmodium falciparum RV_3741		specimen from organism
-RV_3764	DS_26754fb0d5	RV_3764								Gambia				human	EUSTDY0010 Subject 36		Plasmodium falciparum		Plasmodium falciparum RV_3764		specimen from organism
-RV_3766	DS_26754fb0d5	RV_3766								Gambia				human	EUSTDY0010 Subject 12		Plasmodium falciparum		Plasmodium falciparum RV_3766		specimen from organism
-RV_3769	DS_26754fb0d5	RV_3769								Gambia				human	EUSTDY0010 Subject 37		Plasmodium falciparum		Plasmodium falciparum RV_3769		specimen from organism
-TRIPS_301	DS_26754fb0d5	TRIPS_301								Gambia				human	EUSTDY0010 Subject 52		Plasmodium falciparum		Plasmodium falciparum TRIPS_301		specimen from organism
-TRIPS_303	DS_26754fb0d5	TRIPS_303								Gambia				human	EUSTDY0010 Subject 53		Plasmodium falciparum		Plasmodium falciparum TRIPS_303		specimen from organism
-TRIPS_331	DS_26754fb0d5	TRIPS_331								Gambia				human	EUSTDY0010 Subject 54		Plasmodium falciparum		Plasmodium falciparum TRIPS_331		specimen from organism
-TRIPS_355	DS_26754fb0d5	TRIPS_355								Gambia				human	EUSTDY0010 Subject 55		Plasmodium falciparum		Plasmodium falciparum TRIPS_355		specimen from organism
-TRIPS_364	DS_26754fb0d5	TRIPS_364								Gambia				human	EUSTDY0010 Subject 40		Plasmodium falciparum		Plasmodium falciparum TRIPS_364		specimen from organism
-TRIPS_373	DS_26754fb0d5	TRIPS_373								Gambia				human	EUSTDY0010 Subject 64		Plasmodium falciparum		Plasmodium falciparum TRIPS_373		specimen from organism
-TRIPS_410	DS_26754fb0d5	TRIPS_410								Gambia				human	EUSTDY0010 Subject 41		Plasmodium falciparum		Plasmodium falciparum TRIPS_410		specimen from organism
-TRIPS_433	DS_26754fb0d5	TRIPS_433								Gambia				human	EUSTDY0010 Subject 56		Plasmodium falciparum		Plasmodium falciparum TRIPS_433		specimen from organism
-TRIPS_437	DS_26754fb0d5	TRIPS_437								Gambia				human	EUSTDY0010 Subject 42		Plasmodium falciparum		Plasmodium falciparum TRIPS_437		specimen from organism
-TRIPS_440	DS_26754fb0d5	TRIPS_440								Gambia				human	EUSTDY0010 Subject 57		Plasmodium falciparum		Plasmodium falciparum TRIPS_440		specimen from organism
-TRIPS_456	DS_26754fb0d5	TRIPS_456								Gambia				human	EUSTDY0010 Subject 58		Plasmodium falciparum		Plasmodium falciparum TRIPS_456		specimen from organism
-TRIPS_461	DS_26754fb0d5	TRIPS_461								Gambia				human	EUSTDY0010 Subject 59		Plasmodium falciparum		Plasmodium falciparum TRIPS_461		specimen from organism
-TRIPS_467	DS_26754fb0d5	TRIPS_467								Gambia				human	EUSTDY0010 Subject 43		Plasmodium falciparum		Plasmodium falciparum TRIPS_467		specimen from organism
-TRIPS_470	DS_26754fb0d5	TRIPS_470								Gambia				human	EUSTDY0010 Subject 44		Plasmodium falciparum		Plasmodium falciparum TRIPS_470		specimen from organism
-TRIPS_474	DS_26754fb0d5	TRIPS_474								Gambia				human	EUSTDY0010 Subject 45		Plasmodium falciparum		Plasmodium falciparum TRIPS_474		specimen from organism
-TRIPS_480	DS_26754fb0d5	TRIPS_480								Gambia				human	EUSTDY0010 Subject 46		Plasmodium falciparum		Plasmodium falciparum TRIPS_480		specimen from organism
-TRIPS_482	DS_26754fb0d5	TRIPS_482								Gambia				human	EUSTDY0010 Subject 65		Plasmodium falciparum		Plasmodium falciparum TRIPS_482		specimen from organism
-TRIPS_487	DS_26754fb0d5	TRIPS_487								Gambia				human	EUSTDY0010 Subject 47		Plasmodium falciparum		Plasmodium falciparum TRIPS_487		specimen from organism
-TRIPS_490	DS_26754fb0d5	TRIPS_490								Gambia				human	EUSTDY0010 Subject 48		Plasmodium falciparum		Plasmodium falciparum TRIPS_490		specimen from organism
-TRIPS_499	DS_26754fb0d5	TRIPS_499								Gambia				human	EUSTDY0010 Subject 49		Plasmodium falciparum		Plasmodium falciparum TRIPS_499		specimen from organism
-TRIPS_501	DS_26754fb0d5	TRIPS_501								Gambia				human	EUSTDY0010 Subject 50		Plasmodium falciparum		Plasmodium falciparum TRIPS_501		specimen from organism
-TRIPS_504	DS_26754fb0d5	TRIPS_504								Gambia				human	EUSTDY0010 Subject 51		Plasmodium falciparum		Plasmodium falciparum TRIPS_504		specimen from organism
-TRIPS_700	DS_26754fb0d5	TRIPS_700								Gambia				human	EUSTDY0010 Subject 60		Plasmodium falciparum		Plasmodium falciparum TRIPS_700		specimen from organism
-TRIPS_704	DS_26754fb0d5	TRIPS_704								Gambia				human	EUSTDY0010 Subject 61		Plasmodium falciparum		Plasmodium falciparum TRIPS_704		specimen from organism
-TRIPS_708	DS_26754fb0d5	TRIPS_708								Gambia				human	EUSTDY0010 Subject 62		Plasmodium falciparum		Plasmodium falciparum TRIPS_708		specimen from organism
-TRIPS_759	DS_26754fb0d5	TRIPS_759								Gambia				human	EUSTDY0010 Subject 63		Plasmodium falciparum		Plasmodium falciparum TRIPS_759		specimen from organism
-CKAF5210	DS_39562d542b	CKAF5210		2014-04-18	2014-04-18 00:00:00	4	Mae Ra Mat Hospital	2014		MRH				Homo sapiens			Plasmodium falciparum CKAF5210		CKAF5210		Blood
-DMA403	DS_39562d542b	DMA403		2014-01-06	2014-01-06 00:00:00	1	Maela	2014		Maela, Thailand				Homo sapiens			Plasmodium falciparum DMA403		DMA403		Blood
-KAE6110	DS_39562d542b	KAE6110		2014-07-09	2014-07-09 00:00:00	7	Mae Ra Mat Hospital	2014		MRH				Homo sapiens			Plasmodium falciparum KAE6110		KAE6110		Blood
-NHP104671	DS_39562d542b	NHP104671		2014-08-30	2014-08-30 00:00:00	8	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum NHP104671		NHP104671		Blood
-NHP110557	DS_39562d542b	NHP110557		2014-05-17	2014-05-17 00:00:00	5	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum NHP110557		NHP110557		Blood
-NHP114662	DS_39562d542b	NHP114662		2014-06-15	2014-06-15 00:00:00	6	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum NHP114662		NHP114662		Blood
-NHP114856	DS_39562d542b	NHP114856		2014-07-01	2014-07-01 00:00:00	7	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum NHP114856		NHP114856		Blood
-NHP115639	DS_39562d542b	NHP115639		2014-08-25	2014-08-25 00:00:00	8	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum NHP115639		NHP115639		Blood
-NHP1523	DS_39562d542b	NHP1523		2014-05-30	2014-05-30 00:00:00	5	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens		4.200401354	Plasmodium falciparum NHP1523		NHP1523		Blood
-NHP1524	DS_39562d542b	NHP1524		2014-06-12	2014-06-12 00:00:00	6	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens		6.393672003	Plasmodium falciparum NHP1524		NHP1524		Blood
-NHP1525	DS_39562d542b	NHP1525		2014-06-18	2014-06-18 00:00:00	6	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens		5.037994312	Plasmodium falciparum NHP1525		NHP1525		Blood
-NHP1527	DS_39562d542b	NHP1527		2014-06-26	2014-06-26 00:00:00	6	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens		9.613399055	Plasmodium falciparum NHP1527		NHP1527		Blood
-NHP1528	DS_39562d542b	NHP1528		2014-06-28	2014-06-28 00:00:00	6	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens		3.939903243	Plasmodium falciparum NHP1528		NHP1528		Blood
-NHP2209	DS_39562d542b	NHP2209		2014-04-24	2014-04-24 00:00:00	4	Mae Kon Ken	2014		Mae Khon Kaen, Thailand				Homo sapiens		6.29139237	Plasmodium falciparum NHP2209		NHP2209		Blood
-NHP2211	DS_39562d542b	NHP2211		2014-06-03	2014-06-03 00:00:00	6	Mae Kon Ken	2014		PLU				Homo sapiens		7.699356645	Plasmodium falciparum NHP2211		NHP2211		Blood
-NHP2212	DS_39562d542b	NHP2212		2014-06-04	2014-06-04 00:00:00	6	Mae Kon Ken	2014		PLU				Homo sapiens		6.067491973	Plasmodium falciparum NHP2212		NHP2212		Blood
-NHP3015	DS_39562d542b	NHP3015		2008-01-08	2008-01-08 00:00:00	1	Maela	2008		Maela, Thailand				Homo sapiens		2.509339956	Plasmodium falciparum NHP3015		NHP3015		Blood
-NHP3020	DS_39562d542b	NHP3020		2008-05-27	2008-05-27 00:00:00	5	Maela	2008		Maela, Thailand				Homo sapiens		3.721574112	Plasmodium falciparum NHP3020		NHP3020		Blood
-NHP3022	DS_39562d542b	NHP3022		2008-06-11	2008-06-11 00:00:00	6	Maela	2008		Maela, Thailand				Homo sapiens		2.134439842	Plasmodium falciparum NHP3022		NHP3022		Blood
-NHP3036	DS_39562d542b	NHP3036		2008-07-21	2008-07-21 00:00:00	7	Maela	2008		Maela, Thailand				Homo sapiens		2.555059464	Plasmodium falciparum NHP3036		NHP3036		Blood
-NHP3044	DS_39562d542b	NHP3044		2008-08-09	2008-08-09 00:00:00	8	Maela	2008		Maela, Thailand				Homo sapiens		3.77758426	Plasmodium falciparum NHP3044		NHP3044		Blood
-NHP3046	DS_39562d542b	NHP3046		2008-08-13	2008-08-13 00:00:00	8	Maela	2008		Maela, Thailand				Homo sapiens		8.515861469	Plasmodium falciparum NHP3046		NHP3046		Blood
-NHP3055	DS_39562d542b	NHP3055		2008-09-23	2008-09-23 00:00:00	9	Maela	2008		Maela, Thailand				Homo sapiens		5.261253624	Plasmodium falciparum NHP3055		NHP3055		Blood
-NHP3056	DS_39562d542b	NHP3056		2008-10-01	2008-10-01 00:00:00	10	Maela	2008		Maela, Thailand				Homo sapiens		2.225688088	Plasmodium falciparum NHP3056		NHP3056		Blood
-NHP3059	DS_39562d542b	NHP3059		2008-10-26	2008-10-26 00:00:00	10	Maela	2008		Maela, Thailand				Homo sapiens		3.525014789	Plasmodium falciparum NHP3059		NHP3059		Blood
-NHP3065	DS_39562d542b	NHP3065		2008-11-14	2008-11-14 00:00:00	11	Maela	2008		Maela, Thailand				Homo sapiens		2.499647252	Plasmodium falciparum NHP3065		NHP3065		Blood
-NHP3066	DS_39562d542b	NHP3066		2008-11-25	2008-11-25 00:00:00	11	Maela	2008		Maela, Thailand				Homo sapiens		2.926724082	Plasmodium falciparum NHP3066		NHP3066		Blood
-NHP3068	DS_39562d542b	NHP3068		2008-12-04	2008-12-04 00:00:00	12	Maela	2008		Maela, Thailand				Homo sapiens		4.349881686	Plasmodium falciparum NHP3068		NHP3068		Blood
-NHP3206	DS_39562d542b	NHP3206		2012-06-26	2012-06-26 00:00:00	6	Maela	2012		Maela, Thailand				Homo sapiens		6.433618768	Plasmodium falciparum NHP3206		NHP3206		Blood
-NHP3207	DS_39562d542b	NHP3207		2012-07-05	2012-07-05 00:00:00	7	Maela	2012		Maela, Thailand				Homo sapiens		4.508361403	Plasmodium falciparum NHP3207		NHP3207		Blood
-NHP3228	DS_39562d542b	NHP3228		2014-02-06	2014-02-06 00:00:00	2	Maela	2014		Maela, Thailand				Homo sapiens		8.276640373	Plasmodium falciparum NHP3228		NHP3228		Blood
-NHP3229	DS_39562d542b	NHP3229		2014-05-19	2014-05-19 00:00:00	5	Maela	2014		Maela, Thailand				Homo sapiens		4.599299774	Plasmodium falciparum NHP3229		NHP3229		Blood
-NHP3230	DS_39562d542b	NHP3230		2014-06-23	2014-06-23 00:00:00	6	Maela	2014		Maela, Thailand				Homo sapiens		8.703377118	Plasmodium falciparum NHP3230		NHP3230		Blood
-NHP3231	DS_39562d542b	NHP3231		2014-07-07	2014-07-07 00:00:00	7	Maela	2014		Maela, Thailand				Homo sapiens		6.465003144	Plasmodium falciparum NHP3231		NHP3231		Blood
-NHP3232	DS_39562d542b	NHP3232		2014-08-02	2014-08-02 00:00:00	8	Maela	2014		Maela, Thailand				Homo sapiens		7.445031601	Plasmodium falciparum NHP3232		NHP3232		Blood
-NHP401183	DS_39562d542b	NHP401183		2014-07-30	2014-07-30 00:00:00	7	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum NHP401183		NHP401183		Blood
-NHP4049	DS_39562d542b	NHP4049		2008-01-05	2008-01-05 00:00:00	1	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		4.046677804	Plasmodium falciparum NHP4049		NHP4049		Blood
-NHP4080	DS_39562d542b	NHP4080		2008-02-18	2008-02-18 00:00:00	2	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.155557319	Plasmodium falciparum NHP4080		NHP4080		Blood
-NHP4085	DS_39562d542b	NHP4085		2008-02-26	2008-02-26 00:00:00	2	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.506884574	Plasmodium falciparum NHP4085		NHP4085		Blood
-NHP4101	DS_39562d542b	NHP4101		2008-03-17	2008-03-17 00:00:00	3	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.524844417	Plasmodium falciparum NHP4101		NHP4101		Blood
-NHP4104	DS_39562d542b	NHP4104		2008-03-20	2008-03-20 00:00:00	3	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.459112376	Plasmodium falciparum NHP4104		NHP4104		Blood
-NHP4118	DS_39562d542b	NHP4118		2008-03-29	2008-03-29 00:00:00	3	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.371962901	Plasmodium falciparum NHP4118		NHP4118		Blood
-NHP4123	DS_39562d542b	NHP4123		2008-04-07	2008-04-07 00:00:00	4	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		4.438690855	Plasmodium falciparum NHP4123		NHP4123		Blood
-NHP4126	DS_39562d542b	NHP4126		2008-04-08	2008-04-08 00:00:00	4	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.528086367	Plasmodium falciparum NHP4126		NHP4126		Blood
-NHP4147	DS_39562d542b	NHP4147		2008-05-05	2008-05-05 00:00:00	5	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		4.248420554	Plasmodium falciparum NHP4147		NHP4147		Blood
-NHP4155	DS_39562d542b	NHP4155		2008-05-16	2008-05-16 00:00:00	5	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.299005227	Plasmodium falciparum NHP4155		NHP4155		Blood
-NHP4162	DS_39562d542b	NHP4162		2008-05-20	2008-05-20 00:00:00	5	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		1.909052416	Plasmodium falciparum NHP4162		NHP4162		Blood
-NHP416930	DS_39562d542b	NHP416930		2014-01-14	2014-01-14 00:00:00	1	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum NHP416930		NHP416930		Blood
-NHP4187	DS_39562d542b	NHP4187		2008-06-02	2008-06-02 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		6.913250578	Plasmodium falciparum NHP4187		NHP4187		Blood
-NHP418798	DS_39562d542b	NHP418798		2014-06-30	2014-06-30 00:00:00	6	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum NHP418798		NHP418798		Blood
-NHP4188	DS_39562d542b	NHP4188		2008-06-02	2008-06-02 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.920766502	Plasmodium falciparum NHP4188		NHP4188		Blood
-NHP4189	DS_39562d542b	NHP4189		2008-06-02	2008-06-02 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.490388423	Plasmodium falciparum NHP4189		NHP4189		Blood
-NHP4193	DS_39562d542b	NHP4193		2008-06-03	2008-06-03 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		4.305106119	Plasmodium falciparum NHP4193		NHP4193		Blood
-NHP4196	DS_39562d542b	NHP4196		2008-06-05	2008-06-05 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		5.058399987	Plasmodium falciparum NHP4196		NHP4196		Blood
-NHP4203	DS_39562d542b	NHP4203		2008-06-09	2008-06-09 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		5.779263911	Plasmodium falciparum NHP4203		NHP4203		Blood
-NHP4212	DS_39562d542b	NHP4212		2008-06-11	2008-06-11 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.333091396	Plasmodium falciparum NHP4212		NHP4212		Blood
-NHP4215	DS_39562d542b	NHP4215		2008-06-13	2008-06-13 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		7.107918481	Plasmodium falciparum NHP4215		NHP4215		Blood
-NHP4224	DS_39562d542b	NHP4224		2008-06-23	2008-06-23 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.047196104	Plasmodium falciparum NHP4224		NHP4224		Blood
-NHP4232	DS_39562d542b	NHP4232		2008-06-26	2008-06-26 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		4.887561794	Plasmodium falciparum NHP4232		NHP4232		Blood
-NHP4234	DS_39562d542b	NHP4234		2008-06-27	2008-06-27 00:00:00	6	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		1.195429173	Plasmodium falciparum NHP4234		NHP4234		Blood
-NHP4251	DS_39562d542b	NHP4251		2008-07-11	2008-07-11 00:00:00	7	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.8771291	Plasmodium falciparum NHP4251		NHP4251		Blood
-NHP4269	DS_39562d542b	NHP4269		2008-07-29	2008-07-29 00:00:00	7	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		4.210147403	Plasmodium falciparum NHP4269		NHP4269		Blood
-NHP4278	DS_39562d542b	NHP4278		2008-08-07	2008-08-07 00:00:00	8	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		6.648653979	Plasmodium falciparum NHP4278		NHP4278		Blood
-NHP4290	DS_39562d542b	NHP4290		2008-08-28	2008-08-28 00:00:00	8	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum NHP4290		NHP4290		Blood
-NHP4302	DS_39562d542b	NHP4302		2008-09-17	2008-09-17 00:00:00	9	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		1.976797417	Plasmodium falciparum NHP4302		NHP4302		Blood
-NHP4303	DS_39562d542b	NHP4303		2008-09-17	2008-09-17 00:00:00	9	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		6.941147826	Plasmodium falciparum NHP4303		NHP4303		Blood
-NHP4311	DS_39562d542b	NHP4311		2008-09-29	2008-09-29 00:00:00	9	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.446004197	Plasmodium falciparum NHP4311		NHP4311		Blood
-NHP4315	DS_39562d542b	NHP4315		2008-10-04	2008-10-04 00:00:00	10	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		7.461039613	Plasmodium falciparum NHP4315		NHP4315		Blood
-NHP4323	DS_39562d542b	NHP4323		2008-10-13	2008-10-13 00:00:00	10	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		4.824090906	Plasmodium falciparum NHP4323		NHP4323		Blood
-NHP4332	DS_39562d542b	NHP4332		2008-10-29	2008-10-29 00:00:00	10	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		3.850268889	Plasmodium falciparum NHP4332		NHP4332		Blood
-NHP4344	DS_39562d542b	NHP4344		2008-11-10	2008-11-10 00:00:00	11	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.562239109	Plasmodium falciparum NHP4344		NHP4344		Blood
-NHP4366	DS_39562d542b	NHP4366		2008-12-02	2008-12-02 00:00:00	12	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		2.220327966	Plasmodium falciparum NHP4366		NHP4366		Blood
-NHP4371	DS_39562d542b	NHP4371		2008-12-12	2008-12-12 00:00:00	12	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		5.052823982	Plasmodium falciparum NHP4371		NHP4371		Blood
-NHP4374	DS_39562d542b	NHP4374		2008-12-15	2008-12-15 00:00:00	12	Wang Pha	2008		Wang Pha, Thailand				Homo sapiens		7.816350084	Plasmodium falciparum NHP4374		NHP4374		Blood
-NHP4748	DS_39562d542b	NHP4748		2011-07-15	2011-07-15 00:00:00	7	Wang Pha	2011		Wang Pha, Thailand				Homo sapiens		2.894793648	Plasmodium falciparum NHP4748		NHP4748		Blood
-NHP4749	DS_39562d542b	NHP4749		2011-07-18	2011-07-18 00:00:00	7	Wang Pha	2011		Wang Pha, Thailand				Homo sapiens		7.303538264	Plasmodium falciparum NHP4749		NHP4749		Blood
-NHP4761	DS_39562d542b	NHP4761		2011-09-27	2011-09-27 00:00:00	9	Wang Pha	2011		Wang Pha, Thailand				Homo sapiens		3.669044153	Plasmodium falciparum NHP4761		NHP4761		Blood
-NHP4764	DS_39562d542b	NHP4764		2011-11-14	2011-11-14 00:00:00	11	Wang Pha	2011		Wang Pha, Thailand				Homo sapiens		5.946376157	Plasmodium falciparum NHP4764		NHP4764		Blood
-NHP4765	DS_39562d542b	NHP4765		2011-11-24	2011-11-24 00:00:00	11	Wang Pha	2011		Wang Pha, Thailand				Homo sapiens		6.593158195	Plasmodium falciparum NHP4765		NHP4765		Blood
-NHP4772	DS_39562d542b	NHP4772		2012-02-17	2012-02-17 00:00:00	2	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		4.932363865	Plasmodium falciparum NHP4772		NHP4772		Blood
-NHP4773	DS_39562d542b	NHP4773		2012-02-24	2012-02-24 00:00:00	2	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.393966047	Plasmodium falciparum NHP4773		NHP4773		Blood
-NHP4775	DS_39562d542b	NHP4775		2012-03-12	2012-03-12 00:00:00	3	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		4.215997064	Plasmodium falciparum NHP4775		NHP4775		Blood
-NHP4776	DS_39562d542b	NHP4776		2012-03-31	2012-03-31 00:00:00	3	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.115502384	Plasmodium falciparum NHP4776		NHP4776		Blood
-NHP4778	DS_39562d542b	NHP4778		2012-04-06	2012-04-06 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.159831569	Plasmodium falciparum NHP4778		NHP4778		Blood
-NHP4779	DS_39562d542b	NHP4779		2012-04-12	2012-04-12 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.040850424	Plasmodium falciparum NHP4779		NHP4779		Blood
-NHP4780	DS_39562d542b	NHP4780		2012-04-13	2012-04-13 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		2.215857907	Plasmodium falciparum NHP4780		NHP4780		Blood
-NHP4781	DS_39562d542b	NHP4781		2012-04-14	2012-04-14 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.775858972	Plasmodium falciparum NHP4781		NHP4781		Blood
-NHP4782	DS_39562d542b	NHP4782		2012-04-16	2012-04-16 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.857582021	Plasmodium falciparum NHP4782		NHP4782		Blood
-NHP4783	DS_39562d542b	NHP4783		2012-04-18	2012-04-18 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.359370872	Plasmodium falciparum NHP4783		NHP4783		Blood
-NHP4788	DS_39562d542b	NHP4788		2012-04-24	2012-04-24 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		4.180605911	Plasmodium falciparum NHP4788		NHP4788		Blood
-NHP4791	DS_39562d542b	NHP4791		2012-04-27	2012-04-27 00:00:00	4	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.19141149	Plasmodium falciparum NHP4791		NHP4791		Blood
-NHP4795	DS_39562d542b	NHP4795		2012-05-01	2012-05-01 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.453031946	Plasmodium falciparum NHP4795		NHP4795		Blood
-NHP4796	DS_39562d542b	NHP4796		2012-05-02	2012-05-02 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.670544614	Plasmodium falciparum NHP4796		NHP4796		Blood
-NHP4798	DS_39562d542b	NHP4798		2012-05-02	2012-05-02 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.962883964	Plasmodium falciparum NHP4798		NHP4798		Blood
-NHP4800	DS_39562d542b	NHP4800		2012-05-11	2012-05-11 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		4.302830281	Plasmodium falciparum NHP4800		NHP4800		Blood
-NHP4801	DS_39562d542b	NHP4801		2012-05-14	2012-05-14 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		4.881586475	Plasmodium falciparum NHP4801		NHP4801		Blood
-NHP4810	DS_39562d542b	NHP4810		2012-05-28	2012-05-28 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		5.043486202	Plasmodium falciparum NHP4810		NHP4810		Blood
-NHP4811	DS_39562d542b	NHP4811		2012-05-28	2012-05-28 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		5.76111058	Plasmodium falciparum NHP4811		NHP4811		Blood
-NHP4815	DS_39562d542b	NHP4815		2012-05-31	2012-05-31 00:00:00	5	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.055126488	Plasmodium falciparum NHP4815		NHP4815		Blood
-NHP4826	DS_39562d542b	NHP4826		2012-06-11	2012-06-11 00:00:00	6	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.693727288	Plasmodium falciparum NHP4826		NHP4826		Blood
-NHP4827	DS_39562d542b	NHP4827		2012-06-11	2012-06-11 00:00:00	6	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		8.237333104	Plasmodium falciparum NHP4827		NHP4827		Blood
-NHP4828	DS_39562d542b	NHP4828		2012-06-13	2012-06-13 00:00:00	6	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.101851582	Plasmodium falciparum NHP4828		NHP4828		Blood
-NHP4829	DS_39562d542b	NHP4829		2012-06-18	2012-06-18 00:00:00	6	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		5.4796939	Plasmodium falciparum NHP4829		NHP4829		Blood
-NHP4830	DS_39562d542b	NHP4830		2012-06-19	2012-06-19 00:00:00	6	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.49694008	Plasmodium falciparum NHP4830		NHP4830		Blood
-NHP4832	DS_39562d542b	NHP4832		2012-06-25	2012-06-25 00:00:00	6	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		5.050105505	Plasmodium falciparum NHP4832		NHP4832		Blood
-NHP4834	DS_39562d542b	NHP4834		2012-07-03	2012-07-03 00:00:00	7	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		4.719202159	Plasmodium falciparum NHP4834		NHP4834		Blood
-NHP4835	DS_39562d542b	NHP4835		2012-07-07	2012-07-07 00:00:00	7	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		2.791223994	Plasmodium falciparum NHP4835		NHP4835		Blood
-NHP4839	DS_39562d542b	NHP4839		2012-08-01	2012-08-01 00:00:00	8	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		5.352308871	Plasmodium falciparum NHP4839		NHP4839		Blood
-NHP4840	DS_39562d542b	NHP4840		2012-08-07	2012-08-07 00:00:00	8	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.266447591	Plasmodium falciparum NHP4840		NHP4840		Blood
-NHP4841	DS_39562d542b	NHP4841		2012-08-08	2012-08-08 00:00:00	8	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.281488573	Plasmodium falciparum NHP4841		NHP4841		Blood
-NHP4843	DS_39562d542b	NHP4843		2012-08-22	2012-08-22 00:00:00	8	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.674139326	Plasmodium falciparum NHP4843		NHP4843		Blood
-NHP4847	DS_39562d542b	NHP4847		2012-10-23	2012-10-23 00:00:00	10	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.046345328	Plasmodium falciparum NHP4847		NHP4847		Blood
-NHP4848	DS_39562d542b	NHP4848		2012-11-20	2012-11-20 00:00:00	11	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		4.742323002	Plasmodium falciparum NHP4848		NHP4848		Blood
-NHP4850	DS_39562d542b	NHP4850		2012-12-03	2012-12-03 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.305486952	Plasmodium falciparum NHP4850		NHP4850		Blood
-NHP4851	DS_39562d542b	NHP4851		2012-12-03	2012-12-03 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.519018953	Plasmodium falciparum NHP4851		NHP4851		Blood
-NHP4852	DS_39562d542b	NHP4852		2012-12-03	2012-12-03 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		7.616036263	Plasmodium falciparum NHP4852		NHP4852		Blood
-NHP4853	DS_39562d542b	NHP4853		2012-12-07	2012-12-07 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		6.540754171	Plasmodium falciparum NHP4853		NHP4853		Blood
-NHP4854	DS_39562d542b	NHP4854		2012-12-11	2012-12-11 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		1.777961462	Plasmodium falciparum NHP4854		NHP4854		Blood
-NHP4855	DS_39562d542b	NHP4855		2012-12-15	2012-12-15 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.81933815	Plasmodium falciparum NHP4855		NHP4855		Blood
-NHP4857	DS_39562d542b	NHP4857		2012-12-19	2012-12-19 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		3.9439239	Plasmodium falciparum NHP4857		NHP4857		Blood
-NHP4859	DS_39562d542b	NHP4859		2012-12-28	2012-12-28 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum NHP4859		NHP4859		Blood
-NHP4898	DS_39562d542b	NHP4898		2012-12-01	2012-12-01 00:00:00	12	Wang Pha	2012		Wang Pha, Thailand				Homo sapiens		5.980830073	Plasmodium falciparum NHP4898		NHP4898		Blood
-NHP4945	DS_39562d542b	NHP4945		2014-05-19	2014-05-19 00:00:00	5	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens		7.534715007	Plasmodium falciparum NHP4945		NHP4945		Blood
-NHP4946	DS_39562d542b	NHP4946		2014-06-23	2014-06-23 00:00:00	6	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens		6.872324507	Plasmodium falciparum NHP4946		NHP4946		Blood
-NHP4947	DS_39562d542b	NHP4947		2014-06-23	2014-06-23 00:00:00	6	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens		7.373032824	Plasmodium falciparum NHP4947		NHP4947		Blood
-NHP4949	DS_39562d542b	NHP4949		2014-07-10	2014-07-10 00:00:00	7	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens		8.737054645	Plasmodium falciparum NHP4949		NHP4949		Blood
-NHP4950	DS_39562d542b	NHP4950		2014-07-14	2014-07-14 00:00:00	7	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens		6.690480275	Plasmodium falciparum NHP4950		NHP4950		Blood
-NHP4952	DS_39562d542b	NHP4952		2014-07-29	2014-07-29 00:00:00	7	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens		7.170793506	Plasmodium falciparum NHP4952		NHP4952		Blood
-OHP111	DS_39562d542b	OHP111		2001-12-29	2001-12-29 00:00:00	12	Maela	2001		Maela, Thailand				Homo sapiens		2.77096934	Plasmodium falciparum OHP111		OHP111		Blood
-OHP121	DS_39562d542b	OHP121		2002-01-29	2002-01-29 00:00:00	1	Maela	2002		Maela, Thailand				Homo sapiens		3.173757644	Plasmodium falciparum OHP121		OHP121		Blood
-OHP122	DS_39562d542b	OHP122		2002-01-29	2002-01-29 00:00:00	1	Maela	2002		Maela, Thailand				Homo sapiens		2.792672029	Plasmodium falciparum OHP122		OHP122		Blood
-OHP124	DS_39562d542b	OHP124		2002-01-31	2002-01-31 00:00:00	1	Maela	2002		Maela, Thailand				Homo sapiens		2.453580725	Plasmodium falciparum OHP124		OHP124		Blood
-OHP133	DS_39562d542b	OHP133		2002-03-10	2002-03-10 00:00:00	3	Maela	2002		Maela, Thailand				Homo sapiens		2.712782613	Plasmodium falciparum OHP133		OHP133		Blood
-OHP1523	DS_39562d542b	OHP1523		2004-05-02	2004-05-02 00:00:00	5	Wang Pha	2004		Wang Pha, Thailand				Homo sapiens		2.317789941	Plasmodium falciparum OHP1523		OHP1523		Blood
-OHP1524	DS_39562d542b	OHP1524		2004-05-14	2004-05-14 00:00:00	5	Wang Pha	2004		Wang Pha, Thailand				Homo sapiens		4.808466093	Plasmodium falciparum OHP1524		OHP1524		Blood
-OHP1525	DS_39562d542b	OHP1525		2004-05-15	2004-05-15 00:00:00	5	Wang Pha	2004		Wang Pha, Thailand				Homo sapiens		3.027307242	Plasmodium falciparum OHP1525		OHP1525		Blood
-OHP160	DS_39562d542b	OHP160		2002-06-18	2002-06-18 00:00:00	6	Maela	2002		Maela, Thailand				Homo sapiens		4.031126372	Plasmodium falciparum OHP160		OHP160		Blood
-OHP182	DS_39562d542b	OHP182		2002-11-11	2002-11-11 00:00:00	11	Maela	2002		Maela, Thailand				Homo sapiens		1.542471636	Plasmodium falciparum OHP182		OHP182		Blood
-OHP183	DS_39562d542b	OHP183		2002-11-18	2002-11-18 00:00:00	11	Maela	2002		Maela, Thailand				Homo sapiens		1.981863685	Plasmodium falciparum OHP183		OHP183		Blood
-OHP189	DS_39562d542b	OHP189		2002-12-12	2002-12-12 00:00:00	12	Maela	2002		Maela, Thailand				Homo sapiens		4.904639992	Plasmodium falciparum OHP189		OHP189		Blood
-OHP218	DS_39562d542b	OHP218		2003-04-14	2003-04-14 00:00:00	4	Maela	2003		Maela, Thailand				Homo sapiens		2.768454254	Plasmodium falciparum OHP218		OHP218		Blood
-OHP259	DS_39562d542b	OHP259		2003-07-19	2003-07-19 00:00:00	7	Maela	2003		Maela, Thailand				Homo sapiens		2.33631434	Plasmodium falciparum OHP259		OHP259		Blood
-OHP263	DS_39562d542b	OHP263		2003-07-29	2003-07-29 00:00:00	7	Maela	2003		Maela, Thailand				Homo sapiens		2.849593295	Plasmodium falciparum OHP263		OHP263		Blood
-OHP268	DS_39562d542b	OHP268		2003-08-07	2003-08-07 00:00:00	8	Maela	2003		Maela, Thailand				Homo sapiens		3.049429138	Plasmodium falciparum OHP268		OHP268		Blood
-OHP275	DS_39562d542b	OHP275		2003-09-19	2003-09-19 00:00:00	9	Maela	2003		Maela, Thailand				Homo sapiens		4.084608946	Plasmodium falciparum OHP275		OHP275		Blood
-OHP277	DS_39562d542b	OHP277		2003-10-06	2003-10-06 00:00:00	10	Maela	2003		Maela, Thailand				Homo sapiens		2.968272614	Plasmodium falciparum OHP277		OHP277		Blood
-OHP288	DS_39562d542b	OHP288		2003-12-08	2003-12-08 00:00:00	12	Maela	2003		Maela, Thailand				Homo sapiens		3.286321451	Plasmodium falciparum OHP288		OHP288		Blood
-OHP289	DS_39562d542b	OHP289		2003-12-10	2003-12-10 00:00:00	12	Maela	2003		Maela, Thailand				Homo sapiens		2.542436392	Plasmodium falciparum OHP289		OHP289		Blood
-OHP291	DS_39562d542b	OHP291		2003-12-12	2003-12-12 00:00:00	12	Maela	2003		Maela, Thailand				Homo sapiens		5.094083371	Plasmodium falciparum OHP291		OHP291		Blood
-OHP292	DS_39562d542b	OHP292		2003-12-14	2003-12-14 00:00:00	12	Maela	2003		Maela, Thailand				Homo sapiens		5.050075516	Plasmodium falciparum OHP292		OHP292		Blood
-OHP293	DS_39562d542b	OHP293		2003-12-14	2003-12-14 00:00:00	12	Maela	2003		Maela, Thailand				Homo sapiens		2.822938481	Plasmodium falciparum OHP293		OHP293		Blood
-OHP295	DS_39562d542b	OHP295		2003-12-25	2003-12-25 00:00:00	12	Maela	2003		Maela, Thailand				Homo sapiens		4.084464574	Plasmodium falciparum OHP295		OHP295		Blood
-OHP300	DS_39562d542b	OHP300		2004-01-17	2004-01-17 00:00:00	1	Maela	2004		Maela, Thailand				Homo sapiens		2.214605132	Plasmodium falciparum OHP300		OHP300		Blood
-OHP304	DS_39562d542b	OHP304		2004-03-06	2004-03-06 00:00:00	3	Maela	2004		Maela, Thailand				Homo sapiens		3.83709429	Plasmodium falciparum OHP304		OHP304		Blood
-OHP337	DS_39562d542b	OHP337		2004-09-16	2004-09-16 00:00:00	9	Maela	2004		Maela, Thailand				Homo sapiens		3.377610268	Plasmodium falciparum OHP337		OHP337		Blood
-OHP338	DS_39562d542b	OHP338		2004-09-20	2004-09-20 00:00:00	9	Maela	2004		Maela, Thailand				Homo sapiens			Plasmodium falciparum OHP338		OHP338		Blood
-OHP339	DS_39562d542b	OHP339		2004-10-01	2004-10-01 00:00:00	10	Maela	2004		Maela, Thailand				Homo sapiens		3.015997115	Plasmodium falciparum OHP339		OHP339		Blood
-OHP341	DS_39562d542b	OHP341		2004-10-08	2004-10-08 00:00:00	10	Maela	2004		Maela, Thailand				Homo sapiens		3.162425936	Plasmodium falciparum OHP341		OHP341		Blood
-OHP343	DS_39562d542b	OHP343		2004-10-10	2004-10-10 00:00:00	10	Maela	2004		Maela, Thailand				Homo sapiens		6.258258633	Plasmodium falciparum OHP343		OHP343		Blood
-OHP345	DS_39562d542b	OHP345		2004-10-18	2004-10-18 00:00:00	10	Maela	2004		Maela, Thailand				Homo sapiens		2.87341971	Plasmodium falciparum OHP345		OHP345		Blood
-OHP346	DS_39562d542b	OHP346		2004-11-02	2004-11-02 00:00:00	11	Maela	2004		Maela, Thailand				Homo sapiens		2.562113544	Plasmodium falciparum OHP346		OHP346		Blood
-OHP355	DS_39562d542b	OHP355		2004-12-28	2004-12-28 00:00:00	12	Maela	2004		Maela, Thailand				Homo sapiens		3.13563916	Plasmodium falciparum OHP355		OHP355		Blood
-OHP92	DS_39562d542b	OHP92		2001-11-22	2001-11-22 00:00:00	11	Maela	2001		Maela, Thailand				Homo sapiens		5.371803102	Plasmodium falciparum OHP92		OHP92		Blood
-OHP95	DS_39562d542b	OHP95		2001-11-22	2001-11-22 00:00:00	11	Maela	2001		Maela, Thailand				Homo sapiens		2.242681226	Plasmodium falciparum OHP95		OHP95		Blood
-OZC2S2001	DS_39562d542b	OZC2S2001		2014-02-24	2014-02-24 00:00:00	2	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum OZC2S2001		OZC2S2001		Blood
-OZC2S2006	DS_39562d542b	OZC2S2006		2014-06-13	2014-06-13 00:00:00	6	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum OZC2S2006		OZC2S2006		Blood
-OZC2S3003	DS_39562d542b	OZC2S3003		2014-05-31	2014-05-31 00:00:00	5	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum OZC2S3003		OZC2S3003		Blood
-RDM43	DS_39562d542b	RDM43		2014-06-03	2014-06-03 00:00:00	6	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum RDM43		RDM43		Blood
-RDM45	DS_39562d542b	RDM45		2014-07-17	2014-07-17 00:00:00	7	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum RDM45		RDM45		Blood
-RDM46	DS_39562d542b	RDM46		2014-06-23	2014-06-23 00:00:00	6	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum RDM46		RDM46		Blood
-RDM5	DS_39562d542b	RDM5		2014-06-19	2014-06-19 00:00:00	6	Maela	2014		Maela, Thailand				Homo sapiens			Plasmodium falciparum RDM5		RDM5		Blood
-RDM53	DS_39562d542b	RDM53		2014-07-14	2014-07-14 00:00:00	7	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum RDM53		RDM53		Blood
-RDM64	DS_39562d542b	RDM64		2014-07-25	2014-07-25 00:00:00	7	Mae Kon Ken	2014		PLU				Homo sapiens			Plasmodium falciparum RDM64		RDM64		Blood
-RDM76	DS_39562d542b	RDM76		2014-05-23	2014-05-23 00:00:00	5	Wang Pha	2014		Wang Pha, Thailand				Homo sapiens			Plasmodium falciparum RDM76		RDM76		Blood
-RDM79	DS_39562d542b	RDM79		2014-06-18	2014-06-18 00:00:00	6	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum RDM79		RDM79		Blood
-RDM8	DS_39562d542b	RDM8		2014-06-23	2014-06-23 00:00:00	6	Maela	2014		Maela, Thailand				Homo sapiens			Plasmodium falciparum RDM8		RDM8		Blood
-RDM80	DS_39562d542b	RDM80		2014-07-16	2014-07-16 00:00:00	7	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum RDM80		RDM80		Blood
-RDM81	DS_39562d542b	RDM81		2014-07-21	2014-07-21 00:00:00	7	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum RDM81		RDM81		Blood
-RDM84	DS_39562d542b	RDM84		2014-07-25	2014-07-25 00:00:00	7	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum RDM84		RDM84		Blood
-RDM87	DS_39562d542b	RDM87		2014-08-26	2014-08-26 00:00:00	8	Mawker Thai	2014		Mawker Tai, Thailand				Homo sapiens			Plasmodium falciparum RDM87		RDM87		Blood
-B082	DS_148dce979c	B082			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B082		blood
-B083	DS_148dce979c	B083			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B083		blood
-B084	DS_148dce979c	B084			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B084		blood
-B085	DS_148dce979c	B085			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B085		blood
-B088	DS_148dce979c	B088			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B088		blood
-B101	DS_148dce979c	B101			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B101		blood
-B102	DS_148dce979c	B102			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B102		blood
-B124	DS_148dce979c	B124			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B124		blood
-B126	DS_148dce979c	B126			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B126		blood
-B144	DS_148dce979c	B144			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B144		blood
-B146	DS_148dce979c	B146			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B146		blood
-B156	DS_148dce979c	B156			1998			1998	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum B156		blood
-C006	DS_148dce979c	C006			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C006		blood
-C025	DS_148dce979c	C025			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C025		blood
-C028	DS_148dce979c	C028			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C028		blood
-C041	DS_148dce979c	C041			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C041		blood
-C044	DS_148dce979c	C044			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C044		blood
-C060	DS_148dce979c	C060			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C060		blood
-C064	DS_148dce979c	C064			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C064		blood
-C065	DS_148dce979c	C065			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C065		blood
-C066	DS_148dce979c	C066			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C066		blood
-C067	DS_148dce979c	C067			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C067		blood
-C079	DS_148dce979c	C079			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C079		blood
-C085	DS_148dce979c	C085			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C085		blood
-C089	DS_148dce979c	C089			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C089		blood
-C098	DS_148dce979c	C098			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C098		blood
-C101	DS_148dce979c	C101			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C101		blood
-C109	DS_148dce979c	C109			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C109		blood
-C114	DS_148dce979c	C114			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C114		blood
-C147	DS_148dce979c	C147			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C147		blood
-C216	DS_148dce979c	C216			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C216		blood
-C223	DS_148dce979c	C223			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C223		blood
-C225	DS_148dce979c	C225			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C225		blood
-C229	DS_148dce979c	C229			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C229		blood
-D003	DS_148dce979c	D003			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D003		blood
-D011	DS_148dce979c	D011			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D011		blood
-D016	DS_148dce979c	D016			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D016		blood
-D017	DS_148dce979c	D017			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D017		blood
-D019	DS_148dce979c	D019			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D019		blood
-D021	DS_148dce979c	D021			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D021		blood
-D030	DS_148dce979c	D030			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D030		blood
-D041	DS_148dce979c	D041			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D041		blood
-D047	DS_148dce979c	D047			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D047		blood
-D048	DS_148dce979c	D048			2000			2000	South America	French Guiana	19			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D048		blood
-D050	DS_148dce979c	D050			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D050		blood
-D059	DS_148dce979c	D059			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D059		blood
-D061	DS_148dce979c	D061			2000			2000	South America	French Guiana	10			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D061		blood
-D062	DS_148dce979c	D062			2000			2000	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum D062		blood
-G041	DS_148dce979c	G041			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G041		blood
-G097	DS_148dce979c	G097			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G097		culture
-G107	DS_148dce979c	G107			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G107		culture
-G129	DS_148dce979c	G129			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G129		blood
-G167	DS_148dce979c	G167			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G167		culture
-G173	DS_148dce979c	G173			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G173		blood
-G191	DS_148dce979c	G191			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G191		culture
-G197	DS_148dce979c	G197			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G197		blood
-G213	DS_148dce979c	G213			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G213		blood
-G230	DS_148dce979c	G230			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G230		culture
-G234	DS_148dce979c	G234			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G234		blood
-G248	DS_148dce979c	G248			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G248		blood
-G252	DS_148dce979c	G252			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G252		blood
-G255	DS_148dce979c	G255			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G255		blood
-G268	DS_148dce979c	G268			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G268		blood
-G284	DS_148dce979c	G284			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G284		blood
-G286	DS_148dce979c	G286			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G286		blood
-G315	DS_148dce979c	G315			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G315		blood
-G318	DS_148dce979c	G318			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G318		blood
-G325	DS_148dce979c	G325			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G325		blood
-G348	DS_148dce979c	G348			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G348		blood
-G353	DS_148dce979c	G353			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G353		blood
-G608	DS_148dce979c	G608			2003			2003	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum G608		blood
-H034	DS_148dce979c	H034			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H034		blood
-H053	DS_148dce979c	H053			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H053		blood
-H058	DS_148dce979c	H058			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H058		blood
-H068	DS_148dce979c	H068			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H068		blood
-H085	DS_148dce979c	H085			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H085		blood
-H097	DS_148dce979c	H097			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H097		blood
-H203	DS_148dce979c	H203			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H203		blood
-H222	DS_148dce979c	H222			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H222		blood
-H297	DS_148dce979c	H297			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H297		blood
-H301	DS_148dce979c	H301			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H301		blood
-I004	DS_148dce979c	I004			2005			2005	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I004		blood
-I009	DS_148dce979c	I009			2005			2005	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I009		blood
-I037	DS_148dce979c	I037			2005			2005	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I037		blood
-I044	DS_148dce979c	I044			2005			2005	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I044		blood
-I091	DS_148dce979c	I091			2005			2005	South America	French Guiana	76			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I091		blood
-I100	DS_148dce979c	I100			2005			2005	South America	French Guiana	43			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I100		blood
-I129	DS_148dce979c	I129			2005			2005	South America	French Guiana	39			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I129		blood
-I171	DS_148dce979c	I171			2005			2005	South America	French Guiana	35			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I171		blood
-L120	DS_148dce979c	L120			2008			2008	South America	French Guiana	26			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L120		blood
-L177	DS_148dce979c	L177			2008			2008	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L177		blood
-L234	DS_148dce979c	L234			2008			2008	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L234		blood
-L259	DS_148dce979c	L259			2008			2008	South America	French Guiana	41			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L259		blood
-L264	DS_148dce979c	L264			2008			2008	South America	French Guiana	20			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L264		blood
-L265	DS_148dce979c	L265			2008			2008	South America	French Guiana	68			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L265		blood
-L333	DS_148dce979c	L333			2008			2008	South America	French Guiana	10			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L333		blood
-L340	DS_148dce979c	L340			2008			2008	South America	French Guiana	14			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L340		blood
-L377	DS_148dce979c	L377			2008			2008	South America	French Guiana	59			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L377		blood
-L391	DS_148dce979c	L391			2008			2008	South America	French Guiana	21			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L391		blood
-L398	DS_148dce979c	L398			2008			2008	South America	French Guiana	38			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L398		blood
-L418	DS_148dce979c	L418			2008			2008	South America	French Guiana	36			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L418		blood
-L445	DS_148dce979c	L445			2008			2008	South America	French Guiana	11			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L445		blood
-L470	DS_148dce979c	L470			2008			2008	South America	French Guiana	22			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum L470		blood
-M166	DS_148dce979c	M166			2009			2009	South America	French Guiana	40			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M166		culture
-M196	DS_148dce979c	M196			2009			2009	South America	French Guiana	22			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M196		culture
-M204	DS_148dce979c	M204			2009			2009	South America	French Guiana	80			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M204		culture
-M212	DS_148dce979c	M212			2009			2009	South America	French Guiana	11			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M212		blood
-M213	DS_148dce979c	M213			2009			2009	South America	French Guiana	9			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M213		culture
-M236	DS_148dce979c	M236			2009			2009	South America	French Guiana	7			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M236		culture
-M238	DS_148dce979c	M238			2009			2009	South America	French Guiana	10			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M238		culture
-M283	DS_148dce979c	M283			2009			2009	South America	French Guiana	24			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M283		blood
-M319	DS_148dce979c	M319			2009			2009	South America	French Guiana	14			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum M319		blood
-Q261	DS_148dce979c	Q261			2010			2010	South America	French Guiana	52			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum Q261		culture
-Q280_A	DS_148dce979c	Q280_A			2013			2013	South America	French Guiana	39			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum Q280_A		culture
-Q301	DS_148dce979c	Q301			2013			2013	South America	French Guiana	58			Homo sapiens			Plasmodium falciparum		Plasmodium falciparum Q301		culture
-Q314	DS_148dce979c	Q314			2013			2013	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum Q314		culture
-Q322	DS_148dce979c	Q322			2013			2013	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum Q322		culture
-Q335	DS_148dce979c	Q335			2013			2013	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum Q335		culture
-R001	DS_148dce979c	R001			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R001		culture
-R073	DS_148dce979c	R073			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R073		culture
-R075J3	DS_148dce979c	R075J3			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R075J3		culture
-R090	DS_148dce979c	R090			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R090		culture
-R102	DS_148dce979c	R102			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R102		culture
-R128	DS_148dce979c	R128			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R128		culture
-R131	DS_148dce979c	R131			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R131		culture
-R131J36	DS_148dce979c	R131J36			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R131J36		culture
-R226	DS_148dce979c	R226			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R226		culture
-R235	DS_148dce979c	R235			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R235		culture
-R274	DS_148dce979c	R274			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R274		culture
-R368	DS_148dce979c	R368			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R368		culture
-R369J11	DS_148dce979c	R369J11			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R369J11		culture
-R373	DS_148dce979c	R373			2014			2014	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum R373		culture
-S001	DS_148dce979c	S001			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S001		culture
-S008	DS_148dce979c	S008			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S008		culture
-S046	DS_148dce979c	S046			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S046		culture
-S080	DS_148dce979c	S080			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S080		culture
-S083	DS_148dce979c	S083			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S083		culture
-S085	DS_148dce979c	S085			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S085		culture
-S091	DS_148dce979c	S091			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S091		culture
-S158	DS_148dce979c	S158			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S158		culture
-S167	DS_148dce979c	S167			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S167		culture
-S170	DS_148dce979c	S170			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S170		culture
-S178J24	DS_148dce979c	S178J24			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S178J24		culture
-S294	DS_148dce979c	S294			2015			2015	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum S294		culture
-C072	DS_a435810166	C072			1999			1999	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum C072		blood
-H137	DS_a435810166	H137			2004			2004	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum H137		blood
-I001	DS_a435810166	I001			2005			2005	South America	French Guiana				Homo sapiens			Plasmodium falciparum		Plasmodium falciparum I001		blood
-3D7_WTSI	DS_1d0e31572c	3D7_WTSI								Netherlands							Plasmodium falciparum		Plasmodium falciparum 3D7		
-7G8_WTSI	DS_1d0e31572c	7G8_WTSI								Brazil							Plasmodium falciparum		Plasmodium falciparum 7G8		
-CD01	DS_1d0e31572c	CD01								Congo							Plasmodium falciparum		Plasmodium falciparum CD01		
-DD2_WTSI	DS_1d0e31572c	DD2_WTSI								Thailand							Plasmodium falciparum		Plasmodium falciparum DD2		
-GA01	DS_1d0e31572c	GA01								Gabon							Plasmodium falciparum		Plasmodium falciparum GA01		
-GB4_WTSI	DS_1d0e31572c	GB4_WTSI								Ghana							Plasmodium falciparum		Plasmodium falciparum GB4		
-GN01	DS_1d0e31572c	GN01								Guinea							Plasmodium falciparum		Plasmodium falciparum GN01		
-HB3_WTSI	DS_1d0e31572c	HB3_WTSI								Honduras							Plasmodium falciparum		Plasmodium falciparum HB3		
-IT_WTSI	DS_1d0e31572c	IT_WTSI								Ghana							Plasmodium falciparum		Plasmodium falciparum IT		
-KE01	DS_1d0e31572c	KE01								Kenya							Plasmodium falciparum		Plasmodium falciparum KE01		
-KH01	DS_1d0e31572c	KH01								Cambodia							Plasmodium falciparum		Plasmodium falciparum KH01		
-KH02	DS_1d0e31572c	KH02								Cambodia							Plasmodium falciparum		Plasmodium falciparum KH02		
-ML01	DS_1d0e31572c	ML01								Mali							Plasmodium falciparum		Plasmodium falciparum ML01		
-SD01	DS_1d0e31572c	SD01								Sudan							Plasmodium falciparum		Plasmodium falciparum SD01		
-SN01	DS_1d0e31572c	SN01								Senegal							Plasmodium falciparum		Plasmodium falciparum SN01		
-TG01	DS_1d0e31572c	TG01								Togo							Plasmodium falciparum		Plasmodium falciparum TG01		
-303.1	DS_d8e882ad56	303.1	6 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 2		Plasmodium falciparum		Plasmodium falciparum 303.1	female	blood
-309.1	DS_d8e882ad56	309.1	2 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 3		Plasmodium falciparum		Plasmodium falciparum 309.1	male	blood
-318.1	DS_d8e882ad56	318.1	7 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 4		Plasmodium falciparum		Plasmodium falciparum 318.1	male	blood
-326.1	DS_d8e882ad56	326.1	5 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 5		Plasmodium falciparum		Plasmodium falciparum 326.1	female	blood
-327.1	DS_d8e882ad56	327.1	6 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 6		Plasmodium falciparum		Plasmodium falciparum 327.1	male	blood
-365.1	DS_d8e882ad56	365.1	1 year		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 7		Plasmodium falciparum		Plasmodium falciparum 365.1	female	blood
-366.1	DS_d8e882ad56	366.1	5 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 8		Plasmodium falciparum		Plasmodium falciparum 366.1	male	blood
-377.1	DS_d8e882ad56	377.1	2 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 9		Plasmodium falciparum		Plasmodium falciparum 377.1	female	blood
-383.1	DS_d8e882ad56	383.1	3 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 10		Plasmodium falciparum		Plasmodium falciparum 383.1	male	blood
-397.1	DS_d8e882ad56	397.1	3 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 11		Plasmodium falciparum		Plasmodium falciparum 397.1	male	blood
-398.1	DS_d8e882ad56	398.1	4 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 12		Plasmodium falciparum		Plasmodium falciparum 398.1	female	blood
-58.1	DS_d8e882ad56	58.1	2 years		2010			2010		Mali			Symptomatic episode	human	EUSTDY0011 Subject 1		Plasmodium falciparum		Plasmodium falciparum 58.1	female	blood
-707A	DS_f41a7298ee	707A												human	EUSTDY0015 Subject 2		Plasmodium falciparum		Plasmodium falciparum 707A		specimen from organism
-Dd2-1	DS_f41a7298ee	Dd2-1								Laos		Indochina		human	EUSTDY0015 Subject 1		Plasmodium falciparum	Pyrimethamine, Mefloquine and Cloroquine resistant	Plasmodium falciparum Dd2-1		specimen from organism
+sample_id \\ Descriptors	dataset_id	sample_display_name	age	biomaterial_provider	collection_date	collection_date_original	collection_month	collection_year	continent	country	days_in_culture	geographic_location	health_status	host_disease_stage	isolation_source	organism	organism_id	parasite_organism	parasite_phenotype	parasite_strain	sex	specimen	specimen_collector
+5.1	DS_a75da6fb96	5.1								Mozambique						human	EUSTDY0006 Subject 36	Plasmodium falciparum		Plasmodium falciparum SEV2_H5		specimen from organism	
+7G8_2	DS_a75da6fb96	7G8_2								Uganda		Tororo				human	EUSTDY0006 Subject 1	Plasmodium falciparum		Plasmodium falciparum 5.1		specimen from organism	
+G224	DS_a75da6fb96	G224								French Guiana						human	EUSTDY0006 Subject 3	Plasmodium falciparum		Plasmodium falciparum G224		specimen from organism	
+H209	DS_a75da6fb96	H209								French Guiana						human	EUSTDY0006 Subject 4	Plasmodium falciparum		Plasmodium falciparum H209		specimen from organism	
+M113-A	DS_a75da6fb96	M113-A				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 33	Plasmodium falciparum		Plasmodium falciparum PS206_E11		specimen from organism	
+M219-D	DS_a75da6fb96	M219-D				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 34	Plasmodium falciparum		Plasmodium falciparum PS250		specimen from organism	
+M271-D	DS_a75da6fb96	M271-D			2009-03-23	23/3/2009	3	2009		French Guiana		Saint-Georges				human	EUSTDY0006 Subject 5	Plasmodium falciparum		Plasmodium falciparum M113-A		specimen from organism	
+M312-D	DS_a75da6fb96	M312-D			2009-06-01	1/6/09	6	2009		French Guiana		Saint Laurent du Maroni				human	EUSTDY0006 Subject 6	Plasmodium falciparum		Plasmodium falciparum M219-D		specimen from organism	
+N011-A	DS_a75da6fb96	N011-A			2009-06-26	26/6/2009	6	2009		French Guiana		Saul				human	EUSTDY0006 Subject 7	Plasmodium falciparum		Plasmodium falciparum M271-D		specimen from organism	
+N023-A	DS_a75da6fb96	N023-A			2009-07-11	11/7/09	7	2009		French Guiana		Cayenne				human	EUSTDY0006 Subject 8	Plasmodium falciparum		Plasmodium falciparum M312-D		specimen from organism	
+N071-I	DS_a75da6fb96	N071-I			2010-01-05	5/1/10	1	2010		French Guiana		Saul				human	EUSTDY0006 Subject 9	Plasmodium falciparum		Plasmodium falciparum N011-A		specimen from organism	
+N164-A	DS_a75da6fb96	N164-A			2010-01-10	10/1/10	1	2010		French Guiana		Camopi				human	EUSTDY0006 Subject 10	Plasmodium falciparum		Plasmodium falciparum N023-A		specimen from organism	
+N497-C	DS_a75da6fb96	N497-C			2010-02-09	9/2/10	2	2010		French Guiana		Camopi				human	EUSTDY0006 Subject 11	Plasmodium falciparum		Plasmodium falciparum N071-I		specimen from organism	
+N579-A	DS_a75da6fb96	N579-A			2010-03-14	14/3/2010	3	2010		French Guiana		Camopi				human	EUSTDY0006 Subject 12	Plasmodium falciparum		Plasmodium falciparum N164-A		specimen from organism	
+O079-B	DS_a75da6fb96	O079-B			2010-11-19	19/11/2010	11	2010		French Guiana		Cayenne				human	EUSTDY0006 Subject 13	Plasmodium falciparum		Plasmodium falciparum N497-C		specimen from organism	
+O141-A	DS_a75da6fb96	O141-A			2010-12-23	23/12/2010	12	2010		French Guiana		Cayenne				human	EUSTDY0006 Subject 14	Plasmodium falciparum		Plasmodium falciparum N579-A		specimen from organism	
+O222-A	DS_a75da6fb96	O222-A			2011-02-04	4/2/11	2	2011		French Guiana		Cayenne				human	EUSTDY0006 Subject 15	Plasmodium falciparum		Plasmodium falciparum O079-B		specimen from organism	
+O306-A	DS_a75da6fb96	O306-A			2011-04-07	7/4/11	4	2011		French Guiana		Cayenne				human	EUSTDY0006 Subject 16	Plasmodium falciparum		Plasmodium falciparum O141-A		specimen from organism	
+O314	DS_a75da6fb96	O314			2011-06-01	1/6/11	6	2011		French Guiana		Cayenne				human	EUSTDY0006 Subject 17	Plasmodium falciparum		Plasmodium falciparum O222-A		specimen from organism	
+P164-C	DS_a75da6fb96	P164-C			2011-09-20	20/9/2011	9	2011		French Guiana		Cayenne				human	EUSTDY0006 Subject 18	Plasmodium falciparum		Plasmodium falciparum O306-A		specimen from organism	
+P167-B	DS_a75da6fb96	P167-B			2011-09-27	27/9/2011	9	2011		French Guiana		Cayenne				human	EUSTDY0006 Subject 19	Plasmodium falciparum		Plasmodium falciparum O314		specimen from organism	
+P196J3-C	DS_a75da6fb96	P196J3-C								El Salvador						human	EUSTDY0006 Subject 35	Plasmodium falciparum		Plasmodium falciparum Santa Lucia (Salvador I)		specimen from organism	
+P237-C	DS_a75da6fb96	P237-C			2012-08-01	1/8/12	8	2012		French Guiana		Cayenne				human	EUSTDY0006 Subject 20	Plasmodium falciparum		Plasmodium falciparum P164-C		specimen from organism	
+P241-D	DS_a75da6fb96	P241-D			2012-08-02	2/8/12	8	2012		French Guiana		Cayenne				human	EUSTDY0006 Subject 21	Plasmodium falciparum		Plasmodium falciparum P167-B		specimen from organism	
+PS097	DS_a75da6fb96	PS097			2012-09-04	4/9/12	9	2012		French Guiana		Saint Laurent du Maroni				human	EUSTDY0006 Subject 22	Plasmodium falciparum		Plasmodium falciparum P196J3-C		specimen from organism	
+PS103	DS_a75da6fb96	PS103			2012-09-30	30/9/2012	9	2012		French Guiana		Cayenne				human	EUSTDY0006 Subject 23	Plasmodium falciparum		Plasmodium falciparum P237-C		specimen from organism	
+PS122_G11	DS_a75da6fb96	PS122_G11			2012-10-02	2/10/12	10	2012		French Guiana		Cayenne				human	EUSTDY0006 Subject 24	Plasmodium falciparum		Plasmodium falciparum P241-D		specimen from organism	
+PS149	DS_a75da6fb96	PS149				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 25	Plasmodium falciparum		Plasmodium falciparum PS097		specimen from organism	
+PS170	DS_a75da6fb96	PS170				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 26	Plasmodium falciparum		Plasmodium falciparum PS103		specimen from organism	
+PS183	DS_a75da6fb96	PS183				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 27	Plasmodium falciparum		Plasmodium falciparum PS122_G11		specimen from organism	
+PS186	DS_a75da6fb96	PS186				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 28	Plasmodium falciparum		Plasmodium falciparum PS149		specimen from organism	
+PS189	DS_a75da6fb96	PS189				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 29	Plasmodium falciparum		Plasmodium falciparum PS170		specimen from organism	
+PS206_E11	DS_a75da6fb96	PS206_E11				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 30	Plasmodium falciparum		Plasmodium falciparum PS183		specimen from organism	
+PS250	DS_a75da6fb96	PS250				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 31	Plasmodium falciparum		Plasmodium falciparum PS186		specimen from organism	
+SEV2_H5	DS_a75da6fb96	SEV2_H5				1999-2002				Mali		Bandiagara				human	EUSTDY0006 Subject 32	Plasmodium falciparum		Plasmodium falciparum PS189		specimen from organism	
+SantaLucia_SalvadorI	DS_a75da6fb96	SantaLucia_SalvadorI								Brazil						human	EUSTDY0006 Subject 2	Plasmodium falciparum		Plasmodium falciparum 7G8		specimen from organism	
+UGK_396.1	DS_a75da6fb96	UGK_396.1				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 37	Plasmodium falciparum		Plasmodium falciparum UGK_396.1		specimen from organism	
+UGK_408.2	DS_a75da6fb96	UGK_408.2				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 40	Plasmodium falciparum		Plasmodium falciparum UGK_408.2		specimen from organism	
+UGK_432.4	DS_a75da6fb96	UGK_432.4				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 41	Plasmodium falciparum		Plasmodium falciparum UGK_432.4		specimen from organism	
+UGK_443.2	DS_a75da6fb96	UGK_443.2				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 39	Plasmodium falciparum		Plasmodium falciparum UGK_443.2		specimen from organism	
+UGK_659.1	DS_a75da6fb96	UGK_659.1				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 42	Plasmodium falciparum		Plasmodium falciparum UGK_659.1		specimen from organism	
+UGK_661.1	DS_a75da6fb96	UGK_661.1				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 43	Plasmodium falciparum		Plasmodium falciparum UGK_661.1		specimen from organism	
+UGK_674.4	DS_a75da6fb96	UGK_674.4				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 44	Plasmodium falciparum		Plasmodium falciparum UGK_674.4		specimen from organism	
+UGK_707.3	DS_a75da6fb96	UGK_707.3				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 45	Plasmodium falciparum		Plasmodium falciparum UGK_707.3		specimen from organism	
+UGK_730.2	DS_a75da6fb96	UGK_730.2				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 46	Plasmodium falciparum		Plasmodium falciparum UGK_730.2		specimen from organism	
+UGK_815.1	DS_a75da6fb96	UGK_815.1				2010		2010		Uganda		Kampala				human	EUSTDY0006 Subject 38	Plasmodium falciparum		Plasmodium falciparum UGK_815.1		specimen from organism	
+SenT001.07	DS_302d3e3bc0	SenT001.07				2007		2007		Senegal		Thies				human	EUSTDY0007 Subject 44	Plasmodium falciparum		Plasmodium falciparum SenT001.07		specimen from organism	
+SenT001.08	DS_302d3e3bc0	SenT001.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 66	Plasmodium falciparum		Plasmodium falciparum SenT001.08		specimen from organism	
+SenT002.07	DS_302d3e3bc0	SenT002.07				2007		2007		Senegal		Thies				human	EUSTDY0007 Subject 43	Plasmodium falciparum		Plasmodium falciparum SenT002.07		specimen from organism	
+SenT002.09	DS_302d3e3bc0	SenT002.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 47	Plasmodium falciparum		Plasmodium falciparum SenT002.09		specimen from organism	
+SenT015.08	DS_302d3e3bc0	SenT015.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 13	Plasmodium falciparum		Plasmodium falciparum SenT015.08		specimen from organism	
+SenT015.09	DS_302d3e3bc0	SenT015.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 45	Plasmodium falciparum		Plasmodium falciparum SenT015.09		specimen from organism	
+SenT018.09	DS_302d3e3bc0	SenT018.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 14	Plasmodium falciparum		Plasmodium falciparum SenT018.09		specimen from organism	
+SenT021.09	DS_302d3e3bc0	SenT021.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 15	Plasmodium falciparum		Plasmodium falciparum SenT021.09		specimen from organism	
+SenT022.09	DS_302d3e3bc0	SenT022.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 25	Plasmodium falciparum		Plasmodium falciparum SenT022.09		specimen from organism	
+SenT024.08	DS_302d3e3bc0	SenT024.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 16	Plasmodium falciparum		Plasmodium falciparum SenT024.08		specimen from organism	
+SenT029.09	DS_302d3e3bc0	SenT029.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 1	Plasmodium falciparum		Plasmodium falciparum SenT029.09		specimen from organism	
+SenT032.09	DS_302d3e3bc0	SenT032.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 2	Plasmodium falciparum		Plasmodium falciparum SenT032.09		specimen from organism	
+SenT033.08	DS_302d3e3bc0	SenT033.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 27	Plasmodium falciparum		Plasmodium falciparum SenT033.08		specimen from organism	
+SenT033.09	DS_302d3e3bc0	SenT033.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 40	Plasmodium falciparum		Plasmodium falciparum SenT033.09		specimen from organism	
+SenT037.08	DS_302d3e3bc0	SenT037.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 17	Plasmodium falciparum		Plasmodium falciparum SenT037.08		specimen from organism	
+SenT042.09	DS_302d3e3bc0	SenT042.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 29	Plasmodium falciparum		Plasmodium falciparum SenT042.09		specimen from organism	
+SenT044.08	DS_302d3e3bc0	SenT044.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 18	Plasmodium falciparum		Plasmodium falciparum SenT044.08		specimen from organism	
+SenT044.10	DS_302d3e3bc0	SenT044.10				2010		2010		Senegal		Thies				human	EUSTDY0007 Subject 46	Plasmodium falciparum		Plasmodium falciparum SenT044.10		specimen from organism	
+SenT046.10	DS_302d3e3bc0	SenT046.10				2010		2010		Senegal		Thies				human	EUSTDY0007 Subject 39	Plasmodium falciparum		Plasmodium falciparum SenT046.10		specimen from organism	
+SenT047.09	DS_302d3e3bc0	SenT047.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 36	Plasmodium falciparum		Plasmodium falciparum SenT047.09		specimen from organism	
+SenT061.09	DS_302d3e3bc0	SenT061.09				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 63	Plasmodium falciparum		Plasmodium falciparum SenT061.09		specimen from organism	
+SenT063.07	DS_302d3e3bc0	SenT063.07				2007		2007		Senegal		Thies				human	EUSTDY0007 Subject 33	Plasmodium falciparum		Plasmodium falciparum SenT063.07		specimen from organism	
+SenT064.10	DS_302d3e3bc0	SenT064.10				2010		2010		Senegal		Thies				human	EUSTDY0007 Subject 34	Plasmodium falciparum		Plasmodium falciparum SenT064.10		specimen from organism	
+SenT066.08	DS_302d3e3bc0	SenT066.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 38	Plasmodium falciparum		Plasmodium falciparum SenT066.08		specimen from organism	
+SenT067.09	DS_302d3e3bc0	SenT067.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 52	Plasmodium falciparum		Plasmodium falciparum SenT067.09		specimen from organism	
+SenT075.10	DS_302d3e3bc0	SenT075.10				2010		2010		Senegal		Thies				human	EUSTDY0007 Subject 35	Plasmodium falciparum		Plasmodium falciparum SenT075.10		specimen from organism	
+SenT077.08	DS_302d3e3bc0	SenT077.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 37	Plasmodium falciparum		Plasmodium falciparum SenT077.08		specimen from organism	
+SenT084.09	DS_302d3e3bc0	SenT084.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 41	Plasmodium falciparum		Plasmodium falciparum SenT084.09		specimen from organism	
+SenT087.08	DS_302d3e3bc0	SenT087.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 50	Plasmodium falciparum		Plasmodium falciparum SenT087.08		specimen from organism	
+SenT090.08	DS_302d3e3bc0	SenT090.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 3	Plasmodium falciparum		Plasmodium falciparum SenT090.08		specimen from organism	
+SenT090.09	DS_302d3e3bc0	SenT090.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 19	Plasmodium falciparum		Plasmodium falciparum SenT090.09		specimen from organism	
+SenT092.08	DS_302d3e3bc0	SenT092.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 42	Plasmodium falciparum		Plasmodium falciparum SenT092.08		specimen from organism	
+SenT093.09	DS_302d3e3bc0	SenT093.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 4	Plasmodium falciparum		Plasmodium falciparum SenT093.09		specimen from organism	
+SenT094.09	DS_302d3e3bc0	SenT094.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 62	Plasmodium falciparum		Plasmodium falciparum SenT094.09		specimen from organism	
+SenT097.09	DS_302d3e3bc0	SenT097.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 60	Plasmodium falciparum		Plasmodium falciparum SenT097.09		specimen from organism	
+SenT101.09	DS_302d3e3bc0	SenT101.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 20	Plasmodium falciparum		Plasmodium falciparum SenT101.09		specimen from organism	
+SenT102.08	DS_302d3e3bc0	SenT102.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 57	Plasmodium falciparum		Plasmodium falciparum SenT102.08		specimen from organism	
+SenT104.07	DS_302d3e3bc0	SenT104.07				2007		2007		Senegal		Thies				human	EUSTDY0007 Subject 54	Plasmodium falciparum		Plasmodium falciparum SenT104.07		specimen from organism	
+SenT106.08	DS_302d3e3bc0	SenT106.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 56	Plasmodium falciparum		Plasmodium falciparum SenT106.08		specimen from organism	
+SenT110.09	DS_302d3e3bc0	SenT110.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 48	Plasmodium falciparum		Plasmodium falciparum SenT110.09		specimen from organism	
+SenT111.09	DS_302d3e3bc0	SenT111.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 49	Plasmodium falciparum		Plasmodium falciparum SenT111.09		specimen from organism	
+SenT112.09	DS_302d3e3bc0	SenT112.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 31	Plasmodium falciparum		Plasmodium falciparum SenT112.09		specimen from organism	
+SenT113.09	DS_302d3e3bc0	SenT113.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 69	Plasmodium falciparum		Plasmodium falciparum SenT113.09		specimen from organism	
+SenT119.09	DS_302d3e3bc0	SenT119.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 59	Plasmodium falciparum		Plasmodium falciparum SenT119.09		specimen from organism	
+SenT123.09	DS_302d3e3bc0	SenT123.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 53	Plasmodium falciparum		Plasmodium falciparum SenT123.09		specimen from organism	
+SenT127.09	DS_302d3e3bc0	SenT127.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 5	Plasmodium falciparum		Plasmodium falciparum SenT127.09		specimen from organism	
+SenT128.08	DS_302d3e3bc0	SenT128.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 65	Plasmodium falciparum		Plasmodium falciparum SenT128.08		specimen from organism	
+SenT135.09	DS_302d3e3bc0	SenT135.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 32	Plasmodium falciparum		Plasmodium falciparum SenT135.09		specimen from organism	
+SenT137.08	DS_302d3e3bc0	SenT137.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 21	Plasmodium falciparum		Plasmodium falciparum SenT137.08		specimen from organism	
+SenT137.09	DS_302d3e3bc0	SenT137.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 30	Plasmodium falciparum		Plasmodium falciparum SenT137.09		specimen from organism	
+SenT139.08	DS_302d3e3bc0	SenT139.08				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 6	Plasmodium falciparum		Plasmodium falciparum SenT139.08		specimen from organism	
+SenT140.08	DS_302d3e3bc0	SenT140.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 7	Plasmodium falciparum		Plasmodium falciparum SenT140.08		specimen from organism	
+SenT142.09	DS_302d3e3bc0	SenT142.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 22	Plasmodium falciparum		Plasmodium falciparum SenT142.09		specimen from organism	
+SenT144.08	DS_302d3e3bc0	SenT144.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 23	Plasmodium falciparum		Plasmodium falciparum SenT144.08		specimen from organism	
+SenT145.08	DS_302d3e3bc0	SenT145.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 8	Plasmodium falciparum		Plasmodium falciparum SenT145.08		specimen from organism	
+SenT149.09	DS_302d3e3bc0	SenT149.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 58	Plasmodium falciparum		Plasmodium falciparum SenT149.09		specimen from organism	
+SenT150.09	DS_302d3e3bc0	SenT150.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 67	Plasmodium falciparum		Plasmodium falciparum SenT150.09		specimen from organism	
+SenT151.09	DS_302d3e3bc0	SenT151.09				2009		2009		Senegal		Thies				human	EUSTDY0007 Subject 68	Plasmodium falciparum		Plasmodium falciparum SenT151.09		specimen from organism	
+SenT170.08	DS_302d3e3bc0	SenT170.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 51	Plasmodium falciparum		Plasmodium falciparum SenT170.08		specimen from organism	
+SenT175.08	DS_302d3e3bc0	SenT175.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 9	Plasmodium falciparum		Plasmodium falciparum SenT175.08		specimen from organism	
+SenT179.08	DS_302d3e3bc0	SenT179.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 26	Plasmodium falciparum		Plasmodium falciparum SenT179.08		specimen from organism	
+SenT180.08	DS_302d3e3bc0	SenT180.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 64	Plasmodium falciparum		Plasmodium falciparum SenT180.08		specimen from organism	
+SenT190.08	DS_302d3e3bc0	SenT190.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 10	Plasmodium falciparum		Plasmodium falciparum SenT190.08		specimen from organism	
+SenT197.08	DS_302d3e3bc0	SenT197.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 11	Plasmodium falciparum		Plasmodium falciparum SenT197.08		specimen from organism	
+SenT224.08	DS_302d3e3bc0	SenT224.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 61	Plasmodium falciparum		Plasmodium falciparum SenT224.08		specimen from organism	
+SenT227.08	DS_302d3e3bc0	SenT227.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 24	Plasmodium falciparum		Plasmodium falciparum SenT227.08		specimen from organism	
+SenT230.08	DS_302d3e3bc0	SenT230.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 28	Plasmodium falciparum		Plasmodium falciparum SenT230.08		specimen from organism	
+SenT235.08	DS_302d3e3bc0	SenT235.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 55	Plasmodium falciparum		Plasmodium falciparum SenT235.08		specimen from organism	
+SenT238.08	DS_302d3e3bc0	SenT238.08				2008		2008		Senegal		Thies				human	EUSTDY0007 Subject 12	Plasmodium falciparum		Plasmodium falciparum SenT238.08		specimen from organism	
+BM_0008	DS_26754fb0d5	BM_0008								Gambia						human	EUSTDY0010 Subject 39	Plasmodium falciparum		Plasmodium falciparum BM_0008		specimen from organism	
+BM_0009	DS_26754fb0d5	BM_0009								Gambia						human	EUSTDY0010 Subject 38	Plasmodium falciparum		Plasmodium falciparum BM_0009		specimen from organism	
+RV_3600	DS_26754fb0d5	RV_3600								Gambia						human	EUSTDY0010 Subject 13	Plasmodium falciparum		Plasmodium falciparum RV_3600		specimen from organism	
+RV_3606	DS_26754fb0d5	RV_3606								Gambia						human	EUSTDY0010 Subject 1	Plasmodium falciparum		Plasmodium falciparum RV_3606		specimen from organism	
+RV_3610	DS_26754fb0d5	RV_3610								Gambia						human	EUSTDY0010 Subject 14	Plasmodium falciparum		Plasmodium falciparum RV_3610		specimen from organism	
+RV_3611	DS_26754fb0d5	RV_3611								Gambia						human	EUSTDY0010 Subject 15	Plasmodium falciparum		Plasmodium falciparum RV_3611		specimen from organism	
+RV_3614	DS_26754fb0d5	RV_3614								Gambia						human	EUSTDY0010 Subject 2	Plasmodium falciparum		Plasmodium falciparum RV_3614		specimen from organism	
+RV_3630	DS_26754fb0d5	RV_3630								Gambia						human	EUSTDY0010 Subject 16	Plasmodium falciparum		Plasmodium falciparum RV_3630		specimen from organism	
+RV_3635	DS_26754fb0d5	RV_3635								Gambia						human	EUSTDY0010 Subject 17	Plasmodium falciparum		Plasmodium falciparum RV_3635		specimen from organism	
+RV_3637	DS_26754fb0d5	RV_3637								Gambia						human	EUSTDY0010 Subject 18	Plasmodium falciparum		Plasmodium falciparum RV_3637		specimen from organism	
+RV_3642	DS_26754fb0d5	RV_3642								Gambia						human	EUSTDY0010 Subject 3	Plasmodium falciparum		Plasmodium falciparum RV_3642		specimen from organism	
+RV_3650	DS_26754fb0d5	RV_3650								Gambia						human	EUSTDY0010 Subject 4	Plasmodium falciparum		Plasmodium falciparum RV_3650		specimen from organism	
+RV_3655	DS_26754fb0d5	RV_3655								Gambia						human	EUSTDY0010 Subject 19	Plasmodium falciparum		Plasmodium falciparum RV_3655		specimen from organism	
+RV_3671	DS_26754fb0d5	RV_3671								Gambia						human	EUSTDY0010 Subject 20	Plasmodium falciparum		Plasmodium falciparum RV_3671		specimen from organism	
+RV_3672	DS_26754fb0d5	RV_3672								Gambia						human	EUSTDY0010 Subject 21	Plasmodium falciparum		Plasmodium falciparum RV_3672		specimen from organism	
+RV_3673	DS_26754fb0d5	RV_3673								Gambia						human	EUSTDY0010 Subject 22	Plasmodium falciparum		Plasmodium falciparum RV_3673		specimen from organism	
+RV_3675	DS_26754fb0d5	RV_3675								Gambia						human	EUSTDY0010 Subject 23	Plasmodium falciparum		Plasmodium falciparum RV_3675		specimen from organism	
+RV_3687	DS_26754fb0d5	RV_3687								Gambia						human	EUSTDY0010 Subject 5	Plasmodium falciparum		Plasmodium falciparum RV_3687		specimen from organism	
+RV_3695	DS_26754fb0d5	RV_3695								Gambia						human	EUSTDY0010 Subject 24	Plasmodium falciparum		Plasmodium falciparum RV_3695		specimen from organism	
+RV_3696	DS_26754fb0d5	RV_3696								Gambia						human	EUSTDY0010 Subject 25	Plasmodium falciparum		Plasmodium falciparum RV_3696		specimen from organism	
+RV_3701	DS_26754fb0d5	RV_3701								Gambia						human	EUSTDY0010 Subject 6	Plasmodium falciparum		Plasmodium falciparum RV_3701		specimen from organism	
+RV_3702	DS_26754fb0d5	RV_3702								Gambia						human	EUSTDY0010 Subject 26	Plasmodium falciparum		Plasmodium falciparum RV_3702		specimen from organism	
+RV_3703	DS_26754fb0d5	RV_3703								Gambia						human	EUSTDY0010 Subject 7	Plasmodium falciparum		Plasmodium falciparum RV_3703		specimen from organism	
+RV_3708	DS_26754fb0d5	RV_3708								Gambia						human	EUSTDY0010 Subject 27	Plasmodium falciparum		Plasmodium falciparum RV_3708		specimen from organism	
+RV_3714	DS_26754fb0d5	RV_3714								Gambia						human	EUSTDY0010 Subject 8	Plasmodium falciparum		Plasmodium falciparum RV_3714		specimen from organism	
+RV_3717	DS_26754fb0d5	RV_3717								Gambia						human	EUSTDY0010 Subject 28	Plasmodium falciparum		Plasmodium falciparum RV_3717		specimen from organism	
+RV_3721	DS_26754fb0d5	RV_3721								Gambia						human	EUSTDY0010 Subject 29	Plasmodium falciparum		Plasmodium falciparum RV_3721		specimen from organism	
+RV_3729	DS_26754fb0d5	RV_3729								Gambia						human	EUSTDY0010 Subject 30	Plasmodium falciparum		Plasmodium falciparum RV_3729		specimen from organism	
+RV_3730	DS_26754fb0d5	RV_3730								Gambia						human	EUSTDY0010 Subject 31	Plasmodium falciparum		Plasmodium falciparum RV_3730		specimen from organism	
+RV_3731	DS_26754fb0d5	RV_3731								Gambia						human	EUSTDY0010 Subject 32	Plasmodium falciparum		Plasmodium falciparum RV_3731		specimen from organism	
+RV_3735	DS_26754fb0d5	RV_3735								Gambia						human	EUSTDY0010 Subject 9	Plasmodium falciparum		Plasmodium falciparum RV_3735		specimen from organism	
+RV_3736	DS_26754fb0d5	RV_3736								Gambia						human	EUSTDY0010 Subject 33	Plasmodium falciparum		Plasmodium falciparum RV_3736		specimen from organism	
+RV_3737	DS_26754fb0d5	RV_3737								Gambia						human	EUSTDY0010 Subject 10	Plasmodium falciparum		Plasmodium falciparum RV_3737		specimen from organism	
+RV_3739	DS_26754fb0d5	RV_3739								Gambia						human	EUSTDY0010 Subject 34	Plasmodium falciparum		Plasmodium falciparum RV_3739		specimen from organism	
+RV_3740	DS_26754fb0d5	RV_3740								Gambia						human	EUSTDY0010 Subject 11	Plasmodium falciparum		Plasmodium falciparum RV_3740		specimen from organism	
+RV_3741	DS_26754fb0d5	RV_3741								Gambia						human	EUSTDY0010 Subject 35	Plasmodium falciparum		Plasmodium falciparum RV_3741		specimen from organism	
+RV_3764	DS_26754fb0d5	RV_3764								Gambia						human	EUSTDY0010 Subject 36	Plasmodium falciparum		Plasmodium falciparum RV_3764		specimen from organism	
+RV_3766	DS_26754fb0d5	RV_3766								Gambia						human	EUSTDY0010 Subject 12	Plasmodium falciparum		Plasmodium falciparum RV_3766		specimen from organism	
+RV_3769	DS_26754fb0d5	RV_3769								Gambia						human	EUSTDY0010 Subject 37	Plasmodium falciparum		Plasmodium falciparum RV_3769		specimen from organism	
+TRIPS_301	DS_26754fb0d5	TRIPS_301								Gambia						human	EUSTDY0010 Subject 52	Plasmodium falciparum		Plasmodium falciparum TRIPS_301		specimen from organism	
+TRIPS_303	DS_26754fb0d5	TRIPS_303								Gambia						human	EUSTDY0010 Subject 53	Plasmodium falciparum		Plasmodium falciparum TRIPS_303		specimen from organism	
+TRIPS_331	DS_26754fb0d5	TRIPS_331								Gambia						human	EUSTDY0010 Subject 54	Plasmodium falciparum		Plasmodium falciparum TRIPS_331		specimen from organism	
+TRIPS_355	DS_26754fb0d5	TRIPS_355								Gambia						human	EUSTDY0010 Subject 55	Plasmodium falciparum		Plasmodium falciparum TRIPS_355		specimen from organism	
+TRIPS_364	DS_26754fb0d5	TRIPS_364								Gambia						human	EUSTDY0010 Subject 40	Plasmodium falciparum		Plasmodium falciparum TRIPS_364		specimen from organism	
+TRIPS_373	DS_26754fb0d5	TRIPS_373								Gambia						human	EUSTDY0010 Subject 64	Plasmodium falciparum		Plasmodium falciparum TRIPS_373		specimen from organism	
+TRIPS_410	DS_26754fb0d5	TRIPS_410								Gambia						human	EUSTDY0010 Subject 41	Plasmodium falciparum		Plasmodium falciparum TRIPS_410		specimen from organism	
+TRIPS_433	DS_26754fb0d5	TRIPS_433								Gambia						human	EUSTDY0010 Subject 56	Plasmodium falciparum		Plasmodium falciparum TRIPS_433		specimen from organism	
+TRIPS_437	DS_26754fb0d5	TRIPS_437								Gambia						human	EUSTDY0010 Subject 42	Plasmodium falciparum		Plasmodium falciparum TRIPS_437		specimen from organism	
+TRIPS_440	DS_26754fb0d5	TRIPS_440								Gambia						human	EUSTDY0010 Subject 57	Plasmodium falciparum		Plasmodium falciparum TRIPS_440		specimen from organism	
+TRIPS_456	DS_26754fb0d5	TRIPS_456								Gambia						human	EUSTDY0010 Subject 58	Plasmodium falciparum		Plasmodium falciparum TRIPS_456		specimen from organism	
+TRIPS_461	DS_26754fb0d5	TRIPS_461								Gambia						human	EUSTDY0010 Subject 59	Plasmodium falciparum		Plasmodium falciparum TRIPS_461		specimen from organism	
+TRIPS_467	DS_26754fb0d5	TRIPS_467								Gambia						human	EUSTDY0010 Subject 43	Plasmodium falciparum		Plasmodium falciparum TRIPS_467		specimen from organism	
+TRIPS_470	DS_26754fb0d5	TRIPS_470								Gambia						human	EUSTDY0010 Subject 44	Plasmodium falciparum		Plasmodium falciparum TRIPS_470		specimen from organism	
+TRIPS_474	DS_26754fb0d5	TRIPS_474								Gambia						human	EUSTDY0010 Subject 45	Plasmodium falciparum		Plasmodium falciparum TRIPS_474		specimen from organism	
+TRIPS_480	DS_26754fb0d5	TRIPS_480								Gambia						human	EUSTDY0010 Subject 46	Plasmodium falciparum		Plasmodium falciparum TRIPS_480		specimen from organism	
+TRIPS_482	DS_26754fb0d5	TRIPS_482								Gambia						human	EUSTDY0010 Subject 65	Plasmodium falciparum		Plasmodium falciparum TRIPS_482		specimen from organism	
+TRIPS_487	DS_26754fb0d5	TRIPS_487								Gambia						human	EUSTDY0010 Subject 47	Plasmodium falciparum		Plasmodium falciparum TRIPS_487		specimen from organism	
+TRIPS_490	DS_26754fb0d5	TRIPS_490								Gambia						human	EUSTDY0010 Subject 48	Plasmodium falciparum		Plasmodium falciparum TRIPS_490		specimen from organism	
+TRIPS_499	DS_26754fb0d5	TRIPS_499								Gambia						human	EUSTDY0010 Subject 49	Plasmodium falciparum		Plasmodium falciparum TRIPS_499		specimen from organism	
+TRIPS_501	DS_26754fb0d5	TRIPS_501								Gambia						human	EUSTDY0010 Subject 50	Plasmodium falciparum		Plasmodium falciparum TRIPS_501		specimen from organism	
+TRIPS_504	DS_26754fb0d5	TRIPS_504								Gambia						human	EUSTDY0010 Subject 51	Plasmodium falciparum		Plasmodium falciparum TRIPS_504		specimen from organism	
+TRIPS_700	DS_26754fb0d5	TRIPS_700								Gambia						human	EUSTDY0010 Subject 60	Plasmodium falciparum		Plasmodium falciparum TRIPS_700		specimen from organism	
+TRIPS_704	DS_26754fb0d5	TRIPS_704								Gambia						human	EUSTDY0010 Subject 61	Plasmodium falciparum		Plasmodium falciparum TRIPS_704		specimen from organism	
+TRIPS_708	DS_26754fb0d5	TRIPS_708								Gambia						human	EUSTDY0010 Subject 62	Plasmodium falciparum		Plasmodium falciparum TRIPS_708		specimen from organism	
+TRIPS_759	DS_26754fb0d5	TRIPS_759								Gambia						human	EUSTDY0010 Subject 63	Plasmodium falciparum		Plasmodium falciparum TRIPS_759		specimen from organism	
+CKAF5210	DS_40a8af273e	CKAF5210		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mun Run Chai			blood	Homo sapiens		Plasmodium falciparum		CKAF5210		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+DMA403	DS_40a8af273e	DMA403		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		DMA403		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+KAE6110	DS_40a8af273e	KAE6110		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mun Run Chai			blood	Homo sapiens		Plasmodium falciparum		KAE6110		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP104671	DS_40a8af273e	NHP104671		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP104671		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP110557	DS_40a8af273e	NHP110557		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP110557		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP114662	DS_40a8af273e	NHP114662		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP114662		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP114856	DS_40a8af273e	NHP114856		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP114856		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP115639	DS_40a8af273e	NHP115639		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP115639		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP1523	DS_40a8af273e	NHP1523		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP1523		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP1524	DS_40a8af273e	NHP1524		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP1524		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP1525	DS_40a8af273e	NHP1525		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP1525		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP1527	DS_40a8af273e	NHP1527		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP1527		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP1528	DS_40a8af273e	NHP1528		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		NHP1528		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP2209	DS_40a8af273e	NHP2209		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mae Khon Kaen			blood	Homo sapiens		Plasmodium falciparum		NHP2209		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP2211	DS_40a8af273e	NHP2211		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mae Kon Khen			blood	Homo sapiens		Plasmodium falciparum		NHP2211		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP2212	DS_40a8af273e	NHP2212		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mae Kon Khen			blood	Homo sapiens		Plasmodium falciparum		NHP2212		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP3228	DS_40a8af273e	NHP3228		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		NHP3228		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP3229	DS_40a8af273e	NHP3229		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		NHP3229		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP3230	DS_40a8af273e	NHP3230		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		NHP3230		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP3231	DS_40a8af273e	NHP3231		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		NHP3231		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP3232	DS_40a8af273e	NHP3232		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		NHP3232		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP401183	DS_40a8af273e	NHP401183		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP401183		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP416930	DS_40a8af273e	NHP416930		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP416930		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP418798	DS_40a8af273e	NHP418798		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP418798		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP4945	DS_40a8af273e	NHP4945		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP4945		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP4946	DS_40a8af273e	NHP4946		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP4946		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP4947	DS_40a8af273e	NHP4947		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP4947		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP4949	DS_40a8af273e	NHP4949		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP4949		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP4950	DS_40a8af273e	NHP4950		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP4950		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP4952	DS_40a8af273e	NHP4952		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		NHP4952		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+OZC2S2001	DS_40a8af273e	OZC2S2001		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		OZC2S2001		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+OZC2S2006	DS_40a8af273e	OZC2S2006		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		OZC2S2006		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+OZC2S3003	DS_40a8af273e	OZC2S3003		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		OZC2S3003		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM43	DS_40a8af273e	RDM43		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		RDM43		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM45	DS_40a8af273e	RDM45		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		RDM45		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM46	DS_40a8af273e	RDM46		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		RDM46		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM5	DS_40a8af273e	RDM5		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		RDM5		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM53	DS_40a8af273e	RDM53		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		RDM53		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM64	DS_40a8af273e	RDM64		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mae Kon Khen			blood	Homo sapiens		Plasmodium falciparum		RDM64		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM76	DS_40a8af273e	RDM76		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Wang Pha			blood	Homo sapiens		Plasmodium falciparum		RDM76		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM79	DS_40a8af273e	RDM79		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		RDM79		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM8	DS_40a8af273e	RDM8		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Maela			blood	Homo sapiens		Plasmodium falciparum		RDM8		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM80	DS_40a8af273e	RDM80		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		RDM80		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM81	DS_40a8af273e	RDM81		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		RDM81		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM84	DS_40a8af273e	RDM84		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		RDM84		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+RDM87	DS_40a8af273e	RDM87		Tim Anderson, Texas Biomedical Research Institute		2014		2014		Thailand		Mawker Tai			blood	Homo sapiens		Plasmodium falciparum		RDM87		Pathogen	Tim Anderson, Texas Biomedical Research Institute
+NHP3015	DS_2370d4695a	NHP3015			2008-01-08	2008-01-08	1	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3015			Tim Anderson, Texas Biomedical Research Institute
+NHP3022	DS_2370d4695a	NHP3022			2008-06-11	2008-06-11	6	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3022			Tim Anderson, Texas Biomedical Research Institute
+NHP3046	DS_2370d4695a	NHP3046			2008-08-13	2008-08-13	8	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3046			Tim Anderson, Texas Biomedical Research Institute
+NHP3055	DS_2370d4695a	NHP3055			2008-09-23	2008-09-23	9	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3055			Tim Anderson, Texas Biomedical Research Institute
+NHP3066	DS_2370d4695a	NHP3066			2008-11-25	2008-11-25	11	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3066			Tim Anderson, Texas Biomedical Research Institute
+NHP4118	DS_2370d4695a	NHP4118			2008-03-29	2008-03-29	3	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4118			Tim Anderson, Texas Biomedical Research Institute
+NHP4123	DS_2370d4695a	NHP4123			2008-04-07	2008-04-07	4	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4123			Tim Anderson, Texas Biomedical Research Institute
+NHP4147	DS_2370d4695a	NHP4147			2008-05-05	2008-05-05	5	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4147			Tim Anderson, Texas Biomedical Research Institute
+NHP4162	DS_2370d4695a	NHP4162			2008-05-20	2008-05-20	5	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4162			Tim Anderson, Texas Biomedical Research Institute
+NHP4189	DS_2370d4695a	NHP4189			2008-06-02	2008-06-02	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4189			Tim Anderson, Texas Biomedical Research Institute
+NHP4232	DS_2370d4695a	NHP4232			2008-06-26	2008-06-26	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4232			Tim Anderson, Texas Biomedical Research Institute
+NHP4251	DS_2370d4695a	NHP4251			2008-07-11	2008-07-11	7	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4251			Tim Anderson, Texas Biomedical Research Institute
+NHP4290	DS_2370d4695a	NHP4290			2008-08-28	2008-08-28	8	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4290			Tim Anderson, Texas Biomedical Research Institute
+NHP4302	DS_2370d4695a	NHP4302			2008-09-17	2008-09-17	9	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4302			Tim Anderson, Texas Biomedical Research Institute
+NHP4344	DS_2370d4695a	NHP4344			2008-11-10	2008-11-10	11	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4344			Tim Anderson, Texas Biomedical Research Institute
+NHP4366	DS_2370d4695a	NHP4366			2008-12-02	2008-12-02	12	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4366			Tim Anderson, Texas Biomedical Research Institute
+NHP4374	DS_2370d4695a	NHP4374			2008-12-15	2008-12-15	12	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4374			Tim Anderson, Texas Biomedical Research Institute
+NHP4847	DS_2370d4695a	NHP4847			2012-10-23	2012-10-23	10	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4847			Tim Anderson, Texas Biomedical Research Institute
+NHP4851	DS_2370d4695a	NHP4851			2012-12-03	2012-12-03	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4851			Tim Anderson, Texas Biomedical Research Institute
+NHP4857	DS_2370d4695a	NHP4857			2012-12-19	2012-12-19	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4857			Tim Anderson, Texas Biomedical Research Institute
+OHP122	DS_2370d4695a	OHP122			2002-01-29	2002-01-29	1	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP122			Tim Anderson, Texas Biomedical Research Institute
+OHP133	DS_2370d4695a	OHP133			2002-03-10	2002-03-10	3	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP133			Tim Anderson, Texas Biomedical Research Institute
+OHP183	DS_2370d4695a	OHP183			2002-11-18	2002-11-18	11	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP183			Tim Anderson, Texas Biomedical Research Institute
+OHP189	DS_2370d4695a	OHP189			2002-12-12	2002-12-12	12	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP189			Tim Anderson, Texas Biomedical Research Institute
+OHP218	DS_2370d4695a	OHP218			2003-04-14	2003-04-14	4	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP218			Tim Anderson, Texas Biomedical Research Institute
+OHP263	DS_2370d4695a	OHP263			2003-07-29	2003-07-29	7	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP263			Tim Anderson, Texas Biomedical Research Institute
+OHP292	DS_2370d4695a	OHP292			2003-12-14	2003-12-14	12	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP292			Tim Anderson, Texas Biomedical Research Institute
+OHP295	DS_2370d4695a	OHP295			2003-12-25	2003-12-25	12	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP295			Tim Anderson, Texas Biomedical Research Institute
+OHP338	DS_2370d4695a	OHP338			2004-09-20	2004-09-20	9	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP338			Tim Anderson, Texas Biomedical Research Institute
+OHP355	DS_2370d4695a	OHP355			2004-12-28	2004-12-28	12	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP355			Tim Anderson, Texas Biomedical Research Institute
+NHP3068	DS_c8100da8dc	NHP3068			2008-12-04	2008-12-04	12	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3068			Tim Anderson, Texas Biomedical Research Institute
+NHP4104	DS_c8100da8dc	NHP4104			2008-03-20	2008-03-20	3	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4104			Tim Anderson, Texas Biomedical Research Institute
+NHP4203	DS_c8100da8dc	NHP4203			2008-06-09	2008-06-09	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4203			Tim Anderson, Texas Biomedical Research Institute
+NHP4303	DS_c8100da8dc	NHP4303			2008-09-17	2008-09-17	9	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4303			Tim Anderson, Texas Biomedical Research Institute
+NHP4311	DS_c8100da8dc	NHP4311			2008-09-29	2008-09-29	9	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4311			Tim Anderson, Texas Biomedical Research Institute
+NHP4315	DS_c8100da8dc	NHP4315			2008-10-04	2008-10-04	10	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4315			Tim Anderson, Texas Biomedical Research Institute
+NHP4775	DS_c8100da8dc	NHP4775			2012-03-12	2012-03-12	3	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4775			Tim Anderson, Texas Biomedical Research Institute
+NHP4776	DS_c8100da8dc	NHP4776			2012-03-31	2012-03-31	3	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4776			Tim Anderson, Texas Biomedical Research Institute
+NHP4782	DS_c8100da8dc	NHP4782			2012-04-16	2012-04-16	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4782			Tim Anderson, Texas Biomedical Research Institute
+NHP4815	DS_c8100da8dc	NHP4815			2012-05-31	2012-05-31	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4815			Tim Anderson, Texas Biomedical Research Institute
+NHP4830	DS_c8100da8dc	NHP4830			2012-06-19	2012-06-19	6	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4830			Tim Anderson, Texas Biomedical Research Institute
+OHP268	DS_c8100da8dc	OHP268			2003-08-07	2003-08-07	8	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP268			Tim Anderson, Texas Biomedical Research Institute
+OHP277	DS_c8100da8dc	OHP277			2003-10-06	2003-10-06	10	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP277			Tim Anderson, Texas Biomedical Research Institute
+OHP288	DS_c8100da8dc	OHP288			2003-12-08	2003-12-08	12	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP288			Tim Anderson, Texas Biomedical Research Institute
+OHP291	DS_c8100da8dc	OHP291			2003-12-12	2003-12-12	12	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP291			Tim Anderson, Texas Biomedical Research Institute
+OHP300	DS_c8100da8dc	OHP300			2004-01-17	2004-01-17	1	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP300			Tim Anderson, Texas Biomedical Research Institute
+OHP304	DS_c8100da8dc	OHP304			2004-03-06	2004-03-06	3	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP304			Tim Anderson, Texas Biomedical Research Institute
+OHP92	DS_c8100da8dc	OHP92			2001-11-22	2001-11-22	11	2001		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP92			Tim Anderson, Texas Biomedical Research Institute
+NHP3020	DS_762c8118e1	NHP3020			2008-05-27	2008-05-27	5	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3020			Tim Anderson, Texas Biomedical Research Institute
+NHP3036	DS_762c8118e1	NHP3036			2008-07-21	2008-07-21	7	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3036			Tim Anderson, Texas Biomedical Research Institute
+NHP3044	DS_762c8118e1	NHP3044			2008-08-09	2008-08-09	8	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3044			Tim Anderson, Texas Biomedical Research Institute
+NHP3056	DS_762c8118e1	NHP3056			2008-10-01	2008-10-01	10	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3056			Tim Anderson, Texas Biomedical Research Institute
+NHP3059	DS_762c8118e1	NHP3059			2008-10-26	2008-10-26	10	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3059			Tim Anderson, Texas Biomedical Research Institute
+NHP3065	DS_762c8118e1	NHP3065			2008-11-14	2008-11-14	11	2008		Thailand		Maela	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP3065			Tim Anderson, Texas Biomedical Research Institute
+NHP4049	DS_762c8118e1	NHP4049			2008-01-05	2008-01-05	1	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4049			Tim Anderson, Texas Biomedical Research Institute
+NHP4080	DS_762c8118e1	NHP4080			2008-02-18	2008-02-18	2	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4080			Tim Anderson, Texas Biomedical Research Institute
+NHP4085	DS_762c8118e1	NHP4085			2008-02-26	2008-02-26	2	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4085			Tim Anderson, Texas Biomedical Research Institute
+NHP4101	DS_762c8118e1	NHP4101			2008-03-17	2008-03-17	3	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4101			Tim Anderson, Texas Biomedical Research Institute
+NHP4126	DS_762c8118e1	NHP4126			2008-04-08	2008-04-08	4	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4126			Tim Anderson, Texas Biomedical Research Institute
+NHP4155	DS_762c8118e1	NHP4155			2008-05-16	2008-05-16	5	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4155			Tim Anderson, Texas Biomedical Research Institute
+NHP4187	DS_762c8118e1	NHP4187			2008-06-02	2008-06-02	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4187			Tim Anderson, Texas Biomedical Research Institute
+NHP4188	DS_762c8118e1	NHP4188			2008-06-02	2008-06-02	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4188			Tim Anderson, Texas Biomedical Research Institute
+NHP4193	DS_762c8118e1	NHP4193			2008-06-03	2008-06-03	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4193			Tim Anderson, Texas Biomedical Research Institute
+NHP4196	DS_762c8118e1	NHP4196			2008-06-05	2008-06-05	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4196			Tim Anderson, Texas Biomedical Research Institute
+NHP4212	DS_762c8118e1	NHP4212			2008-06-11	2008-06-11	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4212			Tim Anderson, Texas Biomedical Research Institute
+NHP4215	DS_762c8118e1	NHP4215			2008-06-13	2008-06-13	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4215			Tim Anderson, Texas Biomedical Research Institute
+NHP4224	DS_762c8118e1	NHP4224			2008-06-23	2008-06-23	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4224			Tim Anderson, Texas Biomedical Research Institute
+NHP4234	DS_762c8118e1	NHP4234			2008-06-27	2008-06-27	6	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4234			Tim Anderson, Texas Biomedical Research Institute
+NHP4269	DS_762c8118e1	NHP4269			2008-07-29	2008-07-29	7	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4269			Tim Anderson, Texas Biomedical Research Institute
+NHP4278	DS_762c8118e1	NHP4278			2008-08-07	2008-08-07	8	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4278			Tim Anderson, Texas Biomedical Research Institute
+NHP4323	DS_762c8118e1	NHP4323			2008-10-13	2008-10-13	10	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4323			Tim Anderson, Texas Biomedical Research Institute
+NHP4332	DS_762c8118e1	NHP4332			2008-10-29	2008-10-29	10	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4332			Tim Anderson, Texas Biomedical Research Institute
+NHP4371	DS_762c8118e1	NHP4371			2008-12-12	2008-12-12	12	2008		Thailand		Wang Pha	Malaria	Middle	blood	Homo sapiens		Plasmodium falciparum		NHP4371			Tim Anderson, Texas Biomedical Research Institute
+NHP4798	DS_762c8118e1	NHP4798			2012-05-02	2012-05-02	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4798			Tim Anderson, Texas Biomedical Research Institute
+OHP111	DS_762c8118e1	OHP111			2001-12-29	2001-12-29	12	2001		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP111			Tim Anderson, Texas Biomedical Research Institute
+OHP121	DS_762c8118e1	OHP121			2002-01-29	2002-01-29	1	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP121			Tim Anderson, Texas Biomedical Research Institute
+OHP124	DS_762c8118e1	OHP124			2002-01-31	2002-01-31	1	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP124			Tim Anderson, Texas Biomedical Research Institute
+OHP1523	DS_762c8118e1	OHP1523			2004-05-02	2004-05-02	5	2004		Thailand		Wang Pha	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP1523			Tim Anderson, Texas Biomedical Research Institute
+OHP1524	DS_762c8118e1	OHP1524			2004-05-14	2004-05-14	5	2004		Thailand		Wang Pha	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP1524			Tim Anderson, Texas Biomedical Research Institute
+OHP1525	DS_762c8118e1	OHP1525			2004-05-15	2004-05-15	5	2004		Thailand		Wang Pha	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP1525			Tim Anderson, Texas Biomedical Research Institute
+OHP160	DS_762c8118e1	OHP160			2002-06-18	2002-06-18	6	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP160			Tim Anderson, Texas Biomedical Research Institute
+OHP182	DS_762c8118e1	OHP182			2002-11-11	2002-11-11	11	2002		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP182			Tim Anderson, Texas Biomedical Research Institute
+OHP259	DS_762c8118e1	OHP259			2003-07-19	2003-07-19	7	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP259			Tim Anderson, Texas Biomedical Research Institute
+OHP275	DS_762c8118e1	OHP275			2003-09-19	2003-09-19	9	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP275			Tim Anderson, Texas Biomedical Research Institute
+OHP289	DS_762c8118e1	OHP289			2003-12-10	2003-12-10	12	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP289			Tim Anderson, Texas Biomedical Research Institute
+OHP293	DS_762c8118e1	OHP293			2003-12-14	2003-12-14	12	2003		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP293			Tim Anderson, Texas Biomedical Research Institute
+OHP337	DS_762c8118e1	OHP337			2004-09-16	2004-09-16	9	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP337			Tim Anderson, Texas Biomedical Research Institute
+OHP339	DS_762c8118e1	OHP339			2004-10-01	2004-10-01	10	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP339			Tim Anderson, Texas Biomedical Research Institute
+OHP341	DS_762c8118e1	OHP341			2004-10-08	2004-10-08	10	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP341			Tim Anderson, Texas Biomedical Research Institute
+OHP343	DS_762c8118e1	OHP343			2004-10-10	2004-10-10	10	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP343			Tim Anderson, Texas Biomedical Research Institute
+OHP345	DS_762c8118e1	OHP345			2004-10-18	2004-10-18	10	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP345			Tim Anderson, Texas Biomedical Research Institute
+OHP346	DS_762c8118e1	OHP346			2004-11-02	2004-11-02	11	2004		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP346			Tim Anderson, Texas Biomedical Research Institute
+OHP95	DS_762c8118e1	OHP95			2001-11-22	2001-11-22	11	2001		Thailand		Maela	Malaria	Early	blood	Homo sapiens		Plasmodium falciparum		OHP95			Tim Anderson, Texas Biomedical Research Institute
+NHP4765	DS_3d710b365a	NHP4765			2011-11-24	2011-11-24	11	2011		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4765			Tim Anderson, Texas Biomedical Research Institute
+NHP4783	DS_3d710b365a	NHP4783			2012-04-18	2012-04-18	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4783			Tim Anderson, Texas Biomedical Research Institute
+NHP4801	DS_3d710b365a	NHP4801			2012-05-14	2012-05-14	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4801			Tim Anderson, Texas Biomedical Research Institute
+NHP4832	DS_3d710b365a	NHP4832			2012-06-25	2012-06-25	6	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4832			Tim Anderson, Texas Biomedical Research Institute
+NHP4841	DS_3d710b365a	NHP4841			2012-08-08	2012-08-08	8	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4841			Tim Anderson, Texas Biomedical Research Institute
+NHP4898	DS_3d710b365a	NHP4898			2012-12-01	2012-12-01	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4898			Tim Anderson, Texas Biomedical Research Institute
+NHP3207	DS_9c3b46d06e	NHP3207			2012-07-05	2012-07-05	7	2012		Thailand		Maela	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP3207			Tim Anderson, Texas Biomedical Research Institute
+NHP4781	DS_9c3b46d06e	NHP4781			2012-04-14	2012-04-14	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4781			Tim Anderson, Texas Biomedical Research Institute
+NHP4788	DS_9c3b46d06e	NHP4788			2012-04-24	2012-04-24	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4788			Tim Anderson, Texas Biomedical Research Institute
+NHP4796	DS_9c3b46d06e	NHP4796			2012-05-02	2012-05-02	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4796			Tim Anderson, Texas Biomedical Research Institute
+NHP4826	DS_9c3b46d06e	NHP4826			2012-06-11	2012-06-11	6	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4826			Tim Anderson, Texas Biomedical Research Institute
+NHP4852	DS_9c3b46d06e	NHP4852			2012-12-03	2012-12-03	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4852			Tim Anderson, Texas Biomedical Research Institute
+NHP4855	DS_9c3b46d06e	NHP4855			2012-12-15	2012-12-15	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4855			Tim Anderson, Texas Biomedical Research Institute
+NHP4748	DS_999fbe4d7c	NHP4748			2011-07-15	2011-07-15	7	2011		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4748			Tim Anderson, Texas Biomedical Research Institute
+NHP4778	DS_999fbe4d7c	NHP4778			2012-04-06	2012-04-06	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4778			Tim Anderson, Texas Biomedical Research Institute
+NHP4779	DS_999fbe4d7c	NHP4779			2012-04-12	2012-04-12	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4779			Tim Anderson, Texas Biomedical Research Institute
+NHP4780	DS_999fbe4d7c	NHP4780			2012-04-13	2012-04-13	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4780			Tim Anderson, Texas Biomedical Research Institute
+NHP4800	DS_999fbe4d7c	NHP4800			2012-05-11	2012-05-11	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4800			Tim Anderson, Texas Biomedical Research Institute
+NHP4828	DS_999fbe4d7c	NHP4828			2012-06-13	2012-06-13	6	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4828			Tim Anderson, Texas Biomedical Research Institute
+NHP4829	DS_999fbe4d7c	NHP4829			2012-06-18	2012-06-18	6	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4829			Tim Anderson, Texas Biomedical Research Institute
+NHP4749	DS_e529032b28	NHP4749			2011-07-18	2011-07-18	7	2011		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4749			Tim Anderson, Texas Biomedical Research Institute
+NHP4764	DS_e529032b28	NHP4764			2011-11-14	2011-11-14	11	2011		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4764			Tim Anderson, Texas Biomedical Research Institute
+NHP4772	DS_e529032b28	NHP4772			2012-02-17	2012-02-17	2	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4772			Tim Anderson, Texas Biomedical Research Institute
+NHP4773	DS_e529032b28	NHP4773			2012-02-24	2012-02-24	2	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4773			Tim Anderson, Texas Biomedical Research Institute
+NHP4839	DS_e529032b28	NHP4839			2012-08-01	2012-08-01	8	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4839			Tim Anderson, Texas Biomedical Research Institute
+NHP4853	DS_e529032b28	NHP4853			2012-12-07	2012-12-07	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4853			Tim Anderson, Texas Biomedical Research Institute
+NHP4859	DS_e529032b28	NHP4859			2012-12-28	2012-12-28	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4859			Tim Anderson, Texas Biomedical Research Institute
+NHP3206	DS_77d69b8b78	NHP3206			2012-06-26	2012-06-26	6	2012		Thailand		Maela	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP3206			Tim Anderson, Texas Biomedical Research Institute
+NHP4795	DS_77d69b8b78	NHP4795			2012-05-01	2012-05-01	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4795			Tim Anderson, Texas Biomedical Research Institute
+NHP4810	DS_77d69b8b78	NHP4810			2012-05-28	2012-05-28	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4810			Tim Anderson, Texas Biomedical Research Institute
+NHP4811	DS_77d69b8b78	NHP4811			2012-05-28	2012-05-28	5	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4811			Tim Anderson, Texas Biomedical Research Institute
+NHP4840	DS_77d69b8b78	NHP4840			2012-08-07	2012-08-07	8	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4840			Tim Anderson, Texas Biomedical Research Institute
+NHP4843	DS_77d69b8b78	NHP4843			2012-08-22	2012-08-22	8	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4843			Tim Anderson, Texas Biomedical Research Institute
+NHP4850	DS_77d69b8b78	NHP4850			2012-12-03	2012-12-03	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4850			Tim Anderson, Texas Biomedical Research Institute
+NHP4761	DS_4f1c5793e1	NHP4761			2011-09-27	2011-09-27	9	2011		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4761			Tim Anderson, Texas Biomedical Research Institute
+NHP4791	DS_4f1c5793e1	NHP4791			2012-04-27	2012-04-27	4	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4791			Tim Anderson, Texas Biomedical Research Institute
+NHP4827	DS_4f1c5793e1	NHP4827			2012-06-11	2012-06-11	6	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4827			Tim Anderson, Texas Biomedical Research Institute
+NHP4834	DS_4f1c5793e1	NHP4834			2012-07-03	2012-07-03	7	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4834			Tim Anderson, Texas Biomedical Research Institute
+NHP4835	DS_4f1c5793e1	NHP4835			2012-07-07	2012-07-07	7	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4835			Tim Anderson, Texas Biomedical Research Institute
+NHP4848	DS_4f1c5793e1	NHP4848			2012-11-20	2012-11-20	11	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4848			Tim Anderson, Texas Biomedical Research Institute
+NHP4854	DS_4f1c5793e1	NHP4854			2012-12-11	2012-12-11	12	2012		Thailand		Wang Pha	Malaria	Late	blood	Homo sapiens		Plasmodium falciparum		NHP4854			Tim Anderson, Texas Biomedical Research Institute
+B082	DS_26033fb6df	B082				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B082		blood	
+B083	DS_26033fb6df	B083				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B083		blood	
+B084	DS_26033fb6df	B084				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B084		blood	
+B085	DS_26033fb6df	B085				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B085		blood	
+B088	DS_26033fb6df	B088				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B088		blood	
+B101	DS_26033fb6df	B101				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B101		blood	
+B102	DS_26033fb6df	B102				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B102		blood	
+B124	DS_26033fb6df	B124				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B124		blood	
+B126	DS_26033fb6df	B126				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B126		blood	
+B144	DS_26033fb6df	B144				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B144		blood	
+B146	DS_26033fb6df	B146				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B146		blood	
+B156	DS_26033fb6df	B156				1998		1998	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum B156		blood	
+C006	DS_26033fb6df	C006				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C006		blood	
+C025	DS_26033fb6df	C025				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C025		blood	
+C028	DS_26033fb6df	C028				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C028		blood	
+C041	DS_26033fb6df	C041				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C041		blood	
+C044	DS_26033fb6df	C044				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C044		blood	
+C060	DS_26033fb6df	C060				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C060		blood	
+C064	DS_26033fb6df	C064				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C064		blood	
+C065	DS_26033fb6df	C065				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C065		blood	
+C066	DS_26033fb6df	C066				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C066		blood	
+C067	DS_26033fb6df	C067				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C067		blood	
+C079	DS_26033fb6df	C079				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C079		blood	
+C085	DS_26033fb6df	C085				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C085		blood	
+C089	DS_26033fb6df	C089				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C089		blood	
+C098	DS_26033fb6df	C098				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C098		blood	
+C101	DS_26033fb6df	C101				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C101		blood	
+C109	DS_26033fb6df	C109				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C109		blood	
+C114	DS_26033fb6df	C114				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C114		blood	
+C147	DS_26033fb6df	C147				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C147		blood	
+C216	DS_26033fb6df	C216				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C216		blood	
+C223	DS_26033fb6df	C223				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C223		blood	
+C225	DS_26033fb6df	C225				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C225		blood	
+C229	DS_26033fb6df	C229				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C229		blood	
+D003	DS_26033fb6df	D003				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D003		blood	
+D011	DS_26033fb6df	D011				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D011		blood	
+D016	DS_26033fb6df	D016				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D016		blood	
+D017	DS_26033fb6df	D017				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D017		blood	
+D019	DS_26033fb6df	D019				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D019		blood	
+D021	DS_26033fb6df	D021				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D021		blood	
+D030	DS_26033fb6df	D030				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D030		blood	
+D041	DS_26033fb6df	D041				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D041		blood	
+D047	DS_26033fb6df	D047				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D047		blood	
+D048	DS_26033fb6df	D048				2000		2000	South America	French Guiana	19					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D048		blood	
+D050	DS_26033fb6df	D050				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D050		blood	
+D059	DS_26033fb6df	D059				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D059		blood	
+D061	DS_26033fb6df	D061				2000		2000	South America	French Guiana	10					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D061		blood	
+D062	DS_26033fb6df	D062				2000		2000	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum D062		blood	
+G041	DS_6a903b379b	G041				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G041		blood	
+G097	DS_6a903b379b	G097				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G097		culture	
+G107	DS_6a903b379b	G107				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G107		culture	
+G129	DS_6a903b379b	G129				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G129		blood	
+G167	DS_6a903b379b	G167				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G167		culture	
+G173	DS_6a903b379b	G173				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G173		blood	
+G191	DS_6a903b379b	G191				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G191		culture	
+G197	DS_6a903b379b	G197				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G197		blood	
+G213	DS_6a903b379b	G213				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G213		blood	
+G230	DS_6a903b379b	G230				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G230		culture	
+G234	DS_6a903b379b	G234				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G234		blood	
+G248	DS_6a903b379b	G248				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G248		blood	
+G252	DS_6a903b379b	G252				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G252		blood	
+G255	DS_6a903b379b	G255				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G255		blood	
+G268	DS_6a903b379b	G268				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G268		blood	
+G284	DS_6a903b379b	G284				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G284		blood	
+G286	DS_6a903b379b	G286				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G286		blood	
+G315	DS_6a903b379b	G315				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G315		blood	
+G318	DS_6a903b379b	G318				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G318		blood	
+G325	DS_6a903b379b	G325				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G325		blood	
+G348	DS_6a903b379b	G348				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G348		blood	
+G353	DS_6a903b379b	G353				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G353		blood	
+G608	DS_6a903b379b	G608				2003		2003	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum G608		blood	
+H034	DS_6a903b379b	H034				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H034		blood	
+H053	DS_6a903b379b	H053				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H053		blood	
+H058	DS_6a903b379b	H058				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H058		blood	
+H068	DS_6a903b379b	H068				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H068		blood	
+H085	DS_6a903b379b	H085				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H085		blood	
+H097	DS_6a903b379b	H097				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H097		blood	
+H203	DS_6a903b379b	H203				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H203		blood	
+H222	DS_6a903b379b	H222				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H222		blood	
+H297	DS_6a903b379b	H297				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H297		blood	
+H301	DS_6a903b379b	H301				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H301		blood	
+I004	DS_6a903b379b	I004				2005		2005	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I004		blood	
+I009	DS_6a903b379b	I009				2005		2005	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I009		blood	
+I037	DS_6a903b379b	I037				2005		2005	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I037		blood	
+I044	DS_6a903b379b	I044				2005		2005	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I044		blood	
+I091	DS_6a903b379b	I091				2005		2005	South America	French Guiana	76					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I091		blood	
+I100	DS_6a903b379b	I100				2005		2005	South America	French Guiana	43					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I100		blood	
+I129	DS_6a903b379b	I129				2005		2005	South America	French Guiana	39					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I129		blood	
+I171	DS_6a903b379b	I171				2005		2005	South America	French Guiana	35					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I171		blood	
+L120	DS_6a903b379b	L120				2008		2008	South America	French Guiana	26					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L120		blood	
+L177	DS_6a903b379b	L177				2008		2008	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L177		blood	
+L234	DS_6a903b379b	L234				2008		2008	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L234		blood	
+L259	DS_6a903b379b	L259				2008		2008	South America	French Guiana	41					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L259		blood	
+L264	DS_6a903b379b	L264				2008		2008	South America	French Guiana	20					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L264		blood	
+L265	DS_6a903b379b	L265				2008		2008	South America	French Guiana	68					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L265		blood	
+L333	DS_6a903b379b	L333				2008		2008	South America	French Guiana	10					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L333		blood	
+L340	DS_b0dbe79d12	L340				2008		2008	South America	French Guiana	14					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L340		blood	
+L377	DS_b0dbe79d12	L377				2008		2008	South America	French Guiana	59					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L377		blood	
+L391	DS_b0dbe79d12	L391				2008		2008	South America	French Guiana	21					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L391		blood	
+L398	DS_b0dbe79d12	L398				2008		2008	South America	French Guiana	38					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L398		blood	
+L418	DS_b0dbe79d12	L418				2008		2008	South America	French Guiana	36					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L418		blood	
+L445	DS_b0dbe79d12	L445				2008		2008	South America	French Guiana	11					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L445		blood	
+L470	DS_b0dbe79d12	L470				2008		2008	South America	French Guiana	22					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum L470		blood	
+M166	DS_b0dbe79d12	M166				2009		2009	South America	French Guiana	40					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M166		culture	
+M196	DS_b0dbe79d12	M196				2009		2009	South America	French Guiana	22					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M196		culture	
+M204	DS_b0dbe79d12	M204				2009		2009	South America	French Guiana	80					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M204		culture	
+M212	DS_b0dbe79d12	M212				2009		2009	South America	French Guiana	11					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M212		blood	
+M213	DS_b0dbe79d12	M213				2009		2009	South America	French Guiana	9					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M213		culture	
+M236	DS_b0dbe79d12	M236				2009		2009	South America	French Guiana	7					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M236		culture	
+M238	DS_b0dbe79d12	M238				2009		2009	South America	French Guiana	10					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M238		culture	
+M283	DS_b0dbe79d12	M283				2009		2009	South America	French Guiana	24					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M283		blood	
+M319	DS_b0dbe79d12	M319				2009		2009	South America	French Guiana	14					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum M319		blood	
+Q261	DS_b0dbe79d12	Q261				2010		2010	South America	French Guiana	52					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum Q261		culture	
+Q280_A	DS_b0dbe79d12	Q280_A				2013		2013	South America	French Guiana	39					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum Q280_A		culture	
+Q301	DS_b0dbe79d12	Q301				2013		2013	South America	French Guiana	58					Homo sapiens		Plasmodium falciparum		Plasmodium falciparum Q301		culture	
+Q314	DS_b0dbe79d12	Q314				2013		2013	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum Q314		culture	
+Q322	DS_b0dbe79d12	Q322				2013		2013	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum Q322		culture	
+Q335	DS_b0dbe79d12	Q335				2013		2013	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum Q335		culture	
+R001	DS_b0dbe79d12	R001				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R001		culture	
+R073	DS_b0dbe79d12	R073				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R073		culture	
+R075J3	DS_b0dbe79d12	R075J3				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R075J3		culture	
+R090	DS_b0dbe79d12	R090				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R090		culture	
+R102	DS_b0dbe79d12	R102				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R102		culture	
+R128	DS_b0dbe79d12	R128				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R128		culture	
+R131	DS_b0dbe79d12	R131				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R131		culture	
+R131J36	DS_b0dbe79d12	R131J36				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R131J36		culture	
+R226	DS_b0dbe79d12	R226				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R226		culture	
+R235	DS_b0dbe79d12	R235				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R235		culture	
+R274	DS_b0dbe79d12	R274				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R274		culture	
+R368	DS_b0dbe79d12	R368				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R368		culture	
+R369J11	DS_b0dbe79d12	R369J11				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R369J11		culture	
+R373	DS_b0dbe79d12	R373				2014		2014	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum R373		culture	
+S001	DS_b0dbe79d12	S001				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S001		culture	
+S008	DS_b0dbe79d12	S008				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S008		culture	
+S046	DS_b0dbe79d12	S046				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S046		culture	
+S080	DS_b0dbe79d12	S080				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S080		culture	
+S083	DS_b0dbe79d12	S083				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S083		culture	
+S085	DS_b0dbe79d12	S085				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S085		culture	
+S091	DS_b0dbe79d12	S091				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S091		culture	
+S158	DS_b0dbe79d12	S158				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S158		culture	
+S167	DS_b0dbe79d12	S167				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S167		culture	
+S170	DS_b0dbe79d12	S170				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S170		culture	
+S178J24	DS_b0dbe79d12	S178J24				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S178J24		culture	
+S294	DS_b0dbe79d12	S294				2015		2015	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum S294		culture	
+C072	DS_a435810166	C072				1999		1999	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum C072		blood	
+H137	DS_a435810166	H137				2004		2004	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum H137		blood	
+I001	DS_a435810166	I001				2005		2005	South America	French Guiana						Homo sapiens		Plasmodium falciparum		Plasmodium falciparum I001		blood	
+3D7_WTSI	DS_1d0e31572c	3D7_WTSI								Netherlands								Plasmodium falciparum		Plasmodium falciparum 3D7			
+7G8_WTSI	DS_1d0e31572c	7G8_WTSI								Brazil								Plasmodium falciparum		Plasmodium falciparum 7G8			
+CD01	DS_1d0e31572c	CD01								Congo								Plasmodium falciparum		Plasmodium falciparum CD01			
+DD2_WTSI	DS_1d0e31572c	DD2_WTSI								Thailand								Plasmodium falciparum		Plasmodium falciparum DD2			
+GA01	DS_1d0e31572c	GA01								Gabon								Plasmodium falciparum		Plasmodium falciparum GA01			
+GB4_WTSI	DS_1d0e31572c	GB4_WTSI								Ghana								Plasmodium falciparum		Plasmodium falciparum GB4			
+GN01	DS_1d0e31572c	GN01								Guinea								Plasmodium falciparum		Plasmodium falciparum GN01			
+HB3_WTSI	DS_1d0e31572c	HB3_WTSI								Honduras								Plasmodium falciparum		Plasmodium falciparum HB3			
+IT_WTSI	DS_1d0e31572c	IT_WTSI								Ghana								Plasmodium falciparum		Plasmodium falciparum IT			
+KE01	DS_1d0e31572c	KE01								Kenya								Plasmodium falciparum		Plasmodium falciparum KE01			
+KH01	DS_1d0e31572c	KH01								Cambodia								Plasmodium falciparum		Plasmodium falciparum KH01			
+KH02	DS_1d0e31572c	KH02								Cambodia								Plasmodium falciparum		Plasmodium falciparum KH02			
+ML01	DS_1d0e31572c	ML01								Mali								Plasmodium falciparum		Plasmodium falciparum ML01			
+SD01	DS_1d0e31572c	SD01								Sudan								Plasmodium falciparum		Plasmodium falciparum SD01			
+SN01	DS_1d0e31572c	SN01								Senegal								Plasmodium falciparum		Plasmodium falciparum SN01			
+TG01	DS_1d0e31572c	TG01								Togo								Plasmodium falciparum		Plasmodium falciparum TG01			
+303.1	DS_d8e882ad56	303.1	6 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 2	Plasmodium falciparum		Plasmodium falciparum 303.1	female	blood	
+309.1	DS_d8e882ad56	309.1	2 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 3	Plasmodium falciparum		Plasmodium falciparum 309.1	male	blood	
+318.1	DS_d8e882ad56	318.1	7 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 4	Plasmodium falciparum		Plasmodium falciparum 318.1	male	blood	
+326.1	DS_d8e882ad56	326.1	5 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 5	Plasmodium falciparum		Plasmodium falciparum 326.1	female	blood	
+327.1	DS_d8e882ad56	327.1	6 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 6	Plasmodium falciparum		Plasmodium falciparum 327.1	male	blood	
+365.1	DS_d8e882ad56	365.1	1 year			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 7	Plasmodium falciparum		Plasmodium falciparum 365.1	female	blood	
+366.1	DS_d8e882ad56	366.1	5 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 8	Plasmodium falciparum		Plasmodium falciparum 366.1	male	blood	
+377.1	DS_d8e882ad56	377.1	2 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 9	Plasmodium falciparum		Plasmodium falciparum 377.1	female	blood	
+383.1	DS_d8e882ad56	383.1	3 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 10	Plasmodium falciparum		Plasmodium falciparum 383.1	male	blood	
+397.1	DS_d8e882ad56	397.1	3 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 11	Plasmodium falciparum		Plasmodium falciparum 397.1	male	blood	
+398.1	DS_d8e882ad56	398.1	4 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 12	Plasmodium falciparum		Plasmodium falciparum 398.1	female	blood	
+58.1	DS_d8e882ad56	58.1	2 years			2010		2010		Mali			Symptomatic episode			human	EUSTDY0011 Subject 1	Plasmodium falciparum		Plasmodium falciparum 58.1	female	blood	
+7G8	DS_fa2e377b4f	7G8								Brazil						human	EUSTDY0012 Subject 1	Plasmodium falciparum	Pyrimethamine and Cloroquine resistant	Plasmodium falciparum 7G8		specimen from organism	
+CS2	DS_fa2e377b4f	CS2								Brazil						human	EUSTDY0012 Subject 2	Plasmodium falciparum		Plasmodium falciparum CS2		specimen from organism	
+Dd2-2	DS_fa2e377b4f	Dd2-2								Laos		Indochina				human	EUSTDY0012 Subject 6	Plasmodium falciparum	Pyrimethamine, Mefloquine and Cloroquine resistant	Plasmodium falciparum Dd2-2		specimen from organism	
+GB4	DS_fa2e377b4f	GB4				2001		2001		Ghana						human	EUSTDY0012 Subject 3	Plasmodium falciparum	Cloroquine resistant	Plasmodium falciparum GB4		specimen from organism	
+HB3	DS_fa2e377b4f	HB3								Honduras						human	EUSTDY0012 Subject 7	Plasmodium falciparum	Pyrimethamine resistant, Cloroquine sensitive	Plasmodium falciparum HB3		specimen from organism	
+IT	DS_fa2e377b4f	IT				1979		1979		Brazil						human	EUSTDY0012 Subject 8	Plasmodium falciparum		Plasmodium falciparum IT		specimen from organism	
+T9_94	DS_fa2e377b4f	T9_94								Thailand						human	EUSTDY0012 Subject 4	Plasmodium falciparum		Plasmodium falciparum T9_94		specimen from organism	
+V1_S	DS_fa2e377b4f	V1_S				1980		1980		Vietnam						human	EUSTDY0012 Subject 5	Plasmodium falciparum		Plasmodium falciparum V1_S		specimen from organism	
+707A	DS_f41a7298ee	707A														human	EUSTDY0015 Subject 2	Plasmodium falciparum		Plasmodium falciparum 707A		specimen from organism	
+Dd2-1	DS_f41a7298ee	Dd2-1								Laos		Indochina				human	EUSTDY0015 Subject 1	Plasmodium falciparum	Pyrimethamine, Mefloquine and Cloroquine resistant	Plasmodium falciparum Dd2-1		specimen from organism	

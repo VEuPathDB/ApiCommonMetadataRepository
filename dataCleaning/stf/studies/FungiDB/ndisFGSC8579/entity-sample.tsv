@@ -1,0 +1,149 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	alternative_sample_id	fungal_genotype	fungal_strain	fungus_organism	mating_type	specimen
+FGSC10013	DS_c51f705fa8	FGSC10013	Nd53	ecotype	Neurospora discreta FGSC10013	Neurospora discreta	A	mycelia
+FGSC10025	DS_c51f705fa8	FGSC10025	Nd55	ecotype	Neurospora discreta FGSC10025	Neurospora discreta	a	mycelia
+FGSC8560	DS_c51f705fa8	FGSC8560	Nd29	ecotype	Neurospora discreta FGSC8560	Neurospora discreta	a	mycelia
+FGSC8561	DS_c51f705fa8	FGSC8561	Nd30	ecotype	Neurospora discreta FGSC8561	Neurospora discreta	A	mycelia
+FGSC8572	DS_c51f705fa8	FGSC8572	Nd24	ecotype	Neurospora discreta FGSC8572	Neurospora discreta	a	mycelia
+FGSC8992	DS_c51f705fa8	FGSC8992	Nd26	ecotype	Neurospora discreta FGSC8992	Neurospora discreta	a	mycelia
+FGSC8995	DS_c51f705fa8	FGSC8995	Nd28	ecotype	Neurospora discreta FGSC8995	Neurospora discreta	a	mycelia
+FGSC9977	DS_c51f705fa8	FGSC9977	Nd31	ecotype	Neurospora discreta FGSC9977	Neurospora discreta	a	mycelia
+FGSC9978	DS_c51f705fa8	FGSC9978	Nd32	ecotype	Neurospora discreta FGSC9978	Neurospora discreta	a	mycelia
+FGSC9980	DS_c51f705fa8	FGSC9980	Nd34	ecotype	Neurospora discreta FGSC9980	Neurospora discreta	A	mycelia
+FGSC9981	DS_c51f705fa8	FGSC9981	Nd35	ecotype	Neurospora discreta FGSC9981	Neurospora discreta	a	mycelia
+N309-12	DS_c51f705fa8	N309-12	Nd67	F1 progeny	Neurospora discreta N309-12	Neurospora discreta	?	mycelia
+N309-14	DS_c51f705fa8	N309-14	Nd69	F1 progeny	Neurospora discreta N309-14	Neurospora discreta	?	mycelia
+N309-16	DS_c51f705fa8	N309-16	Nd71	F1 progeny	Neurospora discreta N309-16	Neurospora discreta	?	mycelia
+N309-18	DS_c51f705fa8	N309-18	Nd73	F1 progeny	Neurospora discreta N309-18	Neurospora discreta	?	mycelia
+N309-2	DS_c51f705fa8	N309-2	Nd57	F1 progeny	Neurospora discreta N309-2	Neurospora discreta	?	mycelia
+N309-20	DS_c51f705fa8	N309-20	Nd75	F1 progeny	Neurospora discreta N309-20	Neurospora discreta	?	mycelia
+N309-21	DS_c51f705fa8	N309-21	Nd76	F1 progeny	Neurospora discreta N309-21	Neurospora discreta	?	mycelia
+N309-23	DS_c51f705fa8	N309-23	Nd78	F1 progeny	Neurospora discreta N309-23	Neurospora discreta	?	mycelia
+N309-25	DS_c51f705fa8	N309-25	Nd80	F1 progeny	Neurospora discreta N309-25	Neurospora discreta	?	mycelia
+N309-27	DS_c51f705fa8	N309-27	Nd82	F1 progeny	Neurospora discreta N309-27	Neurospora discreta	?	mycelia
+N309-3	DS_c51f705fa8	N309-3	Nd58	F1 progeny	Neurospora discreta N309-3	Neurospora discreta	?	mycelia
+N309-32	DS_c51f705fa8	N309-32	Nd87	F1 progeny	Neurospora discreta N309-32	Neurospora discreta	?	mycelia
+N309-34	DS_c51f705fa8	N309-34	Nd89	F1 progeny	Neurospora discreta N309-34	Neurospora discreta	?	mycelia
+N309-36	DS_c51f705fa8	N309-36	Nd91	F1 progeny	Neurospora discreta N309-36	Neurospora discreta	?	mycelia
+N309-39	DS_c51f705fa8	N309-39	Nd94	F1 progeny	Neurospora discreta N309-39	Neurospora discreta	?	mycelia
+N309-4	DS_c51f705fa8	N309-4	Nd59	F1 progeny	Neurospora discreta N309-4	Neurospora discreta	?	mycelia
+N309-40	DS_c51f705fa8	N309-40	Nd95	F1 progeny	Neurospora discreta N309-40	Neurospora discreta	?	mycelia
+N309-41	DS_c51f705fa8	N309-41	Nd96	F1 progeny	Neurospora discreta N309-41	Neurospora discreta	?	mycelia
+N309-43	DS_c51f705fa8	N309-43	Nd98	F1 progeny	Neurospora discreta N309-43	Neurospora discreta	?	mycelia
+N309-48	DS_c51f705fa8	N309-48	Nd103	F1 progeny	Neurospora discreta N309-48	Neurospora discreta	?	mycelia
+N309-5	DS_c51f705fa8	N309-5	Nd60	F1 progeny	Neurospora discreta N309-5	Neurospora discreta	?	mycelia
+N309-50	DS_c51f705fa8	N309-50	Nd105	F1 progeny	Neurospora discreta N309-50	Neurospora discreta	?	mycelia
+N309-51	DS_c51f705fa8	N309-51	Nd106	F1 progeny	Neurospora discreta N309-51	Neurospora discreta	?	mycelia
+N309-53	DS_c51f705fa8	N309-53	Nd108	F1 progeny	Neurospora discreta N309-53	Neurospora discreta	?	mycelia
+N309-57	DS_c51f705fa8	N309-57	Nd113	F1 progeny	Neurospora discreta N309-57	Neurospora discreta	?	mycelia
+N309-6	DS_c51f705fa8	N309-6	Nd61	F1 progeny	Neurospora discreta N309-6	Neurospora discreta	?	mycelia
+N309-60	DS_c51f705fa8	N309-60	Nd115	F1 progeny	Neurospora discreta N309-60	Neurospora discreta	?	mycelia
+N309-61	DS_c51f705fa8	N309-61	Nd116	F1 progeny	Neurospora discreta N309-61	Neurospora discreta	?	mycelia
+N309-63	DS_c51f705fa8	N309-63	Nd118	F1 progeny	Neurospora discreta N309-63	Neurospora discreta	?	mycelia
+N309-65	DS_c51f705fa8	N309-65	Nd120	F1 progeny	Neurospora discreta N309-65	Neurospora discreta	?	mycelia
+N309-67	DS_c51f705fa8	N309-67	Nd122	F1 progeny	Neurospora discreta N309-67	Neurospora discreta	?	mycelia
+N309-69	DS_c51f705fa8	N309-69	Nd124	F1 progeny	Neurospora discreta N309-69	Neurospora discreta	?	mycelia
+N309-7	DS_c51f705fa8	N309-7	Nd62	F1 progeny	Neurospora discreta N309-7	Neurospora discreta	?	mycelia
+N309-72	DS_c51f705fa8	N309-72	Nd127	F1 progeny	Neurospora discreta N309-72	Neurospora discreta	?	mycelia
+N309-74	DS_c51f705fa8	N309-74	Nd129	F1 progeny	Neurospora discreta N309-74	Neurospora discreta	?	mycelia
+N309-76	DS_c51f705fa8	N309-76	Nd131	F1 progeny	Neurospora discreta N309-76	Neurospora discreta	?	mycelia
+N309-78	DS_c51f705fa8	N309-78	Nd133	F1 progeny	Neurospora discreta N309-78	Neurospora discreta	?	mycelia
+N309-8	DS_c51f705fa8	N309-8	Nd63	F1 progeny	Neurospora discreta N309-8	Neurospora discreta	?	mycelia
+N309-9	DS_c51f705fa8	N309-9	Nd64	F1 progeny	Neurospora discreta N309-9	Neurospora discreta	?	mycelia
+D71	DS_7d2af1e03a	D71	Nd150	ecotype	Neurospora discreta D71	Neurospora discreta	?	mycelia
+FGSC10011	DS_7d2af1e03a	FGSC10011	Nd51	ecotype	Neurospora discreta FGSC10011	Neurospora discreta	a	mycelia
+FGSC8565	DS_7d2af1e03a	FGSC8565	Nd22	ecotype	Neurospora discreta FGSC8565	Neurospora discreta	A	mycelia
+FGSC8568	DS_7d2af1e03a	FGSC8568	Nd21	ecotype	Neurospora discreta FGSC8568	Neurospora discreta	a	mycelia
+FGSC8578	DS_7d2af1e03a	FGSC8578	Nd48	ecotype	Neurospora discreta FGSC8578	Neurospora discreta	a	mycelia
+FGSC8777	DS_7d2af1e03a	FGSC8777	Nd1	ecotype	Neurospora discreta FGSC8777	Neurospora discreta	A	mycelia
+FGSC8797	DS_7d2af1e03a	FGSC8797	Nd3	ecotype	Neurospora discreta FGSC8797	Neurospora discreta	a	mycelia
+FGSC8814	DS_7d2af1e03a	FGSC8814	Nd4	ecotype	Neurospora discreta FGSC8814	Neurospora discreta	a	mycelia
+FGSC9944	DS_7d2af1e03a	FGSC9944	Nd2	ecotype	Neurospora discreta FGSC9944	Neurospora discreta	a	mycelia
+FGSC9955	DS_7d2af1e03a	FGSC9955	Nd7	ecotype	Neurospora discreta FGSC9955	Neurospora discreta	a	mycelia
+FGSC9956	DS_7d2af1e03a	FGSC9956	Nd8	ecotype	Neurospora discreta FGSC9956	Neurospora discreta	a	mycelia
+FGSC9965	DS_7d2af1e03a	FGSC9965	Nd11	ecotype	Neurospora discreta FGSC9965	Neurospora discreta	A	mycelia
+FGSC9967	DS_7d2af1e03a	FGSC9967	Nd13	ecotype	Neurospora discreta FGSC9967	Neurospora discreta	A	mycelia
+FGSC9969	DS_7d2af1e03a	FGSC9969	Nd15	ecotype	Neurospora discreta FGSC9969	Neurospora discreta	a	mycelia
+FGSC9984	DS_7d2af1e03a	FGSC9984	Nd38	ecotype	Neurospora discreta FGSC9984	Neurospora discreta	a	mycelia
+FGSC9986	DS_7d2af1e03a	FGSC9986	Nd40	ecotype	Neurospora discreta FGSC9986	Neurospora discreta	a	mycelia
+FGSC9988	DS_7d2af1e03a	FGSC9988	Nd42	ecotype	Neurospora discreta FGSC9988	Neurospora discreta	a	mycelia
+FGSC9989	DS_7d2af1e03a	FGSC9989	Nd43	ecotype	Neurospora discreta FGSC9989	Neurospora discreta	A	mycelia
+FGSC9990	DS_7d2af1e03a	FGSC9990	Nd44	ecotype	Neurospora discreta FGSC9990	Neurospora discreta	A	mycelia
+FGSC9993	DS_7d2af1e03a	FGSC9993	Nd47	ecotype	Neurospora discreta FGSC9993	Neurospora discreta	A	mycelia
+N309-37	DS_7d2af1e03a	N309-37	Nd92	F1 progeny	Neurospora discreta N309-37	Neurospora discreta	?	mycelia
+N309-38	DS_7d2af1e03a	N309-38	Nd93	F1 progeny	Neurospora discreta N309-38	Neurospora discreta	?	mycelia
+N309-42	DS_7d2af1e03a	N309-42	Nd97	F1 progeny	Neurospora discreta N309-42	Neurospora discreta	?	mycelia
+N309-44	DS_7d2af1e03a	N309-44	Nd99	F1 progeny	Neurospora discreta N309-44	Neurospora discreta	?	mycelia
+N309-45	DS_7d2af1e03a	N309-45	Nd100	F1 progeny	Neurospora discreta N309-45	Neurospora discreta	?	mycelia
+N309-46	DS_7d2af1e03a	N309-46	Nd101	F1 progeny	Neurospora discreta N309-46	Neurospora discreta	?	mycelia
+N309-47	DS_7d2af1e03a	N309-47	Nd102	F1 progeny	Neurospora discreta N309-47	Neurospora discreta	?	mycelia
+N309-49	DS_7d2af1e03a	N309-49	Nd104	F1 progeny	Neurospora discreta N309-49	Neurospora discreta	?	mycelia
+N309-52	DS_7d2af1e03a	N309-52	Nd107	F1 progeny	Neurospora discreta N309-52	Neurospora discreta	?	mycelia
+N309-54	DS_7d2af1e03a	N309-54	Nd109	F1 progeny	Neurospora discreta N309-54	Neurospora discreta	?	mycelia
+N309-55	DS_7d2af1e03a	N309-55	Nd110	F1 progeny	Neurospora discreta N309-55	Neurospora discreta	?	mycelia
+N309-56	DS_7d2af1e03a	N309-56	Nd111	F1 progeny	Neurospora discreta N309-56	Neurospora discreta	?	mycelia
+N309-58	DS_7d2af1e03a	N309-58	Nd112	F1 progeny	Neurospora discreta N309-58	Neurospora discreta	?	mycelia
+N309-59	DS_7d2af1e03a	N309-59	Nd114	F1 progeny	Neurospora discreta N309-59	Neurospora discreta	?	mycelia
+N309-62	DS_7d2af1e03a	N309-62	Nd117	F1 progeny	Neurospora discreta N309-62	Neurospora discreta	?	mycelia
+N309-64	DS_7d2af1e03a	N309-64	Nd119	F1 progeny	Neurospora discreta N309-64	Neurospora discreta	?	mycelia
+N309-66	DS_7d2af1e03a	N309-66	Nd121	F1 progeny	Neurospora discreta N309-66	Neurospora discreta	?	mycelia
+N309-68	DS_7d2af1e03a	N309-68	Nd123	F1 progeny	Neurospora discreta N309-68	Neurospora discreta	?	mycelia
+N309-70	DS_7d2af1e03a	N309-70	Nd125	F1 progeny	Neurospora discreta N309-70	Neurospora discreta	?	mycelia
+N309-71	DS_7d2af1e03a	N309-71	Nd126	F1 progeny	Neurospora discreta N309-71	Neurospora discreta	?	mycelia
+N309-73	DS_7d2af1e03a	N309-73	Nd128	F1 progeny	Neurospora discreta N309-73	Neurospora discreta	?	mycelia
+N309-75	DS_7d2af1e03a	N309-75	Nd130	F1 progeny	Neurospora discreta N309-75	Neurospora discreta	?	mycelia
+N309-77	DS_7d2af1e03a	N309-77	Nd132	F1 progeny	Neurospora discreta N309-77	Neurospora discreta	?	mycelia
+N309-81	DS_7d2af1e03a	N309-81	Nd136	F1 progeny	Neurospora discreta N309-81	Neurospora discreta	?	mycelia
+N309-84	DS_7d2af1e03a	N309-84	Nd139	F1 progeny	Neurospora discreta N309-84	Neurospora discreta	?	mycelia
+N309-86	DS_7d2af1e03a	N309-86	Nd141	F1 progeny	Neurospora discreta N309-86	Neurospora discreta	?	mycelia
+N309-88	DS_7d2af1e03a	N309-88	Nd143	F1 progeny	Neurospora discreta N309-88	Neurospora discreta	?	mycelia
+N309-90	DS_7d2af1e03a	N309-90	Nd145	F1 progeny	Neurospora discreta N309-90	Neurospora discreta	?	mycelia
+N309-91	DS_7d2af1e03a	N309-91	Nd146	F1 progeny	Neurospora discreta N309-91	Neurospora discreta	?	mycelia
+FGSC10010	DS_f4720e6221	FGSC10010	Nd50	ecotype	Neurospora discreta FGSC10010	Neurospora discreta	a	mycelia
+FGSC10012	DS_f4720e6221	FGSC10012	Nd52	ecotype	Neurospora discreta FGSC10012	Neurospora discreta	a	mycelia
+FGSC10014	DS_f4720e6221	FGSC10014	Nd54	ecotype	Neurospora discreta FGSC10014	Neurospora discreta	A	mycelia
+FGSC8566	DS_f4720e6221	FGSC8566	Nd23	ecotype	Neurospora discreta FGSC8566	Neurospora discreta	a	mycelia
+FGSC8567	DS_f4720e6221	FGSC8567	Nd20	ecotype	Neurospora discreta FGSC8567	Neurospora discreta	A	mycelia
+FGSC8579_resequence1	DS_f4720e6221	FGSC8579_resequence1	Nd49	ecotype	Neurospora discreta FGSC8579_resequence1	Neurospora discreta	A	mycelia
+FGSC8831	DS_f4720e6221	FGSC8831	Nd5	ecotype	Neurospora discreta FGSC8831	Neurospora discreta	A	mycelia
+FGSC8906	DS_f4720e6221	FGSC8906	Nd6	ecotype	Neurospora discreta FGSC8906	Neurospora discreta	a	mycelia
+FGSC8991	DS_f4720e6221	FGSC8991	Nd25	ecotype	Neurospora discreta FGSC8991	Neurospora discreta	A	mycelia
+FGSC8994	DS_f4720e6221	FGSC8994	Nd27	ecotype	Neurospora discreta FGSC8994	Neurospora discreta	A	mycelia
+FGSC9957	DS_f4720e6221	FGSC9957	Nd9	ecotype	Neurospora discreta FGSC9957	Neurospora discreta	a	mycelia
+FGSC9963	DS_f4720e6221	FGSC9963	Nd10	ecotype	Neurospora discreta FGSC9963	Neurospora discreta	A	mycelia
+FGSC9966	DS_f4720e6221	FGSC9966	Nd12	ecotype	Neurospora discreta FGSC9966	Neurospora discreta	a	mycelia
+FGSC9968	DS_f4720e6221	FGSC9968	Nd14	ecotype	Neurospora discreta FGSC9968	Neurospora discreta	A	mycelia
+FGSC9970	DS_f4720e6221	FGSC9970	Nd16	ecotype	Neurospora discreta FGSC9970	Neurospora discreta	A	mycelia
+FGSC9972	DS_f4720e6221	FGSC9972	Nd17	ecotype	Neurospora discreta FGSC9972	Neurospora discreta	a	mycelia
+FGSC9973	DS_f4720e6221	FGSC9973	Nd18	ecotype	Neurospora discreta FGSC9973	Neurospora discreta	A	mycelia
+FGSC9974	DS_f4720e6221	FGSC9974	Nd19	ecotype	Neurospora discreta FGSC9974	Neurospora discreta	?	mycelia
+FGSC9979	DS_f4720e6221	FGSC9979	Nd33	ecotype	Neurospora discreta FGSC9979	Neurospora discreta	A	mycelia
+FGSC9982	DS_f4720e6221	FGSC9982	Nd36	ecotype	Neurospora discreta FGSC9982	Neurospora discreta	a	mycelia
+FGSC9983	DS_f4720e6221	FGSC9983	Nd37	ecotype	Neurospora discreta FGSC9983	Neurospora discreta	A	mycelia
+FGSC9985	DS_f4720e6221	FGSC9985	Nd39	ecotype	Neurospora discreta FGSC9985	Neurospora discreta	A	mycelia
+FGSC9987	DS_f4720e6221	FGSC9987	Nd41	ecotype	Neurospora discreta FGSC9987	Neurospora discreta	A	mycelia
+FGSC9991	DS_f4720e6221	FGSC9991	Nd45	ecotype	Neurospora discreta FGSC9991	Neurospora discreta	A	mycelia
+FGSC9992	DS_f4720e6221	FGSC9992	Nd46	ecotype	Neurospora discreta FGSC9992	Neurospora discreta	A	mycelia
+N309-1	DS_f4720e6221	N309-1	Nd56	F1 progeny	Neurospora discreta N309-1	Neurospora discreta	?	mycelia
+N309-10	DS_f4720e6221	N309-10	Nd65	F1 progeny	Neurospora discreta N309-10	Neurospora discreta	?	mycelia
+N309-11	DS_f4720e6221	N309-11	Nd66	F1 progeny	Neurospora discreta N309-11	Neurospora discreta	?	mycelia
+N309-13	DS_f4720e6221	N309-13	Nd68	F1 progeny	Neurospora discreta N309-13	Neurospora discreta	?	mycelia
+N309-15	DS_f4720e6221	N309-15	Nd70	F1 progeny	Neurospora discreta N309-15	Neurospora discreta	?	mycelia
+N309-17	DS_f4720e6221	N309-17	Nd72	F1 progeny	Neurospora discreta N309-17	Neurospora discreta	?	mycelia
+N309-19	DS_f4720e6221	N309-19	Nd74	F1 progeny	Neurospora discreta N309-19	Neurospora discreta	?	mycelia
+N309-22	DS_f4720e6221	N309-22	Nd77	F1 progeny	Neurospora discreta N309-22	Neurospora discreta	?	mycelia
+N309-24	DS_f4720e6221	N309-24	Nd79	F1 progeny	Neurospora discreta N309-24	Neurospora discreta	?	mycelia
+N309-26	DS_f4720e6221	N309-26	Nd81	F1 progeny	Neurospora discreta N309-26	Neurospora discreta	?	mycelia
+N309-28	DS_f4720e6221	N309-28	Nd83	F1 progeny	Neurospora discreta N309-28	Neurospora discreta	?	mycelia
+N309-29	DS_f4720e6221	N309-29	Nd84	F1 progeny	Neurospora discreta N309-29	Neurospora discreta	?	mycelia
+N309-30	DS_f4720e6221	N309-30	Nd85	F1 progeny	Neurospora discreta N309-30	Neurospora discreta	?	mycelia
+N309-31	DS_f4720e6221	N309-31	Nd86	F1 progeny	Neurospora discreta N309-31	Neurospora discreta	?	mycelia
+N309-33	DS_f4720e6221	N309-33	Nd88	F1 progeny	Neurospora discreta N309-33	Neurospora discreta	?	mycelia
+N309-35	DS_f4720e6221	N309-35	Nd90	F1 progeny	Neurospora discreta N309-35	Neurospora discreta	?	mycelia
+N309-79	DS_f4720e6221	N309-79	Nd134	F1 progeny	Neurospora discreta N309-79	Neurospora discreta	?	mycelia
+N309-80	DS_f4720e6221	N309-80	Nd135	F1 progeny	Neurospora discreta N309-80	Neurospora discreta	?	mycelia
+N309-82	DS_f4720e6221	N309-82	Nd137	F1 progeny	Neurospora discreta N309-82	Neurospora discreta	?	mycelia
+N309-83	DS_f4720e6221	N309-83	Nd138	F1 progeny	Neurospora discreta N309-83	Neurospora discreta	?	mycelia
+N309-85	DS_f4720e6221	N309-85	Nd140	F1 progeny	Neurospora discreta N309-85	Neurospora discreta	?	mycelia
+N309-87	DS_f4720e6221	N309-87	Nd142	F1 progeny	Neurospora discreta N309-87	Neurospora discreta	?	mycelia
+N309-89	DS_f4720e6221	N309-89	Nd144	F1 progeny	Neurospora discreta N309-89	Neurospora discreta	?	mycelia
+N309-92	DS_f4720e6221	N309-92	Nd147	F1 progeny	Neurospora discreta N309-92	Neurospora discreta	?	mycelia

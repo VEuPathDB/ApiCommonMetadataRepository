@@ -1,0 +1,84 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	country	culture_medium	fungal_strain	fungus_organism	geographic_location	health_status	isolation_source	organism	pulmonary_disorder	sample_collection_method	specimen_collector	state
+CNRMA_13.195	DS_93cdfd5345	CNRMA_13.195			France	PDA	CNRMA 13.195	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_13.197	DS_93cdfd5345	CNRMA_13.197			France	PDA	CNRMA 13.197	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_13.781	DS_93cdfd5345	CNRMA_13.781			France	PDA	CNRMA 13.781	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_15.21	DS_93cdfd5345	CNRMA_15.21			France	PDA	CNRMA 15.21	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_15.797	DS_93cdfd5345	CNRMA_15.797			France	PDA	CNRMA 15.797	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_18.189	DS_93cdfd5345	CNRMA_18.189			France	PDA	CNRMA 18.189	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_18.541	DS_93cdfd5345	CNRMA_18.541			France	PDA	CNRMA 18.541	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_18.657	DS_93cdfd5345	CNRMA_18.657			France	PDA	CNRMA 18.657	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_18.659	DS_93cdfd5345	CNRMA_18.659			France	PDA	CNRMA 18.659	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_18.89	DS_93cdfd5345	CNRMA_18.89			France	PDA	CNRMA 18.89	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_6.1116	DS_93cdfd5345	CNRMA_6.1116			France	PDA	CNRMA 6.1116	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_6.994	DS_93cdfd5345	CNRMA_6.994			France	PDA	CNRMA 6.994	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_7.844	DS_93cdfd5345	CNRMA_7.844			France	PDA	CNRMA 7.844	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_8.1117	DS_93cdfd5345	CNRMA_8.1117			France	PDA	CNRMA 8.1117	Aspergillus flavus			cornea	Homo sapiens				
+CNRMA_8.381	DS_93cdfd5345	CNRMA_8.381			France	PDA	CNRMA 8.381	Aspergillus flavus			cornea	Homo sapiens				
+NRZ-2016-084	DS_93cdfd5345	NRZ-2016-084	2016	2016	Germany		NRZ-2016-084	Aspergillus flavus			Sinus	Homo sapiens			NRZMyk	
+NRZ-2016-396	DS_93cdfd5345	NRZ-2016-396	2016	2016	Germany		NRZ-2016-396	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2017-104	DS_93cdfd5345	NRZ-2017-104	2017	2017	Germany		NRZ-2017-104	Aspergillus flavus			Deep wound	Homo sapiens			NRZMyk	
+NRZ-2017-123	DS_93cdfd5345	NRZ-2017-123	2017	2017	Germany		NRZ-2017-123	Aspergillus flavus			Tissue biopsy from spinal column	Homo sapiens		Tissue biopsy from spinal column	NRZMyk	
+NRZ-2017-203	DS_93cdfd5345	NRZ-2017-203	2017	2017	Germany		NRZ-2017-203	Aspergillus flavus			bronchoalveolar lavage	Homo sapiens		BAL	NRZMyk	
+NRZ-2017-236	DS_93cdfd5345	NRZ-2017-236	2017	2017	Germany		NRZ-2017-236	Aspergillus flavus			sputum	Homo sapiens			NRZMyk	
+NRZ-2017-296	DS_93cdfd5345	NRZ-2017-296	2017	2017	Germany		NRZ-2017-296	Aspergillus flavus			Open ulcer on skin	Homo sapiens	Cystic fibrosis		NRZMyk	
+NRZ-2019-553	DS_93cdfd5345	NRZ-2019-553	2019	2019	Germany		NRZ-2019-553	Aspergillus flavus			brain	Homo sapiens			NRZMyk	
+NRZ-2019-556	DS_93cdfd5345	NRZ-2019-556	2019	2019	Germany		NRZ-2019-556	Aspergillus flavus			sputum	Homo sapiens	Cystic fibrosis		NRZMyk	
+NRZ-2019-686	DS_93cdfd5345	NRZ-2019-686	2019	2019	Germany		NRZ-2019-686	Aspergillus flavus			Interabdominal swab	Homo sapiens			NRZMyk	
+NRZ-2019-708	DS_93cdfd5345	NRZ-2019-708	2019	2019	Germany		NRZ-2019-708	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2020-048	DS_93cdfd5345	NRZ-2020-048	2020	2020	Germany		NRZ-2020-048	Aspergillus flavus			Bronchial secretion	Homo sapiens			NRZMyk	
+NRZ-2020-086	DS_93cdfd5345	NRZ-2020-086	2020	2020	Germany		NRZ-2020-086	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2020-130	DS_93cdfd5345	NRZ-2020-130	2020	2020	Germany		NRZ-2020-130	Aspergillus flavus			bronchoalveolar lavage	Homo sapiens	COPD	BAL	NRZMyk	
+NRZ-2020-288	DS_93cdfd5345	NRZ-2020-288	2020	2020	Germany		NRZ-2020-288	Aspergillus flavus			Wound swab	Homo sapiens		Wound swab	NRZMyk	
+NRZ-2020-404	DS_93cdfd5345	NRZ-2020-404	2020	2020	Germany		NRZ-2020-404	Aspergillus flavus			Tracheal secretion	Homo sapiens			NRZMyk	
+NRZ-2020-599	DS_93cdfd5345	NRZ-2020-599	2020	2020	Germany		NRZ-2020-599	Aspergillus flavus			Tracheal secretion	Homo sapiens			NRZMyk	
+NRZ-2020-617	DS_93cdfd5345	NRZ-2020-617	2020	2020	Germany		NRZ-2020-617	Aspergillus flavus			Interabdominal swab	Homo sapiens		Interabdominal swab	NRZMyk	
+NRZ-2020-787	DS_93cdfd5345	NRZ-2020-787	2020	2020	Germany		NRZ-2020-787	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2021-0053	DS_93cdfd5345	NRZ-2021-0053	2021	2021	Germany		NRZ-2021-0053	Aspergillus flavus			sputum	Homo sapiens	Cystic fibrosis		NRZMyk	
+NRZ-2021-0058	DS_93cdfd5345	NRZ-2021-0058	2021	2021	Germany		NRZ-2021-0058	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2021-0507	DS_93cdfd5345	NRZ-2021-0507	2021	2021	Germany		NRZ-2021-0507	Aspergillus flavus			brain	Homo sapiens	SARS-CoV-2 infection		NRZMyk	
+NRZ-2021-0510	DS_93cdfd5345	NRZ-2021-0510	2021	2021	Germany		NRZ-2021-0510	Aspergillus flavus			Tracheal secretion	Homo sapiens			NRZMyk	
+NRZ-2021-0561	DS_93cdfd5345	NRZ-2021-0561	2021	2021	Germany		NRZ-2021-0561	Aspergillus flavus			Bronchial secretion	Homo sapiens			NRZMyk	
+NRZ-2021-0657	DS_93cdfd5345	NRZ-2021-0657	2021	2021	Germany		NRZ-2021-0657	Aspergillus flavus			sputum	Homo sapiens			NRZMyk	
+NRZ-2021-0758	DS_93cdfd5345	NRZ-2021-0758	2021	2021	Germany		NRZ-2021-0758	Aspergillus flavus			Tracheal secretion	Homo sapiens	SARS-CoV-2 infection		NRZMyk	
+NRZ-2021-0823	DS_93cdfd5345	NRZ-2021-0823	2021	2021	Germany		NRZ-2021-0823	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+115_Fla	DS_9400f1824f	115_Fla			USA	PDA at 25 C	115_Fla	Aspergillus flavus				Homo sapiens				Texas
+119_Fla	DS_9400f1824f	119_Fla			USA	PDA at 25 C	119_Fla	Aspergillus flavus				Homo sapiens				Texas
+120_Fla	DS_9400f1824f	120_Fla			USA	PDA at 25 C	120_Fla	Aspergillus flavus				Homo sapiens				Texas
+121_Fla	DS_9400f1824f	121_Fla			USA	PDA at 25 C	121_Fla	Aspergillus flavus				Homo sapiens				Texas
+122_Fla	DS_9400f1824f	122_Fla			USA	PDA at 25 C	122_Fla	Aspergillus flavus				Homo sapiens				Texas
+123_Fla	DS_9400f1824f	123_Fla			USA	PDA at 25 C	123_Fla	Aspergillus flavus				Homo sapiens				Texas
+15_Fla	DS_9400f1824f	15_Fla			USA	PDA at 25 C	15_Fla	Aspergillus flavus				Homo sapiens				Texas
+21_Fla	DS_9400f1824f	21_Fla			USA	PDA at 25 C	21_Fla	Aspergillus flavus				Homo sapiens				Texas
+36_Fla	DS_9400f1824f	36_Fla			USA	PDA at 25 C	36_Fla	Aspergillus flavus				Homo sapiens				Texas
+46_Fla	DS_9400f1824f	46_Fla			USA	PDA at 25 C	46_Fla	Aspergillus flavus				Homo sapiens				Texas
+50_Fla	DS_9400f1824f	50_Fla			USA	PDA at 25 C	50_Fla	Aspergillus flavus				Homo sapiens				Texas
+77_Fla	DS_9400f1824f	77_Fla			USA	PDA at 25 C	77_Fla	Aspergillus flavus				Homo sapiens				Texas
+CNM-CM7872	DS_9400f1824f	CNM-CM7872	2015	2015	Spain		CNM-CM7872	Aspergillus flavus	Madrid	Invasive aspergillosis	bronchoalveolar lavage	Homo sapiens			Centro Nacional de Microbiologia	
+CNM-CM8087	DS_9400f1824f	CNM-CM8087	2016	2016	Spain		CNM-CM8087	Aspergillus flavus	Madrid	Invasive aspergillosis	Cutaneous biopsy	Homo sapiens			Centro Nacional de Microbiologia	
+CNM-CM8687	DS_9400f1824f	CNM-CM8687	2016	2016	Spain		CNM-CM8687	Aspergillus flavus	Madrid	Lung transplant	Bronchial aspirate	Homo sapiens			Centro Nacional de Microbiologia	
+CNM-CM8688	DS_9400f1824f	CNM-CM8688	2016	2016	Spain		CNM-CM8688	Aspergillus flavus	Madrid	Lung transplant	Bronchial aspirate	Homo sapiens			Centro Nacional de Microbiologia	
+CNM-CM8690	DS_9400f1824f	CNM-CM8690	2016	2016	Spain		CNM-CM8690	Aspergillus flavus	Madrid	Haematological patient	Bronchial aspirate	Homo sapiens			Centro Nacional de Microbiologia	
+CNM-CM8729	DS_9400f1824f	CNM-CM8729	2016	2016	Spain		CNM-CM8729	Aspergillus flavus	Madrid		Bronchial aspirate	Homo sapiens			Centro Nacional de Microbiologia	
+CNM-CM8801	DS_9400f1824f	CNM-CM8801	2017	2017	Spain		CNM-CM8801	Aspergillus flavus	Madrid		Cutaneous exudate	Homo sapiens			Centro Nacional de Microbiologia	
+CNM-CM8888	DS_9400f1824f	CNM-CM8888	2017	2017	Spain		CNM-CM8888	Aspergillus parasiticus	Madrid	Thoracic surgery	sputum	Homo sapiens			Centro Nacional de Microbiologia	
+NRZ-2015-093	DS_9400f1824f	NRZ-2015-093	2015	2015	Germany		NRZ-2015-093	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2015-139	DS_9400f1824f	NRZ-2015-139	2015	2015	Germany		NRZ-2015-139	Aspergillus flavus			heart	Homo sapiens			NRZMyk	
+NRZ-2015-180	DS_9400f1824f	NRZ-2015-180	2015	2015	Germany		NRZ-2015-180	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2017-435	DS_9400f1824f	NRZ-2017-435	2017	2017	Germany		NRZ-2017-435	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2017-471	DS_9400f1824f	NRZ-2017-471	2017	2017	Germany		NRZ-2017-471	Aspergillus flavus			bronchoalveolar lavage	Homo sapiens		BAL	NRZMyk	
+NRZ-2018-277	DS_9400f1824f	NRZ-2018-277	2018	2018	Germany		NRZ-2018-277	Aspergillus flavus			Contact lens	Homo sapiens			NRZMyk	
+NRZ-2018-411	DS_9400f1824f	NRZ-2018-411	2018	2018	Germany		NRZ-2018-411	Aspergillus flavus			eye	Homo sapiens			NRZMyk	
+NRZ-2018-501	DS_9400f1824f	NRZ-2018-501	2018	2018	Germany		NRZ-2018-501	Aspergillus flavus			bronchoalveolar lavage	Homo sapiens		BAL	NRZMyk	
+NRZ-2018-573	DS_9400f1824f	NRZ-2018-573	2018	2018	Germany		NRZ-2018-573	Aspergillus flavus			Necrotic tissue	Homo sapiens			NRZMyk	
+NRZ-2018-619	DS_9400f1824f	NRZ-2018-619	2018	2018	Germany		NRZ-2018-619	Aspergillus flavus			eye	Homo sapiens			NRZMyk	
+NRZ-2018-642	DS_9400f1824f	NRZ-2018-642	2018	2018	Germany		NRZ-2018-642	Aspergillus flavus			Pumonary secretion	Homo sapiens			NRZMyk	
+NRZ-2019-089	DS_9400f1824f	NRZ-2019-089	2019	2019	Germany		NRZ-2019-089	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2019-098	DS_9400f1824f	NRZ-2019-098	2019	2019	Germany		NRZ-2019-098	Aspergillus flavus			Contact lens	Homo sapiens			NRZMyk	
+NRZ-2019-135	DS_9400f1824f	NRZ-2019-135	2019	2019	Germany		NRZ-2019-135	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2019-147	DS_9400f1824f	NRZ-2019-147	2019	2019	Germany		NRZ-2019-147	Aspergillus flavus			bronchoalveolar lavage	Homo sapiens		BAL	NRZMyk	
+NRZ-2019-224	DS_9400f1824f	NRZ-2019-224	2019	2019	Germany		NRZ-2019-224	Aspergillus flavus			Tracheal secretion	Homo sapiens			NRZMyk	
+NRZ-2019-251	DS_9400f1824f	NRZ-2019-251	2019	2019	Germany		NRZ-2019-251	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2019-319	DS_9400f1824f	NRZ-2019-319	2019	2019	Germany		NRZ-2019-319	Aspergillus flavus			Sinus	Homo sapiens			NRZMyk	
+NRZ-2019-397	DS_9400f1824f	NRZ-2019-397	2019	2019	Germany		NRZ-2019-397	Aspergillus flavus			ear	Homo sapiens			NRZMyk	
+NRZ-2019-501	DS_9400f1824f	NRZ-2019-501	2019	2019	Germany		NRZ-2019-501	Aspergillus flavus			Bronchial secretion	Homo sapiens			NRZMyk	
+NRZ-2019-511	DS_9400f1824f	NRZ-2019-511	2019	2019	Germany		NRZ-2019-511	Aspergillus flavus			bronchoalveolar lavage	Homo sapiens		BAL	NRZMyk	

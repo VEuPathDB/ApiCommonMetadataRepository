@@ -66,14 +66,6 @@ variables:
     data_type: integer
     data_shape: continuous
     parent_variable: collection_event
-  - variable: continent
-    provider_label:
-      - continent
-    display_name: continent
-    definition: continent (GAZ_00000013)
-    data_type: string
-    data_shape: categorical
-    parent_variable: collection_location
   - variable: country
     provider_label:
       - country

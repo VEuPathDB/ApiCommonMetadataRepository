@@ -33,6 +33,38 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: provenance
+  - variable: alternative_sample_id
+    provider_label:
+      - alternative_sample_id
+    display_name: alternative sample ID
+    definition: alternative sample ID (OBI_0001901)
+    data_type: string
+    data_shape: categorical
+    parent_variable: organism_under_investigation
+  - variable: biit_test
+    provider_label:
+      - biit_test
+    display_name: BIIT test
+    definition: BIIT test (EUPATH_0005001)
+    data_type: string
+    data_shape: categorical
+  - variable: collection_date_original
+    provider_label:
+      - collection_date_original
+    display_name: Collection date as provided
+    definition: Verbatim collection date string from the data provider, retained because
+      the typed collection_date is null whenever the value is incomplete or ambiguous.
+    data_type: integer
+    data_shape: continuous
+    parent_variable: collection_event
+  - variable: collection_year
+    provider_label:
+      - collection_year
+    display_name: Collection Year
+    definition: Collection Year (EUPATH_0000753)
+    data_type: integer
+    data_shape: continuous
+    parent_variable: collection_event
   - variable: country
     provider_label:
       - country
@@ -55,6 +87,14 @@ variables:
       - host_common_name
     display_name: host_common_name
     definition: host_common_name (OBI_0003074)
+    data_type: string
+    data_shape: categorical
+    parent_variable: host
+  - variable: organism
+    provider_label:
+      - organism
+    display_name: organism
+    definition: organism (OBI_0100026)
     data_type: string
     data_shape: categorical
     parent_variable: host
@@ -84,6 +124,10 @@ variables:
     parent_variable: specimen_and_culture
 
 categories:
+  - category: collection_event
+    display_name: Collection event
+    data_type: category
+    has_values: no
   - category: collection_location
     display_name: Collection location
     data_type: category

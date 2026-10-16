@@ -24,97 +24,110 @@ BTTrp-5	DS_d00cd48d53	BTTrp-5									Pyricularia oryzae BTTrp-5	Pyricularia ory
 BTTrp-6	DS_d00cd48d53	BTTrp-6									Pyricularia oryzae BTTrp-6	Pyricularia oryzae								Torpedo grass		
 GE10A2	DS_e31a573935	GE10A2			2021-08	8	2021	Europe	Germany		Pyricularia oryzae GE10A2	Pyricularia oryzae			Wild grasses				Setaria			
 GE12B	DS_e31a573935	GE12B			2021-08	8	2021	Europe	Germany		Pyricularia oryzae GE12B	Pyricularia oryzae			Wild grasses				Setaria			
-BD0024	DS_c385901cd0	BD0024		1989-12-01	1989-12-01 00:00:00	12	1989	Africa	Burundi		BD0024	Pyricularia oryzae	Noebe				isolated from variety M1283		rice	Single-spored isolate	Bahama, M	
-BR0026	DS_c385901cd0	BR0026		1987-09-10	1987-09-10 00:00:00	9	1987	South America	Brazil		BR0026	Pyricularia oryzae	Fazenda Progresso, Mato Grosso Do Sul				isolated from naturally infected neck of tropical japonica variety IRAT177		rice	Single-spored isolate	Notteghem, Jean Loup	
-CD0073-1	DS_c385901cd0	CD0073-1		1981-02-01	1981-02-01 00:00:00	2	1981		Cote d'Ivoire		CD0073-1	Pyricularia oryzae	Bouake				isolated from naturally infected indica variety BP168		rice	Single-spored isolate	Notteghem, Jean Loup	
-CD0203	DS_c385901cd0	CD0203			1905-06-25 00:00:00		2003		Cote d'Ivoire		CD0203	Pyricularia oryzae	Tiassale				isolated from naturally infected indica variety		rice	Single-spored isolate	Bouet, Alphonse	
-CH0052	DS_c385901cd0	CH0052		1991-10-22	1991-10-22 00:00:00	10	1991	Asia	China		CH0052	Pyricularia oryzae	Hunan				isolated from naturally infected tropical japonica variety B40		rice	Single-spored isolate		
-CH0063	DS_c385901cd0	CH0063		1985-04-26	1985-04-26 00:00:00	4	1985	Asia	China		CH0063	Pyricularia oryzae	Hunan				isolated from naturally infected tropical japonica variety		rice	Single-spored isolate		
-CH0092	DS_c385901cd0	CH0092			1905-06-05 00:00:00		1983	Asia	China		CH0092	Pyricularia oryzae					isolated from naturally infected temperate japonica variety Xiushui48		rice	Single-spored isolate	Shen, Ying	Zhejiang
-CH0328	DS_c385901cd0	CH0328		1998-10-08	1998-10-08 00:00:00	10	1998	Asia	China		CH0328	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected panicle of hybrid variety Weiyou582		rice	Single-spored isolate		
-CH0333	DS_c385901cd0	CH0333		1998-10-08	1998-10-08 00:00:00	10	1998	Asia	China		CH0333	Pyricularia oryzae	Yanxi, Hunan				isolated from naturally infected indica variety		rice	Single-spored isolate		
-CH0532	DS_c385901cd0	CH0532			1905-06-17 00:00:00		1995	Asia	China		CH0532	Pyricularia oryzae	Baoshan, Yunnan						rice	Single-spored isolate		
-CH0549	DS_c385901cd0	CH0549			1905-06-17 00:00:00		1995	Asia	China		CH0549	Pyricularia oryzae	Baoshan, Yunnan				isolated from naturally infected indica variety		rice	Single-spored isolate		
-CH0595	DS_c385901cd0	CH0595			1905-06-19 00:00:00		1997	Asia	China		CH0595	Pyricularia oryzae	Yiliang, Yunnan				isolated from naturally infected panicle		rice	Single-spored isolate		
-CH0680	DS_c385901cd0	CH0680			2001-09	9	2001	Asia	China		CH0680	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected panicle of hybrid variety Jinyou1978		rice	Single-spored isolate		
-CH0689	DS_c385901cd0	CH0689			2001-09	9	2001	Asia	China		CH0689	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected hybrid variety Tyou291		rice	Single-spored isolate		
-CH0701	DS_c385901cd0	CH0701			2001-09	9	2001	Asia	China		CH0701	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected indica variety 01Zao-5032		rice	Single-spored isolate		
-CH0860	DS_c385901cd0	CH0860		2006-09-28	2006-09-28 00:00:00	9	2006	Asia	China		CH0860	Pyricularia oryzae	Wenshan Dehou, Hunan				isolated from naturally infected neck of a breeding line		rice	Single-spored isolate		
-CH0999	DS_c385901cd0	CH0999		2008-08-22	2008-08-22 00:00:00	8	2008	Asia	China		CH0999	Pyricularia oryzae	Yule, Yunnan				isolated from naturally infected neck of tropical japonica variety Yunlu100		rice	Single-spored isolate	Tharreau, Didier	
-CH1016	DS_c385901cd0	CH1016		2008-08-22	2008-08-22 00:00:00	8	2008	Asia	China		CH1016	Pyricularia oryzae	Yule, Yunnan				isolated from naturally infected raceme of tropical japonica variety Yunlu100		rice	Single-spored isolate	Tharreau, Didier	
-CH1019	DS_c385901cd0	CH1019		2008-08-22	2008-08-22 00:00:00	8	2008	Asia	China		CH1019	Pyricularia oryzae	Yule, Yunnan				isolated from naturally infected grain of tropical japonica variety Yunlu100		rice	Single-spored isolate	Tharreau, Didier	
-CL0026	DS_c385901cd0	CL0026		1989-02-01	1989-02-01 00:00:00	2	1989	South America	Colombia		CL0026	Pyricularia oryzae	Villavicencio, Meta				isolated from naturally infected neck of indica variety CICA8		rice	Single-spored isolate	Correa, Fernando	
-CL3.6.7	DS_c385901cd0	CL3.6.7			1905-06-22 00:00:00		2000	South America	Colombia		CL3.6.7	Pyricularia oryzae	Villavicencio, Meta				isolated from naturally infected indica variety		rice	Single-spored isolate	Correa, Fernando	
-HN0001	DS_c385901cd0	HN0001		1993-09-01	1993-09-01 00:00:00	9	1993	Europe	Hungary		HN0001	Pyricularia oryzae	Szarvas				isolated from naturally infected panicle leaf of temperate japonica variety OKI-2		rice	Single-spored isolate		
-IN0072	DS_c385901cd0	IN0072		1992-01-02	1992-01-02 00:00:00	1	1992	Asia	India		IN0072	Pyricularia oryzae					isolated from naturally infected leaf of tropical japonica variety HR12		rice	Single-spored isolate	Levy, Mory	
-IN0082	DS_c385901cd0	IN0082		1992-01-01	1992-01-01 00:00:00	1	1992	Asia	India		IN0082	Pyricularia oryzae					isolated from naturally infected leaf of indica variety Jothi		rice	Single-spored isolate	Levy, Mory	
-IN0094	DS_c385901cd0	IN0094		1993-01-11	1993-01-11 00:00:00	1	1993	Asia	India		IN0094	Pyricularia oryzae					isolated from naturally infected panicle of variety EK10		rice	Single-spored isolate	Levy, Mory	
-JP0010	DS_c385901cd0	JP0010		1986-09-01	1986-09-01 00:00:00	9	1986	Asia	Japan		JP0010	Pyricularia oryzae	Fukushima				isolated from naturally infected neck of tropical japonica variety Sasanishiki		rice	Single-spored isolate		
-LA0005	DS_c385901cd0	LA0005		2009-09-28	2009-09-28 00:00:00	9	2009	Asia	Laos		LA0005	Pyricularia oryzae	Silalek, Luang Prabang				isolated from naturally infected neck of variety Khao Do Pom		rice	Single-spored isolate	Tharreau, Didier	
-LA0021	DS_c385901cd0	LA0021		2009-09-28	2009-09-28 00:00:00	9	2009	Asia	Laos		LA0021	Pyricularia oryzae	Silalek, Luang Prabang				isolated from naturally infected neck of variety Khao Mak Khena Do		rice	Single-spored isolate	Tharreau, Didier	
-MC0016	DS_c385901cd0	MC0016		1997-09-22	1997-09-22 00:00:00	9	1997	Africa	Morocco		MC0016	Pyricularia oryzae	Tazi				isolated from naturally infected leaf of temperate japonica variety Sariceltik		rice	Single-spored isolate	El-Guili, Mohamed	
-MD0929	DS_c385901cd0	MD0929		2005-01-28	2005-01-28 00:00:00	1	2005	Africa	Madagascar		MD0929	Pyricularia oryzae	Andranomanelatra				isolated from naturally infected leaf of indica variety Fofifa161		rice	Single-spored isolate	Andriantsimialona, Dodelys	
-ML0025	DS_c385901cd0	ML0025		1986-09-01	1986-09-01 00:00:00	9	1986	Africa	Mali		ML0025	Pyricularia oryzae	Niema				isolated from naturally infected neck of indica variety Sintane Diofor		rice	Single-spored isolate		
-NP0037	DS_c385901cd0	NP0037			1905-07-01 00:00:00		2009	Asia	Nepal		NP0037	Pyricularia oryzae	Begnas, Kaski				isolated from naturally infected panicle of indica variety Masuli		rice	Single-spored isolate	Gopal Prasad, Parajuli	
-NP0041	DS_c385901cd0	NP0041			1905-07-01 00:00:00		2009	Asia	Nepal		NP0041	Pyricularia oryzae	Begnas, Kaski				isolated from naturally infected panicle of indica variety Masuli		rice	Single-spored isolate	Gopal Prasad, Parajuli	
-NP0052	DS_c385901cd0	NP0052			1905-06-30 00:00:00		2008	Asia	Nepal		NP0052	Pyricularia oryzae	Sangle VDC9, Kathmandu				isolated from naturally infected panicle of tropical japonica variety Taichung		rice	Single-spored isolate	Gopal Prasad, Parajuli	
-NP0061	DS_c385901cd0	NP0061			1905-06-30 00:00:00		2008	Asia	Nepal		NP0061	Pyricularia oryzae	Sangle VDC9, Kathmandu				isolated from naturally infected panicle of indica variety Khumal8		rice	Single-spored isolate	Gopal Prasad, Parajuli	
-PH0103	DS_c385901cd0	PH0103						Asia	Philippines		PH0103	Pyricularia oryzae					isolated from naturally infected indica variety		rice	Single-spored isolate		
-PH0118	DS_c385901cd0	PH0118						Asia	Philippines		PH0118	Pyricularia oryzae					isolated from naturally infected indica variety		rice	Single-spored isolate		
-PR0009	DS_c385901cd0	PR0009		1991-09-16	1991-09-16 00:00:00	9	1991	Europe	Portugal		PR0009	Pyricularia oryzae	Sado Torre Do Cleri				isolated from naturally infected leaf of temperate japonica variety Ringo		rice	Single-spored isolate	Lima, Arlindo	
-SP0005	DS_c385901cd0	SP0005		1994-09-15	1994-09-15 00:00:00	9	1994	Europe	Spain		SP0005	Pyricularia oryzae	Amposta, Salats, Catalonia				isolated from naturally infected neck of temperate japonica variety Lido		rice	Single-spored isolate		
-TH0014	DS_c385901cd0	TH0014		1987-03-01	1987-03-01 00:00:00	3	1987	Asia	Thailand		TH0014	Pyricularia oryzae					isolated from naturally infected grain		barley	Single-spored isolate	Milazzo, Joelle	
-TH0017	DS_c385901cd0	TH0017		1987-03-01	1987-03-01 00:00:00	3	1987	Asia	Thailand		TH0017	Pyricularia oryzae					isolated from naturally infected grain		barley	Single-spored isolate	Milazzo, Joelle	
-US0031	DS_c385901cd0	US0031		1967-01-01	1967-01-01 00:00:00	1	1967	North America	USA		US0031	Pyricularia oryzae							rice	Single-spored isolate	Levy, Mory	Louisiana
-US0098	DS_c385901cd0	US0098			1905-06-14 00:00:00		1992	North America	USA		US0098	Pyricularia oryzae	Lonoke				isolated from naturally infected temperate japonica variety Newbonnet		rice	Single-spored isolate	Correll, James	Arkansas
-AG0004	DS_d9b29fa189	AG0004						South America	Argentina			Pyricularia oryzae	Mercedes,Corrientes				leaf lesion		Oryza sativa			
-CM0028	DS_d9b29fa189	CM0028						Africa	Cameroon			Pyricularia oryzae	M'Bos				leaf lesion		Oryza sativa			
-FR1067	DS_d9b29fa189	FR1067						Europe	France			Pyricularia oryzae	Montpellier, Occitanie				leaf lesion		Lolium			
-FR1069	DS_d9b29fa189	FR1069						Europe	France			Pyricularia oryzae	Montpellier, Occitanie				leaf lesion		Lolium			
-GN0001	DS_d9b29fa189	GN0001						Africa	Ghana			Pyricularia oryzae	ND				leaf lesion		Zea mays			
-GY0040	DS_d9b29fa189	GY0040						Europe	France			Pyricularia oryzae	Mana, French Guyana				leaf lesion		Oryza sativa			
-IR00102	DS_d9b29fa189	IR00102						Asia	Iran			Pyricularia oryzae	Azadshahr, Golestan, Iran				leaf lesion		Zea mays			
-IR0013	DS_d9b29fa189	IR0013						Asia	Iran			Pyricularia oryzae	Gharakhil, Mazandaran				leaf lesion		Zea mays			
-IR0015	DS_d9b29fa189	IR0015						Asia	Iran			Pyricularia oryzae	Gharakhil, Mazandaran				leaf lesion		Zea mays			
-IR0083	DS_d9b29fa189	IR0083						Asia	Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Echinochloa			
-IR0084	DS_d9b29fa189	IR0084						Asia	Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Echinochloa			
-IR0088	DS_d9b29fa189	IR0088						Asia	Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Echinochloa			
-IR0095	DS_d9b29fa189	IR0095						Asia	Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Zea mays			
-IT0010	DS_d9b29fa189	IT0010						Europe	Italy			Pyricularia oryzae	Vercelli				leaf lesion		Oryza sativa			Veneria
-JP0091	DS_d9b29fa189	JP0091						Asia	Japan			Pyricularia oryzae	Siga				leaf lesion		Setaria			
-ML0060	DS_d9b29fa189	ML0060						Africa	Mali			Pyricularia oryzae					leaf lesion		Oryza sativa			Sikasso
-TN0050	DS_d9b29fa189	TN0050						Africa	Tanzania			Pyricularia oryzae	Ifakara				leaf lesion		Oryza sativa			
-TR0025	DS_d9b29fa189	TR0025						Asia	Turkey			Pyricularia oryzae	ND				leaf lesion		Oryza sativa			
-US0064	DS_d9b29fa189	US0064						North America	USA			Pyricularia oryzae					leaf lesion		Setaria			Maryland
-BN0123	DS_4e3b9ddba4	BN0123	AfricaRice	2012-08-19	2012-08-19 00:00:00	8	2012	Africa	Benin	mycelium	BN0123	Pyricularia oryzae	Kokey-Banikoara	diseased	Asian rice	Adny11		Plant	Oryza sativa		Drissa Silue	
-BN0202	DS_4e3b9ddba4	BN0202	AfricaRice		2010		2010	Africa	Benin	mycelium	BN0202	Pyricularia oryzae	Lokossa	diseased	Asian rice	CG14		Plant	Oryza sativa		Drissa Silue	
-BN0252	DS_4e3b9ddba4	BN0252	AfricaRice		2010		2010	Africa	Benin	mycelium	BN0252	Pyricularia oryzae	Lokossa	diseased	Asian rice	Hong Cheuhza		Plant	Oryza sativa		Drissa Silue	
-CD0065	DS_4e3b9ddba4	CD0065	CIRAD, France	1983-12-01	1983-12-01 00:00:00	12	1983		Cote d'Ivoire	mycelium	CD0065	Pyricularia oryzae	San Pedro	diseased	Asian rice	BKE 189		Plant	Oryza sativa		Jean Loup Notteghem	
-CD0142	DS_4e3b9ddba4	CD0142	CIRAD, France	1989-10-01	1989-10-01 00:00:00	10	1989		Cote d'Ivoire	mycelium	CD0142	Pyricularia oryzae	Odienne	diseased	Asian rice	IRAT 216		Plant	Oryza sativa		Jean Loup Notteghem	
-CH0043	DS_4e3b9ddba4	CH0043	Hunan Agricultural University, China	1991-04-10	1991-04-10 00:00:00	4	1991	Asia	China	mycelium	CH0043	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Erming Liu	Yunnan
-CH0072	DS_4e3b9ddba4	CH0072	CIRAD, France		1994		1994	Asia	China	mycelium	CH0072	Pyricularia oryzae	Madjong	diseased	Asian rice			Plant	Oryza sativa		Christian Poisson	Yunnan
-CH0452	DS_4e3b9ddba4	CH0452	Yunnan Academy of Agricultural Sciences, China		1994		1994	Asia	China	mycelium	CH0452	Pyricularia oryzae	Simao	diseased	Asian rice			Plant	Oryza sativa		Chengyun Li	Yunnan
-CH0461	DS_4e3b9ddba4	CH0461	Yunnan Academy of Agricultural Sciences, China		1994		1994	Asia	China	mycelium	CH0461	Pyricularia oryzae	Simao	diseased	Asian rice			Plant	Oryza sativa		Chengyun Li	Yunnan
-CH1103	DS_4e3b9ddba4	CH1103	CIRAD, France	2009-09-17	2009-09-17 00:00:00	9	2009	Asia	China	mycelium	CH1103	Pyricularia oryzae	Yule	diseased	Asian rice	Yunlu 103		Plant	Oryza sativa		Dounia Saleh	Yunnan
-CH1164	DS_4e3b9ddba4	CH1164	CIRAD, France	2009-09-17	2009-09-17 00:00:00	9	2009	Asia	China	mycelium	CH1164	Pyricularia oryzae	Yule	diseased	Asian rice	Yunlu 10		Plant	Oryza sativa		Dounia Saleh	Yunnan
-IN0017	DS_4e3b9ddba4	IN0017	Kansas State University, USA	1987-01-12	1987-01-12 00:00:00	1	1987	Asia	India	mycelium	IN0017	Pyricularia oryzae		diseased	Asian rice	HR12		Plant	Oryza sativa		Barbara Valent	
-IN0054	DS_4e3b9ddba4	IN0054	Purdue University, USA		1994		1994	Asia	India	mycelium	IN0054	Pyricularia oryzae		diseased	Asian rice	CO39		Plant	Oryza sativa		Mory Levy	
-IN0059	DS_4e3b9ddba4	IN0059	Purdue University, USA	1992-01-03	1992-01-03 00:00:00	1	1992	Asia	India	mycelium	IN0059	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Mory Levy	
-IN0114	DS_4e3b9ddba4	IN0114	University of Toronto, Canada		1997		1997	Asia	India	mycelium	IN0114	Pyricularia oryzae	Bandrakoti	diseased	Asian rice			Plant	Oryza sativa		Linda Kohn	
-IN0115	DS_4e3b9ddba4	IN0115	University of Toronto, Canada		1997		1997	Asia	India	mycelium	IN0115	Pyricularia oryzae	Matli	diseased	Asian rice			Plant	Oryza sativa		Linda Kohn	
-IN0116	DS_4e3b9ddba4	IN0116	University of Toronto, Canada		1997		1997	Asia	India	mycelium	IN0116	Pyricularia oryzae	Matli	diseased	Asian rice			Plant	Oryza sativa		Linda Kohn	
-ML0062	DS_4e3b9ddba4	ML0062	AfricaRice		2009		2009	Africa	Mali	mycelium	ML0062	Pyricularia oryzae		diseased	Asian rice	IRBLKH-K3		Plant	Oryza sativa		Murielle Fantodji	Sikasso
-NG0012	DS_4e3b9ddba4	NG0012	AfricaRice	2009-10-17	2009-10-17 00:00:00	10	2009	Africa	Nigeria	mycelium	NG0012	Pyricularia oryzae	Edozhigi	diseased	Asian rice	Wita4		Plant	Oryza sativa		Murielle Fantodji	
-NG0054	DS_4e3b9ddba4	NG0054	AfricaRice	2009-11-15	2009-11-15 00:00:00	11	2009	Africa	Nigeria	mycelium	NG0054	Pyricularia oryzae	Ibadan	diseased	Asian rice	CO39		Plant	Oryza sativa		Murielle Fantodji	
-TG0004	DS_4e3b9ddba4	TG0004	AfricaRice	2012-12-03	2012-12-03 00:00:00	12	2012	Africa	Togo	mycelium	TG0004	Pyricularia oryzae	Elavayo	diseased	Asian rice	Nerica L19		Plant	Oryza sativa		Murielle Fantodji	
-TG0032	DS_4e3b9ddba4	TG0032	AfricaRice	2012-12-11	2012-12-11 00:00:00	12	2012	Africa	Togo	mycelium	TG0032	Pyricularia oryzae	Elavayo	diseased	Asian rice	Nerica L19		Plant	Oryza sativa		Murielle Fantodji	
-TN0001	DS_4e3b9ddba4	TN0001	CIRAD, France	2013-03-19	2013-03-19 00:00:00	3	2013	Africa	Tanzania	mycelium	TN0001	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Didier Tharreau	
-TN0002	DS_4e3b9ddba4	TN0002	CIRAD, France	2013-03-19	2013-03-19 00:00:00	3	2013	Africa	Tanzania	mycelium	TN0002	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Didier Tharreau	
-TN0057	DS_4e3b9ddba4	TN0057	CIRAD, France	2013-03-21	2013-03-21 00:00:00	3	2013	Africa	Tanzania	mycelium	TN0057	Pyricularia oryzae		diseased	Asian rice	Supa		Plant	Oryza sativa		Didier Tharreau	
-TN0090	DS_4e3b9ddba4	TN0090	CIRAD, France	2013-03-21	2013-03-21 00:00:00	3	2013	Africa	Tanzania	mycelium	TN0090	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Didier Tharreau	
-US0041	DS_4e3b9ddba4	US0041	Purdue University, USA		1985		1985	North America	USA	mycelium	US0041	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Mory Levy	Mississippi
-VT0027	DS_4e3b9ddba4	VT0027	Plant Protection Research Institute, Vietnam		2003		2003	Asia	Viet Nam	mycelium	VT0027	Pyricularia oryzae	Phu Ly	diseased	Asian rice			Plant	Oryza sativa		Huy Chung Nguyen	
-VT0030	DS_4e3b9ddba4	VT0030	Plant Protection Research Institute, Vietnam		2003		2003	Asia	Viet Nam	mycelium	VT0030	Pyricularia oryzae	Hanam, Kim Bang	diseased	Asian rice			Plant	Oryza sativa		Huy Chung Nguyen	
+76.3	DS_172684796d	76.3			1990		1990		China		Pyricularia oryzae 76.3	Pyricularia oryzae							Oryza sativa			
+82.0835	DS_172684796d	82.0835			1990		1990		China		Pyricularia oryzae 82.0835	Pyricularia oryzae							Oryza sativa			
+87.120.2	DS_172684796d	87.120.2			ND				China		Pyricularia oryzae 87.120.2	Pyricularia oryzae							Oryza sativa			
+90.4.1	DS_172684796d	90.4.1			1993		1993		China		Pyricularia oryzae 90.4.1	Pyricularia oryzae							Oryza sativa			
+GLHN3	DS_172684796d	GLHN3			1990		1990		China		Pyricularia oryzae GLHN3	Pyricularia oryzae	Hangzhou						Oryza sativa			
+GLHN4	DS_172684796d	GLHN4			1990		1990		China		Pyricularia oryzae GLHN4	Pyricularia oryzae	Hangzhou						Oryza sativa			
+Guy11	DS_172684796d	Guy11			1988		1988		France		Pyricularia oryzae Guy11	Pyricularia oryzae	French Guyana						Oryza sativa			
+Ina168	DS_172684796d	Ina168			1958		1958		Japan		Pyricularia oryzae Ina168	Pyricularia oryzae	Aichi						Oryza sativa			
+TH3	DS_172684796d	TH3			ND				Thailand		Pyricularia oryzae TH3	Pyricularia oryzae							Oryza sativa			
+VO104	DS_172684796d	VO104			1987		1987		Puerto Rico		Pyricularia oryzae VO104	Pyricularia oryzae							Oryza sativa			
+VO107	DS_172684796d	VO107			1981		1981		USA		Pyricularia grisea VO107	Pyricularia grisea							Digitaria sanguinalis			Texas
+VO108	DS_172684796d	VO108			1964		1964		USA		Pyricularia oryzae VO108	Pyricularia oryzae							Oryza sativa			Louisiana
+VO113	DS_172684796d	VO113			1967		1967		USA		Pyricularia oryzae VO113	Pyricularia oryzae							Oryza sativa			Texas
+BD0024	DS_c385901cd0	BD0024		1989-12-01	1989-12-01	12	1989		Burundi		BD0024	Pyricularia oryzae	Noebe				isolated from variety M1283		rice	Single-spored isolate	Bahama, M	
+BR0026	DS_c385901cd0	BR0026		1987-09-10	1987-09-10	9	1987		Brazil		BR0026	Pyricularia oryzae	Fazenda Progresso, Mato Grosso Do Sul				isolated from naturally infected neck of tropical japonica variety IRAT177		rice	Single-spored isolate	Notteghem, Jean Loup	
+CD0073-1	DS_c385901cd0	CD0073-1		1981-02-01	1981-02-01	2	1981		Cote d'Ivoire		CD0073-1	Pyricularia oryzae	Bouake				isolated from naturally infected indica variety BP168		rice	Single-spored isolate	Notteghem, Jean Loup	
+CD0203	DS_c385901cd0	CD0203			1905-06-25		2003		Cote d'Ivoire		CD0203	Pyricularia oryzae	Tiassale				isolated from naturally infected indica variety		rice	Single-spored isolate	Bouet, Alphonse	
+CH0052	DS_c385901cd0	CH0052		1991-10-22	1991-10-22	10	1991		China		CH0052	Pyricularia oryzae	Hunan				isolated from naturally infected tropical japonica variety B40		rice	Single-spored isolate		
+CH0063	DS_c385901cd0	CH0063		1985-04-26	1985-04-26	4	1985		China		CH0063	Pyricularia oryzae	Hunan				isolated from naturally infected tropical japonica variety		rice	Single-spored isolate		
+CH0092	DS_c385901cd0	CH0092			1905-06-05		1983		China		CH0092	Pyricularia oryzae					isolated from naturally infected temperate japonica variety Xiushui48		rice	Single-spored isolate	Shen, Ying	Zhejiang
+CH0328	DS_c385901cd0	CH0328		1998-10-08	1998-10-08	10	1998		China		CH0328	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected panicle of hybrid variety Weiyou582		rice	Single-spored isolate		
+CH0333	DS_c385901cd0	CH0333		1998-10-08	1998-10-08	10	1998		China		CH0333	Pyricularia oryzae	Yanxi, Hunan				isolated from naturally infected indica variety		rice	Single-spored isolate		
+CH0532	DS_c385901cd0	CH0532			1905-06-17		1995		China		CH0532	Pyricularia oryzae	Baoshan, Yunnan						rice	Single-spored isolate		
+CH0549	DS_c385901cd0	CH0549			1905-06-17		1995		China		CH0549	Pyricularia oryzae	Baoshan, Yunnan				isolated from naturally infected indica variety		rice	Single-spored isolate		
+CH0595	DS_c385901cd0	CH0595			1905-06-19		1997		China		CH0595	Pyricularia oryzae	Yiliang, Yunnan				isolated from naturally infected panicle		rice	Single-spored isolate		
+CH0680	DS_c385901cd0	CH0680			2001-09	9	2001		China		CH0680	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected panicle of hybrid variety Jinyou1978		rice	Single-spored isolate		
+CH0689	DS_c385901cd0	CH0689			2001-09	9	2001		China		CH0689	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected hybrid variety Tyou291		rice	Single-spored isolate		
+CH0701	DS_c385901cd0	CH0701			2001-09	9	2001		China		CH0701	Pyricularia oryzae	Anhua Yanxi, Hunan				isolated from naturally infected indica variety 01Zao-5032		rice	Single-spored isolate		
+CH0860	DS_c385901cd0	CH0860		2006-09-28	2006-09-28	9	2006		China		CH0860	Pyricularia oryzae	Wenshan Dehou, Hunan				isolated from naturally infected neck of a breeding line		rice	Single-spored isolate		
+CH0999	DS_c385901cd0	CH0999		2008-08-22	2008-08-22	8	2008		China		CH0999	Pyricularia oryzae	Yule, Yunnan				isolated from naturally infected neck of tropical japonica variety Yunlu100		rice	Single-spored isolate	Tharreau, Didier	
+CH1016	DS_c385901cd0	CH1016		2008-08-22	2008-08-22	8	2008		China		CH1016	Pyricularia oryzae	Yule, Yunnan				isolated from naturally infected raceme of tropical japonica variety Yunlu100		rice	Single-spored isolate	Tharreau, Didier	
+CH1019	DS_c385901cd0	CH1019		2008-08-22	2008-08-22	8	2008		China		CH1019	Pyricularia oryzae	Yule, Yunnan				isolated from naturally infected grain of tropical japonica variety Yunlu100		rice	Single-spored isolate	Tharreau, Didier	
+CL0026	DS_c385901cd0	CL0026		1989-02-01	1989-02-01	2	1989		Colombia		CL0026	Pyricularia oryzae	Villavicencio, Meta				isolated from naturally infected neck of indica variety CICA8		rice	Single-spored isolate	Correa, Fernando	
+CL3.6.7	DS_c385901cd0	CL3.6.7			1905-06-22		2000		Colombia		CL3.6.7	Pyricularia oryzae	Villavicencio, Meta				isolated from naturally infected indica variety		rice	Single-spored isolate	Correa, Fernando	
+HN0001	DS_c385901cd0	HN0001		1993-09-01	1993-09-01	9	1993		Hungary		HN0001	Pyricularia oryzae	Szarvas				isolated from naturally infected panicle leaf of temperate japonica variety OKI-2		rice	Single-spored isolate		
+IN0072	DS_c385901cd0	IN0072		1992-01-02	1992-01-02	1	1992		India		IN0072	Pyricularia oryzae					isolated from naturally infected leaf of tropical japonica variety HR12		rice	Single-spored isolate	Levy, Mory	
+IN0082	DS_c385901cd0	IN0082		1992-01-01	1992-01-01	1	1992		India		IN0082	Pyricularia oryzae					isolated from naturally infected leaf of indica variety Jothi		rice	Single-spored isolate	Levy, Mory	
+IN0094	DS_c385901cd0	IN0094		1993-01-11	1993-01-11	1	1993		India		IN0094	Pyricularia oryzae					isolated from naturally infected panicle of variety EK10		rice	Single-spored isolate	Levy, Mory	
+JP0010	DS_c385901cd0	JP0010		1986-09-01	1986-09-01	9	1986		Japan		JP0010	Pyricularia oryzae	Fukushima				isolated from naturally infected neck of tropical japonica variety Sasanishiki		rice	Single-spored isolate		
+LA0005	DS_c385901cd0	LA0005		2009-09-28	2009-09-28	9	2009		Laos		LA0005	Pyricularia oryzae	Silalek, Luang Prabang				isolated from naturally infected neck of variety Khao Do Pom		rice	Single-spored isolate	Tharreau, Didier	
+LA0021	DS_c385901cd0	LA0021		2009-09-28	2009-09-28	9	2009		Laos		LA0021	Pyricularia oryzae	Silalek, Luang Prabang				isolated from naturally infected neck of variety Khao Mak Khena Do		rice	Single-spored isolate	Tharreau, Didier	
+MC0016	DS_c385901cd0	MC0016		1997-09-22	1997-09-22	9	1997		Morocco		MC0016	Pyricularia oryzae	Tazi				isolated from naturally infected leaf of temperate japonica variety Sariceltik		rice	Single-spored isolate	El-Guili, Mohamed	
+MD0929	DS_c385901cd0	MD0929		2005-01-28	2005-01-28	1	2005		Madagascar		MD0929	Pyricularia oryzae	Andranomanelatra				isolated from naturally infected leaf of indica variety Fofifa161		rice	Single-spored isolate	Andriantsimialona, Dodelys	
+ML0025	DS_c385901cd0	ML0025		1986-09-01	1986-09-01	9	1986		Mali		ML0025	Pyricularia oryzae	Niema				isolated from naturally infected neck of indica variety Sintane Diofor		rice	Single-spored isolate		
+NP0037	DS_c385901cd0	NP0037			1905-07-01		2009		Nepal		NP0037	Pyricularia oryzae	Begnas, Kaski				isolated from naturally infected panicle of indica variety Masuli		rice	Single-spored isolate	Gopal Prasad, Parajuli	
+NP0041	DS_c385901cd0	NP0041			1905-07-01		2009		Nepal		NP0041	Pyricularia oryzae	Begnas, Kaski				isolated from naturally infected panicle of indica variety Masuli		rice	Single-spored isolate	Gopal Prasad, Parajuli	
+NP0052	DS_c385901cd0	NP0052			1905-06-30		2008		Nepal		NP0052	Pyricularia oryzae	Sangle VDC9, Kathmandu				isolated from naturally infected panicle of tropical japonica variety Taichung		rice	Single-spored isolate	Gopal Prasad, Parajuli	
+NP0061	DS_c385901cd0	NP0061			1905-06-30		2008		Nepal		NP0061	Pyricularia oryzae	Sangle VDC9, Kathmandu				isolated from naturally infected panicle of indica variety Khumal8		rice	Single-spored isolate	Gopal Prasad, Parajuli	
+PH0103	DS_c385901cd0	PH0103							Philippines		PH0103	Pyricularia oryzae					isolated from naturally infected indica variety		rice	Single-spored isolate		
+PH0118	DS_c385901cd0	PH0118							Philippines		PH0118	Pyricularia oryzae					isolated from naturally infected indica variety		rice	Single-spored isolate		
+PR0009	DS_c385901cd0	PR0009		1991-09-16	1991-09-16	9	1991		Portugal		PR0009	Pyricularia oryzae	Sado Torre Do Cleri				isolated from naturally infected leaf of temperate japonica variety Ringo		rice	Single-spored isolate	Lima, Arlindo	
+SP0005	DS_c385901cd0	SP0005		1994-09-15	1994-09-15	9	1994		Spain		SP0005	Pyricularia oryzae	Amposta, Salats, Catalonia				isolated from naturally infected neck of temperate japonica variety Lido		rice	Single-spored isolate		
+TH0014	DS_c385901cd0	TH0014		1987-03-01	1987-03-01	3	1987		Thailand		TH0014	Pyricularia oryzae					isolated from naturally infected grain		barley	Single-spored isolate	Milazzo, Joelle	
+TH0017	DS_c385901cd0	TH0017		1987-03-01	1987-03-01	3	1987		Thailand		TH0017	Pyricularia oryzae					isolated from naturally infected grain		barley	Single-spored isolate	Milazzo, Joelle	
+US0031	DS_c385901cd0	US0031		1967-01-01	1967-01-01	1	1967		USA		US0031	Pyricularia oryzae							rice	Single-spored isolate	Levy, Mory	Louisiana
+US0098	DS_c385901cd0	US0098			1905-06-14		1992		USA		US0098	Pyricularia oryzae	Lonoke				isolated from naturally infected temperate japonica variety Newbonnet		rice	Single-spored isolate	Correll, James	Arkansas
+AG0004	DS_d9b29fa189	AG0004							Argentina			Pyricularia oryzae	Mercedes,Corrientes				leaf lesion		Oryza sativa			
+CM0028	DS_d9b29fa189	CM0028							Cameroon			Pyricularia oryzae	M'Bos				leaf lesion		Oryza sativa			
+FR1067	DS_d9b29fa189	FR1067							France			Pyricularia oryzae	Montpellier, Occitanie				leaf lesion		Lolium			
+FR1069	DS_d9b29fa189	FR1069							France			Pyricularia oryzae	Montpellier, Occitanie				leaf lesion		Lolium			
+GN0001	DS_d9b29fa189	GN0001							Ghana			Pyricularia oryzae	ND				leaf lesion		Zea mays			
+GY0040	DS_d9b29fa189	GY0040							France			Pyricularia oryzae	Mana, French Guyana				leaf lesion		Oryza sativa			
+IR00102	DS_d9b29fa189	IR00102							Iran			Pyricularia oryzae	Azadshahr, Golestan, Iran				leaf lesion		Zea mays			
+IR0013	DS_d9b29fa189	IR0013							Iran			Pyricularia oryzae	Gharakhil, Mazandaran				leaf lesion		Zea mays			
+IR0015	DS_d9b29fa189	IR0015							Iran			Pyricularia oryzae	Gharakhil, Mazandaran				leaf lesion		Zea mays			
+IR0083	DS_d9b29fa189	IR0083							Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Echinochloa			
+IR0084	DS_d9b29fa189	IR0084							Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Echinochloa			
+IR0088	DS_d9b29fa189	IR0088							Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Echinochloa			
+IR0095	DS_d9b29fa189	IR0095							Iran			Pyricularia oryzae	Agh Ghala, Golestan				leaf lesion		Zea mays			
+IT0010	DS_d9b29fa189	IT0010							Italy			Pyricularia oryzae	Vercelli				leaf lesion		Oryza sativa			Veneria
+JP0091	DS_d9b29fa189	JP0091							Japan			Pyricularia oryzae	Siga				leaf lesion		Setaria			
+ML0060	DS_d9b29fa189	ML0060							Mali			Pyricularia oryzae					leaf lesion		Oryza sativa			Sikasso
+TN0050	DS_d9b29fa189	TN0050							Tanzania			Pyricularia oryzae	Ifakara				leaf lesion		Oryza sativa			
+TR0025	DS_d9b29fa189	TR0025							Turkey			Pyricularia oryzae	ND				leaf lesion		Oryza sativa			
+US0064	DS_d9b29fa189	US0064							USA			Pyricularia oryzae					leaf lesion		Setaria			Maryland
+BN0123	DS_4e3b9ddba4	BN0123	AfricaRice	2012-08-19	2012-08-19	8	2012		Benin	mycelium	BN0123	Pyricularia oryzae	Kokey-Banikoara	diseased	Asian rice	Adny11		Plant	Oryza sativa		Drissa Silue	
+BN0202	DS_4e3b9ddba4	BN0202	AfricaRice		2010		2010		Benin	mycelium	BN0202	Pyricularia oryzae	Lokossa	diseased	Asian rice	CG14		Plant	Oryza sativa		Drissa Silue	
+BN0252	DS_4e3b9ddba4	BN0252	AfricaRice		2010		2010		Benin	mycelium	BN0252	Pyricularia oryzae	Lokossa	diseased	Asian rice	Hong Cheuhza		Plant	Oryza sativa		Drissa Silue	
+CD0065	DS_4e3b9ddba4	CD0065	CIRAD, France	1983-12-01	1983-12-01	12	1983		Cote d'Ivoire	mycelium	CD0065	Pyricularia oryzae	San Pedro	diseased	Asian rice	BKE 189		Plant	Oryza sativa		Jean Loup Notteghem	
+CD0142	DS_4e3b9ddba4	CD0142	CIRAD, France	1989-10-01	1989-10-01	10	1989		Cote d'Ivoire	mycelium	CD0142	Pyricularia oryzae	Odienne	diseased	Asian rice	IRAT 216		Plant	Oryza sativa		Jean Loup Notteghem	
+CH0043	DS_4e3b9ddba4	CH0043	Hunan Agricultural University, China	1991-04-10	1991-04-10	4	1991		China	mycelium	CH0043	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Erming Liu	Yunnan
+CH0072	DS_4e3b9ddba4	CH0072	CIRAD, France		1994		1994		China	mycelium	CH0072	Pyricularia oryzae	Madjong	diseased	Asian rice			Plant	Oryza sativa		Christian Poisson	Yunnan
+CH0452	DS_4e3b9ddba4	CH0452	Yunnan Academy of Agricultural Sciences, China		1994		1994		China	mycelium	CH0452	Pyricularia oryzae	Simao	diseased	Asian rice			Plant	Oryza sativa		Chengyun Li	Yunnan
+CH0461	DS_4e3b9ddba4	CH0461	Yunnan Academy of Agricultural Sciences, China		1994		1994		China	mycelium	CH0461	Pyricularia oryzae	Simao	diseased	Asian rice			Plant	Oryza sativa		Chengyun Li	Yunnan
+CH1103	DS_4e3b9ddba4	CH1103	CIRAD, France	2009-09-17	2009-09-17	9	2009		China	mycelium	CH1103	Pyricularia oryzae	Yule	diseased	Asian rice	Yunlu 103		Plant	Oryza sativa		Dounia Saleh	Yunnan
+CH1164	DS_4e3b9ddba4	CH1164	CIRAD, France	2009-09-17	2009-09-17	9	2009		China	mycelium	CH1164	Pyricularia oryzae	Yule	diseased	Asian rice	Yunlu 10		Plant	Oryza sativa		Dounia Saleh	Yunnan
+IN0017	DS_4e3b9ddba4	IN0017	Kansas State University, USA	1987-01-12	1987-01-12	1	1987		India	mycelium	IN0017	Pyricularia oryzae		diseased	Asian rice	HR12		Plant	Oryza sativa		Barbara Valent	
+IN0054	DS_4e3b9ddba4	IN0054	Purdue University, USA		1994		1994		India	mycelium	IN0054	Pyricularia oryzae		diseased	Asian rice	CO39		Plant	Oryza sativa		Mory Levy	
+IN0059	DS_4e3b9ddba4	IN0059	Purdue University, USA	1992-01-03	1992-01-03	1	1992		India	mycelium	IN0059	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Mory Levy	
+IN0114	DS_4e3b9ddba4	IN0114	University of Toronto, Canada		1997		1997		India	mycelium	IN0114	Pyricularia oryzae	Bandrakoti	diseased	Asian rice			Plant	Oryza sativa		Linda Kohn	
+IN0115	DS_4e3b9ddba4	IN0115	University of Toronto, Canada		1997		1997		India	mycelium	IN0115	Pyricularia oryzae	Matli	diseased	Asian rice			Plant	Oryza sativa		Linda Kohn	
+IN0116	DS_4e3b9ddba4	IN0116	University of Toronto, Canada		1997		1997		India	mycelium	IN0116	Pyricularia oryzae	Matli	diseased	Asian rice			Plant	Oryza sativa		Linda Kohn	
+ML0062	DS_4e3b9ddba4	ML0062	AfricaRice		2009		2009		Mali	mycelium	ML0062	Pyricularia oryzae		diseased	Asian rice	IRBLKH-K3		Plant	Oryza sativa		Murielle Fantodji	Sikasso
+NG0012	DS_4e3b9ddba4	NG0012	AfricaRice	2009-10-17	2009-10-17	10	2009		Nigeria	mycelium	NG0012	Pyricularia oryzae	Edozhigi	diseased	Asian rice	Wita4		Plant	Oryza sativa		Murielle Fantodji	
+NG0054	DS_4e3b9ddba4	NG0054	AfricaRice	2009-11-15	2009-11-15	11	2009		Nigeria	mycelium	NG0054	Pyricularia oryzae	Ibadan	diseased	Asian rice	CO39		Plant	Oryza sativa		Murielle Fantodji	
+TG0004	DS_4e3b9ddba4	TG0004	AfricaRice	2012-12-03	2012-12-03	12	2012		Togo	mycelium	TG0004	Pyricularia oryzae	Elavayo	diseased	Asian rice	Nerica L19		Plant	Oryza sativa		Murielle Fantodji	
+TG0032	DS_4e3b9ddba4	TG0032	AfricaRice	2012-12-11	2012-12-11	12	2012		Togo	mycelium	TG0032	Pyricularia oryzae	Elavayo	diseased	Asian rice	Nerica L19		Plant	Oryza sativa		Murielle Fantodji	
+TN0001	DS_4e3b9ddba4	TN0001	CIRAD, France	2013-03-19	2013-03-19	3	2013		Tanzania	mycelium	TN0001	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Didier Tharreau	
+TN0002	DS_4e3b9ddba4	TN0002	CIRAD, France	2013-03-19	2013-03-19	3	2013		Tanzania	mycelium	TN0002	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Didier Tharreau	
+TN0057	DS_4e3b9ddba4	TN0057	CIRAD, France	2013-03-21	2013-03-21	3	2013		Tanzania	mycelium	TN0057	Pyricularia oryzae		diseased	Asian rice	Supa		Plant	Oryza sativa		Didier Tharreau	
+TN0090	DS_4e3b9ddba4	TN0090	CIRAD, France	2013-03-21	2013-03-21	3	2013		Tanzania	mycelium	TN0090	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Didier Tharreau	
+US0041	DS_4e3b9ddba4	US0041	Purdue University, USA		1985		1985		USA	mycelium	US0041	Pyricularia oryzae		diseased	Asian rice			Plant	Oryza sativa		Mory Levy	Mississippi
+VT0027	DS_4e3b9ddba4	VT0027	Plant Protection Research Institute, Vietnam		2003		2003		Viet Nam	mycelium	VT0027	Pyricularia oryzae	Phu Ly	diseased	Asian rice			Plant	Oryza sativa		Huy Chung Nguyen	
+VT0030	DS_4e3b9ddba4	VT0030	Plant Protection Research Institute, Vietnam		2003		2003		Viet Nam	mycelium	VT0030	Pyricularia oryzae	Hanam, Kim Bang	diseased	Asian rice			Plant	Oryza sativa		Huy Chung Nguyen	
 ZMW18_06	DS_d28132ba39	ZMW18_06			18-Mar	3			Zambia		Pyricularia oryzae ZMW18_06	Pyricularia oryzae				RPWYT-35			wheat			Mpika
 ZMW18_08	DS_d28132ba39	ZMW18_08			18-Mar	3			Zambia		Pyricularia oryzae ZMW18_08	Pyricularia oryzae							COUCAL			Mpika
 ZMW18_10	DS_d28132ba39	ZMW18_10			18-Mar	3			Zambia		Pyricularia oryzae ZMW18_10	Pyricularia oryzae				HON-9			wheat			Mpika
@@ -159,91 +172,91 @@ NGO104	DS_6e922c5942	NGO104			2010		2010		Nigeria		Pyricularia oryzae NGO104	Pyr
 TG004	DS_6e922c5942	TG004			2012		2012		Togo		Pyricularia oryzae TG004	Pyricularia oryzae	Elavayo		Oryza sativa							
 TZ090	DS_6e922c5942	TZ090			2013		2013		Tanzania		Pyricularia oryzae TZ090	Pyricularia oryzae	Ifakara		Oryza sativa							
 UG08	DS_6e922c5942	UG08			2013		2013		Uganda		Pyricularia oryzae UG08	Pyricularia oryzae	Namulonge		Oryza sativa							
-13FM-16-1	DS_10e1dd2ba2	13FM-16-1			2013		2013	Asia	China		13FM-16-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-13FM-24-1	DS_10e1dd2ba2	13FM-24-1			2013		2013	Asia	China		13FM-24-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-13FM-3-2	DS_10e1dd2ba2	13FM-3-2			2013		2013	Asia	China		13FM-3-2	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-13FM-5-1	DS_10e1dd2ba2	13FM-5-1			2013		2013	Asia	China		13FM-5-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-13FM-9-1	DS_10e1dd2ba2	13FM-9-1			2013		2013	Asia	China		13FM-9-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-AV1-1-1	DS_10e1dd2ba2	AV1-1-1			2015		2015	Africa	Ghana		AV1-1-1	Pyricularia oryzae	Aveyime						Oryza sativa	whole organism		
-BJ-90-611	DS_10e1dd2ba2	BJ-90-611			1990		1990	Asia	China		BJ-90-611	Pyricularia oryzae	Beijing						Oryza sativa	whole organism		
-BJ08-8-1	DS_10e1dd2ba2	BJ08-8-1			2011		2011	Asia	China		BJ08-8	Pyricularia oryzae	Beijing						Oryza sativa	whole organism		
-DB11-621	DS_10e1dd2ba2	DB11-621			2002		2002	Asia	China		DB11-621	Pyricularia oryzae	Liaoning						Oryza sativa	whole organism		
-FJ0204804	DS_10e1dd2ba2	FJ0204804			2011		2011	Asia	China		FJ0204804	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ11SH-527-1	DS_10e1dd2ba2	FJ11SH-527-1			2011		2011	Asia	China		FJ11SH-527-1	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ11YD-673-1	DS_10e1dd2ba2	FJ11YD-673-1			2012		2012	Asia	China		FJ11YD-673-1	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ12JN-084-3	DS_10e1dd2ba2	FJ12JN-084-3			2013		2013	Asia	China		FJ12JN-084-3	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ13SH05-2	DS_10e1dd2ba2	FJ13SH05-2			2013		2013	Asia	China		FJ13SH05-2	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ2000-62A	DS_10e1dd2ba2	FJ2000-62A			2000		2000	Asia	China		FJ2000-62A	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ2000-69A	DS_10e1dd2ba2	FJ2000-69A			2000		2000	Asia	China		FJ2000-69A	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ2001-112B	DS_10e1dd2ba2	FJ2001-112B			2001		2001	Asia	China		FJ2001-112B	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ2003-001A1	DS_10e1dd2ba2	FJ2003-001A1			2003		2003	Asia	China		FJ2003-001A1	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ2005113B	DS_10e1dd2ba2	FJ2005113B			2005		2005	Asia	China		FJ2005113B	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ2006-60A3	DS_10e1dd2ba2	FJ2006-60A3			2006		2006	Asia	China		FJ2006-60A3	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ43ZB15-68	DS_10e1dd2ba2	FJ43ZB15-68			1992		1992	Asia	China		FJ43ZB15-68	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ72ZC7-77	DS_10e1dd2ba2	FJ72ZC7-77			1992		1992	Asia	China		FJ72ZC7-77	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ78-JJ	DS_10e1dd2ba2	FJ78-JJ			1978		1978	Asia	China		FJ78-JJ	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ81-JY	DS_10e1dd2ba2	FJ81-JY			1981		1981	Asia	China		FJ81-JY	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ81-MH	DS_10e1dd2ba2	FJ81-MH			1981		1981	Asia	China		FJ81-MH	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ81-SW	DS_10e1dd2ba2	FJ81-SW			1981		1981	Asia	China		FJ81-SW	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ81-ZP	DS_10e1dd2ba2	FJ81-ZP			1981		1981	Asia	China		FJ81-ZP	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ81221ZB11-14	DS_10e1dd2ba2	FJ81221ZB11-14			1981		1981	Asia	China		FJ81221ZB11-14	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ86-CT	DS_10e1dd2ba2	FJ86-CT			1986		1986	Asia	China		FJ86-CT	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ86061ZE3-39	DS_10e1dd2ba2	FJ86061ZE3-39			1986		1986	Asia	China		FJ86061ZE3-39	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ95054B	DS_10e1dd2ba2	FJ95054B			1995		1995	Asia	China		FJ95054B	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ95085AZB13-116	DS_10e1dd2ba2	FJ95085AZB13-116			1995		1995	Asia	China		FJ95085AZB13-116	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ98099	DS_10e1dd2ba2	FJ98099			1998		1998	Asia	China		FJ98099	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJ99138	DS_10e1dd2ba2	FJ99138			1999		1999	Asia	China		FJ99138	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-FJSH0703	DS_10e1dd2ba2	FJSH0703			2007		2007	Asia	China		FJSH0703	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
-GD-05-029b	DS_10e1dd2ba2	GD-05-029b			2005		2005	Asia	China		GD-05-029b	Pyricularia oryzae							Oryza sativa	whole organism		Guangdong
-GD06-53	DS_10e1dd2ba2	GD06-53			2006		2006	Asia	China		GD06-53	Pyricularia oryzae							Oryza sativa	whole organism		Guangdong
-GD08-2025	DS_10e1dd2ba2	GD08-2025			2008		2008	Asia	China		GD08-2025	Pyricularia oryzae							Oryza sativa	whole organism		Guangdong
-HB-14	DS_10e1dd2ba2	HB-14			2009		2009	Asia	China		HB-14	Pyricularia oryzae	Hubei						Oryza sativa	whole organism		
-HB-LTH18	DS_10e1dd2ba2	HB-LTH18			2009		2009	Asia	China		HB-LTH18	Pyricularia oryzae	Hubei						Oryza sativa	whole organism		
-HN-0812-3	DS_10e1dd2ba2	HN-0812-3			2008		2008	Asia	China		HN-0812-3	Pyricularia oryzae	Hunan						Oryza sativa	whole organism		
-HN-158	DS_10e1dd2ba2	HN-158			2009		2009	Asia	China		HN-158	Pyricularia oryzae	Hunan						Oryza sativa	whole organism		
-HN10-1604	DS_10e1dd2ba2	HN10-1604			2010		2010	Asia	China		HN10-1604	Pyricularia oryzae	Hunan						Oryza sativa	whole organism		
-JS-10-6-1-2	DS_10e1dd2ba2	JS-10-6-1-2			2010		2010	Asia	China		JS-10-6-1-2	Pyricularia oryzae	Jiangsu						Oryza sativa	whole organism		
-JS08-611	DS_10e1dd2ba2	JS08-611			2008		2008	Asia	China		JS08-611	Pyricularia oryzae	Jiangsu						Oryza sativa	whole organism		
-JS09-138	DS_10e1dd2ba2	JS09-138			2009		2009	Asia	China		JS09-138	Pyricularia oryzae	Jiangsu						Oryza sativa	whole organism		
-JX-09Z116-1	DS_10e1dd2ba2	JX-09Z116-1			2009		2009	Asia	China		JX-09Z116-1	Pyricularia oryzae	Jiangxi						Oryza sativa	whole organism		
-JX10-102	DS_10e1dd2ba2	JX10-102			2010		2010	Asia	China		JX10-102	Pyricularia oryzae	Jiangxi						Oryza sativa	whole organism		
-JX11-141	DS_10e1dd2ba2	JX11-141			2011		2011	Asia	China		JX11-141	Pyricularia oryzae	Jiangxi						Oryza sativa	whole organism		
-KA1-3-1	DS_10e1dd2ba2	KA1-3-1			2015		2015	Africa	Ghana		KA1-3-1	Pyricularia oryzae	Kade-abaam						Oryza sativa	whole organism		
-KA2-1-1	DS_10e1dd2ba2	KA2-1-1			2015		2015	Africa	Ghana		KA2-1-1	Pyricularia oryzae	Kade-abaam						Oryza sativa	whole organism		
-Nich-2-3-2	DS_10e1dd2ba2	Nich-2-3-2			2014		2014	South America	Suriname		Nich-2-3-2	Pyricularia oryzae	Nickerie						Oryza sativa	whole organism		
-Nich-2-7-4	DS_10e1dd2ba2	Nich-2-7-4			2014		2014	South America	Suriname		Nich-2-7-4	Pyricularia oryzae	Nickerie						Oryza sativa	whole organism		
-SC-10-120-65-2	DS_10e1dd2ba2	SC-10-120-65-2			2010		2010	Asia	China		SC-10-120-65-2	Pyricularia oryzae							Oryza sativa	whole organism		Sichuan
-SC-10-25-44-1	DS_10e1dd2ba2	SC-10-25-44-1			2010		2010	Asia	China		SC-10-25-44-1	Pyricularia oryzae							Oryza sativa	whole organism		Sichuan
-Sar-2-20-1	DS_10e1dd2ba2	Sar-2-20-1			2013		2013	South America	Suriname		Sar-2-20-1	Pyricularia oryzae	Saramacca						Oryza sativa	whole organism		
-Sar-AD3-5	DS_10e1dd2ba2	Sar-AD3-5			2013		2013	South America	Suriname		Sar-AD3-5	Pyricularia oryzae	Nickerie						Oryza sativa	whole organism		
-TW-1-1-1-B-1	DS_10e1dd2ba2	TW-1-1-1-B-1			2005		2005	Asia	China		TW-1-1-1-B-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12CY-TB1-2	DS_10e1dd2ba2	TW-12CY-TB1-2			2012		2012	Asia	China		TW-12CY-TB1-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12HL-DF1-2	DS_10e1dd2ba2	TW-12HL-DF1-2			2012		2012	Asia	China		TW-12HL-DF1-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12HL-YL2-1	DS_10e1dd2ba2	TW-12HL-YL2-1			2012		2012	Asia	China		TW-12HL-YL2-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12TD-RH1-1	DS_10e1dd2ba2	TW-12TD-RH1-1			2012		2012	Asia	China		TW-12TD-RH1-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12TN-HB2-2	DS_10e1dd2ba2	TW-12TN-HB2-2			2012		2012	Asia	China		TW-12TN-HB2-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12YL-DL3-2	DS_10e1dd2ba2	TW-12YL-DL3-2			2012		2012	Asia	China		TW-12YL-DL3-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12YL-DP1-1	DS_10e1dd2ba2	TW-12YL-DP1-1			2012		2012	Asia	China		TW-12YL-DP1-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-12YL-TT4-1	DS_10e1dd2ba2	TW-12YL-TT4-1			2012		2012	Asia	China		TW-12YL-TT4-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-2-7-2-A-1	DS_10e1dd2ba2	TW-2-7-2-A-1			2005		2005	Asia	China		TW-2-7-2-A-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-6-2-2-B-1	DS_10e1dd2ba2	TW-6-2-2-B-1			2005		2005	Asia	China		TW-6-2-2-B-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-6-43-1	DS_10e1dd2ba2	TW-6-43-1			2005		2005	Asia	China		TW-6-43-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-CYBP1-3	DS_10e1dd2ba2	TW-CYBP1-3			2011		2011	Asia	China		TW-CYBP1-3	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-PT1-1	DS_10e1dd2ba2	TW-PT1-1			2011		2011	Asia	China		TW-PT1-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-PT3-1	DS_10e1dd2ba2	TW-PT3-1			2011		2011	Asia	China		TW-PT3-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-PT6-1	DS_10e1dd2ba2	TW-PT6-1			2011		2011	Asia	China		TW-PT6-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-TW-TN4-2	DS_10e1dd2ba2	TW-TN4-2			2011		2011	Asia	China		TW-TN4-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
-WD-3-1	DS_10e1dd2ba2	WD-3-1			2015		2015	Africa	Ghana		WD-3-1_1	Pyricularia oryzae	Weed dabala						Oryza sativa	whole organism		
-YN07205e	DS_10e1dd2ba2	YN07205e			2007		2007	Asia	China		YN07205e	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN072310	DS_10e1dd2ba2	YN072310			2007		2007	Asia	China		YN072310	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN072311	DS_10e1dd2ba2	YN072311			2007		2007	Asia	China		YN072311	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN072313	DS_10e1dd2ba2	YN072313			2007		2007	Asia	China		YN072313	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN08181e	DS_10e1dd2ba2	YN08181e			2008		2008	Asia	China		YN08181e	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN08182c	DS_10e1dd2ba2	YN08182c			2008		2008	Asia	China		YN08182c	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN126311	DS_10e1dd2ba2	YN126311			2012		2012	Asia	China		YN126311	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN126441	DS_10e1dd2ba2	YN126441			2012		2012	Asia	China		YN126441	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN8773-19	DS_10e1dd2ba2	YN8773-19			1987		1987	Asia	China		YN8773-19	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-YN8773R-27	DS_10e1dd2ba2	YN8773R-27			1987		1987	Asia	China		YN8773R-27	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
-ZJ00-10	DS_10e1dd2ba2	ZJ00-10			2000		2000	Asia	China		ZJ00-10	Pyricularia oryzae							Oryza sativa	whole organism		Zhejiang
-ZJ08-41	DS_10e1dd2ba2	ZJ08-41			2008		2008	Asia	China		ZJ08-41	Pyricularia oryzae							Oryza sativa	whole organism		Zhejiang
-ZJ2011-7-1	DS_10e1dd2ba2	ZJ2011-7-1			2011		2011	Asia	China		ZJ2011-7-1	Pyricularia oryzae							Oryza sativa	whole organism		Zhejiang
+13FM-16-1	DS_10e1dd2ba2	13FM-16-1			2013		2013		China		13FM-16-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+13FM-24-1	DS_10e1dd2ba2	13FM-24-1			2013		2013		China		13FM-24-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+13FM-3-2	DS_10e1dd2ba2	13FM-3-2			2013		2013		China		13FM-3-2	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+13FM-5-1	DS_10e1dd2ba2	13FM-5-1			2013		2013		China		13FM-5-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+13FM-9-1	DS_10e1dd2ba2	13FM-9-1			2013		2013		China		13FM-9-1	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+AV1-1-1	DS_10e1dd2ba2	AV1-1-1			2015		2015		Ghana		AV1-1-1	Pyricularia oryzae	Aveyime						Oryza sativa	whole organism		
+BJ-90-611	DS_10e1dd2ba2	BJ-90-611			1990		1990		China		BJ-90-611	Pyricularia oryzae	Beijing						Oryza sativa	whole organism		
+BJ08-8-1	DS_10e1dd2ba2	BJ08-8-1			2011		2011		China		BJ08-8	Pyricularia oryzae	Beijing						Oryza sativa	whole organism		
+DB11-621	DS_10e1dd2ba2	DB11-621			2002		2002		China		DB11-621	Pyricularia oryzae	Liaoning						Oryza sativa	whole organism		
+FJ0204804	DS_10e1dd2ba2	FJ0204804			2011		2011		China		FJ0204804	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ11SH-527-1	DS_10e1dd2ba2	FJ11SH-527-1			2011		2011		China		FJ11SH-527-1	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ11YD-673-1	DS_10e1dd2ba2	FJ11YD-673-1			2012		2012		China		FJ11YD-673-1	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ12JN-084-3	DS_10e1dd2ba2	FJ12JN-084-3			2013		2013		China		FJ12JN-084-3	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ13SH05-2	DS_10e1dd2ba2	FJ13SH05-2			2013		2013		China		FJ13SH05-2	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ2000-62A	DS_10e1dd2ba2	FJ2000-62A			2000		2000		China		FJ2000-62A	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ2000-69A	DS_10e1dd2ba2	FJ2000-69A			2000		2000		China		FJ2000-69A	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ2001-112B	DS_10e1dd2ba2	FJ2001-112B			2001		2001		China		FJ2001-112B	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ2003-001A1	DS_10e1dd2ba2	FJ2003-001A1			2003		2003		China		FJ2003-001A1	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ2005113B	DS_10e1dd2ba2	FJ2005113B			2005		2005		China		FJ2005113B	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ2006-60A3	DS_10e1dd2ba2	FJ2006-60A3			2006		2006		China		FJ2006-60A3	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ43ZB15-68	DS_10e1dd2ba2	FJ43ZB15-68			1992		1992		China		FJ43ZB15-68	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ72ZC7-77	DS_10e1dd2ba2	FJ72ZC7-77			1992		1992		China		FJ72ZC7-77	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ78-JJ	DS_10e1dd2ba2	FJ78-JJ			1978		1978		China		FJ78-JJ	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ81-JY	DS_10e1dd2ba2	FJ81-JY			1981		1981		China		FJ81-JY	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ81-MH	DS_10e1dd2ba2	FJ81-MH			1981		1981		China		FJ81-MH	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ81-SW	DS_10e1dd2ba2	FJ81-SW			1981		1981		China		FJ81-SW	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ81-ZP	DS_10e1dd2ba2	FJ81-ZP			1981		1981		China		FJ81-ZP	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ81221ZB11-14	DS_10e1dd2ba2	FJ81221ZB11-14			1981		1981		China		FJ81221ZB11-14	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ86-CT	DS_10e1dd2ba2	FJ86-CT			1986		1986		China		FJ86-CT	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ86061ZE3-39	DS_10e1dd2ba2	FJ86061ZE3-39			1986		1986		China		FJ86061ZE3-39	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ95054B	DS_10e1dd2ba2	FJ95054B			1995		1995		China		FJ95054B	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ95085AZB13-116	DS_10e1dd2ba2	FJ95085AZB13-116			1995		1995		China		FJ95085AZB13-116	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ98099	DS_10e1dd2ba2	FJ98099			1998		1998		China		FJ98099	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJ99138	DS_10e1dd2ba2	FJ99138			1999		1999		China		FJ99138	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+FJSH0703	DS_10e1dd2ba2	FJSH0703			2007		2007		China		FJSH0703	Pyricularia oryzae							Oryza sativa	whole organism		Fujian
+GD-05-029b	DS_10e1dd2ba2	GD-05-029b			2005		2005		China		GD-05-029b	Pyricularia oryzae							Oryza sativa	whole organism		Guangdong
+GD06-53	DS_10e1dd2ba2	GD06-53			2006		2006		China		GD06-53	Pyricularia oryzae							Oryza sativa	whole organism		Guangdong
+GD08-2025	DS_10e1dd2ba2	GD08-2025			2008		2008		China		GD08-2025	Pyricularia oryzae							Oryza sativa	whole organism		Guangdong
+HB-14	DS_10e1dd2ba2	HB-14			2009		2009		China		HB-14	Pyricularia oryzae	Hubei						Oryza sativa	whole organism		
+HB-LTH18	DS_10e1dd2ba2	HB-LTH18			2009		2009		China		HB-LTH18	Pyricularia oryzae	Hubei						Oryza sativa	whole organism		
+HN-0812-3	DS_10e1dd2ba2	HN-0812-3			2008		2008		China		HN-0812-3	Pyricularia oryzae	Hunan						Oryza sativa	whole organism		
+HN-158	DS_10e1dd2ba2	HN-158			2009		2009		China		HN-158	Pyricularia oryzae	Hunan						Oryza sativa	whole organism		
+HN10-1604	DS_10e1dd2ba2	HN10-1604			2010		2010		China		HN10-1604	Pyricularia oryzae	Hunan						Oryza sativa	whole organism		
+JS-10-6-1-2	DS_10e1dd2ba2	JS-10-6-1-2			2010		2010		China		JS-10-6-1-2	Pyricularia oryzae	Jiangsu						Oryza sativa	whole organism		
+JS08-611	DS_10e1dd2ba2	JS08-611			2008		2008		China		JS08-611	Pyricularia oryzae	Jiangsu						Oryza sativa	whole organism		
+JS09-138	DS_10e1dd2ba2	JS09-138			2009		2009		China		JS09-138	Pyricularia oryzae	Jiangsu						Oryza sativa	whole organism		
+JX-09Z116-1	DS_10e1dd2ba2	JX-09Z116-1			2009		2009		China		JX-09Z116-1	Pyricularia oryzae	Jiangxi						Oryza sativa	whole organism		
+JX10-102	DS_10e1dd2ba2	JX10-102			2010		2010		China		JX10-102	Pyricularia oryzae	Jiangxi						Oryza sativa	whole organism		
+JX11-141	DS_10e1dd2ba2	JX11-141			2011		2011		China		JX11-141	Pyricularia oryzae	Jiangxi						Oryza sativa	whole organism		
+KA1-3-1	DS_10e1dd2ba2	KA1-3-1			2015		2015		Ghana		KA1-3-1	Pyricularia oryzae	Kade-abaam						Oryza sativa	whole organism		
+KA2-1-1	DS_10e1dd2ba2	KA2-1-1			2015		2015		Ghana		KA2-1-1	Pyricularia oryzae	Kade-abaam						Oryza sativa	whole organism		
+Nich-2-3-2	DS_10e1dd2ba2	Nich-2-3-2			2014		2014		Suriname		Nich-2-3-2	Pyricularia oryzae	Nickerie						Oryza sativa	whole organism		
+Nich-2-7-4	DS_10e1dd2ba2	Nich-2-7-4			2014		2014		Suriname		Nich-2-7-4	Pyricularia oryzae	Nickerie						Oryza sativa	whole organism		
+SC-10-120-65-2	DS_10e1dd2ba2	SC-10-120-65-2			2010		2010		China		SC-10-120-65-2	Pyricularia oryzae							Oryza sativa	whole organism		Sichuan
+SC-10-25-44-1	DS_10e1dd2ba2	SC-10-25-44-1			2010		2010		China		SC-10-25-44-1	Pyricularia oryzae							Oryza sativa	whole organism		Sichuan
+Sar-2-20-1	DS_10e1dd2ba2	Sar-2-20-1			2013		2013		Suriname		Sar-2-20-1	Pyricularia oryzae	Saramacca						Oryza sativa	whole organism		
+Sar-AD3-5	DS_10e1dd2ba2	Sar-AD3-5			2013		2013		Suriname		Sar-AD3-5	Pyricularia oryzae	Nickerie						Oryza sativa	whole organism		
+TW-1-1-1-B-1	DS_10e1dd2ba2	TW-1-1-1-B-1			2005		2005		China		TW-1-1-1-B-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12CY-TB1-2	DS_10e1dd2ba2	TW-12CY-TB1-2			2012		2012		China		TW-12CY-TB1-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12HL-DF1-2	DS_10e1dd2ba2	TW-12HL-DF1-2			2012		2012		China		TW-12HL-DF1-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12HL-YL2-1	DS_10e1dd2ba2	TW-12HL-YL2-1			2012		2012		China		TW-12HL-YL2-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12TD-RH1-1	DS_10e1dd2ba2	TW-12TD-RH1-1			2012		2012		China		TW-12TD-RH1-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12TN-HB2-2	DS_10e1dd2ba2	TW-12TN-HB2-2			2012		2012		China		TW-12TN-HB2-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12YL-DL3-2	DS_10e1dd2ba2	TW-12YL-DL3-2			2012		2012		China		TW-12YL-DL3-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12YL-DP1-1	DS_10e1dd2ba2	TW-12YL-DP1-1			2012		2012		China		TW-12YL-DP1-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-12YL-TT4-1	DS_10e1dd2ba2	TW-12YL-TT4-1			2012		2012		China		TW-12YL-TT4-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-2-7-2-A-1	DS_10e1dd2ba2	TW-2-7-2-A-1			2005		2005		China		TW-2-7-2-A-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-6-2-2-B-1	DS_10e1dd2ba2	TW-6-2-2-B-1			2005		2005		China		TW-6-2-2-B-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-6-43-1	DS_10e1dd2ba2	TW-6-43-1			2005		2005		China		TW-6-43-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-CYBP1-3	DS_10e1dd2ba2	TW-CYBP1-3			2011		2011		China		TW-CYBP1-3	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-PT1-1	DS_10e1dd2ba2	TW-PT1-1			2011		2011		China		TW-PT1-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-PT3-1	DS_10e1dd2ba2	TW-PT3-1			2011		2011		China		TW-PT3-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-PT6-1	DS_10e1dd2ba2	TW-PT6-1			2011		2011		China		TW-PT6-1	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+TW-TN4-2	DS_10e1dd2ba2	TW-TN4-2			2011		2011		China		TW-TN4-2	Pyricularia oryzae							Oryza sativa	whole organism		Taiwan
+WD-3-1	DS_10e1dd2ba2	WD-3-1			2015		2015		Ghana		WD-3-1_1	Pyricularia oryzae	Weed dabala						Oryza sativa	whole organism		
+YN07205e	DS_10e1dd2ba2	YN07205e			2007		2007		China		YN07205e	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN072310	DS_10e1dd2ba2	YN072310			2007		2007		China		YN072310	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN072311	DS_10e1dd2ba2	YN072311			2007		2007		China		YN072311	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN072313	DS_10e1dd2ba2	YN072313			2007		2007		China		YN072313	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN08181e	DS_10e1dd2ba2	YN08181e			2008		2008		China		YN08181e	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN08182c	DS_10e1dd2ba2	YN08182c			2008		2008		China		YN08182c	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN126311	DS_10e1dd2ba2	YN126311			2012		2012		China		YN126311	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN126441	DS_10e1dd2ba2	YN126441			2012		2012		China		YN126441	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN8773-19	DS_10e1dd2ba2	YN8773-19			1987		1987		China		YN8773-19	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+YN8773R-27	DS_10e1dd2ba2	YN8773R-27			1987		1987		China		YN8773R-27	Pyricularia oryzae							Oryza sativa	whole organism		Yunnan
+ZJ00-10	DS_10e1dd2ba2	ZJ00-10			2000		2000		China		ZJ00-10	Pyricularia oryzae							Oryza sativa	whole organism		Zhejiang
+ZJ08-41	DS_10e1dd2ba2	ZJ08-41			2008		2008		China		ZJ08-41	Pyricularia oryzae							Oryza sativa	whole organism		Zhejiang
+ZJ2011-7-1	DS_10e1dd2ba2	ZJ2011-7-1			2011		2011		China		ZJ2011-7-1	Pyricularia oryzae							Oryza sativa	whole organism		Zhejiang

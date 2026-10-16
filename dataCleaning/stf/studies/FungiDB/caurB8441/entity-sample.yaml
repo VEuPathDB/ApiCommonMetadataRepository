@@ -106,6 +106,13 @@ variables:
     data_type: integer
     data_shape: continuous
     parent_variable: collection_event
+  - variable: concentration
+    provider_label:
+      - concentration
+    display_name: Concentration
+    definition: Concentration (NCIT_C41185)
+    data_type: string
+    data_shape: categorical
   - variable: continent
     provider_label:
       - continent
@@ -119,6 +126,13 @@ variables:
       - country
     display_name: country
     definition: country (ENVO_00000009)
+    data_type: string
+    data_shape: categorical
+    parent_variable: collection_location
+  - variable: country_2
+    provider_label:
+      - country_2
+    display_name: country 2
     data_type: string
     data_shape: categorical
     parent_variable: collection_location
@@ -143,6 +157,14 @@ variables:
       - fingerprint_clade
     display_name: Fingerprint clade
     definition: Clade assignment from DNA fingerprinting.
+    data_type: string
+    data_shape: categorical
+    parent_variable: organism_under_investigation
+  - variable: fungal_genotype
+    provider_label:
+      - fungal_genotype
+    display_name: Fungal genotype
+    definition: Genotype designation of the fungal isolate.
     data_type: string
     data_shape: categorical
     parent_variable: organism_under_investigation
@@ -179,6 +201,14 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: host
+  - variable: host_common_name
+    provider_label:
+      - host_common_name
+    display_name: host_common_name
+    definition: host_common_name (OBI_0003074)
+    data_type: string
+    data_shape: categorical
+    parent_variable: host
   - variable: icz
     provider_label:
       - icz
@@ -211,6 +241,13 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: phenotype_and_drug_response
+  - variable: mic_ug_ml
+    provider_label:
+      - mic_ug_ml
+    display_name: MIC (ug/mL)
+    definition: MIC (ug/mL) (EUPATH_0005041)
+    data_type: string
+    data_shape: categorical
   - variable: organism
     provider_label:
       - organism
