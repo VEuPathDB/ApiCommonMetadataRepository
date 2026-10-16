@@ -16,6 +16,7 @@ data/
 test_data/
 samplesheets
 manualDelivery/
+ncbi/
 dnaseq_fasta_samples.txt
 dnaseq_sample_metadata_mapping.txt
 

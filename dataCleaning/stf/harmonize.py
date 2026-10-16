@@ -5,7 +5,6 @@ Sample identity comes from dnaseq_sample_metadata_mapping.txt (already verified)
 so every row is traceable back to its metadata source and join evidence.
 """
 import csv,os,re,json,glob,collections,warnings,sys,hashlib
-import openpyxl
 warnings.filterwarnings('ignore')
 ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REPO_ROOT=os.path.dirname(ROOT)
@@ -61,6 +60,11 @@ MINTED={
  'collecting_institution':('Collecting institution','Institution that collected the specimen, as distinct from the named collector.'),
  'isolation_source':      ('Isolation source','Material or site the organism was isolated from, as distinct from the specimen type.'),
  'collection_date_original':('Collection date as provided','Verbatim collection date string from the data provider, retained because the typed collection_date is null whenever the value is incomplete or ambiguous.'),
+ 'host_disease_stage':    ('Host disease stage','Stage of the host disease at sampling, as reported in the NCBI BioSample record.'),
+ 'pulmonary_disorder':    ('Pulmonary disorder','Pulmonary disorder of the host, as reported in the NCBI BioSample record.'),
+ 'biomaterial_provider':  ('Biomaterial provider','Person or institution that provided the sampled material.'),
+ 'serotype':              ('Serotype','Serotype of the organism under investigation, as reported in the NCBI BioSample record.'),
+ 'trichothecene_chemotype':('Trichothecene chemotype','Fusarium trichothecene mycotoxin chemotype, such as 3ADON or NIV.'),
 }
 # ISA headers with no ontologyMappings.xml term -> minted variable (else 256 fungal
 # genotype values, and everything below, get silently dropped)
@@ -129,6 +133,28 @@ for h in ['Run','BioProject','BioSample','SRA Study','Experiment','Bytes','Bases
  'INSDC_center_name','INSDC_first_public','INSDC_last_update','INSDC_status','INSDC_center_alias','Center Name',
  'ncbi_bioproject_id','ncbi_biosample_id','Name - formula','Name - run','BioSampleModel','Genus','Species',
  'purpose_of_sampling','source_type','env_broad_scale','env_local_scale','Cultivar','alias_tax_id']:
+    SS[h]=('drop','')
+
+# NCBI BioSample attributes: harmonized_name where NCBI assigned one, else the
+# submitter's attribute_name
+_set(['collection_date'],'map','Collection date')
+_set(['host'],'map','organism')
+_set(['scientific_name'],'taxon','pathogen_organism')
+_set(['geographic location (region and locality)'],'map','geographic_location')
+_set(['collector name'],'map','specimen collector')
+_set(['collecting institution'],'mint','collecting_institution')
+_set(['isolation source host associated'],'mint','isolation_source')
+_set(['diagnostic method'],'mint','diagnostic_method')
+_set(['host_disease'],'map','health_status')
+_set(['host_disease_stage'],'mint','host_disease_stage')
+_set(['pulmonary_disord'],'mint','pulmonary_disorder')
+_set(['biomaterial_provider'],'mint','biomaterial_provider')
+_set(['serotype'],'mint','serotype')
+_set(['pathogenicity'],'mint','known_pathogenicity')
+_set(['common name'],'drop','')
+_set(['sample_name','Submitter Id','External Id'],'id','')
+for h in ['ENA-CHECKLIST','ENA-FIRST-PUBLIC','ENA-LAST-UPDATE','ENA first public','ENA last update',
+ 'INSDC center name','INSDC center alias','INSDC first public','INSDC last update','INSDC status']:
     SS[h]=('drop','')
 
 # ================================================================ geography
@@ -220,6 +246,8 @@ SS_PIN={
  ('cglaCBS138_Manitoba_2023','isolate'):('map','isolate group'),
  # isolate = 'Sus scrofa', i.e. the host, not the parasite strain
  ('csuiWienI','isolate'):('map','organism'),
+ # serotype = '3ADON' / 'NIV', i.e. the Fusarium trichothecene chemotype
+ ('fculClass2-1B_Fcul_Miedaner','serotype'):('mint','trichothecene_chemotype'),
 }
 def ss_rule(exp,h):
     for (pref,hh),rule in SS_PIN.items():
@@ -259,18 +287,18 @@ CATEGORIES=[
  ('collection_event','Collection event',[
    'collection_date','collection_date_original','collection_year','collection_month',
    'specimen_collector','specimen_collector_2','collecting_institution','sample_collection_method',
-   'sample_collection_device','sample_collection_time_post_harvest_days']),
+   'sample_collection_device','sample_collection_time_post_harvest_days','biomaterial_provider']),
  ('host','Host',[
    'organism','host_common_name','host_variety','lab_host','sex','age',
    'health_status','health_status_2','infection','body_temperature','parasite_density_by_microscope',
-   'treatment','study_type']),
+   'treatment','study_type','host_disease_stage','pulmonary_disorder']),
  ('organism_under_investigation','Organism under investigation',[
    'fungus_organism','parasite_organism','fungal_strain','fungal_strain_2',
    'parasite_strain','parasite_strain_2','fungal_genotype','parasite_genotype',
    'lineage','haplogroup','fingerprint_clade','vni_subdivision','mating_type',
    'ploidy','gp60_genotype','isolate_group','group','parental_and_clone',
    'organism_id','alternative_sample_id','repository_id','cgh_organization',
-   'passage_history']),
+   'passage_history','serotype','trichothecene_chemotype']),
  ('specimen_and_culture','Specimen and culture',[
    'specimen','specimen_2','isolation_source','developmental_stage','culture_medium','culture_condition',
    'days_in_culture','diagnostic_method','known_pathogenicity']),
@@ -403,27 +431,25 @@ def load_isa(rel):
     for r in rows[1:]:
         if r and r[0].strip(): idx[r[0].strip()]=dict(zip(hdr,[c.strip() for c in r]))
     return hdr,idx
-def load_xlsx(rel):
-    wb=openpyxl.load_workbook(f'{ROOT}/{rel}',read_only=True,data_only=True)
-    byrun={}; byname={}; hdrs=[]
-    for sn in wb.sheetnames:
-        rows=[r for r in wb[sn].iter_rows(values_only=True)]
-        rows=[r for r in rows if any(c is not None for c in r)]
-        if len(rows)<2: continue
-        hdr=[('' if c is None else str(c).strip()) for c in rows[0]]
-        hdrs+= [h for h in hdr if h and h!='None']
-        for r in rows[1:]:
-            d={h:r[i] if i<len(r) else None for i,h in enumerate(hdr) if h and h!='None'}
-            run=clean(d.get('Run'))
-            if run: byrun.setdefault(run,{}).update({k:v for k,v in d.items() if clean(v)})
-            for k in ('Specimen ID','Sample ID','Strain','specimen_id','Sample_name','Sample Name'):
-                nm=clean(d.get(k))
-                if nm: byname.setdefault(nm,{}).update({k2:v for k2,v in d.items() if clean(v)})
-    wb.close(); return hdrs,byrun,byname
+def load_ncbi():
+    """run -> (BioSample, BioProject, attributes), from fetch_ncbi_biosamples.py's cache."""
+    d=f'{ROOT}/ncbi'
+    attrs=collections.defaultdict(dict)
+    for r in csv.DictReader(open(f'{d}/biosample_attributes.tsv',newline=''),delimiter='\t'):
+        attrs[r['biosample']][r['attribute']]=r['value']
+    return {r['run']:(r['biosample'],r['bioproject'],attrs[r['biosample']])
+            for r in csv.DictReader(open(f'{d}/runs.tsv',newline=''),delimiter='\t')}
 
 # ---------------------------------------------------------------- main
 mapping=list(csv.DictReader(open(f'{ROOT}/dnaseq_sample_metadata_mapping.txt'),delimiter='\t'))
-isa_cache={}; xl_cache={}
+isa_cache={}
+NCBI=load_ncbi()
+# A BioSample shared by differently named samples was registered per project, not
+# per sample, so its attributes say nothing about any one sample.
+BS_SAMPLES=collections.defaultdict(set)
+for r in mapping:
+    if r['metaDataSource']=='NCBI' and r['joinKey'].split(',')[0] in NCBI:
+        BS_SAMPLES[NCBI[r['joinKey'].split(',')[0]][0]].add(r['workflowSample'])
 byorg=collections.defaultdict(list)      # org -> sample dicts
 usedvars=collections.defaultdict(set)    # org -> varnames
 skipped=collections.Counter()
@@ -457,9 +483,8 @@ for r in mapping:
     exp=r['workflowDataRsrcName']; ws=r['workflowSample']; src=r['metaDataSource']
     proj,org=r['projectName'],r['organismAbbrev']
     fungi = (proj=='FungiDB')
-    # NCBI BioSample lookup by run is not implemented yet; until it is these samples carry no metadata
-    if r['metaRepoSampleName']=='NO_METADATA_MATCH' or not src or src=='NCBI':
-        skipped['ncbi-pending' if src=='NCBI' else 'no-metadata']+=1
+    if r['metaRepoSampleName']=='NO_METADATA_MATCH' or not src:
+        skipped['no-metadata']+=1
         byorg[org].append({'sample_id':ws,'dataset_name':exp,'dataset_id':dataset_id(exp),
                            'project':proj,'sample_display_name':ws})
         usedvars[org].add('sample_display_name')   # else the column is dropped
@@ -474,26 +499,24 @@ for r in mapping:
     # (ISA 'CGI10' vs workflow 'CGl10' -- capital I for lowercase l). There the
     # ISA spelling is the corrupted one, so the workflow name stays. The other
     # non-exact types are genuinely cleaner curated names.
-    curated = (not src.endswith('.xlsx')) and mrn and mrn!='NO_METADATA_MATCH' \
+    curated = src!='NCBI' and mrn and mrn!='NO_METADATA_MATCH' \
               and r['matchType']!='normalized'
     out['sample_display_name'] = mrn if (curated and mrn!=ws) else ws
     if curated and mrn!=ws: renamed.append((exp,ws,mrn))
-    if src.endswith('.xlsx'):
-        if src not in xl_cache: xl_cache[src]=load_xlsx(src)
-        hdrs,byrun,byname=xl_cache[src]
+    if src=='NCBI':
+        hit=NCBI.get(r['joinKey'].split(',')[0])
         row=None
-        if r['matchType']=='sra-run-join':
-            for run in r['joinKey'].split(','):
-                if run in byrun: row=byrun[run]; break
-        if row is None: row=byname.get(r['joinKey']) or byname.get(r['metaRepoSampleName'])
-        if row is None: skipped['xlsx-row-missing']+=1
-        else:
+        if hit is None: skipped['ncbi-run-missing']+=1
+        elif len(BS_SAMPLES[hit[0]])>1: skipped['ncbi-shared-biosample']+=1
+        else: row=hit[2]; out['_date_src']=hit[1]
+        if row is not None:
             for h,v in row.items():
+                v=clean(v)
+                if not v: continue
                 rule=ss_rule(exp,h)
                 if not rule: skipped[f'unclassified:{h}']+=1; continue
                 kind,target=rule
-                v=clean(v)
-                if not v or kind in ('drop','id'): continue
+                if kind in ('drop','id'): continue
                 if kind=='map':
                     # minted targets must not be resolved through the corpus:
                     # normh('geographic_location') collides with the
@@ -649,7 +672,7 @@ for e,ws,mrn in sorted(renamed): print(f"   {ws!r:<32} -> {mrn!r:<26} ({e.split(
 print(f"{'organism':<18} {'project':<12} {'samples':>7} {'datasets':>8} {'vars':>5}")
 for o,p,n,nd,nv in summary: print(f"{o:<18} {p:<12} {n:>7} {nd:>8} {nv:>5}")
 print("\nskipped/notes:")
-for k,v in skipped.most_common(12): print(f"   {k}: {v}")
+for k,v in skipped.most_common(): print(f"   {k}: {v}")
 if conflicts: print("value conflicts when collapsing multi-run samples:",dict(conflicts.most_common(8)))
 if collisions:
     with open(f'{ROOT}/stf/collision_report.tsv','w',newline='') as f:

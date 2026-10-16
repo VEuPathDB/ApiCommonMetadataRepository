@@ -8,7 +8,14 @@ derived, so it isn't committed.
 python3 stf/sample_mapping/dnaseq_datasets.py $VEUPATH_DATASETS > /tmp/datasets.tsv
 bash stf/sample_mapping/fetch_samplesheets.bash /tmp/datasets.tsv manualDelivery
 python3 stf/sample_mapping/build_sample_mapping.py $VEUPATH_DATASETS manualDelivery dnaseq_sample_metadata_mapping.txt
+python3 stf/sample_mapping/fetch_ncbi_biosamples.py dnaseq_sample_metadata_mapping.txt ncbi
 ```
+
+`fetch_ncbi_biosamples.py` caches run → BioSample and the BioSample attributes
+under `ncbi/`, which `harmonize.py` reads. Attributes go through the same `SS`
+header rules the provider spreadsheets used. If differently named samples share
+one BioSample, that BioSample was registered per project, so none of them get
+its attributes.
 
 `$VEUPATH_DATASETS` is a VEuPathDatasets checkout on the build's branch. Datasets
 are its `dnaseqExperiment` elements. Workflow samples are the `sample` column of
