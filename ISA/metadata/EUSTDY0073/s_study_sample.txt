@@ -1,25 +1,26 @@
-Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	Characteristics [specimen]	Mating type	Communication group	CGH organization	Characteristics [fungus organism]	Characteristics [fungal strain]
-D111	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa D111
-D112	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	A	2	2	Neurospora crassa	Neurospora crassa D112
-D113	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	3	3	Neurospora crassa	Neurospora crassa D113
-JW22	N. crassa GWAS to identify novel loci involved fungal communication			USA	Elizabeth, LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW22
-JW179	N. crassa GWAS to identify novel loci involved fungal communication			USA	Roanoke, LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa JW179
-JW193	N. crassa GWAS to identify novel loci involved fungal communication			USA	Elizabeth, LA	mycellium	a	2	2	Neurospora crassa	Neurospora crassa JW193
-JW196	N. crassa GWAS to identify novel loci involved fungal communication			USA	Northside Plantation, LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW196
-JW199	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	A	1	1	Neurospora crassa	Neurospora crassa JW199
-JW204	N. crassa GWAS to identify novel loci involved fungal communication			USA	Bayou Chicot, LA	mycellium	A	1	1	Neurospora crassa	Neurospora crassa JW204
-JW220	N. crassa GWAS to identify novel loci involved fungal communication			USA	Roanoke, LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW220
-JW222	N. crassa GWAS to identify novel loci involved fungal communication			USA	Coon, LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa JW222
-JW224	N. crassa GWAS to identify novel loci involved fungal communication			USA	Coon, LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa JW224
-JW228	N. crassa GWAS to identify novel loci involved fungal communication			USA	Georgia Plantation, LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa JW228
-JW242	N. crassa GWAS to identify novel loci involved fungal communication			USA	Welsh, LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW242
-JW246	N. crassa GWAS to identify novel loci involved fungal communication			USA	Welsh, LA	mycellium	a	n.d.	2	Neurospora crassa	Neurospora crassa JW246
-JW258	N. crassa GWAS to identify novel loci involved fungal communication			USA	Iowa, LA	mycellium	a	2	2	Neurospora crassa	Neurospora crassa JW258
-JW75	N. crassa GWAS to identify novel loci involved fungal communication			USA	Houma, LA	mycellium	a	2	5	Neurospora crassa	Neurospora crassa JW75
-P4452	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa P4452
-P4463	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	2	2	Neurospora crassa	Neurospora crassa P4463
-P4468	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa P4468
-P4471	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	3	3	Neurospora crassa	Neurospora crassa P4471
-P4476	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	3	3	Neurospora crassa	Neurospora crassa P4476
-P4479	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa P4479
-P4489	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin, LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa P4489
+Name	Description	SourceMTOverride	SampleMTOverride	Characteristics [country]	Characteristics [city]	Characteristics [state]	Characteristics [specimen]	Mating type	Communication group	CGH organization	Characteristics [fungus organism]	Characteristics [fungal strain]
+D111	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa D111
+D112	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	A	2	2	Neurospora crassa	Neurospora crassa D112
+D113	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	3	3	Neurospora crassa	Neurospora crassa D113
+JW22	N. crassa GWAS to identify novel loci involved fungal communication			USA	Elizabeth	LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW22
+JW179	N. crassa GWAS to identify novel loci involved fungal communication			USA	Roanoke	LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa JW179
+JW193	N. crassa GWAS to identify novel loci involved fungal communication			USA	Elizabeth	LA	mycellium	a	2	2	Neurospora crassa	Neurospora crassa JW193
+JW196	N. crassa GWAS to identify novel loci involved fungal communication			USA	Northside Plantation	LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW196
+JW199	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	A	1	1	Neurospora crassa	Neurospora crassa JW199
+JW204	N. crassa GWAS to identify novel loci involved fungal communication			USA	Bayou Chicot	LA	mycellium	A	1	1	Neurospora crassa	Neurospora crassa JW204
+JW220	N. crassa GWAS to identify novel loci involved fungal communication			USA	Roanoke	LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW220
+JW222	N. crassa GWAS to identify novel loci involved fungal communication			USA	Coon	LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa JW222
+JW224	N. crassa GWAS to identify novel loci involved fungal communication			USA	Coon	LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa JW224
+JW228	N. crassa GWAS to identify novel loci involved fungal communication			USA	Georgia Plantation	LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa JW228
+JW242	N. crassa GWAS to identify novel loci involved fungal communication			USA	Welsh	LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa JW242
+JW246	N. crassa GWAS to identify novel loci involved fungal communication			USA	Welsh	LA	mycellium	a	n.d.	2	Neurospora crassa	Neurospora crassa JW246
+JW258	N. crassa GWAS to identify novel loci involved fungal communication			USA	Iowa	LA	mycellium	a	2	2	Neurospora crassa	Neurospora crassa JW258
+JW75	N. crassa GWAS to identify novel loci involved fungal communication			USA	Houma	LA	mycellium	a	2	5	Neurospora crassa	Neurospora crassa JW75
+P4452	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	1	1	Neurospora crassa	Neurospora crassa P4452
+P4463	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	2	2	Neurospora crassa	Neurospora crassa P4463
+P4468	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	A	2	5	Neurospora crassa	Neurospora crassa P4468
+P4471	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	3	3	Neurospora crassa	Neurospora crassa P4471
+P4476	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	3	3	Neurospora crassa	Neurospora crassa P4476
+P4479	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa P4479
+P4489	N. crassa GWAS to identify novel loci involved fungal communication			USA	Franklin	LA	mycellium	a	2/3	4	Neurospora crassa	Neurospora crassa P4489
+JW148	N. crassa GWAS to identify novel loci involved fungal communication			USA	n.d.	LA	mycellium	A	n.d.	n.d.	Neurospora crassa	Neurospora crassa JW148

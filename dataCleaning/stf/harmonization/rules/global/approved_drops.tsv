@@ -1,0 +1,4 @@
+variable	reason
+and	Header-parsing artifact, not a variable; no interpretable meaning
+group	Header-parsing artifact, uninterpretable
+continent	Approved by data owner 2026-08-07: present in only 9 of 62 studies and incomplete in all 9 (1636 null rows); derivable from a clean country, so it should be computed in pass two rather than carried

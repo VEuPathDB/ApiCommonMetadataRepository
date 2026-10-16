@@ -1,0 +1,22 @@
+variable	reason
+dataset_id	Identifier; substituting would break the join to source data
+sample_display_name	Free-text provenance, not a controlled vocabulary
+alternative_sample_id	Identifier
+organism_id	Identifier
+repository_id	Identifier
+collection_date	Date carried as string
+collection_date_original	Verbatim date string
+collection_year	Number carried as string
+collection_month	Number carried as string
+latitude_coordinate_measurement_datum	Coordinate, not a vocabulary
+longitude_coordinate_measurement_datum	Coordinate, not a vocabulary
+body_temperature	Measurement
+parasite_density_by_microscope	Measurement
+sample_collection_time_post_harvest_days	Measurement
+ldopa_ave_std_dev	Measurement
+paraquat_ave_std_dev	Measurement
+mic_of_fk506	Measurement (minimum inhibitory concentration)
+mic_of_natamycin	Measurement (minimum inhibitory concentration)
+mic_of_tebuconazole	Measurement (minimum inhibitory concentration)
+mic_of_terbinafine	Measurement (minimum inhibitory concentration)
+parasite_clearance_half_life	Measurement, not a controlled vocabulary

@@ -1,0 +1,38 @@
+# generated outputs; releases live on yew with a SOURCE file naming the commit
+stf/studies/
+stf/studies_harmonized/
+stf/reports/
+stf/dataset_ids.tsv
+stf/collision_report.tsv
+stf/unresolved_geography.tsv
+
+# embedded git repositories - MUST NOT be committed as gitlinks
+study-wrangler/
+study-dealer-nextflow/
+
+# large source data
+*.tar.gz
+.nextflow/
+.nextflow.log*
+work/
+results/
+data/
+test_data/
+samplesheets
+manualDelivery/
+dnaseq_fasta_samples.txt
+dnaseq_sample_metadata_mapping.txt
+
+# stale output tree from a previous naming scheme (superseded by stf/studies_harmonized/)
+stf/harmonized/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# ISA lives at the root of this repository now
+ApiCommonMetadataRepository/
+
+# Python
+__pycache__/

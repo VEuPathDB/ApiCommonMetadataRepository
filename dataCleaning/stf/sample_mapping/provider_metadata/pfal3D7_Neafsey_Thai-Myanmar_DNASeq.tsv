@@ -1,0 +1,199 @@
+Sample ID	Genus	Species	Strain	time interval	collection date	collection site	clearance half-life	Percentage of genome with more or equal to 5x read coverage (%)	Environmental Material	Collection Date	Specimen ID	Host	Collection Location	Organism Name	ncbi_biosample_id	ncbi_bioproject_id
+CKAF5210	Plasmodium	falciparum	CKAF5210	2014	2014-04-18 00:00:00	Mae Ra Mat Hospital	not available	81.70150000000001	Blood	2014	CKAF5210	Homo sapiens	MRH	Plasmodium falciparum CKAF5210	SAMN04326662	PRJNA262567
+DMA403	Plasmodium	falciparum	DMA403	2014	2014-01-06 00:00:00	Maela	not available	80.0458	Blood	2014	DMA403	Homo sapiens	Maela, Thailand	Plasmodium falciparum DMA403	SAMN04326663	PRJNA262567
+KAE6110	Plasmodium	falciparum	KAE6110	2014	2014-07-09 00:00:00	Mae Ra Mat Hospital	not available	79.3129	Blood	2014	KAE6110	Homo sapiens	MRH	Plasmodium falciparum KAE6110	SAMN04326664	PRJNA262567
+NHP104671	Plasmodium	falciparum	NHP104671	2014	2014-08-30 00:00:00	Mawker Thai	not available	81.8566	Blood	2014	NHP104671	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP104671	SAMN04326654	PRJNA262567
+NHP110557	Plasmodium	falciparum	NHP110557	2014	2014-05-17 00:00:00	Mawker Thai	not available	72.9691	Blood	2014	NHP110557	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP110557	SAMN04326655	PRJNA262567
+NHP114662	Plasmodium	falciparum	NHP114662	2014	2014-06-15 00:00:00	Mawker Thai	not available	79.097	Blood	2014	NHP114662	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP114662	SAMN04326656	PRJNA262567
+NHP114856	Plasmodium	falciparum	NHP114856	2014	2014-07-01 00:00:00	Mawker Thai	not available	84.7612	Blood	2014	NHP114856	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP114856	SAMN04326657	PRJNA262567
+NHP115639	Plasmodium	falciparum	NHP115639	2014	2014-08-25 00:00:00	Mawker Thai	not available	76.941	Blood	2014	NHP115639	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP115639	SAMN04326658	PRJNA262567
+NHP1523	Plasmodium	falciparum	NHP1523	2014	2014-05-30 00:00:00	Mawker Thai	4.200401354	77.9992	Blood	2014	NHP1523	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP1523	SAMN04326665	PRJNA262567
+NHP1524	Plasmodium	falciparum	NHP1524	2014	2014-06-12 00:00:00	Mawker Thai	6.393672003	76.3402	Blood	2014	NHP1524	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP1524	SAMN04326666	PRJNA262567
+NHP1525	Plasmodium	falciparum	NHP1525	2014	2014-06-18 00:00:00	Mawker Thai	5.037994312	74.1844	Blood	2014	NHP1525	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP1525	SAMN04326667	PRJNA262567
+NHP1527	Plasmodium	falciparum	NHP1527	2014	2014-06-26 00:00:00	Mawker Thai	9.613399055	75.373	Blood	2014	NHP1527	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP1527	SAMN04326668	PRJNA262567
+NHP1528	Plasmodium	falciparum	NHP1528	2014	2014-06-28 00:00:00	Mawker Thai	3.939903243	78.5579	Blood	2014	NHP1528	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum NHP1528	SAMN04326669	PRJNA262567
+NHP2209	Plasmodium	falciparum	NHP2209	2014	2014-04-24 00:00:00	Mae Kon Ken	6.29139237	76.0518	Blood	2014	NHP2209	Homo sapiens	Mae Khon Kaen, Thailand	Plasmodium falciparum NHP2209	SAMN04326670	PRJNA262567
+NHP2211	Plasmodium	falciparum	NHP2211	2014	2014-06-03 00:00:00	Mae Kon Ken	7.699356645	73.5322	Blood	2014	NHP2211	Homo sapiens	PLU	Plasmodium falciparum NHP2211	SAMN04326671	PRJNA262567
+NHP2212	Plasmodium	falciparum	NHP2212	2014	2014-06-04 00:00:00	Mae Kon Ken	6.067491973	74.63459999999999	Blood	2014	NHP2212	Homo sapiens	PLU	Plasmodium falciparum NHP2212	SAMN04326672	PRJNA262567
+NHP3015	Plasmodium	falciparum	NHP3015	2008	2008-01-08 00:00:00	Maela	2.509339956	80.8226	Blood	2008	NHP3015	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3015	SAMN03083964	PRJNA262567
+NHP3020	Plasmodium	falciparum	NHP3020	2008	2008-05-27 00:00:00	Maela	3.721574112	88.1372	Blood	2008	NHP3020	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3020	SAMN03083975	PRJNA262567
+NHP3022	Plasmodium	falciparum	NHP3022	2008	2008-06-11 00:00:00	Maela	2.134439842	78.3566	Blood	2008	NHP3022	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3022	SAMN03083983	PRJNA262567
+NHP3036	Plasmodium	falciparum	NHP3036	2008	2008-07-21 00:00:00	Maela	2.555059464	77.35459999999999	Blood	2008	NHP3036	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3036	SAMN03083989	PRJNA262567
+NHP3044	Plasmodium	falciparum	NHP3044	2008	2008-08-09 00:00:00	Maela	3.77758426	84.9039	Blood	2008	NHP3044	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3044	SAMN03083993	PRJNA262567
+NHP3046	Plasmodium	falciparum	NHP3046	2008	2008-08-13 00:00:00	Maela	8.515861469	83.0422	Blood	2008	NHP3046	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3046	SAMN03083994	PRJNA262567
+NHP3055	Plasmodium	falciparum	NHP3055	2008	2008-09-23 00:00:00	Maela	5.261253624	91.2852	Blood	2008	NHP3055	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3055	SAMN03083998	PRJNA262567
+NHP3056	Plasmodium	falciparum	NHP3056	2008	2008-10-01 00:00:00	Maela	2.225688088	82.3207	Blood	2008	NHP3056	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3056	SAMN03084000	PRJNA262567
+NHP3059	Plasmodium	falciparum	NHP3059	2008	2008-10-26 00:00:00	Maela	3.525014789	82.3207	Blood	2008	NHP3059	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3059	SAMN03084004	PRJNA262567
+NHP3065	Plasmodium	falciparum	NHP3065	2008	2008-11-14 00:00:00	Maela	2.499647252	84.6677	Blood	2008	NHP3065	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3065	SAMN03084007	PRJNA262567
+NHP3066	Plasmodium	falciparum	NHP3066	2008	2008-11-25 00:00:00	Maela	2.926724082	91.87429999999999	Blood	2008	NHP3066	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3066	SAMN03084008	PRJNA262567
+NHP3068	Plasmodium	falciparum	NHP3068	2008	2008-12-04 00:00:00	Maela	4.349881686	82.8643	Blood	2008	NHP3068	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3068	SAMN03084010	PRJNA262567
+NHP3206	Plasmodium	falciparum	NHP3206	2011-2012	2012-06-26 00:00:00	Maela	6.433618768	95.0432	Blood	2012	NHP3206	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3206	SAMN03084044	PRJNA262567
+NHP3207	Plasmodium	falciparum	NHP3207	2011-2012	2012-07-05 00:00:00	Maela	4.508361403	95.0506	Blood	2012	NHP3207	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3207	SAMN03084046	PRJNA262567
+NHP3228	Plasmodium	falciparum	NHP3228	2014	2014-02-06 00:00:00	Maela	8.276640373	74.2358	Blood	2014	NHP3228	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3228	SAMN04326673	PRJNA262567
+NHP3229	Plasmodium	falciparum	NHP3229	2014	2014-05-19 00:00:00	Maela	4.599299774	74.937	Blood	2014	NHP3229	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3229	SAMN04326674	PRJNA262567
+NHP3230	Plasmodium	falciparum	NHP3230	2014	2014-06-23 00:00:00	Maela	8.703377118	75.7051	Blood	2014	NHP3230	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3230	SAMN04326675	PRJNA262567
+NHP3231	Plasmodium	falciparum	NHP3231	2014	2014-07-07 00:00:00	Maela	6.465003144	77.7514	Blood	2014	NHP3231	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3231	SAMN04326676	PRJNA262567
+NHP3232	Plasmodium	falciparum	NHP3232	2014	2014-08-02 00:00:00	Maela	7.445031601	77.0091	Blood	2014	NHP3232	Homo sapiens	Maela, Thailand	Plasmodium falciparum NHP3232	SAMN04326677	PRJNA262567
+NHP401183	Plasmodium	falciparum	NHP401183	2014	2014-07-30 00:00:00	Wang Pha	not available	73.6893	Blood	2014	NHP401183	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP401183	SAMN04326659	PRJNA262567
+NHP4049	Plasmodium	falciparum	NHP4049	2008	2008-01-05 00:00:00	Wang Pha	4.046677804	88.3916	Blood	2008	NHP4049	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4049	SAMN03083963	PRJNA262567
+NHP4080	Plasmodium	falciparum	NHP4080	2008	2008-02-18 00:00:00	Wang Pha	2.155557319	91.69850000000001	Blood	2008	NHP4080	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4080	SAMN03083965	PRJNA262567
+NHP4085	Plasmodium	falciparum	NHP4085	2008	2008-02-26 00:00:00	Wang Pha	3.506884574	87.4284	Blood	2008	NHP4085	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4085	SAMN03083966	PRJNA262567
+NHP4101	Plasmodium	falciparum	NHP4101	2008	2008-03-17 00:00:00	Wang Pha	2.524844417	77.51599999999999	Blood	2008	NHP4101	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4101	SAMN03083967	PRJNA262567
+NHP4104	Plasmodium	falciparum	NHP4104	2008	2008-03-20 00:00:00	Wang Pha	2.459112376	86.3711	Blood	2008	NHP4104	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4104	SAMN03083968	PRJNA262567
+NHP4118	Plasmodium	falciparum	NHP4118	2008	2008-03-29 00:00:00	Wang Pha	3.371962901	82.40769999999999	Blood	2008	NHP4118	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4118	SAMN03083969	PRJNA262567
+NHP4123	Plasmodium	falciparum	NHP4123	2008	2008-04-07 00:00:00	Wang Pha	4.438690855	88.8626	Blood	2008	NHP4123	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4123	SAMN03083970	PRJNA262567
+NHP4126	Plasmodium	falciparum	NHP4126	2008	2008-04-08 00:00:00	Wang Pha	3.528086367	93.3236	Blood	2008	NHP4126	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4126	SAMN03083971	PRJNA262567
+NHP4147	Plasmodium	falciparum	NHP4147	2008	2008-05-05 00:00:00	Wang Pha	4.248420554	88.1734	Blood	2008	NHP4147	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4147	SAMN03083972	PRJNA262567
+NHP4155	Plasmodium	falciparum	NHP4155	2008	2008-05-16 00:00:00	Wang Pha	2.299005227	90.64320000000001	Blood	2008	NHP4155	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4155	SAMN03083973	PRJNA262567
+NHP4162	Plasmodium	falciparum	NHP4162	2008	2008-05-20 00:00:00	Wang Pha	1.909052416	86.0457	Blood	2008	NHP4162	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4162	SAMN03083974	PRJNA262567
+NHP416930	Plasmodium	falciparum	NHP416930	2014	2014-01-14 00:00:00	Wang Pha	not available	77.0992	Blood	2014	NHP416930	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP416930	SAMN04326660	PRJNA262567
+NHP4187	Plasmodium	falciparum	NHP4187	2008	2008-06-02 00:00:00	Wang Pha	6.913250578	86.5594	Blood	2008	NHP4187	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4187	SAMN03083976	PRJNA262567
+NHP418798	Plasmodium	falciparum	NHP418798	2014	2014-06-30 00:00:00	Wang Pha	not available	71.0919	Blood	2014	NHP418798	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP418798	SAMN04326661	PRJNA262567
+NHP4188	Plasmodium	falciparum	NHP4188	2008	2008-06-02 00:00:00	Wang Pha	3.920766502	78.3438	Blood	2008	NHP4188	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4188	SAMN03083977	PRJNA262567
+NHP4189	Plasmodium	falciparum	NHP4189	2008	2008-06-02 00:00:00	Wang Pha	3.490388423	83.5982	Blood	2008	NHP4189	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4189	SAMN03083978	PRJNA262567
+NHP4193	Plasmodium	falciparum	NHP4193	2008	2008-06-03 00:00:00	Wang Pha	4.305106119	84.2774	Blood	2008	NHP4193	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4193	SAMN03083979	PRJNA262567
+NHP4196	Plasmodium	falciparum	NHP4196	2008	2008-06-05 00:00:00	Wang Pha	5.058399987	83.3712	Blood	2008	NHP4196	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4196	SAMN03083980	PRJNA262567
+NHP4203	Plasmodium	falciparum	NHP4203	2008	2008-06-09 00:00:00	Wang Pha	5.779263911	85.0879	Blood	2008	NHP4203	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4203	SAMN03083981	PRJNA262567
+NHP4212	Plasmodium	falciparum	NHP4212	2008	2008-06-11 00:00:00	Wang Pha	3.333091396	81.6108	Blood	2008	NHP4212	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4212	SAMN03083982	PRJNA262567
+NHP4215	Plasmodium	falciparum	NHP4215	2008	2008-06-13 00:00:00	Wang Pha	7.107918481	90.694	Blood	2008	NHP4215	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4215	SAMN03083984	PRJNA262567
+NHP4224	Plasmodium	falciparum	NHP4224	2008	2008-06-23 00:00:00	Wang Pha	3.047196104	89.40259999999999	Blood	2008	NHP4224	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4224	SAMN03083985	PRJNA262567
+NHP4232	Plasmodium	falciparum	NHP4232	2008	2008-06-26 00:00:00	Wang Pha	4.887561794	76.5268	Blood	2008	NHP4232	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4232	SAMN03083986	PRJNA262567
+NHP4234	Plasmodium	falciparum	NHP4234	2008	2008-06-27 00:00:00	Wang Pha	1.195429173	90.1212	Blood	2008	NHP4234	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4234	SAMN03083987	PRJNA262567
+NHP4251	Plasmodium	falciparum	NHP4251	2008	2008-07-11 00:00:00	Wang Pha	2.8771291	87.1957	Blood	2008	NHP4251	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4251	SAMN03083988	PRJNA262567
+	Plasmodium	falciparum	NHP4263						Blood	2008	NHP4263	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4263	SAMN03083990	PRJNA262567
+NHP4269	Plasmodium	falciparum	NHP4269	2008	2008-07-29 00:00:00	Wang Pha	4.210147403	81.7706	Blood	2008	NHP4269	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4269	SAMN03083991	PRJNA262567
+NHP4278	Plasmodium	falciparum	NHP4278	2008	2008-08-07 00:00:00	Wang Pha	6.648653979	87.0786	Blood	2008	NHP4278	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4278	SAMN03083992	PRJNA262567
+NHP4290	Plasmodium	falciparum	NHP4290	2008	2008-08-28 00:00:00	Wang Pha	not available	84.653	Blood	2008	NHP4290	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4290	SAMN03083995	PRJNA262567
+NHP4302	Plasmodium	falciparum	NHP4302	2008	2008-09-17 00:00:00	Wang Pha	1.976797417	84.6744	Blood	2008	NHP4302	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4302	SAMN03083997	PRJNA262567
+NHP4303	Plasmodium	falciparum	NHP4303	2008	2008-09-17 00:00:00	Wang Pha	6.941147826	87.6777	Blood	2008	NHP4303	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4303	SAMN03083996	PRJNA262567
+NHP4311	Plasmodium	falciparum	NHP4311	2008	2008-09-29 00:00:00	Wang Pha	2.446004197	93.5942	Blood	2008	NHP4311	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4311	SAMN03083999	PRJNA262567
+NHP4315	Plasmodium	falciparum	NHP4315	2008	2008-10-04 00:00:00	Wang Pha	7.461039613	86.4002	Blood	2008	NHP4315	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4315	SAMN03084001	PRJNA262567
+	Plasmodium	falciparum	NHP4319						Blood	2008	NHP4319	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4319	SAMN03084002	PRJNA262567
+NHP4323	Plasmodium	falciparum	NHP4323	2008	2008-10-13 00:00:00	Wang Pha	4.824090906	73.046	Blood	2008	NHP4323	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4323	SAMN03084003	PRJNA262567
+NHP4332	Plasmodium	falciparum	NHP4332	2008	2008-10-29 00:00:00	Wang Pha	3.850268889	81.4366	Blood	2008	NHP4332	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4332	SAMN03084005	PRJNA262567
+NHP4344	Plasmodium	falciparum	NHP4344	2008	2008-11-10 00:00:00	Wang Pha	2.562239109	90.64370000000001	Blood	2008	NHP4344	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4344	SAMN03084006	PRJNA262567
+NHP4366	Plasmodium	falciparum	NHP4366	2008	2008-12-02 00:00:00	Wang Pha	2.220327966	82.9089	Blood	2008	NHP4366	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4366	SAMN03084009	PRJNA262567
+NHP4371	Plasmodium	falciparum	NHP4371	2008	2008-12-12 00:00:00	Wang Pha	5.052823982	74.74159999999999	Blood	2008	NHP4371	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4371	SAMN03084011	PRJNA262567
+NHP4374	Plasmodium	falciparum	NHP4374	2008	2008-12-15 00:00:00	Wang Pha	7.816350084	72.2149	Blood	2008	NHP4374	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4374	SAMN03084012	PRJNA262567
+NHP4748	Plasmodium	falciparum	NHP4748	2011-2012	2011-07-15 00:00:00	Wang Pha	2.894793648	94.2964	Blood	2011	NHP4748	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4748	SAMN03084013	PRJNA262567
+NHP4749	Plasmodium	falciparum	NHP4749	2011-2012	2011-07-18 00:00:00	Wang Pha	7.303538264	94.8562	Blood	2011	NHP4749	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4749	SAMN03084014	PRJNA262567
+NHP4761	Plasmodium	falciparum	NHP4761	2011-2012	2011-09-27 00:00:00	Wang Pha	3.669044153	95.3105	Blood	2011	NHP4761	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4761	SAMN03084015	PRJNA262567
+NHP4764	Plasmodium	falciparum	NHP4764	2011-2012	2011-11-14 00:00:00	Wang Pha	5.946376157	95.1215	Blood	2011	NHP4764	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4764	SAMN03084016	PRJNA262567
+NHP4765	Plasmodium	falciparum	NHP4765	2011-2012	2011-11-24 00:00:00	Wang Pha	6.593158195	95.43549999999999	Blood	2011	NHP4765	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4765	SAMN03084017	PRJNA262567
+NHP4772	Plasmodium	falciparum	NHP4772	2011-2012	2012-02-17 00:00:00	Wang Pha	4.932363865	94.8759	Blood	2012	NHP4772	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4772	SAMN03084018	PRJNA262567
+NHP4773	Plasmodium	falciparum	NHP4773	2011-2012	2012-02-24 00:00:00	Wang Pha	3.393966047	94.4803	Blood	2012	NHP4773	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4773	SAMN03084019	PRJNA262567
+NHP4775	Plasmodium	falciparum	NHP4775	2011-2012	2012-03-12 00:00:00	Wang Pha	4.215997064	94.6478	Blood	2012	NHP4775	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4775	SAMN03084020	PRJNA262567
+NHP4776	Plasmodium	falciparum	NHP4776	2011-2012	2012-03-31 00:00:00	Wang Pha	7.115502384	95.2628	Blood	2012	NHP4776	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4776	SAMN03084021	PRJNA262567
+NHP4778	Plasmodium	falciparum	NHP4778	2011-2012	2012-04-06 00:00:00	Wang Pha	7.159831569	94.70739999999999	Blood	2012	NHP4778	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4778	SAMN03084022	PRJNA262567
+NHP4779	Plasmodium	falciparum	NHP4779	2011-2012	2012-04-12 00:00:00	Wang Pha	6.040850424	94.9658	Blood	2012	NHP4779	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4779	SAMN03084023	PRJNA262567
+NHP4780	Plasmodium	falciparum	NHP4780	2011-2012	2012-04-13 00:00:00	Wang Pha	2.215857907	94.61699999999999	Blood	2012	NHP4780	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4780	SAMN03084024	PRJNA262567
+NHP4781	Plasmodium	falciparum	NHP4781	2011-2012	2012-04-14 00:00:00	Wang Pha	6.775858972	95.1693	Blood	2012	NHP4781	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4781	SAMN03084025	PRJNA262567
+NHP4782	Plasmodium	falciparum	NHP4782	2011-2012	2012-04-16 00:00:00	Wang Pha	6.857582021	95.0616	Blood	2012	NHP4782	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4782	SAMN03084026	PRJNA262567
+NHP4783	Plasmodium	falciparum	NHP4783	2011-2012	2012-04-18 00:00:00	Wang Pha	6.359370872	95.0101	Blood	2012	NHP4783	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4783	SAMN03084027	PRJNA262567
+NHP4788	Plasmodium	falciparum	NHP4788	2011-2012	2012-04-24 00:00:00	Wang Pha	4.180605911	95.2023	Blood	2012	NHP4788	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4788	SAMN03084028	PRJNA262567
+NHP4791	Plasmodium	falciparum	NHP4791	2011-2012	2012-04-27 00:00:00	Wang Pha	6.19141149	95.4949	Blood	2012	NHP4791	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4791	SAMN03084029	PRJNA262567
+NHP4795	Plasmodium	falciparum	NHP4795	2011-2012	2012-05-01 00:00:00	Wang Pha	3.453031946	94.79429999999999	Blood	2012	NHP4795	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4795	SAMN03084030	PRJNA262567
+NHP4796	Plasmodium	falciparum	NHP4796	2011-2012	2012-05-02 00:00:00	Wang Pha	6.670544614	94.5648	Blood	2012	NHP4796	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4796	SAMN03084032	PRJNA262567
+NHP4798	Plasmodium	falciparum	NHP4798	2011-2012	2012-05-02 00:00:00	Wang Pha	7.962883964	94.3956	Blood	2012	NHP4798	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4798	SAMN03084031	PRJNA262567
+NHP4800	Plasmodium	falciparum	NHP4800	2011-2012	2012-05-11 00:00:00	Wang Pha	4.302830281	94.61699999999999	Blood	2012	NHP4800	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4800	SAMN03084033	PRJNA262567
+NHP4801	Plasmodium	falciparum	NHP4801	2011-2012	2012-05-14 00:00:00	Wang Pha	4.881586475	95.48	Blood	2012	NHP4801	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4801	SAMN03084034	PRJNA262567
+NHP4810	Plasmodium	falciparum	NHP4810	2011-2012	2012-05-28 00:00:00	Wang Pha	5.043486202	95.1909	Blood	2012	NHP4810	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4810	SAMN03084036	PRJNA262567
+NHP4811	Plasmodium	falciparum	NHP4811	2011-2012	2012-05-28 00:00:00	Wang Pha	5.76111058	94.8112	Blood	2012	NHP4811	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4811	SAMN03084035	PRJNA262567
+NHP4815	Plasmodium	falciparum	NHP4815	2011-2012	2012-05-31 00:00:00	Wang Pha	3.055126488	94.9841	Blood	2012	NHP4815	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4815	SAMN03084037	PRJNA262567
+NHP4826	Plasmodium	falciparum	NHP4826	2011-2012	2012-06-11 00:00:00	Wang Pha	7.693727288	94.3439	Blood	2012	NHP4826	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4826	SAMN03084038	PRJNA262567
+NHP4827	Plasmodium	falciparum	NHP4827	2011-2012	2012-06-11 00:00:00	Wang Pha	8.237333104	95.19330000000001	Blood	2012	NHP4827	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4827	SAMN03084039	PRJNA262567
+NHP4828	Plasmodium	falciparum	NHP4828	2011-2012	2012-06-13 00:00:00	Wang Pha	3.101851582	94.90950000000001	Blood	2012	NHP4828	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4828	SAMN03084040	PRJNA262567
+NHP4829	Plasmodium	falciparum	NHP4829	2011-2012	2012-06-18 00:00:00	Wang Pha	5.4796939	94.5162	Blood	2012	NHP4829	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4829	SAMN03084041	PRJNA262567
+NHP4830	Plasmodium	falciparum	NHP4830	2011-2012	2012-06-19 00:00:00	Wang Pha	7.49694008	94.8849	Blood	2012	NHP4830	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4830	SAMN03084042	PRJNA262567
+NHP4832	Plasmodium	falciparum	NHP4832	2011-2012	2012-06-25 00:00:00	Wang Pha	5.050105505	95.13430000000001	Blood	2012	NHP4832	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4832	SAMN03084043	PRJNA262567
+NHP4834	Plasmodium	falciparum	NHP4834	2011-2012	2012-07-03 00:00:00	Wang Pha	4.719202159	94.6056	Blood	2012	NHP4834	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4834	SAMN03084045	PRJNA262567
+NHP4835	Plasmodium	falciparum	NHP4835	2011-2012	2012-07-07 00:00:00	Wang Pha	2.791223994	94.4501	Blood	2012	NHP4835	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4835	SAMN03084047	PRJNA262567
+NHP4839	Plasmodium	falciparum	NHP4839	2011-2012	2012-08-01 00:00:00	Wang Pha	5.352308871	94.7982	Blood	2012	NHP4839	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4839	SAMN03084048	PRJNA262567
+NHP4840	Plasmodium	falciparum	NHP4840	2011-2012	2012-08-07 00:00:00	Wang Pha	7.266447591	95.3089	Blood	2012	NHP4840	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4840	SAMN03084049	PRJNA262567
+NHP4841	Plasmodium	falciparum	NHP4841	2011-2012	2012-08-08 00:00:00	Wang Pha	3.281488573	94.3897	Blood	2012	NHP4841	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4841	SAMN03084050	PRJNA262567
+NHP4843	Plasmodium	falciparum	NHP4843	2011-2012	2012-08-22 00:00:00	Wang Pha	3.674139326	94.21209999999999	Blood	2012	NHP4843	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4843	SAMN03084051	PRJNA262567
+NHP4847	Plasmodium	falciparum	NHP4847	2011-2012	2012-10-23 00:00:00	Wang Pha	7.046345328	93.8613	Blood	2012	NHP4847	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4847	SAMN03084052	PRJNA262567
+NHP4848	Plasmodium	falciparum	NHP4848	2011-2012	2012-11-20 00:00:00	Wang Pha	4.742323002	93.5211	Blood	2012	NHP4848	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4848	SAMN03084053	PRJNA262567
+NHP4850	Plasmodium	falciparum	NHP4850	2011-2012	2012-12-03 00:00:00	Wang Pha	6.305486952	93.6993	Blood	2012	NHP4850	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4850	SAMN03084056	PRJNA262567
+NHP4851	Plasmodium	falciparum	NHP4851	2011-2012	2012-12-03 00:00:00	Wang Pha	7.519018953	93.6707	Blood	2012	NHP4851	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4851	SAMN03084057	PRJNA262567
+NHP4852	Plasmodium	falciparum	NHP4852	2011-2012	2012-12-03 00:00:00	Wang Pha	7.616036263	93.97529999999999	Blood	2012	NHP4852	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4852	SAMN03084055	PRJNA262567
+NHP4853	Plasmodium	falciparum	NHP4853	2011-2012	2012-12-07 00:00:00	Wang Pha	6.540754171	94.02669999999999	Blood	2012	NHP4853	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4853	SAMN03084058	PRJNA262567
+NHP4854	Plasmodium	falciparum	NHP4854	2011-2012	2012-12-11 00:00:00	Wang Pha	1.777961462	93.2364	Blood	2012	NHP4854	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4854	SAMN03084059	PRJNA262567
+NHP4855	Plasmodium	falciparum	NHP4855	2011-2012	2012-12-15 00:00:00	Wang Pha	3.81933815	94.1886	Blood	2012	NHP4855	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4855	SAMN03084060	PRJNA262567
+NHP4857	Plasmodium	falciparum	NHP4857	2011-2012	2012-12-19 00:00:00	Wang Pha	3.9439239	94.4468	Blood	2012	NHP4857	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4857	SAMN03084061	PRJNA262567
+NHP4859	Plasmodium	falciparum	NHP4859	2011-2012	2012-12-28 00:00:00	Wang Pha	not available	94.0951	Blood	2012	NHP4859	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4859	SAMN03084062	PRJNA262567
+NHP4898	Plasmodium	falciparum	NHP4898	2011-2012	2012-12-01 00:00:00	Wang Pha	5.980830073	93.2696	Blood	2012	NHP4898	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4898	SAMN03084054	PRJNA262567
+NHP4945	Plasmodium	falciparum	NHP4945	2014	2014-05-19 00:00:00	Wang Pha	7.534715007	69.5629	Blood	2014	NHP4945	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4945	SAMN04326678	PRJNA262567
+NHP4946	Plasmodium	falciparum	NHP4946	2014	2014-06-23 00:00:00	Wang Pha	6.872324507	73.1225	Blood	2014	NHP4946	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4946	SAMN04326679	PRJNA262567
+NHP4947	Plasmodium	falciparum	NHP4947	2014	2014-06-23 00:00:00	Wang Pha	7.373032824	70.8623	Blood	2014	NHP4947	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4947	SAMN04326680	PRJNA262567
+NHP4949	Plasmodium	falciparum	NHP4949	2014	2014-07-10 00:00:00	Wang Pha	8.737054645	77.9245	Blood	2014	NHP4949	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4949	SAMN04326681	PRJNA262567
+NHP4950	Plasmodium	falciparum	NHP4950	2014	2014-07-14 00:00:00	Wang Pha	6.690480275	76.0388	Blood	2014	NHP4950	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4950	SAMN04326682	PRJNA262567
+NHP4952	Plasmodium	falciparum	NHP4952	2014	2014-07-29 00:00:00	Wang Pha	7.170793506	79.8985	Blood	2014	NHP4952	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum NHP4952	SAMN04326683	PRJNA262567
+OHP102	Plasmodium	falciparum	OHP102	2001-2004	2001-11-26 00:00:00	Maela	3.554689839	28.0424	Blood	2001	OHP102	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP102	SAMN03083917	PRJNA262567
+OHP111	Plasmodium	falciparum	OHP111	2001-2004	2001-12-29 00:00:00	Maela	2.77096934	87.8602	Blood	2001	OHP111	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP111	SAMN03083918	PRJNA262567
+OHP116	Plasmodium	falciparum	OHP116	2001-2004	2002-01-14 00:00:00	Maela	2.015521123	10.262	Blood	2002	OHP116	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP116	SAMN03083919	PRJNA262567
+OHP121	Plasmodium	falciparum	OHP121	2001-2004	2002-01-29 00:00:00	Maela	3.173757644	81.7582	Blood	2002	OHP121	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP121	SAMN03083921	PRJNA262567
+OHP122	Plasmodium	falciparum	OHP122	2001-2004	2002-01-29 00:00:00	Maela	2.792672029	84.18480000000001	Blood	2002	OHP122	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP122	SAMN03083920	PRJNA262567
+OHP124	Plasmodium	falciparum	OHP124	2001-2004	2002-01-31 00:00:00	Maela	2.453580725	86.79390000000001	Blood	2002	OHP124	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP124	SAMN03083922	PRJNA262567
+	Plasmodium	falciparum	OHP125						Blood	2002	OHP125	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP125	SAMN03083923	PRJNA262567
+OHP133	Plasmodium	falciparum	OHP133	2001-2004	2002-03-10 00:00:00	Maela	2.712782613	66.2556	Blood	2002	OHP133	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP133	SAMN03083924	PRJNA262567
+OHP135	Plasmodium	falciparum	OHP135	2001-2004	2002-03-23 00:00:00	Maela	1.164613797	45.6871	Blood	2002	OHP135	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP135	SAMN03083925	PRJNA262567
+OHP1500	Plasmodium	falciparum	OHP1500	2001-2004	2004-02-16 00:00:00	Wang Pha	3.070460325	5.9511	Blood	2004	OHP1500	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OHP1500	SAMN03083947	PRJNA262567
+OHP1501	Plasmodium	falciparum	OHP1501	2001-2004	2004-02-19 00:00:00	Wang Pha	3.811425011	53.0346	Blood	2004	OHP1501	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OHP1501	SAMN03083948	PRJNA262567
+OHP1510	Plasmodium	falciparum	OHP1510	2001-2004	2004-04-08 00:00:00	Wang Pha	3.303699834	35.1753	Blood	2004	OHP1510	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OHP1510	SAMN03083950	PRJNA262567
+OHP1523	Plasmodium	falciparum	OHP1523	2001-2004	2004-05-02 00:00:00	Wang Pha	2.317789941	90.6052	Blood	2004	OHP1523	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OHP1523	SAMN03083951	PRJNA262567
+OHP1524	Plasmodium	falciparum	OHP1524	2001-2004	2004-05-14 00:00:00	Wang Pha	4.808466093	74.3038	Blood	2004	OHP1524	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OHP1524	SAMN03083952	PRJNA262567
+OHP1525	Plasmodium	falciparum	OHP1525	2001-2004	2004-05-15 00:00:00	Wang Pha	3.027307242	89.7682	Blood	2004	OHP1525	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OHP1525	SAMN03083953	PRJNA262567
+OHP160	Plasmodium	falciparum	OHP160	2001-2004	2002-06-18 00:00:00	Maela	4.031126372	86.3832	Blood	2002	OHP160	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP160	SAMN03083926	PRJNA262567
+OHP182	Plasmodium	falciparum	OHP182	2001-2004	2002-11-11 00:00:00	Maela	1.542471636	89.6505	Blood	2002	OHP182	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP182	SAMN03083927	PRJNA262567
+OHP183	Plasmodium	falciparum	OHP183	2001-2004	2002-11-18 00:00:00	Maela	1.981863685	83.0851	Blood	2002	OHP183	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP183	SAMN03083928	PRJNA262567
+OHP184	Plasmodium	falciparum	OHP184	2001-2004	2002-11-19 00:00:00	Maela	4.093921768	22.7597	Blood	2002	OHP184	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP184	SAMN03083929	PRJNA262567
+OHP189	Plasmodium	falciparum	OHP189	2001-2004	2002-12-12 00:00:00	Maela	4.904639992	85.99419999999999	Blood	2002	OHP189	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP189	SAMN03083930	PRJNA262567
+OHP213	Plasmodium	falciparum	OHP213	2001-2004	2003-03-31 00:00:00	Maela	2.515489485	3.0893	Blood	2003	OHP213	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP213	SAMN03083931	PRJNA262567
+OHP218	Plasmodium	falciparum	OHP218	2001-2004	2003-04-14 00:00:00	Maela	2.768454254	81.8832	Blood	2003	OHP218	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP218	SAMN03083932	PRJNA262567
+OHP228	Plasmodium	falciparum	OHP228	2001-2004	2003-05-12 00:00:00	Maela	2.827117165	32.6963	Blood	2003	OHP228	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP228	SAMN03083933	PRJNA262567
+OHP259	Plasmodium	falciparum	OHP259	2001-2004	2003-07-19 00:00:00	Maela	2.33631434	65.9499	Blood	2003	OHP259	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP259	SAMN03083934	PRJNA262567
+OHP260	Plasmodium	falciparum	OHP260	2001-2004	2003-07-23 00:00:00	Maela	3.421652367	56.781000000000006	Blood	2003	OHP260	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP260	SAMN03083935	PRJNA262567
+OHP263	Plasmodium	falciparum	OHP263	2001-2004	2003-07-29 00:00:00	Maela	2.849593295	76.9748	Blood	2003	OHP263	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP263	SAMN03083936	PRJNA262567
+OHP268	Plasmodium	falciparum	OHP268	2001-2004	2003-08-07 00:00:00	Maela	3.049429138	73.817	Blood	2003	OHP268	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP268	SAMN03083937	PRJNA262567
+OHP275	Plasmodium	falciparum	OHP275	2001-2004	2003-09-19 00:00:00	Maela	4.084608946	74.9679	Blood	2003	OHP275	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP275	SAMN03083938	PRJNA262567
+OHP277	Plasmodium	falciparum	OHP277	2001-2004	2003-10-06 00:00:00	Maela	2.968272614	83.4601	Blood	2003	OHP277	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP277	SAMN03083939	PRJNA262567
+OHP288	Plasmodium	falciparum	OHP288	2001-2004	2003-12-08 00:00:00	Maela	3.286321451	69.9612	Blood	2003	OHP288	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP288	SAMN03083940	PRJNA262567
+OHP289	Plasmodium	falciparum	OHP289	2001-2004	2003-12-10 00:00:00	Maela	2.542436392	88.5175	Blood	2003	OHP289	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP289	SAMN03083941	PRJNA262567
+OHP291	Plasmodium	falciparum	OHP291	2001-2004	2003-12-12 00:00:00	Maela	5.094083371	73.23819999999999	Blood	2003	OHP291	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP291	SAMN03083942	PRJNA262567
+OHP292	Plasmodium	falciparum	OHP292	2001-2004	2003-12-14 00:00:00	Maela	5.050075516	80.5101	Blood	2003	OHP292	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP292	SAMN03083944	PRJNA262567
+OHP293	Plasmodium	falciparum	OHP293	2001-2004	2003-12-14 00:00:00	Maela	2.822938481	88.0837	Blood	2003	OHP293	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP293	SAMN03083943	PRJNA262567
+OHP295	Plasmodium	falciparum	OHP295	2001-2004	2003-12-25 00:00:00	Maela	4.084464574	78.0065	Blood	2003	OHP295	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP295	SAMN03083945	PRJNA262567
+OHP300	Plasmodium	falciparum	OHP300	2001-2004	2004-01-17 00:00:00	Maela	2.214605132	70.7209	Blood	2004	OHP300	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP300	SAMN03083946	PRJNA262567
+OHP304	Plasmodium	falciparum	OHP304	2001-2004	2004-03-06 00:00:00	Maela	3.83709429	68.6139	Blood	2004	OHP304	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP304	SAMN03083949	PRJNA262567
+OHP319	Plasmodium	falciparum	OHP319	2001-2004	2004-06-07 00:00:00	Maela	1.896563548	2.4914	Blood	2004	OHP319	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP319	SAMN03083954	PRJNA262567
+OHP337	Plasmodium	falciparum	OHP337	2001-2004	2004-09-16 00:00:00	Maela	3.377610268	77.7872	Blood	2004	OHP337	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP337	SAMN03083955	PRJNA262567
+OHP338	Plasmodium	falciparum	OHP338	2001-2004	2004-09-20 00:00:00	Maela	not available	78.5899	Blood	2004	OHP338	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP338	SAMN03083956	PRJNA262567
+OHP339	Plasmodium	falciparum	OHP339	2001-2004	2004-10-01 00:00:00	Maela	3.015997115	82.5839	Blood	2004	OHP339	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP339	SAMN03083957	PRJNA262567
+OHP341	Plasmodium	falciparum	OHP341	2001-2004	2004-10-08 00:00:00	Maela	3.162425936	81.82730000000001	Blood	2004	OHP341	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP341	SAMN03083958	PRJNA262567
+OHP343	Plasmodium	falciparum	OHP343	2001-2004	2004-10-10 00:00:00	Maela	6.258258633	89.4007	Blood	2004	OHP343	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP343	SAMN03083959	PRJNA262567
+OHP345	Plasmodium	falciparum	OHP345	2001-2004	2004-10-18 00:00:00	Maela	2.87341971	77.3468	Blood	2004	OHP345	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP345	SAMN03083960	PRJNA262567
+OHP346	Plasmodium	falciparum	OHP346	2001-2004	2004-11-02 00:00:00	Maela	2.562113544	88.7752	Blood	2004	OHP346	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP346	SAMN03083961	PRJNA262567
+OHP355	Plasmodium	falciparum	OHP355	2001-2004	2004-12-28 00:00:00	Maela	3.13563916	84.2096	Blood	2004	OHP355	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP355	SAMN03083962	PRJNA262567
+	Plasmodium	falciparum	OHP44						Blood	2001	OHP44	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP44	SAMN03083913	PRJNA262567
+OHP82	Plasmodium	falciparum	OHP82	2001-2004	2001-11-10 00:00:00	Maela	4.069091195	13.2718	Blood	2001	OHP82	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP82	SAMN03083914	PRJNA262567
+OHP92	Plasmodium	falciparum	OHP92	2001-2004	2001-11-22 00:00:00	Maela	5.371803102	74.31269999999999	Blood	2001	OHP92	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP92	SAMN03083916	PRJNA262567
+OHP95	Plasmodium	falciparum	OHP95	2001-2004	2001-11-22 00:00:00	Maela	2.242681226	81.3484	Blood	2001	OHP95	Homo sapiens	Maela, Thailand	Plasmodium falciparum OHP95	SAMN03083915	PRJNA262567
+OZC1S3005	Plasmodium	falciparum	OZC1S3005	2014	2014-01-29 00:00:00	Mawker Thai	not available	38.4244	Blood	2014	OZC1S3005	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum OZC1S3005	SAMN04326684	PRJNA262567
+OZC2S2001	Plasmodium	falciparum	OZC2S2001	2014	2014-02-24 00:00:00	Wang Pha	not available	78.43769999999999	Blood	2014	OZC2S2001	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OZC2S2001	SAMN04326685	PRJNA262567
+OZC2S2006	Plasmodium	falciparum	OZC2S2006	2014	2014-06-13 00:00:00	Wang Pha	not available	72.08529999999999	Blood	2014	OZC2S2006	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum OZC2S2006	SAMN04326686	PRJNA262567
+OZC2S3003	Plasmodium	falciparum	OZC2S3003	2014	2014-05-31 00:00:00	Mawker Thai	not available	75.39099999999999	Blood	2014	OZC2S3003	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum OZC2S3003	SAMN04326687	PRJNA262567
+RDM43	Plasmodium	falciparum	RDM43	2014	2014-06-03 00:00:00	Wang Pha	not available	81.1292	Blood	2014	RDM43	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum RDM43	SAMN04326688	PRJNA262567
+RDM45	Plasmodium	falciparum	RDM45	2014	2014-07-17 00:00:00	Wang Pha	not available	76.5636	Blood	2014	RDM45	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum RDM45	SAMN04326689	PRJNA262567
+RDM46	Plasmodium	falciparum	RDM46	2014	2014-06-23 00:00:00	Wang Pha	not available	75.86880000000001	Blood	2014	RDM46	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum RDM46	SAMN04326690	PRJNA262567
+RDM5	Plasmodium	falciparum	RDM5	2014	2014-06-19 00:00:00	Maela	not available	78.5841	Blood	2014	RDM5	Homo sapiens	Maela, Thailand	Plasmodium falciparum RDM5	SAMN04326691	PRJNA262567
+RDM53	Plasmodium	falciparum	RDM53	2014	2014-07-14 00:00:00	Wang Pha	not available	84.96010000000001	Blood	2014	RDM53	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum RDM53	SAMN04326692	PRJNA262567
+RDM61	Plasmodium	falciparum	RDM61	2014	2014-02-04 00:00:00	Mae Kon Ken	not available	6.7771	Blood	2014	RDM61	Homo sapiens	PLU	Plasmodium falciparum RDM61	SAMN04326693	PRJNA262567
+RDM64	Plasmodium	falciparum	RDM64	2014	2014-07-25 00:00:00	Mae Kon Ken	not available	73.71379999999999	Blood	2014	RDM64	Homo sapiens	PLU	Plasmodium falciparum RDM64	SAMN04326694	PRJNA262567
+RDM76	Plasmodium	falciparum	RDM76	2014	2014-05-23 00:00:00	Wang Pha	not available	74.5088	Blood	2014	RDM76	Homo sapiens	Wang Pha, Thailand	Plasmodium falciparum RDM76	SAMN04326695	PRJNA262567
+RDM79	Plasmodium	falciparum	RDM79	2014	2014-06-18 00:00:00	Mawker Thai	not available	73.6469	Blood	2014	RDM79	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum RDM79	SAMN04326696	PRJNA262567
+RDM8	Plasmodium	falciparum	RDM8	2014	2014-06-23 00:00:00	Maela	not available	75.62480000000001	Blood	2014	RDM8	Homo sapiens	Maela, Thailand	Plasmodium falciparum RDM8	SAMN04326697	PRJNA262567
+RDM80	Plasmodium	falciparum	RDM80	2014	2014-07-16 00:00:00	Mawker Thai	not available	76.6443	Blood	2014	RDM80	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum RDM80	SAMN04326698	PRJNA262567
+RDM81	Plasmodium	falciparum	RDM81	2014	2014-07-21 00:00:00	Mawker Thai	not available	79.6646	Blood	2014	RDM81	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum RDM81	SAMN04326699	PRJNA262567
+RDM84	Plasmodium	falciparum	RDM84	2014	2014-07-25 00:00:00	Mawker Thai	not available	80.6437	Blood	2014	RDM84	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum RDM84	SAMN04326700	PRJNA262567
+RDM87	Plasmodium	falciparum	RDM87	2014	2014-08-26 00:00:00	Mawker Thai	not available	76.68430000000001	Blood	2014	RDM87	Homo sapiens	Mawker Tai, Thailand	Plasmodium falciparum RDM87	SAMN04326701	PRJNA262567

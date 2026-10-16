@@ -1,0 +1,7 @@
+variable	raw_value	canonical_value	ontology_term_id	note
+country	Wang Pha, Thailand	Thailand		Site+country conflated; site is preserved in collection_site (Wang Pha)
+country	Maela, Thailand	Thailand		Site+country conflated; site is preserved in collection_site (Maela)
+country	Mawker Tai, Thailand	Thailand		Site+country conflated; collection_site spells it Mawker Thai
+country	Mae Khon Kaen, Thailand	Thailand		Site+country conflated; collection_site spells it Mae Kon Ken
+country	PLU	Thailand		Collection-site code leaked into country; a Thai clinic
+country	MRH	Thailand		Collection-site code leaked into country; Mae Ra Mat Hospital, per collection_site
