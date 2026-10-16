@@ -16,11 +16,12 @@ CORPUS=ONT['corpus']
 def normh(h):
     h=re.sub(r'^(Characteristics|Comment|Parameter Value|Factor Value)\s*\[(.*)\]$',r'\2',str(h).strip())
     return re.sub(r'[^a-z0-9]','',h.lower())
-def dataset_id(name):
+def dataset_id(presenter_name):
     """DS_ presenter id: same digest as DatasetPresenter.getId() in
-    EbrcModelCommon -- DigestUtils.sha1Hex(datasetName).substring(0,10).
-    Verified against 383 DS_ ids already present in the model xml."""
-    return 'DS_'+hashlib.sha1(name.encode()).hexdigest()[:10]
+    EbrcModelCommon -- DigestUtils.sha1Hex(presenter name).substring(0,10).
+    A chunked dataset's presenter is a pattern presenter, so this is the digest of
+    the presenter's name, never of the chunk's own dataset name."""
+    return 'DS_'+hashlib.sha1(presenter_name.encode()).hexdigest()[:10]
 
 def varname(canonical):
     v=re.sub(r'[^A-Za-z0-9]+','_',canonical.strip()).strip('_')
@@ -486,11 +487,11 @@ for r in mapping:
     fungi = (proj=='FungiDB')
     if r['metaRepoSampleName']=='NO_METADATA_MATCH' or not src:
         skipped['no-metadata']+=1
-        byorg[org].append({'sample_id':ws,'dataset_name':exp,'dataset_id':dataset_id(exp),
+        byorg[org].append({'sample_id':ws,'dataset_name':exp,'dataset_id':dataset_id(r['datasetPresenter']),
                            'project':proj,'sample_display_name':ws})
         usedvars[org].add('sample_display_name')   # else the column is dropped
         continue
-    out={'sample_id':ws,'dataset_name':exp,'dataset_id':dataset_id(exp),
+    out={'sample_id':ws,'dataset_name':exp,'dataset_id':dataset_id(r['datasetPresenter']),
          'project':proj,'_date_src':src}; prov={}
     # sample_id must stay exactly as the workflow wrote it (it is the join key to
     # *_alignment_stats.tsv). Where ApiCommonMetadataRepository has a different,
@@ -667,7 +668,7 @@ with open(f'{ROOT}/stf/dataset_ids.tsv','w',newline='') as f:
     for org,rows in byorg.items():
         for d in rows:
             k=d['dataset_name']
-            seen.setdefault(k,[dataset_id(k),k,d['project'],org,0])
+            seen.setdefault(k,[d['dataset_id'],k,d['project'],org,0])
             seen[k][4]+=1
     for k in sorted(seen): w.writerow(seen[k])
 print(f"dataset_id lookup -> stf/dataset_ids.tsv ({len(seen)} datasets)")
