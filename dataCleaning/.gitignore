@@ -29,3 +29,6 @@ stf/harmonized/
 
 # ISA lives at the root of this repository now
 ApiCommonMetadataRepository/
+
+# Python
+__pycache__/
