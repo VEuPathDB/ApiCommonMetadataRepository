@@ -8,6 +8,7 @@ to `stf/reports/`.
 ## Usage
 
 ```bash
+export STUDY_WRANGLER_DIR=/path/to/study-wrangler                # any checkout
 Rscript stf/harmonization/harmonize_stf.R                    # all studies
 Rscript stf/harmonization/harmonize_stf.R PlasmoDB/pfal3D7   # selected studies
 Rscript stf/harmonization/tests/run_tests.R                  # test suite

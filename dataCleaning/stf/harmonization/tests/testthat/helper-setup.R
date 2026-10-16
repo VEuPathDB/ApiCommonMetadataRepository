@@ -8,8 +8,10 @@ suppressPackageStartupMessages({
 HARMONIZATION_DIR <- normalizePath(file.path(dirname(dirname(getwd()))))
 REPO_ROOT <- normalizePath(file.path(HARMONIZATION_DIR, '..', '..'))
 
+STUDY_WRANGLER_DIR <- Sys.getenv('STUDY_WRANGLER_DIR')
+if (!nzchar(STUDY_WRANGLER_DIR)) stop('Set STUDY_WRANGLER_DIR to a study-wrangler checkout.')
 suppressPackageStartupMessages(
-  devtools::load_all(file.path(REPO_ROOT, 'study-wrangler'), quiet = TRUE)
+  devtools::load_all(STUDY_WRANGLER_DIR, quiet = TRUE)
 )
 
 # Source every engine file, then the CLI (which defines the orchestration functions).

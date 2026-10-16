@@ -7,8 +7,8 @@ so every row is traceable back to its metadata source and join evidence.
 import csv,os,re,json,glob,collections,warnings,sys,hashlib
 import openpyxl
 warnings.filterwarnings('ignore')
-ROOT='/home/jbrestel/dataCleaning'
-ISAROOT=os.path.expanduser('~/workspaces/misc/')
+ROOT=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+REPO_ROOT=os.path.dirname(ROOT)
 OUT=f'{ROOT}/stf/harmonized'
 
 # ---------------------------------------------------------------- vocabulary
@@ -395,7 +395,8 @@ def fix_dates(rows):
 
 # ---------------------------------------------------------------- load sources
 def load_isa(rel):
-    with open(ISAROOT+rel,encoding='utf-8',errors='replace') as f:
+    path=os.path.join(REPO_ROOT,rel.removeprefix('ApiCommonMetadataRepository/'))
+    with open(path,encoding='utf-8',errors='replace') as f:
         rows=list(csv.reader(f,delimiter='\t'))
     hdr=[h.strip() for h in rows[0]]
     idx={}
