@@ -1,0 +1,362 @@
+variable	raw_value	canonical_value	ontology_term_id	note
+*	male	male	PATO_0000384	generated from ontology_corpus.json
+*	female	female	PATO_0000383	generated from ontology_corpus.json
+*	Homo sapiens	Homo sapiens	NCBITaxon_9606	generated from ontology_corpus.json
+*	human	Homo sapiens	NCBITaxon_9606	generated from ontology_corpus.json
+*	Chimp	Chimp	NCBITaxon_538690	generated from ontology_corpus.json
+*	Thamnomys surdaster	Thamnomys surdaster	NCBITaxon_491861	generated from ontology_corpus.json
+*	Ixodes scapularis	Ixodes scapularis	NCBITaxon_6945	generated from ontology_corpus.json
+*	tick	Ixodes scapularis	NCBITaxon_6945	generated from ontology_corpus.json
+*	Triatoma dimidiata	Triatoma dimidiata	NCBITaxon_72491	generated from ontology_corpus.json
+*	T. dimidiata	Triatoma dimidiata	NCBITaxon_72491	generated from ontology_corpus.json
+*	kissing bug	Triatoma dimidiata	NCBITaxon_72491	generated from ontology_corpus.json
+*	Panstrongylus geniculatus	Panstrongylus geniculatus	NCBITaxon_156442	generated from ontology_corpus.json
+*	P. geniculatus	Panstrongylus geniculatus	NCBITaxon_156442	generated from ontology_corpus.json
+*	Rhodnius pallescens	Rhodnius pallescens	NCBITaxon_72489	generated from ontology_corpus.json
+*	R. pallescens	Rhodnius pallescens	NCBITaxon_72489	generated from ontology_corpus.json
+*	Rhodnius ecuadoriensis	Rhodnius ecuadoriensis	NCBITaxon_69252	generated from ontology_corpus.json
+*	R. ecuadoriensis	Rhodnius ecuadoriensis	NCBITaxon_69252	generated from ontology_corpus.json
+*	Microtus	Microtus	NCBITaxon_10053	generated from ontology_corpus.json
+*	vole	Microtus	NCBITaxon_10053	generated from ontology_corpus.json
+*	Peromyscus leucopus	Peromyscus leucopus	NCBITaxon_10041	generated from ontology_corpus.json
+*	Rodentia	Rodentia	NCBITaxon_9989	generated from ontology_corpus.json
+*	rodent	Rodentia	NCBITaxon_9989	generated from ontology_corpus.json
+*	Plasmodium vivax	Plasmodium vivax	NCBITaxon_5855	generated from ontology_corpus.json
+*	squirrel monkey	squirrel monkey	NCBITaxon_9520	generated from ontology_corpus.json
+*	Saimiri	squirrel monkey	NCBITaxon_9520	generated from ontology_corpus.json
+*	monkey	monkey	NCBITaxon_9527	generated from ontology_corpus.json
+*	Cercopithecidae	monkey	NCBITaxon_9527	generated from ontology_corpus.json
+*	Aotus monkey	Aotus monkey	NCBITaxon_9505	generated from ontology_corpus.json
+*	Aotus trivirgatus	Aotus monkey	NCBITaxon_9505	generated from ontology_corpus.json
+*	C. immitis	C. immitis	NCBITaxon_5501	generated from ontology_corpus.json
+*	Coccidioides immitis	C. immitis	NCBITaxon_5501	generated from ontology_corpus.json
+*	C. posadasii	C. posadasii	NCBITaxon_199306	generated from ontology_corpus.json
+*	Coccidioides posadasii	C. posadasii	NCBITaxon_199306	generated from ontology_corpus.json
+*	Leishmania panamensis	Leishmania panamensis	NCBITaxon_5679	generated from ontology_corpus.json
+*	Pan troglodytes	Pan troglodytes	NCBITaxon_9598	generated from ontology_corpus.json
+*	Pan troglodytes ellioti	Pan troglodytes	NCBITaxon_9598	generated from ontology_corpus.json
+*	Pan troglodytes troglodytes	Pan troglodytes	NCBITaxon_9598	generated from ontology_corpus.json
+*	Pan troglodytes verus	Pan troglodytes	NCBITaxon_9598	generated from ontology_corpus.json
+*	Bos taurus	Bos taurus	NCBITaxon_9913	generated from ontology_corpus.json
+*	Bubalus bubalis	Bubalus bubalis	NCBITaxon_89462	generated from ontology_corpus.json
+*	Rattus	Rattus	NCBITaxon_10114	generated from ontology_corpus.json
+*	Hydrochoerus hydrochaeris	Hydrochoerus hydrochaeris	NCBITaxon_10149	generated from ontology_corpus.json
+*	Buteo lagopus	Buteo lagopus	NCBITaxon_115229	generated from ontology_corpus.json
+*	Mephitidae	Mephitidae	NCBITaxon_119825	generated from ontology_corpus.json
+*	Corvus hawaiiensis	Corvus hawaiiensis	NCBITaxon_134902	generated from ontology_corpus.json
+*	Buteo swainsoni	Buteo swainsoni	NCBITaxon_156757	generated from ontology_corpus.json
+*	Puma yagouaroundi	Puma yagouaroundi	NCBITaxon_1608482	generated from ontology_corpus.json
+*	Buteo regalis	Buteo regalis	NCBITaxon_223441	generated from ontology_corpus.json
+*	Mephitis mephitis	Mephitis mephitis	NCBITaxon_30548	generated from ontology_corpus.json
+*	Alouatta belcebul	Alouatta belcebul	NCBITaxon_30590	generated from ontology_corpus.json
+*	Enhydra lutris	Enhydra lutris	NCBITaxon_34882	generated from ontology_corpus.json
+*	Neotoma	Neotoma	NCBITaxon_42407	generated from ontology_corpus.json
+*	Vulpes lagopus	Vulpes lagopus	NCBITaxon_494514	generated from ontology_corpus.json
+*	Haliaeetus leucocephalus	Haliaeetus leucocephalus	NCBITaxon_52644	generated from ontology_corpus.json
+*	Buteo jamaicensis	Buteo jamaicensis	NCBITaxon_56263	generated from ontology_corpus.json
+*	Tyto alba	Tyto alba	NCBITaxon_56313	generated from ontology_corpus.json
+*	Falco sparverius	Falco sparverius	NCBITaxon_56350	generated from ontology_corpus.json
+*	Ramphastidae	Ramphastidae	NCBITaxon_57381	generated from ontology_corpus.json
+*	Felis margarita	Felis margarita	NCBITaxon_61378	generated from ontology_corpus.json
+*	Lynx rufus	Lynx rufus	NCBITaxon_61384	generated from ontology_corpus.json
+*	Mus	Mus	NCBITaxon_862507	generated from ontology_corpus.json
+*	Anser sp.	Anser sp.	NCBITaxon_8847	generated from ontology_corpus.json
+*	Columbidae	Columbidae	NCBITaxon_8930	generated from ontology_corpus.json
+*	pigeon	Columbidae	NCBITaxon_8930	generated from ontology_corpus.json
+*	Numididae	Numididae	NCBITaxon_8990	generated from ontology_corpus.json
+*	Gallus gallus	Gallus gallus	NCBITaxon_9031	generated from ontology_corpus.json
+*	Meleagris gallopavo	Meleagris gallopavo	NCBITaxon_9103	generated from ontology_corpus.json
+*	Passer montanus	Passer montanus	NCBITaxon_9160	generated from ontology_corpus.json
+*	Sturnus vulgaris	Sturnus vulgaris	NCBITaxon_9172	generated from ontology_corpus.json
+*	Didelphidae	Didelphidae	NCBITaxon_9265	generated from ontology_corpus.json
+*	Didelphis marsupialis	Didelphis marsupialis	NCBITaxon_9268	generated from ontology_corpus.json
+*	Macropus	Macropus	NCBITaxon_9312	generated from ontology_corpus.json
+*	Anas platyrhynchos	Anas platyrhynchos	NCBITaxon_8839	generated from ontology_corpus.json
+*	Puffinus newelli	Puffinus newelli	NCBITaxon_232374	generated from ontology_corpus.json
+*	Branta sandvicensis	Branta sandvicensis	NCBITaxon_56282	generated from ontology_corpus.json
+*	Mareca americana	Mareca americana	NCBITaxon_75832	generated from ontology_corpus.json
+*	Anas acuta	Anas acuta	NCBITaxon_28680	generated from ontology_corpus.json
+*	Cygnus buccinator	Cygnus buccinator	NCBITaxon_48397	generated from ontology_corpus.json
+*	Cygnus columbianus	Cygnus columbianus	NCBITaxon_110926	generated from ontology_corpus.json
+*	Larus smithsonianus	Larus smithsonianus	NCBITaxon_243888	generated from ontology_corpus.json
+*	Leucophaeus atricilla	Leucophaeus atricilla	NCBITaxon_126679	generated from ontology_corpus.json
+*	Larus sp.	Larus sp.	NCBITaxon_8911	generated from ontology_corpus.json
+*	Brachyramphus marmoratus	Brachyramphus marmoratus	NCBITaxon_28694	generated from ontology_corpus.json
+*	Melanitta americana	Melanitta americana	NCBITaxon_1581554	generated from ontology_corpus.json
+*	Sterna hirundo	Sterna hirundo	NCBITaxon_108405	generated from ontology_corpus.json
+*	Circus hudsonius	Circus hudsonius	NCBITaxon_2709557	generated from ontology_corpus.json
+*	Larus marinus	Larus marinus	NCBITaxon_8912	generated from ontology_corpus.json
+*	Bubo scandiacus	Bubo scandiacus	NCBITaxon_371907	generated from ontology_corpus.json
+*	Branta canadensis	Branta canadensis	NCBITaxon_8853	generated from ontology_corpus.json
+*	Leucophaeus pipixcan	Leucophaeus pipixcan	NCBITaxon_690715	generated from ontology_corpus.json
+*	Larus delawarensis	Larus delawarensis	NCBITaxon_126683	generated from ontology_corpus.json
+*	Cygnus olor	Cygnus olor	NCBITaxon_8869	generated from ontology_corpus.json
+*	Phalacrocorax auritus	Phalacrocorax auritus	NCBITaxon_56069	generated from ontology_corpus.json
+*	Platyrrhini	Platyrrhini	NCBITaxon_9479	generated from ontology_corpus.json
+*	Canis lupus	Canis lupus	NCBITaxon_9612	generated from ontology_corpus.json
+*	Phlebotomus tobbi	Phlebotomus tobbi	NCBITaxon_33402	generated from ontology_corpus.json
+*	Canis latrans	Canis latrans	NCBITaxon_9614	generated from ontology_corpus.json
+*	Canis lupus familiaris	Canis lupus familiaris	NCBITaxon_9615	generated from ontology_corpus.json
+*	dog	Canis lupus familiaris	NCBITaxon_9615	generated from ontology_corpus.json
+*	Vulpes vulpes	Vulpes vulpes	NCBITaxon_9627	generated from ontology_corpus.json
+*	Ursus sp.	Ursus sp.	NCBITaxon_9641	generated from ontology_corpus.json
+*	Ursus americanus	Ursus americanus	NCBITaxon_9643	generated from ontology_corpus.json
+*	Ursus arctos	Ursus arctos	NCBITaxon_9644	generated from ontology_corpus.json
+*	Procyon lotor	Procyon lotor	NCBITaxon_9654	generated from ontology_corpus.json
+*	Felis catus	Felis catus	NCBITaxon_9685	generated from ontology_corpus.json
+*	Panthera onca	Panthera onca	NCBITaxon_9690	generated from ontology_corpus.json
+*	Puma concolor	Puma concolor	NCBITaxon_9696	generated from ontology_corpus.json
+*	Stenella coeruleoalba	Stenella coeruleoalba	NCBITaxon_9737	generated from ontology_corpus.json
+*	Tursiops truncatus	Tursiops truncatus	NCBITaxon_9739	generated from ontology_corpus.json
+*	Sus scrofa	Sus scrofa	NCBITaxon_9823	generated from ontology_corpus.json
+*	Odocoileus virginianus	Odocoileus virginianus	NCBITaxon_9874	generated from ontology_corpus.json
+*	Capra hircus	Capra hircus	NCBITaxon_9925	generated from ontology_corpus.json
+*	Ovis aries	Ovis aries	NCBITaxon_9940	generated from ontology_corpus.json
+*	Oryctolagus cuniculus	Oryctolagus cuniculus	NCBITaxon_9986	generated from ontology_corpus.json
+*	Gallus gallus domesticus	Gallus gallus domesticus	NCBITaxon_9031	generated from ontology_corpus.json
+*	Puma concolor couguar	Puma concolor couguar	NCBITaxon_694476	generated from ontology_corpus.json
+*	Cacatuidae	Cacatuidae	NCBITaxon_35549	generated from ontology_corpus.json
+*	Apis mellifera	Apis mellifera	NCBITaxon_7460	generated from ontology_corpus.json
+*	Neurospora crassa	Neurospora crassa	NCBITaxon_5141	generated from ontology_corpus.json
+*	Panthera tigris altaica	Panthera tigris altaica	NCBITaxon_74533	generated from ontology_corpus.json
+*	D. novemcinctus (armadillo)	D. novemcinctus (armadillo)	NCBITaxon_9361	generated from ontology_corpus.json
+*	Dasypus novemcinctus	D. novemcinctus (armadillo)	NCBITaxon_9361	generated from ontology_corpus.json
+*	C. centralis (armadillo)	C. centralis (armadillo)	NCBITaxon_1756215	generated from ontology_corpus.json
+*	Cabassous centralis	C. centralis (armadillo)	NCBITaxon_1756215	generated from ontology_corpus.json
+*	Quercus	Quercus	NCBITaxon_3511	generated from ontology_corpus.json
+*	oak tree	Quercus	NCBITaxon_3511	generated from ontology_corpus.json
+*	Colophospermum mopane	Colophospermum mopane	NCBITaxon_162715	generated from ontology_corpus.json
+*	Mopane tree	Colophospermum mopane	NCBITaxon_162715	generated from ontology_corpus.json
+*	Aves	Aves	NCBITaxon_8782	generated from ontology_corpus.json
+*	Anopheles sp.	Anopheles sp.	NCBITaxon_38782	generated from ontology_corpus.json
+*	Gorilla gorilla	Gorilla gorilla	NCBITaxon_9593	generated from ontology_corpus.json
+*	tree	tree	SNOMEDCT_22097005	generated from ontology_corpus.json
+*	Eucalyptus globulus	Eucalyptus globulus	NCBITaxon_34317	generated from ontology_corpus.json
+*	Eucalyptus tree	Eucalyptus globulus	NCBITaxon_34317	generated from ontology_corpus.json
+*	Acacia	Acacia	NCBITaxon_3808	generated from ontology_corpus.json
+*	Acacia tree	Acacia	NCBITaxon_3808	generated from ontology_corpus.json
+*	Cryptococcus neoformans var. grubii	Cryptococcus neoformans var. grubii	NCBITaxon_178876	generated from ontology_corpus.json
+*	Oryza sativa	Oryza sativa	NCBITaxon_4530	generated from ontology_corpus.json
+*	Digitaria sanguinalis	Digitaria sanguinalis	NCBITaxon_121769	generated from ontology_corpus.json
+*	Triticum aestivum	Triticum aestivum	NCBITaxon_4565	generated from ontology_corpus.json
+*	wheat	Triticum aestivum	NCBITaxon_4565	generated from ontology_corpus.json
+*	Centropus	Centropus	NCBITaxon_57401	generated from ontology_corpus.json
+*	COUCAL	Centropus	NCBITaxon_57401	generated from ontology_corpus.json
+*	Vitis	Vitis	NCBITaxon_3603	generated from ontology_corpus.json
+*	Grape	Vitis	NCBITaxon_3603	generated from ontology_corpus.json
+*	Oryx	Oryx	NCBITaxon_9957	generated from ontology_corpus.json
+*	Alces alces	Alces alces	NCBITaxon_9852	generated from ontology_corpus.json
+*	Moose	Alces alces	NCBITaxon_9852	generated from ontology_corpus.json
+*	Francolinus	Francolinus	NCBITaxon_9018	generated from ontology_corpus.json
+*	KWALE	Francolinus	NCBITaxon_9018	generated from ontology_corpus.json
+*	Setaria italica	Setaria italica	NCBITaxon_4555	generated from ontology_corpus.json
+*	Setaria	Setaria italica	NCBITaxon_4555	generated from ontology_corpus.json
+*	Iran	Iran	GAZ_00004474	generated from ontology_corpus.json
+*	Greece	Greece	GAZ_00002945	generated from ontology_corpus.json
+*	Sweden	Sweden	GAZ_00002729	generated from ontology_corpus.json
+*	Czech Republic	Czech Republic	GAZ_00002954	generated from ontology_corpus.json
+*	Spain	Spain	GAZ_00000591	generated from ontology_corpus.json
+*	Croatia	Croatia	GAZ_00002719	generated from ontology_corpus.json
+*	Romania	Romania	GAZ_00002951	generated from ontology_corpus.json
+*	GAZ:Puerto Rico	GAZ:Puerto Rico	GAZ_00002822	generated from ontology_corpus.json
+*	Puerto Rico	GAZ:Puerto Rico	GAZ_00002822	generated from ontology_corpus.json
+*	Zambia	Zambia	GAZ_00001107	generated from ontology_corpus.json
+*	Colombia	Colombia	GAZ_00002929	generated from ontology_corpus.json
+*	Saint kitts	Saint kitts	GAZ_00006908	generated from ontology_corpus.json
+*	Indonesia	Indonesia	GAZ_00003727	generated from ontology_corpus.json
+*	Russia	Russia	GAZ_00002721	generated from ontology_corpus.json
+*	Japan	Japan	GAZ_00002747	generated from ontology_corpus.json
+*	Kenya	Kenya	NCIT_C16769	generated from ontology_corpus.json
+*	Central Kenya	Kenya	NCIT_C16769	generated from ontology_corpus.json
+*	Democratic Republic of the Congo	Democratic Republic of the Congo	GAZ_00001086	generated from ontology_corpus.json
+*	Zaire	Democratic Republic of the Congo	GAZ_00001086	generated from ontology_corpus.json
+*	Congo	Democratic Republic of the Congo	GAZ_00001086	generated from ontology_corpus.json
+*	USA	USA	GAZ_00002459	generated from ontology_corpus.json
+*	United States of America	USA	GAZ_00002459	generated from ontology_corpus.json
+*	Saudi Arabia	Saudi Arabia	GAZ_00005279	generated from ontology_corpus.json
+*	Ecuador	Ecuador	GAZ_00002912	generated from ontology_corpus.json
+*	Canada	Canada	GAZ_00002560	generated from ontology_corpus.json
+*	Turkey	Turkey	GAZ_00000558	generated from ontology_corpus.json
+*	South Africa	South Africa	GAZ_00000553	generated from ontology_corpus.json
+*	S. Africa	South Africa	GAZ_00000553	generated from ontology_corpus.json
+*	South America	South America	GAZ_00000459	generated from ontology_corpus.json
+*	S. America	South America	GAZ_00000459	generated from ontology_corpus.json
+*	Israel	Israel	GAZ_00002476	generated from ontology_corpus.json
+*	Belgium	Belgium	GAZ_00002938	generated from ontology_corpus.json
+*	Cameroon	Cameroon	GAZ_00001093	generated from ontology_corpus.json
+*	Cameroon: Centre Region	Cameroon	GAZ_00001093	generated from ontology_corpus.json
+*	Madagascar	Madagascar	GAZ_00001108	generated from ontology_corpus.json
+*	Cambodia	Cambodia	GAZ_00006888	generated from ontology_corpus.json
+*	Brazil	Brazil	GAZ_00002828	generated from ontology_corpus.json
+*	Papua New Guinea	Papua New Guinea	GAZ_00003922	generated from ontology_corpus.json
+*	Guinea	Guinea	GAZ_00000909	generated from ontology_corpus.json
+*	Tanzania	Tanzania	GAZ_00001103	generated from ontology_corpus.json
+*	France	France	GAZ_00002940	generated from ontology_corpus.json
+*	French republic	France	GAZ_00002940	generated from ontology_corpus.json
+*	El Salvador	El Salvador	GAZ_00002935	generated from ontology_corpus.json
+*	Argentina	Argentina	GAZ_00002928	generated from ontology_corpus.json
+*	Guatemala	Guatemala	GAZ_00002936	generated from ontology_corpus.json
+*	Panama	Panama	GAZ_00002892	generated from ontology_corpus.json
+*	Mexico	Mexico	GAZ_00002852	generated from ontology_corpus.json
+*	Paraguay	Paraguay	GAZ_00002933	generated from ontology_corpus.json
+*	Egypt	Egypt	GAZ_00003934	generated from ontology_corpus.json
+*	China	China	GAZ_00002845	generated from ontology_corpus.json
+*	Myanmar	Myanmar	GAZ_00006899	generated from ontology_corpus.json
+*	Republic of Ireland	Republic of Ireland	Republic_of_Ireland	generated from ontology_corpus.json
+*	Scotland	Scotland	GAZ_00002639	generated from ontology_corpus.json
+*	United Kingdom	United Kingdom	GAZ_00002637	generated from ontology_corpus.json
+*	UK	United Kingdom	GAZ_00002637	generated from ontology_corpus.json
+*	Malawi	Malawi	GAZ_00001105	generated from ontology_corpus.json
+*	Peru	Peru	GAZ_00002932	generated from ontology_corpus.json
+*	Switzerland	Switzerland	GAZ_00002941	generated from ontology_corpus.json
+*	Austria	Austria	GAZ_00002942	generated from ontology_corpus.json
+*	Solomon Islands	Solomon Islands	GAZ_00005275	generated from ontology_corpus.json
+*	Thailand	Thailand	GAZ_00003744	generated from ontology_corpus.json
+*	Uganda	Uganda	GAZ_00001102	generated from ontology_corpus.json
+*	India	India	GAZ_00002839	generated from ontology_corpus.json
+*	Pakistan	Pakistan	GAZ_00005246	generated from ontology_corpus.json
+*	Mali	Mali	GAZ_00000584	generated from ontology_corpus.json
+*	Ghana	Ghana	GAZ_00000908	generated from ontology_corpus.json
+*	Senegal	Senegal	GAZ_00000913	generated from ontology_corpus.json
+*	Sierra Leone	Sierra Leone	GAZ_00000914	generated from ontology_corpus.json
+*	Netherlands	Netherlands	NCIT_C16903	generated from ontology_corpus.json
+*	The Netherlands	Netherlands	NCIT_C16903	generated from ontology_corpus.json
+*	Kingdom of the Netherlands	Netherlands	GAZ_00001549	generated from ontology_corpus.json
+*	Honduras	Honduras	GAZ_00002894	generated from ontology_corpus.json
+*	Vietnam	Vietnam	GAZ_00003756	generated from ontology_corpus.json
+*	Malaysia	Malaysia	GAZ_00003902	generated from ontology_corpus.json
+*	Laos	Laos	GAZ_00006889	generated from ontology_corpus.json
+*	Nigeria	Nigeria	GAZ_00000912	generated from ontology_corpus.json
+*	Gambia	Gambia	GAZ_00000907	generated from ontology_corpus.json
+*	Indochina	Indochina	GAZ_00000859	generated from ontology_corpus.json
+*	Southeast Asia	Southeast Asia	GAZ_00000559	generated from ontology_corpus.json
+*	Sudan	Sudan	GAZ_00000560	generated from ontology_corpus.json
+*	Ethiopia	Ethiopia	GAZ_00000567	generated from ontology_corpus.json
+*	Bangladesh	Bangladesh	GAZ_00003750	generated from ontology_corpus.json
+*	French Guiana	French Guiana	GAZ_00067144	generated from ontology_corpus.json
+*	Mozambique	Mozambique	GAZ_00001100	generated from ontology_corpus.json
+*	Mauritania	Mauritania	GAZ_00000583	generated from ontology_corpus.json
+*	North Korea	North Korea	GAZ_00002801	generated from ontology_corpus.json
+*	Columbia	Columbia	GAZ_00002929	generated from ontology_corpus.json
+*	Nicaragua	Nicaragua	GAZ_00002978	generated from ontology_corpus.json
+*	Gabon	Gabon	GAZ_00001092	generated from ontology_corpus.json
+*	Costa Rica	Costa Rica	GAZ_00002901	generated from ontology_corpus.json
+*	Chile	Chile	GAZ_00002825	generated from ontology_corpus.json
+*	Germany	Germany	GAZ_00002646	generated from ontology_corpus.json
+*	Grenada	Grenada	GAZ_02000573	generated from ontology_corpus.json
+*	Guadeloupe Archipelago	Guadeloupe Archipelago	GAZ_00003946	generated from ontology_corpus.json
+*	Guyana	Guyana	GAZ_00002522	generated from ontology_corpus.json
+*	Burkina Faso	Burkina Faso	GAZ_00000905	generated from ontology_corpus.json
+*	Barbados	Barbados	GAZ_00001251	generated from ontology_corpus.json
+*	Australia	Australia	GAZ_00000463	generated from ontology_corpus.json
+*	Africa	Africa	GAZ_00000457	generated from ontology_corpus.json
+*	[Former] Yugoslavia	[Former] Yugoslavia	GAZ_00052663	generated from ontology_corpus.json
+*	Uruguay	Uruguay	GAZ_00002930	generated from ontology_corpus.json
+*	United Arab Emirates	United Arab Emirates	GAZ_00005282	generated from ontology_corpus.json
+*	Svalbard Archipelago	Svalbard Archipelago	GAZ_00005396	generated from ontology_corpus.json
+*	Sri Lanka	Sri Lanka	GAZ_00003924	generated from ontology_corpus.json
+*	Venezuela	Venezuela	GAZ_00002931	generated from ontology_corpus.json
+*	Reunion Island	Reunion Island	GAZ_00003945	generated from ontology_corpus.json
+*	Qatar	Qatar	GAZ_00005286	generated from ontology_corpus.json
+*	Poland	Poland	GAZ_00002939	generated from ontology_corpus.json
+*	Italy	Italy	GAZ_00002650	generated from ontology_corpus.json
+*	Afghanistan	Afghanistan	GAZ_00006882	generated from ontology_corpus.json
+*	Nepal	Nepal	GAZ_00004399	generated from ontology_corpus.json
+*	South Korea	South Korea	GAZ_00002802	generated from ontology_corpus.json
+*	Ivory Coast	Ivory Coast	GAZ_00000906	generated from ontology_corpus.json
+*	Cote d'Ivoire	Ivory Coast	GAZ_00000906	generated from ontology_corpus.json
+*	Botswana	Botswana	GAZ_00001097	generated from ontology_corpus.json
+*	Togo	Togo	GAZ_00000915	generated from ontology_corpus.json
+*	Slovenia	Slovenia	GAZ_00002955	generated from ontology_corpus.json
+*	Kingdom of Denmark	Kingdom of Denmark	GAZ_00002635	generated from ontology_corpus.json
+*	Denmark	Kingdom of Denmark	GAZ_00002635	generated from ontology_corpus.json
+*	Morocco	Morocco	GAZ_00000565	generated from ontology_corpus.json
+*	Angola	Angola	GAZ_00001095	generated from ontology_corpus.json
+*	Niger	Niger	GAZ_00000585	generated from ontology_corpus.json
+*	Aruba	Aruba	GAZ_00004025	generated from ontology_corpus.json
+*	Northeast	Northeast	NCIT_C45853	generated from ontology_corpus.json
+*	Europe	Europe	GAZ_00000464	generated from ontology_corpus.json
+*	North America	North America	GAZ_00000458	generated from ontology_corpus.json
+*	Asia	Asia	GAZ_00000465	generated from ontology_corpus.json
+*	Oceania	Oceania	GAZ_00000468	generated from ontology_corpus.json
+*	New York	New York	NCIT_C43468	generated from ontology_corpus.json
+*	Indiana	Indiana	NCIT_C43483	generated from ontology_corpus.json
+*	New Jersey	New Jersey	NCIT_C43467	generated from ontology_corpus.json
+*	Massachusetts	Massachusetts	NCIT_C43463	generated from ontology_corpus.json
+*	Maryland	Maryland	NCIT_C43471	generated from ontology_corpus.json
+*	Illinois	Illinois	NCIT_C43491	generated from ontology_corpus.json
+*	Connecticut	Connecticut	NCIT_C43466	generated from ontology_corpus.json
+*	California	California	NCIT_C43509	generated from ontology_corpus.json
+*	CA	California	NCIT_C43509	generated from ontology_corpus.json
+*	Florida	Florida	NCIT_C43478	generated from ontology_corpus.json
+*	FL	Florida	NCIT_C43478	generated from ontology_corpus.json
+*	Oklahoma	Oklahoma	NCIT_C43497	generated from ontology_corpus.json
+*	OK	Oklahoma	NCIT_C43497	generated from ontology_corpus.json
+*	New Hampshire	New Hampshire	NCIT_C43460	generated from ontology_corpus.json
+*	TX	TX	NCIT_C43498	generated from ontology_corpus.json
+*	NV	NV	NCIT_C43503	generated from ontology_corpus.json
+*	VA	VA	NCIT_C43472	generated from ontology_corpus.json
+*	GA	GA	NCIT_C43477	generated from ontology_corpus.json
+*	AZ	AZ	NCIT_C43505	generated from ontology_corpus.json
+*	MN	MN	NCIT_C43486	generated from ontology_corpus.json
+*	AR	AR	NCIT_C43495	generated from ontology_corpus.json
+*	NM	NM	NCIT_C43504	generated from ontology_corpus.json
+*	LA	LA	NCIT_C43496	generated from ontology_corpus.json
+*	AL	AL	NCIT_C43479	generated from ontology_corpus.json
+*	NC	NC	NCIT_C43474	generated from ontology_corpus.json
+*	Portugal	Portugal	NCIT_C17006	generated from ontology_corpus.json
+*	Benin	Benin	NCIT_C16333	generated from ontology_corpus.json
+*	Miombo Woodlands	Miombo Woodlands	ENVO_00002990	generated from ontology_corpus.json
+*	Southern Miombo Woodlands	Miombo Woodlands	ENVO_00002990	generated from ontology_corpus.json
+*	trophozoite	trophozoite	OPL_0000057	generated from ontology_corpus.json
+*	ring	ring	OPL_0000140	generated from ontology_corpus.json
+*	schizont	schizont	OPL_0000084	generated from ontology_corpus.json
+*	specimen from organism	specimen from organism	OBI_0000671	generated from ontology_corpus.json
+*	blood	blood	OBI_0000655	generated from ontology_corpus.json
+*	blood specimen	blood	OBI_0000655	generated from ontology_corpus.json
+*	cell specimen	cell specimen	OBI_0001468	generated from ontology_corpus.json
+*	Lung	Lung	OBI_0002534	generated from ontology_corpus.json
+*	Brain	Brain	OBI_0002516	generated from ontology_corpus.json
+*	sputum specimen	sputum specimen	OBI_0002508	generated from ontology_corpus.json
+*	Sputum	sputum specimen	OBI_0002508	generated from ontology_corpus.json
+*	feces	feces	OBI_0002503	generated from ontology_corpus.json
+*	feces specimen	feces	OBI_0002503	generated from ontology_corpus.json
+*	Bone marrow	Bone marrow	OBI_0002512	generated from ontology_corpus.json
+*	Bronchial wash	Bronchial wash	EUPATH_0000500	generated from ontology_corpus.json
+*	Bronchoalveolar lavage	Bronchoalveolar lavage	EUPATH_0000501	generated from ontology_corpus.json
+*	Cerebral spinal fluid	Cerebral spinal fluid	OBI_0002502	generated from ontology_corpus.json
+*	Lung aspirate	Lung aspirate	EUPATH_0000502	generated from ontology_corpus.json
+*	Lung lesion	Lung lesion	EUPATH_0000503	generated from ontology_corpus.json
+*	Lung mold bronch	Lung mold bronch	EUPATH_0000504	generated from ontology_corpus.json
+*	Lung nodule	Lung nodule	EUPATH_0000505	generated from ontology_corpus.json
+*	Lymph node	Lymph node	OBI_1110041	generated from ontology_corpus.json
+*	Pleural fluid	Pleural fluid	OBI_0002515	generated from ontology_corpus.json
+*	TGH	TGH	EUPATH_0000506	generated from ontology_corpus.json
+*	TGH mold iso	TGH mold iso	EUPATH_0000507	generated from ontology_corpus.json
+*	cutaneous leishmaniasis	cutaneous leishmaniasis	DOID_9111	generated from ontology_corpus.json
+*	visceral leishmaniasis	visceral leishmaniasis	DOID_9146	generated from ontology_corpus.json
+*	amebiasis	amebiasis	DOID_9181	generated from ontology_corpus.json
+*	Symptomatic episode	Symptomatic episode	EUPATH_0000279	generated from ontology_corpus.json
+*	Cloroquine resistant	Cloroquine resistant	EUPATH_0000280	generated from ontology_corpus.json
+*	Pyrimethamine and Cloroquine resistant	Pyrimethamine and Cloroquine resistant	EUPATH_0000281	generated from ontology_corpus.json
+*	Pyrimethamine resistant, Cloroquine sensitive	Pyrimethamine resistant, Cloroquine sensitive	EUPATH_0000283	generated from ontology_corpus.json
+*	Pyrimethamine, Mefloquine and Cloroquine resistant	Pyrimethamine, Mefloquine and Cloroquine resistant	EUPATH_0000282	generated from ontology_corpus.json
+*	Bromus inermis	Bromus inermis	NCBITaxon_15371	generated from ontology_corpus.json
+*	smooth bromegrass	Bromus inermis	NCBITaxon_15371	generated from ontology_corpus.json
+*	Dactylis glomerata	Dactylis glomerata	NCIT_C72299	generated from ontology_corpus.json
+*	Dactylus glomerata	Dactylis glomerata	NCIT_C72299	generated from ontology_corpus.json
+*	Elymus tauri	Elymus tauri	NCBITaxon_417392	generated from ontology_corpus.json
+*	Oat	Oat	NCIT_C101357	generated from ontology_corpus.json
+*	oats	Oat	NCIT_C101357	generated from ontology_corpus.json
+*	Cow	Cow	NCIT_C14192	generated from ontology_corpus.json
+*	Macaca mulatta	Macaca mulatta	NCBITaxon_9544	generated from ontology_corpus.json
+*	elk	elk	NCBITaxon_1574408	generated from ontology_corpus.json
+*	deer	deer	NCBITaxon_9850	generated from ontology_corpus.json
+*	ferret	ferret	NCBITaxon_9669	generated from ontology_corpus.json
+*	bird	bird	NCBITaxon_8782	generated from ontology_corpus.json
+*	Cat	Cat	NCIT_C14191	generated from ontology_corpus.json
+*	Zea mays	Zea mays	NCBITaxon_4577	generated from ontology_corpus.json
+*	Sorghum bicolor	Sorghum bicolor	NCBITaxon_4558	generated from ontology_corpus.json
+*	Felidae	Felidae	NCIT_C14321	generated from ontology_corpus.json
+*	Lynx	Felidae	NCIT_C14321	generated from ontology_corpus.json
+*	Beaver	Beaver	NCIT_C44739	generated from ontology_corpus.json

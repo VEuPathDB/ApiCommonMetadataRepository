@@ -1,0 +1,45 @@
+name: sample
+description: Tiny fixture study for harmonization unit tests.
+display_name: Sample
+display_name_plural: Samples
+stable_id: sample
+
+id_columns:
+  - id_column: sample_id
+    entity_name: sample
+    provider_label:
+      - sample_id
+
+variables:
+  - variable: organism
+    provider_label:
+      - organism
+    display_name: organism
+    definition: organism (OBI_0100026)
+    data_type: string
+    data_shape: categorical
+    parent_variable: host
+  - variable: specimen
+    provider_label:
+      - specimen
+    display_name: specimen
+    definition: specimen (OBI_0100051)
+    data_type: string
+    data_shape: categorical
+    parent_variable: host
+  - variable: country
+    provider_label:
+      - country
+    display_name: country
+    definition: country (ENVO_00000009)
+    data_type: string
+    data_shape: categorical
+    parent_variable: host
+
+categories:
+  - category: host
+    display_name: Host
+    data_type: category
+    has_values: no
+
+collections: []

@@ -1,0 +1,5 @@
+variable	action	new_name	new_display_name	new_parent	reason
+organism	rename	host_organism	Host organism		Parented to the host category but named as if it were the organism under investigation; renamed to say what it is
+continent	drop				Approved by data owner: incomplete in all 9 studies that carry it and derivable from country; see approved_drops.tsv
+and	drop				Header-parsing artifact, not a variable
+group	drop				Header-parsing artifact, uninterpretable
