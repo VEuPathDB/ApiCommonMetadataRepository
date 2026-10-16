@@ -1,8 +1,0 @@
-sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	continent	country	fungal_strain	fungus_organism	geographic_location	organism	specimen
-A0001	DS_743bdb770c	A0001	2016	2016	South America	Brazil	Sporothrix brasiliensis A0001	Sporothrix brasiliensis	Brasilia	Felis catus	skin
-A0003	DS_743bdb770c	A0003	2015	2015	South America	Brazil	Sporothrix schenckii A0003	Sporothrix schenckii	Brasilia	Felis catus	skin
-A0005	DS_743bdb770c	A0005	2018	2018	South America	Brazil	Sporothrix brasiliensis A0005	Sporothrix brasiliensis	Brasilia	Canis lupus familiaris	skin
-s15677	DS_743bdb770c	s15677	1999	1999	South America	Brazil	Sporothrix brasiliensis s15677	Sporothrix brasiliensis	Rio de Janeiro	Homo sapiens	
-s28606	DS_743bdb770c	s28606	2005	2005	South America	Brazil	Sporothrix brasiliensis s28606	Sporothrix brasiliensis	Rio de Janeiro	Homo sapiens	
-s34180	DS_743bdb770c	s34180	2008	2008	South America	Brazil	Sporothrix brasiliensis s34180	Sporothrix brasiliensis	Rio de Janeiro	Homo sapiens	
-s48605	DS_743bdb770c	s48605	2016	2016	South America	Brazil	Sporothrix brasiliensis s48605	Sporothrix brasiliensis	Rio de Janeiro	Homo sapiens	

@@ -1,3 +1,0 @@
-sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_month	collection_year	country	fungal_strain	fungus_organism	geographic_location	health_status	latitude_coordinate_measurement_datum	longitude_coordinate_measurement_datum	organism	specimen	state
-Pj46	DS_3437f444d3	Pj46				USA	Pneumocystis jirovecii Pj46	Pneumocystis jirovecii	Bethesda	Pneumocystis pneumonia	38.9847 N	77.0947 W	Homo sapiens	bronchoalveolar lavage	Maryland
-Pj54c	DS_3437f444d3	Pj54c	2018-06	6	2018	USA	Pneumocystis jirovecii Pj54c	Pneumocystis jirovecii	Bethesda	HIV/PCP	38.9847 N	77.0947 W	Homo sapiens	bronchoalveolar lavage	Maryland

@@ -4,6 +4,18 @@ Builds `dataCleaning/dnaseq_sample_metadata_mapping.txt`, which `stf/harmonize.p
 reads. Each row links one workflow sample to its metadata source. The output is
 derived, so it isn't committed.
 
+Pipeline outputs (`stf/studies/`, `stf/studies_harmonized/`, `stf/reports/` and
+the `stf/*.tsv` reports `harmonize.py` writes) aren't committed either. Releases
+live on yew under `common/dnasSeq/sampleDetailsForEda/<date>/`, each with a
+`SOURCE` file naming the commit. To review a change, diff a rebuild against the
+last release:
+
+```bash
+python3 stf/compare_to_production.py <release>/final stf/studies_harmonized diffs.tsv
+```
+
+It reports samples and columns removed or added, and changed cells, per organism.
+
 ```bash
 python3 stf/sample_mapping/dnaseq_datasets.py $VEUPATH_DATASETS > /tmp/datasets.tsv
 bash stf/sample_mapping/fetch_samplesheets.bash /tmp/datasets.tsv manualDelivery
@@ -12,7 +24,9 @@ python3 stf/sample_mapping/fetch_ncbi_biosamples.py dnaseq_sample_metadata_mappi
 ```
 
 `fetch_ncbi_biosamples.py` caches run → BioSample and the BioSample attributes
-under `ncbi/`, which `harmonize.py` reads. Attributes go through the same `SS`
+under `ncbi/`, which `harmonize.py` reads. The cache is committed so a rerun
+uses the same NCBI records; only accessions missing from it are fetched.
+Delete it to refresh, and review the diff. Attributes go through the same `SS`
 header rules the provider spreadsheets used. If differently named samples share
 one BioSample, that BioSample was registered per project, so none of them get
 its attributes.

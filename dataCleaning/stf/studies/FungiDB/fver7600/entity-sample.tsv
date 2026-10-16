@@ -1,8 +1,0 @@
-sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date	collection_date_original	collection_month	collection_year	continent	country	fungal_phenotype	fungal_strain	fungus_organism	geographic_location	mating_type	organism	specimen	specimen_collector
-BRIP14953	DS_0047daf254	BRIP14953	1977-03-14	3/14/77	3	1977	Oceania	Australia		Fusarium verticillioides BRIP14953	Fusarium verticillioides	Rocky Creek		Zea mays	Infected plant	CSIRO
-BRIP53263	DS_0047daf254	BRIP53263	2009-03-18	3/18/09	3	2009	Oceania	Australia		Fusarium verticillioides BRIP53263	Fusarium verticillioides	Capella		Sorghum bicolor	Infected plant	CSIRO
-BRIP53590	DS_0047daf254	BRIP53590	2010-02-25	2/25/10	2	2010	Oceania	Australia		Fusarium verticillioides BRIP53590	Fusarium verticillioides	Casino		Zea mays		CSIRO
-Fv999	DS_888af995b2	Fv999		1990		1990	North America	USA	Spore killer	Fusarium verticillioides Fv999	Fusarium verticillioides		MAT-2		maize	
-RJP98.111	DS_888af995b2	RJP98.111		2015		2015	North America	USA	Spore killer	Fusarium verticillioides RJP98.111	Fusarium verticillioides		MAT-2		laboratory cross	
-RJP98.118	DS_888af995b2	RJP98.118		2015		2015	North America	USA	Spore killer	Fusarium verticillioides RJP98.118	Fusarium verticillioides		MAT-2		laboratory cross	
-RJP98.75	DS_888af995b2	RJP98.75		2015		2015	North America	USA	Spore killer	Fusarium verticillioides RJP98.75	Fusarium verticillioides		MAT-2		laboratory cross	

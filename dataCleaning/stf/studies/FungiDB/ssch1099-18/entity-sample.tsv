@@ -1,3 +1,0 @@
-sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	continent	country	fungus_organism	geographic_location	health_status	latitude_coordinate_measurement_datum	longitude_coordinate_measurement_datum	organism	sex	specimen
-SsEM7	DS_997bb3bb09	SsEM7	2012	2012	South America	Colombia	Sporothrix schenckii	Medellin	sporotrichosis	6.26 N	75.57 W	Homo sapiens	male	Skin scraping, purulent material
-SsMS1	DS_997bb3bb09	SsMS1	2012	2012	South America	Colombia	Sporothrix schenckii	Medellin	sporotrichosis	6.26 N	75.57 W	Homo sapiens	female	Skin scraping, purulent material
