@@ -1,0 +1,34 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	country	fungal_strain	fungus_organism	geographic_location	host_common_name	state
+BR1	DS_341d2ec3fb	BR1	2011	2011	Switzerland	Batrachochytrium dendrobatidis BR1	Batrachochytrium dendrobatidis	Brandsitengraben	Alexteroon obstetricans	
+CH4	DS_341d2ec3fb	CH4	2011	2011	Switzerland	Batrachochytrium dendrobatidis CH4	Batrachochytrium dendrobatidis	Chnubel	Alexteroon obstetricans	
+CHAL3	DS_341d2ec3fb	CHAL3	2011	2011	Switzerland	Batrachochytrium dendrobatidis CHAL3	Batrachochytrium dendrobatidis	Chalchofen	Alexteroon obstetricans	
+HER3	DS_341d2ec3fb	HER3	2011	2011	Switzerland	Batrachochytrium dendrobatidis HER3	Batrachochytrium dendrobatidis	Hergiswald	Alexteroon obstetricans	
+LHURS8	DS_341d2ec3fb	LHURS8	2011	2011	France	Batrachochytrium dendrobatidis LHURS8	Batrachochytrium dendrobatidis	Pyrenees	Alexteroon obstetricans	
+MAL05	DS_341d2ec3fb	MAL05	2011	2011	United Kingdom	Batrachochytrium dendrobatidis MAL05	Batrachochytrium dendrobatidis	Kent	Microhylidae alpestris	
+RAS3	DS_341d2ec3fb	RAS3	2011	2011	Switzerland	Batrachochytrium dendrobatidis RAS3	Batrachochytrium dendrobatidis	Raschenhaus	Alexteroon obstetricans	
+SCH	DS_341d2ec3fb	SCH	2011	2011	Switzerland	Batrachochytrium dendrobatidis SCH	Batrachochytrium dendrobatidis	Schauensee	Alexteroon obstetricans	
+STR3	DS_341d2ec3fb	STR3	2011	2011	Switzerland	Batrachochytrium dendrobatidis STR3	Batrachochytrium dendrobatidis	Strickrain	Alexteroon obstetricans	
+TORO1	DS_341d2ec3fb	TORO1	2011	2011	Spain	Batrachochytrium dendrobatidis TORO1	Batrachochytrium dendrobatidis	Mainland	Alexteroon obstetricans	
+VOR3	DS_341d2ec3fb	VOR3	2011	2011	Switzerland	Batrachochytrium dendrobatidis VOR3	Batrachochytrium dendrobatidis	Vorder Birnbaum	Alexteroon obstetricans	
+ACON	DS_d03c00cbc8	ACON	2007	2007	Switzerland	Batrachochytrium dendrobatidis ACON	Batrachochytrium dendrobatidis	Gamlikon	Alexteroon obstetricans	
+AP15	DS_d03c00cbc8	AP15	2010	2010	Italy	Batrachochytrium dendrobatidis AP15	Batrachochytrium dendrobatidis	Affluente Pisharoni	Discoglossus sardus	Sardinia
+APEP	DS_d03c00cbc8	APEP	2008	2008	Switzerland	Batrachochytrium dendrobatidis APEP	Batrachochytrium dendrobatidis	Gamlikon	Alexteroon obstetricans	
+AUL	DS_d03c00cbc8	AUL	2010	2010	France	Batrachochytrium dendrobatidis AUL	Batrachochytrium dendrobatidis	Lac d'Aule	Alexteroon obstetricans	
+BEW2	DS_d03c00cbc8	BEW2	2010	2010	Switzerland	Batrachochytrium dendrobatidis BEW2	Batrachochytrium dendrobatidis	Waltisberg	Alexteroon obstetricans	
+BLI1	DS_d03c00cbc8	BLI1	2010	2010	Switzerland	Batrachochytrium dendrobatidis BLI1	Batrachochytrium dendrobatidis	Itingen	Alexteroon obstetricans	
+CON2A	DS_d03c00cbc8	CON2A	2007	2007	Switzerland	Batrachochytrium dendrobatidis CON2A	Batrachochytrium dendrobatidis	Gamlikon	Alexteroon obstetricans	
+ETH2	DS_d03c00cbc8	ETH2	2011	2011	Ethiopia	Batrachochytrium dendrobatidis ETH2	Batrachochytrium dendrobatidis	Hotcho	Afrixalus enseticola	
+ETH4	DS_d03c00cbc8	ETH4	2011	2011	Ethiopia	Batrachochytrium dendrobatidis ETH4	Batrachochytrium dendrobatidis	Telilia Stream near Rira	Leptopelis species	
+JEL423_reference1	DS_d03c00cbc8	JEL423_reference1	2004	2004	Panama	Batrachochytrium dendrobatidis JEL423_reference1	Batrachochytrium dendrobatidis	Guabal	Pachylemur lemur	
+MAD	DS_d03c00cbc8	MAD	2010	2010	France	Batrachochytrium dendrobatidis MAD	Batrachochytrium dendrobatidis	Madamette	Alexteroon obstetricans	
+MG1	DS_d03c00cbc8	MG1	2010	2010	South Africa	Batrachochytrium dendrobatidis MG1	Batrachochytrium dendrobatidis	Mount, KZN	Amietia vertebralis	
+MG4	DS_d03c00cbc8	MG4	2010	2010	South Africa	Batrachochytrium dendrobatidis MG4	Batrachochytrium dendrobatidis	SilverMine, KZN	Amietia fuscigula	
+MODS27	DS_d03c00cbc8	MODS27	2010	2010	Italy	Batrachochytrium dendrobatidis MODS27	Batrachochytrium dendrobatidis	Monte Olia	Discoglossus sardus	Sardinia
+MODS28	DS_d03c00cbc8	MODS28	2010	2010	Italy	Batrachochytrium dendrobatidis MODS28	Batrachochytrium dendrobatidis	Monte Olia	Discoglossus sardus	Sardinia
+RC5.1	DS_d03c00cbc8	RC5.1	2010	2010	France	Batrachochytrium dendrobatidis RC5.1	Batrachochytrium dendrobatidis	loire et Cher	Lithobates catesbeianus	
+SA1d	DS_d03c00cbc8	SA1d	2011	2011	South Africa	Batrachochytrium dendrobatidis SA1d	Batrachochytrium dendrobatidis	Pinetown Kwazulu	Amietia angolensis	
+SA4c	DS_d03c00cbc8	SA4c	2010	2010	South Africa	Batrachochytrium dendrobatidis SA4c	Batrachochytrium dendrobatidis	Pinetown Kwazulu	Amietia angolensis	
+SFBC014	DS_d03c00cbc8	SFBC014	2010	2010	United Kingdom	Batrachochytrium dendrobatidis SFBC014	Batrachochytrium dendrobatidis	Cumbria	Epidalea calamita	
+SP10	DS_d03c00cbc8	SP10	2010	2010	Italy	Batrachochytrium dendrobatidis SP10	Batrachochytrium dendrobatidis	Scuponi	Discoglossus sardus	Sardinia
+TF5a1	DS_d03c00cbc8	TF5a1	2007	2007	Spain	Batrachochytrium dendrobatidis TF5a1	Batrachochytrium dendrobatidis	Mallorca, Torrent des Ferrerets	Alytes muletensis	
+VC1	DS_d03c00cbc8	VC1	2009	2009	Canada	Batrachochytrium dendrobatidis VC1	Batrachochytrium dendrobatidis	Vancouver Island	Lithobates catesbeianus	

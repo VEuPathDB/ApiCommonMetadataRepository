@@ -1,0 +1,9 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	country	culture_condition	health_status	host_common_name	parasite_organism	parasite_strain	specimen
+DS4-868	DS_584fb4830a	DS4-868	2001	2001	Bangladesh	Stool sample	diarrhea/dysentery	human	Entamoeba histolytica	Entamoeba histolytica DS4-868	Axenic
+HM1IMSS-A	DS_584fb4830a	HM1IMSS-A	2011	2011	Germany	Stool sample	diarrhea/dysentery	human	Entamoeba histolytica	Entamoeba histolytica HM1IMSS-A	Axenic
+HM1IMSS-B	DS_584fb4830a	HM1IMSS-B	2011	2011	Germany	Stool sample	diarrhea/dysentery	human	Entamoeba histolytica	Entamoeba histolytica HM1IMSS-B	Axenic
+HM3IMSS	DS_584fb4830a	HM3IMSS	1972	1972	Mexico	liver asperate	asymptomatic	human	Entamoeba histolytica	Entamoeba histolytica HM3IMSS	Axenic
+KU27	DS_584fb4830a	KU27	2001	2001	Japan	Stool sample	asymptomatic	human	Entamoeba histolytica	Entamoeba histolytica KU27	Monoxenic
+KU48	DS_584fb4830a	KU48	2006	2006	Japan	liver asperate	liver abscess	human	Entamoeba histolytica	Entamoeba histolytica KU48	Axenic
+KU50	DS_584fb4830a	KU50	2007	2007	Japan	Stool sample	diarrhea/dysentery	human	Entamoeba histolytica	Entamoeba histolytica KU50	Axenic
+MS96-3382	DS_584fb4830a	MS96-3382	2008	2008	Bangladesh	Stool sample	asymptomatic	human	Entamoeba histolytica	Entamoeba histolytica MS96-3382	Xenic

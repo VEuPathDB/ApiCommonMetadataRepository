@@ -1,0 +1,294 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date	collection_date_original	collection_month	collection_year	continent	country	fungal_genotype	fungal_strain	fungus_organism	geographic_location	health_status	lineage	organism	specimen	specimen_collector	state
+MRL_1005	DS_e71c150691	MRL_1005		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_1005	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1037	DS_e71c150691	MRL_1037		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_1037	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1071	DS_e71c150691	MRL_1071		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_1071	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1124	DS_e71c150691	MRL_1124		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_1124	Cryptococcus gattii VGIV		Meningitis and pneumonia	VGIV	Homo sapiens	CSF	NICD	
+MRL_1127	DS_e71c150691	MRL_1127		2012		2012	Africa	South Africa		Cryptococcus gattii VGIV MRL_1127	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1150	DS_e71c150691	MRL_1150		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_1150	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1163	DS_e71c150691	MRL_1163		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_1163	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1252	DS_e71c150691	MRL_1252		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_1252	Cryptococcus gattii VGIV		Meningitis and pneumonia	VGIV	Homo sapiens	Blood culture	NICD	
+MRL_1261	DS_e71c150691	MRL_1261		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_1261	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1385	DS_e71c150691	MRL_1385		2012		2012	Africa	South Africa		Cryptococcus gattii VGIV MRL_1385	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1428	DS_e71c150691	MRL_1428		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_1428	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_153	DS_e71c150691	MRL_153		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_153	Cryptococcus gattii VGIV		Meningitis and pneumonia	VGIV	Homo sapiens	CSF	NICD	
+MRL_1545	DS_e71c150691	MRL_1545		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_1545	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1625	DS_e71c150691	MRL_1625		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_1625	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1643	DS_e71c150691	MRL_1643		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_1643	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1687	DS_e71c150691	MRL_1687		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_1687	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1698	DS_e71c150691	MRL_1698		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_1698	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens		NICD	
+MRL_1722	DS_e71c150691	MRL_1722		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_1722	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1723	DS_e71c150691	MRL_1723		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_1723	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1742	DS_e71c150691	MRL_1742		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_1742	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1764	DS_e71c150691	MRL_1764		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_1764	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1788	DS_e71c150691	MRL_1788		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_1788	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1846	DS_e71c150691	MRL_1846		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_1846	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1866	DS_e71c150691	MRL_1866		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_1866	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1930	DS_e71c150691	MRL_1930		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_1930	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1977	DS_e71c150691	MRL_1977		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_1977	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_1999	DS_e71c150691	MRL_1999		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_1999	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2000	DS_e71c150691	MRL_2000		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_2000	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2025	DS_e71c150691	MRL_2025		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2025	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2026	DS_e71c150691	MRL_2026		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2026	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2028	DS_e71c150691	MRL_2028		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_2028	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2060	DS_e71c150691	MRL_2060		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2060	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2085	DS_e71c150691	MRL_2085		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_2085	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2133	DS_e71c150691	MRL_2133		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2133	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2153	DS_e71c150691	MRL_2153		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_2153	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2172	DS_e71c150691	MRL_2172		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2172	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2173	DS_e71c150691	MRL_2173		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2173	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	Blood culture	NICD	
+MRL_2174	DS_e71c150691	MRL_2174		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_2174	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2217	DS_e71c150691	MRL_2217		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2217	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_236	DS_e71c150691	MRL_236		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_236	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2390	DS_e71c150691	MRL_2390		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_2390	Cryptococcus gattii VGIV		Meningitis and pneumonia	VGIV	Homo sapiens	CSF	NICD	
+MRL_2414	DS_e71c150691	MRL_2414		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2414	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2428	DS_e71c150691	MRL_2428		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_2428	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2476	DS_e71c150691	MRL_2476		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_2476	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_252	DS_e71c150691	MRL_252		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_252	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2530	DS_e71c150691	MRL_2530		2005		2005	Africa	South Africa		Cryptococcus gattii VGIV MRL_2530	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2544	DS_e71c150691	MRL_2544		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_2544	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2569	DS_e71c150691	MRL_2569		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2569	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2612	DS_e71c150691	MRL_2612		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_2612	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_273	DS_e71c150691	MRL_273		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_273	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2736	DS_e71c150691	MRL_2736		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_2736	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_274	DS_e71c150691	MRL_274		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_274	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2769	DS_e71c150691	MRL_2769		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_2769	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2854	DS_e71c150691	MRL_2854		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_2854	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_2899	DS_e71c150691	MRL_2899		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_2899	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_303	DS_e71c150691	MRL_303		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_303	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3058	DS_e71c150691	MRL_3058		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_3058	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3061	DS_e71c150691	MRL_3061		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_3061	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3096	DS_e71c150691	MRL_3096		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_3096	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3234	DS_e71c150691	MRL_3234		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_3234	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_339	DS_e71c150691	MRL_339		2012		2012	Africa	South Africa		Cryptococcus gattii VGIV MRL_339	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3448	DS_e71c150691	MRL_3448		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_3448	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3470	DS_e71c150691	MRL_3470		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_3470	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_348	DS_e71c150691	MRL_348		2012		2012	Africa	South Africa		Cryptococcus gattii VGIV MRL_348	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3598	DS_e71c150691	MRL_3598		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_3598	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3749	DS_e71c150691	MRL_3749		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_3749	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_376	DS_e71c150691	MRL_376		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_376	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_386	DS_e71c150691	MRL_386		2012		2012	Africa	South Africa		Cryptococcus gattii VGIV MRL_386	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3876	DS_e71c150691	MRL_3876		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_3876	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3882	DS_e71c150691	MRL_3882		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_3882	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3917	DS_e71c150691	MRL_3917		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_3917	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3943	DS_e71c150691	MRL_3943		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_3943	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3994	DS_e71c150691	MRL_3994		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_3994	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_3995	DS_e71c150691	MRL_3995		2005		2005	Africa	South Africa		Cryptococcus gattii VGIV MRL_3995	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	Blood culture	NICD	
+MRL_4009	DS_e71c150691	MRL_4009		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_4009	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_4052	DS_e71c150691	MRL_4052		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_4052	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_4102	DS_e71c150691	MRL_4102		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_4102	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_4145	DS_e71c150691	MRL_4145		2013		2013	Africa	South Africa		Cryptococcus gattii VGIV MRL_4145	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_4387	DS_e71c150691	MRL_4387		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_4387	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_465	DS_e71c150691	MRL_465		2012		2012	Africa	South Africa		Cryptococcus gattii VGIV MRL_465	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	Blood culture	NICD	
+MRL_499	DS_e71c150691	MRL_499		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_499	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_500	DS_e71c150691	MRL_500		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_500	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_5454	DS_e71c150691	MRL_5454		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_5454	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_547	DS_e71c150691	MRL_547		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_547	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_6044	DS_e71c150691	MRL_6044		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_6044	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_607	DS_e71c150691	MRL_607		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_607	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_6487	DS_e71c150691	MRL_6487		2006		2006	Africa	South Africa		Cryptococcus gattii VGIV MRL_6487	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_6516	DS_e71c150691	MRL_6516		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_6516	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_70	DS_e71c150691	MRL_70		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_70	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_772	DS_e71c150691	MRL_772		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_772	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_786	DS_e71c150691	MRL_786		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_786	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_805	DS_e71c150691	MRL_805		2007		2007	Africa	South Africa		Cryptococcus gattii VGIV MRL_805	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_841	DS_e71c150691	MRL_841		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_841	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	Blood culture	NICD	
+MRL_843	DS_e71c150691	MRL_843		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_843	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_848	DS_e71c150691	MRL_848		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_848	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_88	DS_e71c150691	MRL_88		2008		2008	Africa	South Africa		Cryptococcus gattii VGIV MRL_88	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_918	DS_e71c150691	MRL_918		2010		2010	Africa	South Africa		Cryptococcus gattii VGIV MRL_918	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_924	DS_e71c150691	MRL_924		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_924	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_940	DS_e71c150691	MRL_940		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_940	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_954	DS_e71c150691	MRL_954		2009		2009	Africa	South Africa		Cryptococcus gattii VGIV MRL_954	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+MRL_976	DS_e71c150691	MRL_976		2011		2011	Africa	South Africa		Cryptococcus gattii VGIV MRL_976	Cryptococcus gattii VGIV		Meningitis	VGIV	Homo sapiens	CSF	NICD	
+WM04.20	DS_e71c150691	WM04.20		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM04.20	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM05.373	DS_e71c150691	WM05.373		2003		2003	South America	Colombia		Cryptococcus gattii VGIV WM05.373	Cryptococcus gattii VGIV					Eucaliptus tree		
+WM05.374	DS_e71c150691	WM05.374		2003		2003	South America	Colombia		Cryptococcus gattii VGIV WM05.374	Cryptococcus gattii VGIV					Eucaliptus tree		
+WM05.376	DS_e71c150691	WM05.376		2003		2003	South America	Colombia		Cryptococcus gattii VGIV WM05.376	Cryptococcus gattii VGIV					Almond tree		
+WM05.378	DS_e71c150691	WM05.378		2003		2003	South America	Colombia		Cryptococcus gattii VGIV WM05.378	Cryptococcus gattii VGIV					Almond tree		
+WM08.314	DS_e71c150691	WM08.314								Cryptococcus gattii VGIV WM08.314	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM12.43	DS_e71c150691	WM12.43		2001		2001	Oceania	Australia		Cryptococcus gattii VGIV WM12.43	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM12.66	DS_e71c150691	WM12.66		2005		2005	Oceania	Australia		Cryptococcus gattii VGIV WM12.66	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM14.321	DS_e71c150691	WM14.321								Cryptococcus gattii VGIV WM14.321	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM1434	DS_e71c150691	WM1434		1997		1997	Africa	South Africa		Cryptococcus gattii VGIV WM1434	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2363	DS_e71c150691	WM2363		1997		1997	Asia	India		Cryptococcus gattii VGIV WM2363	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2364	DS_e71c150691	WM2364		1997		1997	Asia	India		Cryptococcus gattii VGIV WM2364	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2567	DS_e71c150691	WM2567		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM2567	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2568	DS_e71c150691	WM2568		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM2568	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2570	DS_e71c150691	WM2570		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM2570	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2579	DS_e71c150691	WM2579		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM2579	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2604	DS_e71c150691	WM2604		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM2604	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2670	DS_e71c150691	WM2670		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM2670	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+WM2876	DS_e71c150691	WM2876		1996		1996	Africa	South Africa		Cryptococcus gattii VGIV WM2876	Cryptococcus gattii VGIV		Cryptococcosis		Homo sapiens			
+B6863	DS_ecf7f76ba2	B6863		2005		2005	North America	USA	VGIIc	Cryptococcus gattii VGIII B6863	Cryptococcus gattii VGIII					clinical		
+B6864	DS_ecf7f76ba2	B6864		2004		2004	North America	USA	VGIIa	Cryptococcus gattii VGIII B6864	Cryptococcus gattii VGIII					clinical		
+B7390	DS_ecf7f76ba2	B7390		2008		2008	North America	USA	VGIIc	Cryptococcus gattii VGIII B7390	Cryptococcus gattii VGIII					clinical		
+B7394	DS_ecf7f76ba2	B7394		2008		2008	North America	USA	VGIIb	Cryptococcus gattii VGIII B7394	Cryptococcus gattii VGIII					Veterinary		
+B7395	DS_ecf7f76ba2	B7395		2008		2008	North America	USA	VGIIa	Cryptococcus gattii VGIII B7395	Cryptococcus gattii VGIII					Veterinary		
+B7422	DS_ecf7f76ba2	B7422		2009		2009	North America	USA	VGIIa	Cryptococcus gattii VGIII B7422	Cryptococcus gattii VGIII					Veterinary		
+B7432	DS_ecf7f76ba2	B7432		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B7432	Cryptococcus gattii VGIII					clinical		
+B7434	DS_ecf7f76ba2	B7434		2008		2008	North America	USA	VGIIc	Cryptococcus gattii VGIII B7434	Cryptococcus gattii VGIII					clinical		
+B7436	DS_ecf7f76ba2	B7436		2009		2009	North America	USA	VGIIa	Cryptococcus gattii VGIII B7436	Cryptococcus gattii VGIII					Veterinary		
+B7466	DS_ecf7f76ba2	B7466		2008		2008	North America	USA	VGIIc	Cryptococcus gattii VGIII B7466	Cryptococcus gattii VGIII					Veterinary		
+B7467	DS_ecf7f76ba2	B7467		2009		2009	North America	USA	VGIIa	Cryptococcus gattii VGIII B7467	Cryptococcus gattii VGIII					Veterinary		
+B7491	DS_ecf7f76ba2	B7491		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B7491	Cryptococcus gattii VGIII					clinical		
+B7493	DS_ecf7f76ba2	B7493		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B7493	Cryptococcus gattii VGIII					Veterinary		
+B7641	DS_ecf7f76ba2	B7641		2008		2008	North America	USA	VGIIc	Cryptococcus gattii VGIII B7641	Cryptococcus gattii VGIII					Veterinary		
+B7735	DS_ecf7f76ba2	B7735		2009		2009	North America	USA	VGIIb	Cryptococcus gattii VGIII B7735	Cryptococcus gattii VGIII					clinical		
+B7737	DS_ecf7f76ba2	B7737		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B7737	Cryptococcus gattii VGIII					clinical		
+B7765	DS_ecf7f76ba2	B7765		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B7765	Cryptococcus gattii VGIII					Veterinary		
+B8210	DS_ecf7f76ba2	B8210		2008		2008	North America	USA	VGIIc	Cryptococcus gattii VGIII B8210	Cryptococcus gattii VGIII					clinical		
+B8214	DS_ecf7f76ba2	B8214		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B8214	Cryptococcus gattii VGIII					clinical		
+B8510	DS_ecf7f76ba2	B8510		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B8510	Cryptococcus gattii VGIII					clinical		
+B8554	DS_ecf7f76ba2	B8554		2008		2008	North America	USA	VGIIb	Cryptococcus gattii VGIII B8554	Cryptococcus gattii VGIII					Veterinary		
+B8555	DS_ecf7f76ba2	B8555		2006		2006	North America	USA	VGIIa	Cryptococcus gattii VGIII B8555	Cryptococcus gattii VGIII					clinical		
+B8571	DS_ecf7f76ba2	B8571		2009		2009	North America	USA	VGIIc	Cryptococcus gattii VGIII B8571	Cryptococcus gattii VGIII					clinical		
+B8577	DS_ecf7f76ba2	B8577		2009		2009	North America	Canada	VGIIa	Cryptococcus gattii VGIII B8577	Cryptococcus gattii VGIII					environmental		
+B8788	DS_ecf7f76ba2	B8788		2010		2010	North America	USA	VGIIc	Cryptococcus gattii VGIII B8788	Cryptococcus gattii VGIII					clinical		
+B8793	DS_ecf7f76ba2	B8793		2010		2010	North America	USA	VGIIa	Cryptococcus gattii VGIII B8793	Cryptococcus gattii VGIII					Veterinary		
+B8798	DS_ecf7f76ba2	B8798		2005		2005	North America	USA	VGIIc	Cryptococcus gattii VGIII B8798	Cryptococcus gattii VGIII					clinical		
+B8825	DS_ecf7f76ba2	B8825		2010		2010	North America	USA	VGIIc	Cryptococcus gattii VGIII B8825	Cryptococcus gattii VGIII					clinical		
+B8828	DS_ecf7f76ba2	B8828		2010		2010	North America	USA	VGIIb	Cryptococcus gattii VGIII B8828	Cryptococcus gattii VGIII					Veterinary		
+B8833	DS_ecf7f76ba2	B8833		2010		2010	North America	USA	VGIIc	Cryptococcus gattii VGIII B8833	Cryptococcus gattii VGIII					clinical		
+B8838	DS_ecf7f76ba2	B8838		2010		2010	North America	USA	VGIIc	Cryptococcus gattii VGIII B8838	Cryptococcus gattii VGIII					clinical		
+B8843	DS_ecf7f76ba2	B8843		2010		2010	North America	USA	VGIIc	Cryptococcus gattii VGIII B8843	Cryptococcus gattii VGIII					clinical		
+B8849	DS_ecf7f76ba2	B8849		2010		2010	North America	USA	VGIIa	Cryptococcus gattii VGIII B8849	Cryptococcus gattii VGIII					environmental		
+B8973	DS_ecf7f76ba2	B8973		2010		2010	North America	USA	VGII	Cryptococcus gattii VGIII B8973	Cryptococcus gattii VGIII					clinical		
+B9157	DS_ecf7f76ba2	B9157		2011		2011	North America	USA	VGIIb	Cryptococcus gattii VGIII B9157	Cryptococcus gattii VGIII					Veterinary		
+B9457	DS_ecf7f76ba2	B9457		2011		2011	North America	USA	VGIIa	Cryptococcus gattii VGIII B9457	Cryptococcus gattii VGIII					clinical		
+B9458	DS_ecf7f76ba2	B9458		2011		2011	North America	USA	VGIIa	Cryptococcus gattii VGIII B9458	Cryptococcus gattii VGIII					clinical		
+B9552	DS_ecf7f76ba2	B9552		2011		2011	North America	USA	VGIIb	Cryptococcus gattii VGIII B9552	Cryptococcus gattii VGIII					Veterinary		
+B9563	DS_ecf7f76ba2	B9563		2011		2011	North America	USA	VGIIb	Cryptococcus gattii VGIII B9563	Cryptococcus gattii VGIII					Veterinary		
+B9588	DS_ecf7f76ba2	B9588		2012		2012	North America	USA	VGIIb	Cryptococcus gattii VGIII B9588	Cryptococcus gattii VGIII					clinical		
+B9757	DS_ecf7f76ba2	B9757		2002		2002	North America	USA	VGIIa	Cryptococcus gattii VGIII B9757	Cryptococcus gattii VGIII					environmental		
+B9758	DS_ecf7f76ba2	B9758		2002		2002	North America	USA	VGIIb	Cryptococcus gattii VGIII B9758	Cryptococcus gattii VGIII					environmental		
+B9759	DS_ecf7f76ba2	B9759		2003		2003	North America	USA	VGIIa	Cryptococcus gattii VGIII B9759	Cryptococcus gattii VGIII					Veterinary		
+B9764	DS_ecf7f76ba2	B9764		2012		2012	North America	USA	VGII	Cryptococcus gattii VGIII B9764	Cryptococcus gattii VGIII					Veterinary		
+B9816	DS_ecf7f76ba2	B9816		2012		2012	North America	USA	VGIIc	Cryptococcus gattii VGIII B9816	Cryptococcus gattii VGIII					Veterinary		
+B9933	DS_ecf7f76ba2	B9933		2012		2012	North America	USA	VGIIc	Cryptococcus gattii VGIII B9933	Cryptococcus gattii VGIII					clinical		
+CA-1014	DS_ecf7f76ba2	CA-1014					North America	USA	VGIIa	Cryptococcus gattii VGIII CA-1014	Cryptococcus gattii VGIII					clinical		
+CBS_7750	DS_ecf7f76ba2	CBS_7750		1990		1990	North America	USA	VGIIa	Cryptococcus gattii VGIII CBS_7750	Cryptococcus gattii VGIII					environmental		
+CDC-3225	DS_ecf7f76ba2	CDC-3225		1994		1994	South America	Brazil	VGII	Cryptococcus gattii VGIII CDC-3225	Cryptococcus gattii VGIII					Veterinary		
+CDC-3234	DS_ecf7f76ba2	CDC-3234		1998		1998	South America	Brazil	VGII	Cryptococcus gattii VGIII CDC-3234	Cryptococcus gattii VGIII					Veterinary		
+CDC-3243	DS_ecf7f76ba2	CDC-3243		2000		2000	South America	Brazil	VGII	Cryptococcus gattii VGIII CDC-3243	Cryptococcus gattii VGIII					Veterinary		
+CDC_R272	DS_ecf7f76ba2	CDC_R272		2001		2001	North America	Canada	VGIIb	Cryptococcus gattii VGIII CDC_R272	Cryptococcus gattii VGIII					clinical		
+GT-11-7650	DS_ecf7f76ba2	GT-11-7650					North America	USA	VGIIc	Cryptococcus gattii VGIII GT-11-7650	Cryptococcus gattii VGIII					Veterinary		
+HL_A1	DS_ecf7f76ba2	HL_A1		2002		2002	North America	Canada	VGIIa	Cryptococcus gattii VGIII HL_A1	Cryptococcus gattii VGIII					Veterinary		
+HL_A11	DS_ecf7f76ba2	HL_A11		2001		2001	North America	Canada	VGIIa	Cryptococcus gattii VGIII HL_A11	Cryptococcus gattii VGIII					clinical		
+HL_A2	DS_ecf7f76ba2	HL_A2		2008		2008	South America	Brazil	VGII	Cryptococcus gattii VGIII HL_A2	Cryptococcus gattii VGIII					clinical		
+HL_A3	DS_ecf7f76ba2	HL_A3		2002		2002	North America	Canada	VGIIa	Cryptococcus gattii VGIII HL_A3	Cryptococcus gattii VGIII					environmental		
+HL_A4	DS_ecf7f76ba2	HL_A4		1996		1996	South America	Uruguay	VGII	Cryptococcus gattii VGIII HL_A4	Cryptococcus gattii VGIII					environmental		
+HL_A5	DS_ecf7f76ba2	HL_A5		2008		2008	South America	Brazil	VGII	Cryptococcus gattii VGIII HL_A5	Cryptococcus gattii VGIII					environmental		
+HL_A6	DS_ecf7f76ba2	HL_A6		1953		1953	North America	Aruba	VGII	Cryptococcus gattii VGIII HL_A6	Cryptococcus gattii VGIII					Veterinary		
+HL_A8	DS_ecf7f76ba2	HL_A8		2008		2008	South America	Brazil	VGII	Cryptococcus gattii VGIII HL_A8	Cryptococcus gattii VGIII					environmental		
+HL_B11	DS_ecf7f76ba2	HL_B11		1996		1996	Europe	Greece	VGII	Cryptococcus gattii VGIII HL_B11	Cryptococcus gattii VGIII					clinical		
+HL_B12	DS_ecf7f76ba2	HL_B12		1998		1998	Europe	Greece	VGII	Cryptococcus gattii VGIII HL_B12	Cryptococcus gattii VGIII					clinical		
+HL_B2	DS_ecf7f76ba2	HL_B2		2000		2000	South America	Brazil	VGII	Cryptococcus gattii VGIII HL_B2	Cryptococcus gattii VGIII					Veterinary		
+HL_B3	DS_ecf7f76ba2	HL_B3		2005		2005	North America	USA	VGIIc	Cryptococcus gattii VGIII HL_B3	Cryptococcus gattii VGIII					clinical		
+HL_B4	DS_ecf7f76ba2	HL_B4		2008		2008	North America	USA	VGIIc	Cryptococcus gattii VGIII HL_B4	Cryptococcus gattii VGIII					clinical		
+HL_B5	DS_ecf7f76ba2	HL_B5		2002		2002	North America	Canada	VGIIa	Cryptococcus gattii VGIII HL_B5	Cryptococcus gattii VGIII					clinical		
+HL_B6	DS_ecf7f76ba2	HL_B6		2006		2006	Europe	Denmark	VGIIa	Cryptococcus gattii VGIII HL_B6	Cryptococcus gattii VGIII					clinical		
+ICB-107	DS_ecf7f76ba2	ICB-107		1981		1981	South America	Brazil	VGIIa	Cryptococcus gattii VGIII ICB-107	Cryptococcus gattii VGIII					clinical		
+NIH_444	DS_ecf7f76ba2	NIH_444		1975		1975	North America	USA	VGIIa	Cryptococcus gattii VGIII NIH_444	Cryptococcus gattii VGIII					clinical		
+R265_resequence1	DS_ecf7f76ba2	R265_resequence1		2001		2001	North America	Canada	VGIIa	Cryptococcus gattii VGIII R265_resequence1	Cryptococcus gattii VGIII					clinical		
+WM_03.27	DS_ecf7f76ba2	WM_03.27		1992		1992	Oceania	Australia	VGIIb	Cryptococcus gattii VGIII WM_03.27	Cryptococcus gattii VGIII					environmental		
+WM_03.697	DS_ecf7f76ba2	WM_03.697		2001		2001	North America	Canada	VGIIa	Cryptococcus gattii VGIII WM_03.697	Cryptococcus gattii VGIII					Veterinary		
+WM_04.71	DS_ecf7f76ba2	WM_04.71		1991		1991	Oceania	Australia	VGIIb	Cryptococcus gattii VGIII WM_04.71	Cryptococcus gattii VGIII					Veterinary		
+WM_04.75	DS_ecf7f76ba2	WM_04.75		1993		1993	Asia	Thailand	VGIIb	Cryptococcus gattii VGIII WM_04.75	Cryptococcus gattii VGIII					clinical		
+WM_04.78	DS_ecf7f76ba2	WM_04.78		1998		1998	South America	Colombia	VGII	Cryptococcus gattii VGIII WM_04.78	Cryptococcus gattii VGIII					clinical		
+WM_04.84	DS_ecf7f76ba2	WM_04.84		1986		1986	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_04.84	Cryptococcus gattii VGIII					clinical		
+WM_05.274	DS_ecf7f76ba2	WM_05.274		2002		2002	South America	Colombia	VGII	Cryptococcus gattii VGIII WM_05.274	Cryptococcus gattii VGIII					clinical		
+WM_05.275	DS_ecf7f76ba2	WM_05.275		2001		2001	South America	Colombia	VGII	Cryptococcus gattii VGIII WM_05.275	Cryptococcus gattii VGIII					clinical		
+WM_05.339	DS_ecf7f76ba2	WM_05.339		2005		2005	South America	Colombia	VGII	Cryptococcus gattii VGIII WM_05.339	Cryptococcus gattii VGIII					environmental		
+WM_05.342	DS_ecf7f76ba2	WM_05.342		2005		2005	South America	Colombia	VGII	Cryptococcus gattii VGIII WM_05.342	Cryptococcus gattii VGIII					environmental		
+WM_05.419	DS_ecf7f76ba2	WM_05.419		1988		1988	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.419	Cryptococcus gattii VGIII					clinical		
+WM_05.432	DS_ecf7f76ba2	WM_05.432		2000		2000			VGIIa	Cryptococcus gattii VGIII WM_05.432	Cryptococcus gattii VGIII					clinical		
+WM_05.452	DS_ecf7f76ba2	WM_05.452		1995		1995	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.452	Cryptococcus gattii VGIII					clinical		
+WM_05.456	DS_ecf7f76ba2	WM_05.456		1994		1994	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.456	Cryptococcus gattii VGIII					environmental		
+WM_05.457	DS_ecf7f76ba2	WM_05.457		1995		1995	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.457	Cryptococcus gattii VGIII					clinical		
+WM_05.461	DS_ecf7f76ba2	WM_05.461		1997		1997	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.461	Cryptococcus gattii VGIII					clinical		
+WM_05.462	DS_ecf7f76ba2	WM_05.462		1997		1997	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.462	Cryptococcus gattii VGIII					clinical		
+WM_05.465	DS_ecf7f76ba2	WM_05.465		1997		1997	South America	Brazil	VGIIb	Cryptococcus gattii VGIII WM_05.465	Cryptococcus gattii VGIII					clinical		
+WM_05.525	DS_ecf7f76ba2	WM_05.525		1997		1997	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.525	Cryptococcus gattii VGIII					clinical		
+WM_05.527	DS_ecf7f76ba2	WM_05.527		1997		1997	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.527	Cryptococcus gattii VGIII					clinical		
+WM_05.528	DS_ecf7f76ba2	WM_05.528		2001		2001	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.528	Cryptococcus gattii VGIII					clinical		
+WM_05.529	DS_ecf7f76ba2	WM_05.529		1997		1997	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.529	Cryptococcus gattii VGIII					clinical		
+WM_05.530	DS_ecf7f76ba2	WM_05.530		1999		1999	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.530	Cryptococcus gattii VGIII					clinical		
+WM_05.533	DS_ecf7f76ba2	WM_05.533		1997		1997	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.533	Cryptococcus gattii VGIII					clinical		
+WM_05.536	DS_ecf7f76ba2	WM_05.536		1997		1997	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.536	Cryptococcus gattii VGIII					clinical		
+WM_05.545	DS_ecf7f76ba2	WM_05.545		2001		2001	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.545	Cryptococcus gattii VGIII					clinical		
+WM_05.546	DS_ecf7f76ba2	WM_05.546		2001		2001	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.546	Cryptococcus gattii VGIII					clinical		
+WM_05.547	DS_ecf7f76ba2	WM_05.547		2001		2001	South America	Brazil	VGII	Cryptococcus gattii VGIII WM_05.547	Cryptococcus gattii VGIII					clinical		
+WM_05.554	DS_ecf7f76ba2	WM_05.554		2002		2002	South America	Brazil	VGIIa	Cryptococcus gattii VGIII WM_05.554	Cryptococcus gattii VGIII					clinical		
+WM_06.10	DS_ecf7f76ba2	WM_06.10		2000		2000	South America	Argentina	VGIIa	Cryptococcus gattii VGIII WM_06.10	Cryptococcus gattii VGIII					clinical		
+WM_06.12	DS_ecf7f76ba2	WM_06.12		1996		1996	South America	Venezuela	VGII	Cryptococcus gattii VGIII WM_06.12	Cryptococcus gattii VGIII					clinical		
+WM_06.634	DS_ecf7f76ba2	WM_06.634		1994		1994	Asia	Thailand	VGIIb	Cryptococcus gattii VGIII WM_06.634	Cryptococcus gattii VGIII					clinical		
+WM_06.636	DS_ecf7f76ba2	WM_06.636		1995		1995	Asia	Thailand	VGIIb	Cryptococcus gattii VGIII WM_06.636	Cryptococcus gattii VGIII					clinical		
+WM_08.309	DS_ecf7f76ba2	WM_08.309		1997		1997	Oceania	Australia	VGII	Cryptococcus gattii VGIII WM_08.309	Cryptococcus gattii VGIII					Veterinary		
+WM_08.311	DS_ecf7f76ba2	WM_08.311		1996		1996	Oceania	Australia	VGII	Cryptococcus gattii VGIII WM_08.311	Cryptococcus gattii VGIII					Veterinary		
+WM_09.152	DS_ecf7f76ba2	WM_09.152		2009		2009	Oceania	Australia	VGII	Cryptococcus gattii VGIII WM_09.152	Cryptococcus gattii VGIII					environmental		
+WM_09.94	DS_ecf7f76ba2	WM_09.94		2001		2001	Oceania	Australia	VGII	Cryptococcus gattii VGIII WM_09.94	Cryptococcus gattii VGIII					Veterinary		
+WM_11.139	DS_ecf7f76ba2	WM_11.139		2011		2011	North America	USA	VGIII	Cryptococcus gattii VGIII WM_11.139	Cryptococcus gattii VGIII					Veterinary		
+WM_11.65	DS_ecf7f76ba2	WM_11.65		2011		2011	Oceania	Australia	VGII	Cryptococcus gattii VGIII WM_11.65	Cryptococcus gattii VGIII					Veterinary		
+WM_178	DS_ecf7f76ba2	WM_178		1991		1991	Oceania	Australia	VGII	Cryptococcus gattii VGIII WM_178	Cryptococcus gattii VGIII					clinical		
+WM_179	DS_ecf7f76ba2	WM_179		1993		1993	Oceania	Australia	VGI	Cryptococcus gattii VGIII WM_179	Cryptococcus gattii VGIII					clinical		
+WM_1850	DS_ecf7f76ba2	WM_1850		1999		1999	South America	Venezuela	VGII	Cryptococcus gattii VGIII WM_1850	Cryptococcus gattii VGIII					clinical		
+WM_1851	DS_ecf7f76ba2	WM_1851		1999		1999	South America	Venezuela	VGII	Cryptococcus gattii VGIII WM_1851	Cryptococcus gattii VGIII					clinical		
+WM_2552	DS_ecf7f76ba2	WM_2552		1997		1997	Asia	Malaysia	VGIIb	Cryptococcus gattii VGIII WM_2552	Cryptococcus gattii VGIII					clinical		
+WM_3032	DS_ecf7f76ba2	WM_3032		1983		1983	Oceania	Australia	VGII	Cryptococcus gattii VGIII WM_3032	Cryptococcus gattii VGIII					clinical		
+WM_779	DS_ecf7f76ba2	WM_779		1994		1994	Africa	South Africa	VGIV	Cryptococcus gattii VGIII WM_779	Cryptococcus gattii VGIII					Veterinary		
+CBS11687	DS_cb3188e3c3	CBS11687								Cryptococcus gattii CBS11687	Cryptococcus gattii			VGIV/VGIIIc				
+MF_1	DS_cb3188e3c3	MF_1	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_1	Cryptococcus gattii	Miombo Woodlands		VGII		Cave with hyrax droppings		
+MF_10	DS_cb3188e3c3	MF_10	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_10	Cryptococcus gattii	Miombo Woodlands		VGII		Rock cracks		
+MF_11	DS_cb3188e3c3	MF_11	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_11	Cryptococcus gattii	Miombo Woodlands		VGII		Rock cracks		
+MF_18	DS_cb3188e3c3	MF_18	2013-01-19	1/19/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_18	Cryptococcus gattii	Southern Miombo Woodlands		VGI		Soil		
+MF_19	DS_cb3188e3c3	MF_19	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_19	Cryptococcus gattii	Miombo Woodlands		VGI		Cave/animal droppings		
+MF_2	DS_cb3188e3c3	MF_2	2013-01-19	1/19/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_2	Cryptococcus gattii	Southern Miombo Woodlands		VGI		Soil		
+MF_20	DS_cb3188e3c3	MF_20	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_20	Cryptococcus gattii	Miombo Woodlands		VGII		Rock cracks		
+MF_21	DS_cb3188e3c3	MF_21	2013-01-15	1/15/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_21	Cryptococcus gattii	Miombo Woodlands		VGI		Tree Bol		
+MF_23	DS_cb3188e3c3	MF_23	2013-01-17	1/17/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_23	Cryptococcus gattii	Miombo Woodlands		VGII		Soil		
+MF_26	DS_cb3188e3c3	MF_26	2012-11-25	11/25/12	11	2012	Africa	Zambia		Cryptococcus gattii MF_26	Cryptococcus gattii	Miombo Woodlands		VGI		Acacia Bole		
+MF_27	DS_cb3188e3c3	MF_27	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_27	Cryptococcus gattii	Miombo Woodlands		VGII		Tree		
+MF_29	DS_cb3188e3c3	MF_29	2013-09-20	9/20/13	9	2013	Africa	Zambia		Cryptococcus gattii MF_29	Cryptococcus gattii	Miombo Woodlands		VGII		Tree bark		
+MF_3	DS_cb3188e3c3	MF_3	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_3	Cryptococcus gattii	Miombo Woodlands		VGII		Rock cracks		
+MF_31	DS_cb3188e3c3	MF_31	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_31	Cryptococcus gattii	Miombo Woodlands		VGII		Soil from Cave		
+MF_35	DS_cb3188e3c3	MF_35	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_35	Cryptococcus gattii	Miombo Woodlands		VGII		Soil/droppings		
+MF_36	DS_cb3188e3c3	MF_36	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_36	Cryptococcus gattii	Miombo Woodlands		VGII		Rock cave		
+MF_38	DS_cb3188e3c3	MF_38	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_38	Cryptococcus gattii	Miombo Woodlands		VGII		Cave/animal droppings		
+MF_4	DS_cb3188e3c3	MF_4	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_4	Cryptococcus gattii	Miombo Woodlands		VGII		Soil/droppings		
+MF_42	DS_cb3188e3c3	MF_42	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_42	Cryptococcus gattii	Miombo Woodlands		VGI		Soil/droppings		
+MF_43	DS_cb3188e3c3	MF_43	2013-01-17	1/17/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_43	Cryptococcus gattii	Miombo Woodlands		VGI		Tree bol		
+MF_46	DS_cb3188e3c3	MF_46	2013-09-18	9/18/13	9	2013	Africa	Zambia		Cryptococcus gattii MF_46	Cryptococcus gattii	Miombo Woodlands		VGIV		Tree bark		
+MF_53	DS_cb3188e3c3	MF_53	2013-09-17	9/17/13	9	2013	Africa	Zambia		Cryptococcus gattii MF_53	Cryptococcus gattii	Miombo Woodlands		VGII		Tree bark		
+MF_57	DS_cb3188e3c3	MF_57	2013-09-20	9/20/13	9	2013	Africa	Zambia		Cryptococcus gattii MF_57	Cryptococcus gattii	Miombo Woodlands		VGII		Tree bark		
+MF_6	DS_cb3188e3c3	MF_6	2013-09-20	9/20/13	9	2013	Africa	Zambia		Cryptococcus gattii MF_6	Cryptococcus gattii	Miombo Woodlands		VGII		Tree bark		
+MF_60	DS_cb3188e3c3	MF_60	2013-09-17	9/17/13	9	2013	Africa	Zambia		Cryptococcus gattii MF_60	Cryptococcus gattii	Miombo Woodlands		VGII		Soil		
+MF_7	DS_cb3188e3c3	MF_7	2013-01-16	1/16/13	1	2013	Africa	Zambia		Cryptococcus gattii MF_7	Cryptococcus gattii	Miombo Woodlands		VGII		Soil		
+SA03	DS_cb3188e3c3	SA03					Africa	South Africa		Cryptococcus gattii SA03	Cryptococcus gattii			VGII				
+MF13	DS_319cb826fd	MF13	2013-09-17	9/17/13	9	2013	Africa	Zambia		Cryptococcus gattii MF13	Cryptococcus gattii	Miombo Woodlands		VGV		Soil		
+MF34	DS_319cb826fd	MF34	2013-09-20	9/20/13	9	2013	Africa	Zambia		Cryptococcus gattii MF34	Cryptococcus gattii	Miombo Woodlands		VGV		Tree bark		
+MF5	DS_319cb826fd	MF5	2013-09-17	9/17/13	9	2013	Africa	Zambia		Cryptococcus gattii MF5	Cryptococcus gattii	Miombo Woodlands		VGV		Soil		
+MF51	DS_319cb826fd	MF51	2013-09-18	9/18/13	9	2013	Africa	Zambia		Cryptococcus gattii MF51	Cryptococcus gattii	Miombo Woodlands		VGV		Tree bark		
+MF54	DS_319cb826fd	MF54	2013-09-17	9/17/13	9	2013	Africa	Zambia		Cryptococcus gattii MF54	Cryptococcus gattii	Miombo Woodlands		VGV		Soil		
+MF56	DS_319cb826fd	MF56	2013-09-20	9/20/13	9	2013	Africa	Zambia		Cryptococcus gattii MF56	Cryptococcus gattii	Miombo Woodlands		VGV		Tree bark		
+B11352	DS_ac06578b2b	B11352		2015		2015	North America	USA		Cryptococcus gattii VGII B11352	Cryptococcus gattii VGII		Cryptococcosis	VGIIc	Homo sapiens		CDC	Oregon
+B11428	DS_ac06578b2b	B11428		2015		2015	North America	USA		Cryptococcus gattii VGII B11428	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	Homo sapiens		CDC	Washington
+B11441	DS_ac06578b2b	B11441		2016		2016	North America	USA		Cryptococcus gattii VGII B11441	Cryptococcus gattii VGII		Cryptococcosis		elk		CDC	Oregon
+B11442	DS_ac06578b2b	B11442		2016		2016	North America	USA		Cryptococcus gattii VGII B11442	Cryptococcus gattii VGII		Cryptococcosis	VGIIc	elk		CDC	Oregon
+B11460	DS_ac06578b2b	B11460		2016		2016	North America	USA		Cryptococcus gattii VGII B11460	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	Homo sapiens		CDC	California
+B11468	DS_ac06578b2b	B11468		2016		2016	North America	USA		Cryptococcus gattii VGII B11468	Cryptococcus gattii VGII		Cryptococcosis	VGIIc	Homo sapiens		CDC	Oregon
+B11473	DS_ac06578b2b	B11473		2016		2016	North America	USA		Cryptococcus gattii VGII B11473	Cryptococcus gattii VGII		Cryptococcosis	VGIIc	Dog		CDC	Oregon
+B11560	DS_ac06578b2b	B11560		2016		2016	North America	USA		Cryptococcus gattii VGII B11560	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	ferret		CDC	Oregon
+B11562	DS_ac06578b2b	B11562		2016		2016	North America	USA		Cryptococcus gattii VGII B11562	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	Homo sapiens		CDC	Washington
+B11566	DS_ac06578b2b	B11566		2015		2015	North America	Canada		Cryptococcus gattii VGII B11566	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	bird		CDC	Quebec
+B115675	DS_ac06578b2b	B115675		2015		2015	North America	Canada		Cryptococcus gattii VGII B115675	Cryptococcus gattii VGII		Cryptococcosis	VGIIb	deer		CDC	Nova Scotia
+B11569	DS_ac06578b2b	B11569		2015		2015	North America	Canada		Cryptococcus gattii VGII B11569	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	Homo sapiens		CDC	Quebec
+B11591	DS_ac06578b2b	B11591		2016		2016	North America	USA		Cryptococcus gattii VGII B11591	Cryptococcus gattii VGII		Cryptococcosis		Dog		CDC	Oregon
+B11592	DS_ac06578b2b	B11592		2016		2016	North America	USA		Cryptococcus gattii VGII B11592	Cryptococcus gattii VGII		Cryptococcosis	VGIIc	Cat		CDC	Oregon
+B11766	DS_ac06578b2b	B11766		2016		2016	North America	USA		Cryptococcus gattii VGII B11766	Cryptococcus gattii VGII		Cryptococcosis		Homo sapiens		CDC	North Carolina
+B8_BC	DS_ac06578b2b	B8_BC		2002		2002	North America	Canada		Cryptococcus gattii VGII B8_BC	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	Homo sapiens		CDC	British Columbia
+WM_05_76	DS_ac06578b2b	WM_05_76		1996		1996	Europe	Greece		Cryptococcus gattii VGII WM_05_76	Cryptococcus gattii VGII		Cryptococcosis		Homo sapiens		University of Sydney	
+WM_05_77	DS_ac06578b2b	WM_05_77		1998		1998	Europe	Greece		Cryptococcus gattii VGII WM_05_77	Cryptococcus gattii VGII		Cryptococcosis		Homo sapiens		University of Sydney	
+WM_06_33	DS_ac06578b2b	WM_06_33		1953		1953	North America	Aruba		Cryptococcus gattii VGII WM_06_33	Cryptococcus gattii VGII		Cryptococcosis				University of Sydney	
+WM_06_8	DS_ac06578b2b	WM_06_8		1996		1996	South America	Uruguay		Cryptococcus gattii VGII WM_06_8	Cryptococcus gattii VGII		Cryptococcosis				University of Sydney	
+WM_09_144	DS_ac06578b2b	WM_09_144		2006		2006	North America	Canada		Cryptococcus gattii VGII WM_09_144	Cryptococcus gattii VGII		Cryptococcosis	VGIIa	Homo sapiens		University of Sydney	British Columbia
+WM_09_83	DS_ac06578b2b	WM_09_83		1985		1985	Oceania	Australia		Cryptococcus gattii VGII WM_09_83	Cryptococcus gattii VGII		Cryptococcosis				University of Sydney	

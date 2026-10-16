@@ -1,0 +1,25 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	alternative_sample_id	collection_date_original	collection_month	collection_year	continent	country	culture_medium	fungus_organism	isolate_group	isolation_source	latitude_coordinate_measurement_datum	lineage	longitude_coordinate_measurement_datum	organism	ploidy	sample_collection_device	sample_collection_method	sex	specimen	state
+YST6R10	DS_a58d75c628	YST6R10	YST6R10	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6R11	DS_a58d75c628	YST6R11	YST6R11	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6R12	DS_a58d75c628	YST6R12	YST6R12	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6R15	DS_a58d75c628	YST6R15	YST6R15	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6R2	DS_a58d75c628	YST6R2	32	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6R20	DS_a58d75c628	YST6R20	25	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6R4	DS_a58d75c628	YST6R4	28	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6R5	DS_a58d75c628	YST6R5	26	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6R6	DS_a58d75c628	YST6R6	YST6R6	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6R7	DS_a58d75c628	YST6R7	YST6R7	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6R8	DS_a58d75c628	YST6R8	YST6R8	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6R9	DS_a58d75c628	YST6R9	YST6R9	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Rectal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Rectal	Manitoba
+YST6V1	DS_a58d75c628	YST6V1	29	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6V11	DS_a58d75c628	YST6V11	30	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6V13	DS_a58d75c628	YST6V13	YST6V13	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba
+YST6V14	DS_a58d75c628	YST6V14	YST6V14	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba
+YST6V15	DS_a58d75c628	YST6V15	YST6V15	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba
+YST6V2	DS_a58d75c628	YST6V2	YST6V2	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba
+YST6V24	DS_a58d75c628	YST6V24	27	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6V3	DS_a58d75c628	YST6V3	YST6V3	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba
+YST6V4	DS_a58d75c628	YST6V4	31	2020-11	11	2020	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	RVVC		53.7609	ST16	-98.8139	Homo sapiens	1		Swab	female		Manitoba
+YST6V5	DS_a58d75c628	YST6V5	YST6V5	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba
+YST6V6	DS_a58d75c628	YST6V6	YST6V6	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba
+YST6V7	DS_a58d75c628	YST6V7	YST6V7	2022-06	6	2022	North America	Canada	YDP at 30 C	Nakaseomyces glabratus	YST6	Vaginal	53.7609	ST16	-98.8139	Homo sapiens	2	Swab	Swab	female	Vaginal	Manitoba

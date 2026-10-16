@@ -1,0 +1,5 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	country	fungal_genotype	fungal_strain	fungus_organism	geographic_location	health_status	host_common_name	organism	specimen_collector
+ED01	DS_fa57f3d4ae	ED01	Brazil	Pl	Paracoccidioides lutzii ED01	Paracoccidioides lutzii	Goias	PCM	human	Homo sapiens	Celia de Almeida Soares
+Pb01_resequence1	DS_fa57f3d4ae	Pb01_resequence1	Brazil	Pl	Paracoccidioides lutzii Pb01_resequence1	Paracoccidioides lutzii	Goias	PCM	human	Homo sapiens	Rosana Puccia
+Pl1578	DS_fa57f3d4ae	Pl1578	Brazil	Pl	Paracoccidioides lutzii Pl1578	Paracoccidioides lutzii	Goias	PCM	human	Homo sapiens	Celia de Almeida Soares
+Plee	DS_fa57f3d4ae	Plee	Brazil	Pl	Paracoccidioides lutzii Plee	Paracoccidioides lutzii	Mato Grosso	PCM	human	Homo sapiens	Maria Sueli Felipe

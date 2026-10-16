@@ -1,0 +1,6 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	country	geographic_location	host_common_name	parasite_organism	parasite_strain	specimen
+STIB247	DS_d612ba1215	STIB247				Trypanosoma brucei brucei STIB247		specimen from organism
+TREU927_resequence1	DS_d612ba1215	TREU927_resequence1				Trypanosoma brucei brucei TREU927		specimen from organism
+427	DS_daf260ec2d	427				Trypanosoma brucei	Trypanosoma brucei brucei 427	specimen from organism
+gambiense	DS_7452ca12ac	gambiense				Trypanosoma brucei gambiense		specimen from organism
+503_s	DS_7b0f7e7a6a	503_s	Kenya	Nyanza	Cow	Trypanosoma brucei	Trypanosoma brucei 503_s	

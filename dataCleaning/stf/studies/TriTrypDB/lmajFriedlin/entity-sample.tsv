@@ -1,0 +1,6 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	parasite_organism	parasite_strain	specimen
+V1	DS_a2aec67038	V1	Leishmania major	Leishmania major Friedlin	specimen from organism
+Friedlin_resequence1	DS_5e49da75b2	Friedlin	Leishmania major	Leishmania major Friedlin	specimen from organism
+LV39	DS_5e49da75b2	LV39	Leishmania major	Leishmania major LV39	specimen from organism
+LV39cl5	DS_abfcde62f4	LV39cl5	Leishmania major	Leishmania major LV39cl5	specimen from organism
+Seidman751	DS_abfcde62f4	Seidman751	Leishmania major	Leishmania major Seidman751	specimen from organism

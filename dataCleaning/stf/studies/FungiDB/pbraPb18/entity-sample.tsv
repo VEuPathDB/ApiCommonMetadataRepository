@@ -1,0 +1,28 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	country	fungal_strain	fungus_organism	geographic_location	health_status	lineage	mating_type	organism	specimen	specimen_collector
+D02	DS_600d46b322	D02			Brazil	Paracoccidioides brasiliensis D02	Paracoccidioides brasiliensis	Laranjal Paulista	PCM	S1a	mat1-1	Human	whole organism	Eduardo Bagagli
+D03	DS_600d46b322	D03			Brazil	Paracoccidioides brasiliensis D03	Paracoccidioides brasiliensis	Piracicaba	PCM	S1a	mat1-2	Human	whole organism	Eduardo Bagagli
+EPM83	DS_600d46b322	EPM83			Colombia	Paracoccidioides brasiliensis EPM83	Paracoccidioides brasiliensis	Bogota	Chronic PCM	PS3	mat1-2	Human	whole organism	Angela Restrepo
+MS1	DS_600d46b322	MS1			Brazil	Paracoccidioides brasiliensis MS1	Paracoccidioides brasiliensis	Mato Grosso do Sul	PCM	S1a	mat1-2	Human	whole organism	Maria Sueli Felipe
+MS2	DS_600d46b322	MS2			Brazil	Paracoccidioides brasiliensis MS2	Paracoccidioides brasiliensis	Mato Grosso do Sul	PCM	S1a	mat1-2	Human	whole organism	Maria Sueli Felipe
+Pb02	DS_600d46b322	Pb02			Venezuela	Paracoccidioides brasiliensis Pb02	Paracoccidioides brasiliensis	Caracas	Chronic PCM	PS2	mat1-1	Human	whole organism	Rosana Puccia
+Pb03	DS_600d46b322	Pb03			Brazil	Paracoccidioides brasiliensis Pb03	Paracoccidioides brasiliensis	Sao Paulo	Chronic PCM	PS2	mat1-2	Human	whole organism	Rosana Puccia
+Pb113	DS_600d46b322	Pb113			Brazil	Paracoccidioides brasiliensis Pb113	Paracoccidioides brasiliensis	Manaus-AM	PCM	S1b	mat1-1	Human	whole organism	Celia de Almeida Soares
+Pb1445	DS_600d46b322	Pb1445			Argentina	Paracoccidioides brasiliensis Pb1445	Paracoccidioides brasiliensis		Chronic PCM	S1a	mat1-1	Human	whole organism	Ricardo Negroni
+Pb18_resequence1	DS_600d46b322	Pb18_resequence1			Brazil	Paracoccidioides brasiliensis Pb18	Paracoccidioides brasiliensis	Sao Paulo	Chronic PCM	S1b	mat1-2	Human	whole organism	Rosana Puccia
+Pb262	DS_600d46b322	Pb262			Brazil	Paracoccidioides brasiliensis Pb262	Paracoccidioides brasiliensis	Uberlandia	Dog food	PS2	mat1-2	Dog	whole organism	Zoilo Pires de Camargo
+Pb300	DS_600d46b322	Pb300	1971	1971	Venezuela	Paracoccidioides brasiliensis Pb300	Paracoccidioides brasiliensis	Miranda	Soil	PS4		Human	cell culture	
+Pb337	DS_600d46b322	Pb337			Brazil	Paracoccidioides brasiliensis Pb337	Paracoccidioides brasiliensis			S1a	mat1-2	D. novemcinctus (armadillo)	whole organism	Eduardo Bagagli
+Pb339	DS_600d46b322	Pb339			Brazil	Paracoccidioides brasiliensis Pb339	Paracoccidioides brasiliensis	Sao Paulo	PCM	PS3	mat1-1	Human	whole organism	Angela Restrepo
+Pb60855	DS_600d46b322	Pb60855			Colombia	Paracoccidioides brasiliensis Pb60855	Paracoccidioides brasiliensis	Antioquia	Chronic PCM	PS3	mat1-2	Human	whole organism	Angela Restrepo
+Pb66	DS_600d46b322	Pb66			Brazil	Paracoccidioides brasiliensis Pb66	Paracoccidioides brasiliensis		PCM	S1a	mat1-2	Human	whole organism	Celia de Almeida Soares
+PbBac	DS_600d46b322	PbBac			Colombia	Paracoccidioides brasiliensis PbBac	Paracoccidioides brasiliensis		PCM	PS3	mat1-1	Human	whole organism	Angela Restrepo
+PbBer	DS_600d46b322	PbBer			Argentina	Paracoccidioides brasiliensis PbBer	Paracoccidioides brasiliensis		PCM	S1a	mat1-1	Human	whole organism	Ricardo Negroni
+PbBlo	DS_600d46b322	PbBlo			Brazil	Paracoccidioides brasiliensis PbBlo	Paracoccidioides brasiliensis		PCM	S1b	mat1-2	Human	whole organism	Celia de Almeida Soares
+PbCab	DS_600d46b322	PbCab			Colombia	Paracoccidioides brasiliensis PbCab	Paracoccidioides brasiliensis	Caldas		PS3	mat1-1	C. centralis (armadillo)	whole organism	Angela Restrepo
+PbCaz	DS_600d46b322	PbCaz			Argentina	Paracoccidioides brasiliensis PbCaz	Paracoccidioides brasiliensis	Chaco	Acute PCM	S1b	mat1-1	Human	whole organism	Ricardo Negroni
+PbCnh	DS_600d46b322	PbCnh	2011	2011	Colombia	Paracoccidioides brasiliensis PbCnh	Paracoccidioides brasiliensis		Chronic PCM	PS3				
+PbJam	DS_600d46b322	PbJam			Colombia	Paracoccidioides brasiliensis PbJam	Paracoccidioides brasiliensis		Chronic PCM	PS3	mat1-2	Human	whole organism	Angela Restrepo
+T10B1	DS_600d46b322	T10B1			Brazil	Paracoccidioides brasiliensis T10B1	Paracoccidioides brasiliensis	Botucatu		PS2	mat1-2	D. novemcinctus (armadillo)	whole organism	Eduardo Bagagli
+T15N1	DS_600d46b322	T15N1			Brazil	Paracoccidioides brasiliensis T15N1	Paracoccidioides brasiliensis	Botucatu		S1a	mat1-2	D. novemcinctus (armadillo)	whole organism	Eduardo Bagagli
+T16B1	DS_600d46b322	T16B1			Brazil	Paracoccidioides brasiliensis T16B1	Paracoccidioides brasiliensis			S1a	mat1-1	D. novemcinctus (armadillo)	whole organism	Eduardo Bagagli
+T1F1	DS_600d46b322	T1F1			Brazil	Paracoccidioides brasiliensis T1F1	Paracoccidioides brasiliensis	Pratanea		S1a	mat1-1	D. novemcinctus (armadillo)	whole organism	Eduardo Bagagli

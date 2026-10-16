@@ -1,0 +1,4 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date	collection_date_original	collection_month	collection_year	country	organism	organism_id	parasite_organism	parasite_strain	passage_history	specimen
+3D7_resequence1	DS_c1ae37deb1	3D7_resequence1		2011		2011		chimp		Plasmodium falciparum	Plasmodium falciparum 3D7		
+CDC_reference_reads	DS_f6e6394a15	CDC_reference_reads		2010		2010		chimp	EUSTDY0013 Chimp 1	Plasmodium reichenowi	Plasmodium reichenowi CDC		specimen from organism
+SY57	DS_820c848bdc	SY57	2013-02-13	13-Feb-13	2	2013	Cameroon: Centre Region	Pan troglodytes ellioti		Plasmodium reichenowi	Plasmodium reichenowi SY57	Unpassaged	blood

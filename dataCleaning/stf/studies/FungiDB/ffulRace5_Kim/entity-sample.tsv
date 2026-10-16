@@ -1,0 +1,16 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_month	collection_year	continent	country	fungal_strain	fungus_organism	geographic_location	isolation_source	latitude_coordinate_measurement_datum	longitude_coordinate_measurement_datum	organism	specimen_collector
+Ff11-A	DS_7f1cce08c7	Ff11-A	2017		2017	Europe	France	Ff11-A	Fulvia fulva	Plougrescant	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff11-B	DS_7f1cce08c7	Ff11-B	2017		2017	Europe	France	Ff11-B	Fulvia fulva	Plougrescant	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff11-Q	DS_7f1cce08c7	Ff11-Q	2017		2017	Europe	France	Ff11-Q	Fulvia fulva	Plouenan	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff13-G	DS_7f1cce08c7	Ff13-G	2018		2018	Europe	France	Ff13-G	Fulvia fulva	Plouenan	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff13-I	DS_7f1cce08c7	Ff13-I	2018		2018	Europe	France	Ff13-I	Fulvia fulva	Plougastel Daoulas	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff16-A	DS_7f1cce08c7	Ff16-A	2020-09	9	2020	Europe	France	Ff16-A	Fulvia fulva	Pleumeur Gautier	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff16-C	DS_7f1cce08c7	Ff16-C	2020-09	9	2020	Europe	France	Ff16-C	Fulvia fulva	Pleumeur Gautier	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff16-H	DS_7f1cce08c7	Ff16-H	2020-09	9	2020	Europe	France	Ff16-H	Fulvia fulva	Brittany region	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff16-I	DS_7f1cce08c7	Ff16-I	2020-09	9	2020	Europe	France	Ff16-I	Fulvia fulva	Brittany region	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff17-A	DS_7f1cce08c7	Ff17-A	2021-06	6	2021	Europe	France	Ff17-A	Fulvia fulva	Plougastel Daoulas	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff17-B	DS_7f1cce08c7	Ff17-B	2021-06	6	2021	Europe	France	Ff17-B	Fulvia fulva	Plougastel Daoulas	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff17-F	DS_7f1cce08c7	Ff17-F	2021-08	8	2021	Europe	France	Ff17-F	Fulvia fulva	Pleumeur Gautier	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff17-G	DS_7f1cce08c7	Ff17-G	2021-08	8	2021	Europe	France	Ff17-G	Fulvia fulva	Pleumeur Gautier	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+Ff17-I	DS_7f1cce08c7	Ff17-I	2021-09	9	2021	Europe	France	Ff17-I	Fulvia fulva	Plouenan	leaf, greenhouse	48.08	-3.08	tomato	Vegenov BBV
+NZ_269_1	DS_7f1cce08c7	NZ_269_1	2012-04	4	2012	Oceania	New Zealand	NZ_269_1	Fulvia fulva		leaf, greenhouse	38.79	-175.91	tomato	Wageningen University & Research

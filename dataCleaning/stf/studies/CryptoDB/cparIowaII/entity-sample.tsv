@@ -1,0 +1,147 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	age	collecting_institution	collection_date	collection_date_original	collection_month	collection_year	continent	country	developmental_stage	diagnostic_method	fungal_genotype	geographic_location	gp60_genotype	health_status	host_common_name	isolation_source	known_pathogenicity	latitude_coordinate_measurement_datum	longitude_coordinate_measurement_datum	organism	parasite_genotype	parasite_organism	parasite_strain	specimen	specimen_collector	state	study_type
+C320	DS_583df93bf5	C320				2013		2013	Europe	Italy				Italy: Bagno di Romagna	IIaA15G2R1		Capra hircus							Cryptosporidium parvum	Cryptosporidium parvum C320	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C366	DS_583df93bf5	C366				2014		2014	Europe	Italy				Italy: Matera	IIdA17G2R1		Capra hircus							Cryptosporidium parvum	Cryptosporidium parvum C366	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C385	DS_583df93bf5	C385				2015		2015	Europe	Italy				Italy: Eboli	IIaA15G2R1		Capra hircus							Cryptosporidium parvum	Cryptosporidium parvum C385	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C386	DS_583df93bf5	C386				2015		2015	Europe	Italy				Italy: Eboli	IIaA15G2R1		Capra hircus							Cryptosporidium parvum	Cryptosporidium parvum C386	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C388	DS_583df93bf5	C388				2015		2015	Europe	Italy				Italy: Eboli	IIaA15G2R1		Ovis aries							Cryptosporidium parvum	Cryptosporidium parvum C388	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C389	DS_583df93bf5	C389				2015		2015	Europe	Italy				Italy: Eboli	IIaA15G2R1		Ovis aries							Cryptosporidium parvum	Cryptosporidium parvum C389	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C390	DS_583df93bf5	C390				2016		2016	Europe	Italy				Italy: Eboli	IIaA15G2R1		Ovis aries							Cryptosporidium parvum	Cryptosporidium parvum C390	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C391	DS_583df93bf5	C391				2016		2016	Europe	Italy				Italy: Vibo Valenzia	IIaA19G2R1		Bos taurus							Cryptosporidium parvum	Cryptosporidium parvum C391	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C392	DS_583df93bf5	C392				2016		2016	Europe	Italy				Italy: Grosseto	IIaA17G1R1		Ovis aries							Cryptosporidium parvum	Cryptosporidium parvum C392	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C393	DS_583df93bf5	C393				2016		2016	Europe	Italy				Italy: Vibo Valenzia	IIaA16G3R1		Bos taurus							Cryptosporidium parvum	Cryptosporidium parvum C393	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C394	DS_583df93bf5	C394				2016		2016	Europe	Italy				Italy: Castiglione Arrone	IIaA16G1R1		Ovis aries							Cryptosporidium parvum	Cryptosporidium parvum C394	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C395	DS_583df93bf5	C395				2016		2016	Europe	Italy				Italy: Castel Giorgio	IIaA18R1		Capra hircus							Cryptosporidium parvum	Cryptosporidium parvum C395	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+C6	DS_583df93bf5	C6				1996		1996	Europe	Denmark				Denmark	IIaA18G1R1		Bos taurus							Cryptosporidium parvum	Cryptosporidium parvum C6	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+Torino	DS_583df93bf5	Torino				1990		1990	Europe	Italy				Italy: Turin	IIdA22G2R1		Bos taurus							Cryptosporidium parvum	Cryptosporidium parvum Torino	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+Venezia	DS_583df93bf5	Venezia				2015		2015	Europe	Italy				Italy: Venice	IIaA15G2R1		Bos taurus							Cryptosporidium parvum	Cryptosporidium parvum Venezia	stool	Istituto Superiore di Sanita, Rome, Italy		Microbe, viral or environmental
+Afr1	DS_20589910f4	Afr1			2016-05-18	5/18/16	5	2016	Africa	Ghana												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr1	stool			
+Afr10	DS_20589910f4	Afr10			2017-02-24	2/24/17	2	2017	Africa	Madagascar												Homo sapiens	IbA10G2	Cryptosporidium parvum	Cryptosporidium parvum Afr10	stool			
+Afr11	DS_20589910f4	Afr11			2017-03-20	3/20/17	3	2017	Africa	Madagascar												Homo sapiens	IaA14	Cryptosporidium parvum	Cryptosporidium parvum Afr11	stool			
+Afr12	DS_20589910f4	Afr12			2017-03-22	3/22/17	3	2017	Africa	Madagascar												Homo sapiens	IaA14	Cryptosporidium parvum	Cryptosporidium parvum Afr12	stool			
+Afr13	DS_20589910f4	Afr13			2017-03-24	3/24/17	3	2017	Africa	Madagascar												Homo sapiens	IaA14	Cryptosporidium parvum	Cryptosporidium parvum Afr13	stool			
+Afr14	DS_20589910f4	Afr14			2016-12-08	12/8/16	12	2016	Africa	Tanzania												Homo sapiens	IfA14G1	Cryptosporidium parvum	Cryptosporidium parvum Afr14	stool			
+Afr15	DS_20589910f4	Afr15			2017-01-02	1/2/17	1	2017	Africa	Tanzania												Homo sapiens	IdA17	Cryptosporidium parvum	Cryptosporidium parvum Afr15	stool			
+Afr16	DS_20589910f4	Afr16			2017-01-03	1/3/17	1	2017	Africa	Tanzania												Homo sapiens	IdA17	Cryptosporidium parvum	Cryptosporidium parvum Afr16	stool			
+Afr17	DS_20589910f4	Afr17			2017-01-06	1/6/17	1	2017	Africa	Tanzania												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr17	stool			
+Afr18	DS_20589910f4	Afr18			2017-01-30	1/30/17	1	2017	Africa	Tanzania												Homo sapiens	IdA17	Cryptosporidium parvum	Cryptosporidium parvum Afr18	stool			
+Afr2	DS_20589910f4	Afr2			2016-05-16	5/16/16	5	2016	Africa	Ghana												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr2	stool			
+Afr20	DS_20589910f4	Afr20			2017-03-06	3/6/17	3	2017	Africa	Tanzania												Homo sapiens	IaA19	Cryptosporidium parvum	Cryptosporidium parvum Afr20	stool			
+Afr21	DS_20589910f4	Afr21			2017-03-08	3/8/17	3	2017	Africa	Tanzania												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr21	stool			
+Afr22	DS_20589910f4	Afr22			2017-03-13	3/13/17	3	2017	Africa	Tanzania												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr22	stool			
+Afr23	DS_20589910f4	Afr23			2017-03-27	3/27/17	3	2017	Africa	Tanzania												Homo sapiens	IaA25	Cryptosporidium parvum	Cryptosporidium parvum Afr23	stool			
+Afr24	DS_20589910f4	Afr24			2017-03-29	3/29/17	3	2017	Africa	Tanzania												Homo sapiens	IdA17	Cryptosporidium parvum	Cryptosporidium parvum Afr24	stool			
+Afr25	DS_20589910f4	Afr25			2017-03-29	3/29/17	3	2017	Africa	Tanzania												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr25	stool			
+Afr26	DS_20589910f4	Afr26			2017-01-18	1/18/17	1	2017	Africa	Tanzania												Homo sapiens	IbA9G3	Cryptosporidium parvum	Cryptosporidium parvum Afr26	stool			
+Afr29	DS_20589910f4	Afr29			2017-08-23	8/23/17	8	2017	Africa	Gabon												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr29	stool			
+Afr3	DS_20589910f4	Afr3			2016-06-02	6/2/16	6	2016	Africa	Ghana												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr3	stool			
+Afr30	DS_20589910f4	Afr30			2017-09-28	9/28/17	9	2017	Africa	Gabon												Homo sapiens	IdA22	Cryptosporidium parvum	Cryptosporidium parvum Afr30	stool			
+Afr33	DS_20589910f4	Afr33			2017-07-28	7/28/17	7	2017	Africa	Gabon												Homo sapiens	IbA9G3	Cryptosporidium parvum	Cryptosporidium parvum Afr33	stool			
+Afr34	DS_20589910f4	Afr34			2018-02-22	2/22/18	2	2018	Africa	Gabon												Homo sapiens	IbA13G3	Cryptosporidium parvum	Cryptosporidium parvum Afr34	stool			
+Afr35	DS_20589910f4	Afr35			2017-08-24	8/24/17	8	2017	Africa	Gabon												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr35	stool			
+Afr5	DS_20589910f4	Afr5			2016-07-25	7/25/16	7	2016	Africa	Ghana												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr5	stool			
+Afr6	DS_20589910f4	Afr6			2016-08-12	8/12/16	8	2016	Africa	Ghana												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr6	stool			
+Afr7	DS_20589910f4	Afr7			2016-09-20	9/20/16	9	2016	Africa	Ghana												Homo sapiens	IeA11G3T3	Cryptosporidium parvum	Cryptosporidium parvum Afr7	stool			
+Afr9	DS_20589910f4	Afr9			2016-11-22	11/22/16	11	2016	Africa	Ghana												Homo sapiens	IdA15	Cryptosporidium parvum	Cryptosporidium parvum Afr9	stool			
+31727	DS_60f052fbc2	31727	4 weeks			2009		2009		China					IIdA19G1	diarrhea						Bos taurus		Cryptosporidium parvum	Cryptosporidium parvum 31727			Henan	
+34902	DS_fd033c75bf	34902	3 weeks			2011		2011		Egypt					IIdA20G1	diarrhea						Bubalus bubalis		Cryptosporidium parvum	Cryptosporidium parvum 34902			Kafr El Sheikh	
+35090	DS_fd033c75bf	35090	5 weeks			2011		2011		Egypt					IIaA15G1R1	diarrhea						Bos taurus		Cryptosporidium parvum	Cryptosporidium parvum 35090			El Beheira	
+icddr-b_12	DS_64fa10a3d2	icddr-b_12								Bangladesh					gp60_IaA25R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_13	DS_64fa10a3d2	icddr-b_13								Bangladesh					gp60_IaA18R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_14	DS_64fa10a3d2	icddr-b_14								Bangladesh					gp60_IbA9G3b	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_16	DS_64fa10a3d2	icddr-b_16								Bangladesh					gp60_IbA9G3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_19	DS_64fa10a3d2	icddr-b_19								Bangladesh					gp60_IaA18R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_20	DS_64fa10a3d2	icddr-b_20								Bangladesh					gp60_IaA18R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_21	DS_64fa10a3d2	icddr-b_21								Bangladesh					gp60_IfA16G1	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_22	DS_64fa10a3d2	icddr-b_22								Bangladesh					gp60_IbA9G3b	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_23	DS_64fa10a3d2	icddr-b_23								Bangladesh					gp60_IbA9G3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_24	DS_64fa10a3d2	icddr-b_24								Bangladesh					gp60_IbA9G3b	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_26	DS_64fa10a3d2	icddr-b_26								Bangladesh					gp60_IaA18R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_27	DS_64fa10a3d2	icddr-b_27								Bangladesh					gp60_IbA9G3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_3	DS_64fa10a3d2	icddr-b_3								Bangladesh					gp60_IdA15G1	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_30	DS_64fa10a3d2	icddr-b_30								Bangladesh					gp60_IfA13G1	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_31	DS_64fa10a3d2	icddr-b_31								Bangladesh					gp60_IaA18R3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_32	DS_64fa10a3d2	icddr-b_32								Bangladesh					gp60_IaA26R3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_33	DS_64fa10a3d2	icddr-b_33								Bangladesh					gp60_IaA25R3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_34	DS_64fa10a3d2	icddr-b_34								Bangladesh					gp60_IeA11G3T3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_35	DS_64fa10a3d2	icddr-b_35								Bangladesh					gp60_IeA11G3T3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_36	DS_64fa10a3d2	icddr-b_36								Bangladesh					gp60_IaA19R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_37	DS_64fa10a3d2	icddr-b_37								Bangladesh					gp60_IaA18R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_38	DS_64fa10a3d2	icddr-b_38								Bangladesh					gp60_IbA9G3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_39	DS_64fa10a3d2	icddr-b_39								Bangladesh					gp60_IbA9G3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_4	DS_64fa10a3d2	icddr-b_4								Bangladesh					gp60_IdA15G1	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_41	DS_64fa10a3d2	icddr-b_41								Bangladesh					gp60_IaA27R3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_42	DS_64fa10a3d2	icddr-b_42								Bangladesh					gp60_IaA27R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_49	DS_64fa10a3d2	icddr-b_49								Bangladesh					gp60_IdA14	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_50	DS_64fa10a3d2	icddr-b_50								Bangladesh					gp60_IaA19R3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_51	DS_64fa10a3d2	icddr-b_51								Bangladesh					gp60_IbA9G3b	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_54	DS_64fa10a3d2	icddr-b_54								Bangladesh					gp60_IaA27R3	clinic visit	human					Homo sapiens		Cryptosporidium hominis					
+icddr-b_8	DS_64fa10a3d2	icddr-b_8								Bangladesh					gp60_IaA25R3	diarrheal	human					Homo sapiens		Cryptosporidium hominis					
+30976	DS_1125e9e179	30976				2010		2010		USA				St. Louis		enterocolitis, diarrhea and cholangiopathy				38.38 N degrees	90.12 W degrees	Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum 30976		Dawn Roellig		
+37999	DS_1125e9e179	37999				2012		2012		USA				Twin Fall		enterocolitis, diarrhea and cholangiopathy				42.35 N degrees	114.28 W degrees	Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum 37999		Dawn Roellig	Idaho	
+30974	DS_c417649050	30974				2010		2010		USA				Columbia	IbA10G2	enterocolitis, diarrhea and cholangiopathy				34.00 N degrees	81.02 W degrees	Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum 30974	feces	Dawn Roellig	SC	
+33537	DS_c417649050	33537				2011		2011		USA				Walsenburg		enterocolitis, diarrhea and cholangiopathy				37.37 N degrees	104.47 W degrees	Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum 33537	feces	Dawn Roellig	CO	
+UKP2	DS_ee853f1dab	UKP2				2012		2012		United Kingdom					IIaA19G1R2							Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP2	feces	Cryptosporidium Reference Unit, Public Health Wales	England	
+UKP3	DS_ee853f1dab	UKP3				2013		2013		United Kingdom					IIaA18G2R1							Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP3	feces	Cryptosporidium Reference Unit, Public Health Wales	Wales	
+UKP4	DS_ee853f1dab	UKP4				2013		2013		United Kingdom					IIaA15G2R1							Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP4	feces	Cryptosporidium Reference Unit, Public Health Wales	England	
+UKP5	DS_ee853f1dab	UKP5				2013		2013		United Kingdom					IIaA15G2R1							Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP5	feces	Cryptosporidium Reference Unit, Public Health Wales		
+UKP6	DS_ee853f1dab	UKP6				2013		2013		United Kingdom					IIaA15G2R1							Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP6	feces	Cryptosporidium Reference Unit, Public Health Wales		
+UKP7	DS_ee853f1dab	UKP7				2013		2013		United Kingdom					IIaA17G1R1							Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP7	feces	Cryptosporidium Reference Unit, Public Health Wales	England	
+UKP8	DS_ee853f1dab	UKP8				2013		2013		United Kingdom					IIdA22G1							Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP8	feces	Cryptosporidium Reference Unit, Public Health Wales	England	
+Slovenia_1	DS_a71e8ca730	Slovenia_1				2016		2016	Europe	Slovenia					IIaA15G2R1		Homo sapiens							Cryptosporidium parvum	Cryptosporidium parvum Slovenia_1	stool	University of Ljubljana, Slovenia		Microbe, viral or environmental
+Slovenia_2	DS_a71e8ca730	Slovenia_2				2016		2016	Europe	Slovenia					IIaA15G1R1		Homo sapiens							Cryptosporidium parvum	Cryptosporidium parvum Slovenia_2	stool	University of Ljubljana, Slovenia		Microbe, viral or environmental
+Slovenia_4	DS_a71e8ca730	Slovenia_4				2016		2016	Europe	Slovenia					IIaA20G1R1		Homo sapiens							Cryptosporidium parvum	Cryptosporidium parvum Slovenia_4	stool	University of Ljubljana, Slovenia		Microbe, viral or environmental
+Slovenia_5	DS_a71e8ca730	Slovenia_5				2016		2016	Europe	Slovenia					IIaA15G2R1		Homo sapiens							Cryptosporidium parvum	Cryptosporidium parvum Slovenia_5	stool	University of Ljubljana, Slovenia		Microbe, viral or environmental
+Slovenia_7	DS_a71e8ca730	Slovenia_7				2016		2016	Europe	Slovenia					IIaA19G1R1		Homo sapiens							Cryptosporidium parvum	Cryptosporidium parvum Slovenia_7	stool	University of Ljubljana, Slovenia		Microbe, viral or environmental
+Slovenia_9	DS_a71e8ca730	Slovenia_9				2016		2016	Europe	Slovenia					IIaA15G2R1		Homo sapiens							Cryptosporidium parvum	Cryptosporidium parvum Slovenia_9	stool	University of Ljubljana, Slovenia		Microbe, viral or environmental
+Spain_1	DS_a71e8ca730	Spain_1				2015		2015	Europe	Spain					IIaA15G2R1		Homo sapiens							Cryptosporidium parvum	Cryptosporidium parvum Spain_1	stool	Spanish National Centre for Microbiology, Madrid, Spain		Microbe, viral or environmental
+UKP12	DS_d905e91b86	UKP12				2013		2013		United Kingdom					IIcA5G3p		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP12	feces clinical sample	Cryptosporidium Reference Unit, Public Health Wales		
+UKP13	DS_d905e91b86	UKP13				2013		2013		United Kingdom					IIcA5G3a		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP13	feces clinical sample	Cryptosporidium Reference Unit, Public Health Wales		
+UKP15	DS_d905e91b86	UKP15				2013		2013		United Kingdom					IIcA5G3a		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP15	feces clinical sample	Cryptosporidium Reference Unit, Public Health Wales		
+UKP16	DS_d905e91b86	UKP16				2013		2013		United Kingdom					IIcA5G3j		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum UKP16	feces clinical sample	Cryptosporidium Reference Unit, Public Health Wales		
+CpBunchgrass	DS_8c0d5a1bf9	CpBunchgrass							North America	USA				Deary ID										Cryptosporidium parvum	Cryptosporidium parvum CpBunchgrass				Bunchgrass Farms
+CpINRAE	DS_8c0d5a1bf9	CpINRAE							Europe	France				Tours										Cryptosporidium parvum	Cryptosporidium parvum CpINRAE				INRAE Facility
+CpSterling	DS_8c0d5a1bf9	CpSterling							North America	USA				Tucson AZ										Cryptosporidium parvum	Cryptosporidium parvum CpSterling				Sterling Farms
+CpWA5DBov99	DS_8c0d5a1bf9	CpWA5DBov99							North America	USA				Pullman WA										Cryptosporidium parvum	Cryptosporidium parvum CpWA5DBov99				Farm 5D
+SWEH1	DS_8bbf89b50b	SWEH1				2014		2014		Ethiopia					IbA9G3		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH1	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH10	DS_8bbf89b50b	SWEH10				2014		2014		Greece					IbA10G2		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH10	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH11	DS_8bbf89b50b	SWEH11				2013		2013		Spain					IbA10G2		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH11	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH12	DS_8bbf89b50b	SWEH12				2014		2014		Guatemala					IbA10G2		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH12	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH13	DS_8bbf89b50b	SWEH13				2014		2014		Sweden					IbA10G2		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH13	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH2	DS_8bbf89b50b	SWEH2				2012		2012		Kenya					IdA14		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH2	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH3	DS_8bbf89b50b	SWEH3				2013		2013		Tanzania					IaA20R3		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH3	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH4	DS_8bbf89b50b	SWEH4				2013		2013		Burkina Faso					IbA13G3		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH4	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH5	DS_8bbf89b50b	SWEH5				2013		2013		Sweden					IfA12G1		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH5	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH6	DS_8bbf89b50b	SWEH6				2013		2013		India					IaA23R3		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH6	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH7	DS_8bbf89b50b	SWEH7				2014		2014		South Africa					IeA11G3T3		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH7	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH8	DS_8bbf89b50b	SWEH8				2014		2014		Spain					IbA10G2		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH8	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+SWEH9	DS_8bbf89b50b	SWEH9				2014		2014		Spain					IbA10G2		human					Homo sapiens		Cryptosporidium parvum	Cryptosporidium parvum SWEH9	Immunomagnetic separation from feces sample	Public Health Agency of Sweden		
+UKP102	DS_60123e91a8	UKP102		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-03	3	2016	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P102		Rachel Chalmers		
+UKP103	DS_60123e91a8	UKP103		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P103		Rachel Chalmers		
+UKP104	DS_60123e91a8	UKP104		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P104		Rachel Chalmers		
+UKP106	DS_60123e91a8	UKP106		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA15G1R2				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P106		Rachel Chalmers		
+UKP107	DS_60123e91a8	UKP107		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA17G1R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P107		Rachel Chalmers		
+UKP118	DS_60123e91a8	UKP118		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-03	3	2016	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P118		Rachel Chalmers		
+UKP119	DS_60123e91a8	UKP119		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA18G2R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P119		Rachel Chalmers		
+UKP120	DS_60123e91a8	UKP120		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA18G3R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P120		Rachel Chalmers		
+UKP121	DS_60123e91a8	UKP121		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA18G3R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P121		Rachel Chalmers		
+UKP122	DS_60123e91a8	UKP122		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P122		Rachel Chalmers		
+UKP123	DS_60123e91a8	UKP123		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-05	5	2016	Europe	United Kingdom	oocyst	microscopy	IIaA19G1R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P123		Rachel Chalmers		
+UKP124	DS_60123e91a8	UKP124		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA19G1R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P124		Rachel Chalmers		
+UKP125	DS_60123e91a8	UKP125		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-01	1	2016	Europe	United Kingdom	oocyst	microscopy	IIaA13G2R1	Carmarthen			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P125		Rachel Chalmers		
+UKP126	DS_60123e91a8	UKP126		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-10	10	2015	Europe	United Kingdom	oocyst	microscopy	IIdA20G1	Maidstone			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P126		Rachel Chalmers		
+UKP127	DS_60123e91a8	UKP127		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-01	1	2016	Europe	United Kingdom	oocyst	microscopy	IIdA17G1	Manchester			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P127		Rachel Chalmers		
+UKP128	DS_60123e91a8	UKP128		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-12	12	2015	Europe	United Kingdom	oocyst	microscopy	IIdA18G1	Ipswich			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P128		Rachel Chalmers		
+UKP129	DS_60123e91a8	UKP129		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-11	11	2015	Europe	United Kingdom	oocyst	microscopy	IIcA5G3a	Worcester			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P129		Rachel Chalmers		
+UKP130	DS_60123e91a8	UKP130		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2017-01	1	2017	Europe	United Kingdom	oocyst	microscopy	IIaA15R1				Calf	feces	parasite			Bos taurus		Cryptosporidium parvum	P130		Rachel Chalmers		
+UKP131	DS_60123e91a8	UKP131		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2017-01	1	2017	Europe	United Kingdom	oocyst	microscopy	IIaA15R1				Calf	feces	parasite			Bos taurus		Cryptosporidium parvum	P131		Rachel Chalmers		
+UKP132	DS_60123e91a8	UKP132		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-12	12	2015	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1	Rhyl			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P132		Rachel Chalmers		
+UKP133	DS_60123e91a8	UKP133		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-12	12	2015	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1	Swansea			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P133		Rachel Chalmers		
+UKP134	DS_60123e91a8	UKP134		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-12	12	2015	Europe	United Kingdom	oocyst	microscopy	IIaA15G2R1	Preston			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P134		Rachel Chalmers		
+UKP135	DS_60123e91a8	UKP135		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-12	12	2015	Europe	United Kingdom	oocyst	microscopy	IIaA18G2R1	Worcester			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P135		Rachel Chalmers		
+UKP90	DS_60123e91a8	UKP90		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA18G3R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P90		Rachel Chalmers		
+UKP94	DS_60123e91a8	UKP94		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA18G2R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P94		Rachel Chalmers		
+UKP95	DS_60123e91a8	UKP95		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-04	4	2016	Europe	United Kingdom	oocyst	microscopy	IIaA19G1R1				Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P95		Rachel Chalmers		
+UKP97	DS_60123e91a8	UKP97		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-10	10	2016	Europe	United Kingdom	oocyst	microscopy	IIdA19G1	Gateshead			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P97		Rachel Chalmers		
+UKP98	DS_60123e91a8	UKP98		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2016-05	5	2016	Europe	United Kingdom	oocyst	microscopy	IIdA21G1	Leicester			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P98		Rachel Chalmers		
+UKP99	DS_60123e91a8	UKP99		National Cryptosporidium Reference Unit, Swansea, SA2 8QA, UK		2015-11	11	2015	Europe	United Kingdom	oocyst	microscopy	IIcA5G3a	Nottingham			Human	feces	parasite			Homo sapiens		Cryptosporidium parvum	P99		Rachel Chalmers		
+TU114	DS_c53c9c2f82	TU114				2003		2003		Uganda					IIcA5G3b							human		Cryptosporidium parvum	Cryptosporidium parvum TU114	specimen from organism			

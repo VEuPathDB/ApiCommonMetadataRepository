@@ -1,0 +1,7 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	country	fungal_strain	fungus_organism	geographic_location	health_status	organism	specimen
+CNM-CM6069	DS_e506a29817	CNM-CM6069	Spain	Alentulus IFM 54703 CNM-CM6069	Alentulus IFM 54703	León		Homo sapiens	Sputum
+CNM-CM6936	DS_e506a29817	CNM-CM6936	Spain	Alentulus IFM 54703 CNM-CM6936	Alentulus IFM 54703	Madrid	COPD	Homo sapiens	Sputum
+CNM-CM7927	DS_e506a29817	CNM-CM7927	Spain	Alentulus IFM 54703 CNM-CM7927	Alentulus IFM 54703	Madrid	Hepatic Transplant	Homo sapiens	BAS
+CNM-CM8060	DS_e506a29817	CNM-CM8060	Spain	Alentulus IFM 54703 CNM-CM8060	Alentulus IFM 54703	Madrid	Haematological patient	Homo sapiens	Sputum
+CNM-CM8694	DS_e506a29817	CNM-CM8694	Spain	Alentulus IFM 54703 CNM-CM8694	Alentulus IFM 54703	Madrid	Haematological patient	Homo sapiens	BAL
+CNM-CM8927	DS_e506a29817	CNM-CM8927	Spain	Alentulus IFM 54703 CNM-CM8927	Alentulus IFM 54703	Madrid	ICU	Homo sapiens	BAS

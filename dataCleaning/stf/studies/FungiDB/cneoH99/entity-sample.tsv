@@ -1,0 +1,876 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	continent	country	fcz	fungal_phenotype	fungal_strain	fungus_organism	geographic_location	h2o2	health_status	infection	latitude_coordinate_measurement_datum	ldopa_ave_std_dev	lineage	longitude_coordinate_measurement_datum	mating_type	organism	paraquat_ave_std_dev	specimen	specimen_collector	treatment	vni_subdivision
+ACTA2001-D	DS_c3a8046925	ACTA2001-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2001-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2003-D	DS_c3a8046925	ACTA2003-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2003-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2006-D	DS_c3a8046925	ACTA2006-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2006-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2007-D	DS_c3a8046925	ACTA2007-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2007-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2008-D	DS_c3a8046925	ACTA2008-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2008-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2010-D	DS_c3a8046925	ACTA2010-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2010-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2011-D	DS_c3a8046925	ACTA2011-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2011-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2014-D	DS_c3a8046925	ACTA2014-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2014-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2016-D	DS_c3a8046925	ACTA2016-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2016-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2017-D	DS_c3a8046925	ACTA2017-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2017-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2018-D	DS_c3a8046925	ACTA2018-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2018-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2019-D	DS_c3a8046925	ACTA2019-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2019-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2020-D	DS_c3a8046925	ACTA2020-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2020-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2022-D	DS_c3a8046925	ACTA2022-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2022-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2024-D	DS_c3a8046925	ACTA2024-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2024-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2025-D	DS_c3a8046925	ACTA2025-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2025-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2028-D	DS_c3a8046925	ACTA2028-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2028-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2029-D	DS_c3a8046925	ACTA2029-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2029-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2031-D	DS_c3a8046925	ACTA2031-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2031-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2032-D	DS_c3a8046925	ACTA2032-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2032-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2036-D	DS_c3a8046925	ACTA2036-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2036-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2037-D	DS_c3a8046925	ACTA2037-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2037-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2038-D	DS_c3a8046925	ACTA2038-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2038-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2039-D	DS_c3a8046925	ACTA2039-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2039-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2041-D	DS_c3a8046925	ACTA2041-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2041-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2042-D	DS_c3a8046925	ACTA2042-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2042-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2045-D	DS_c3a8046925	ACTA2045-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2045-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2050-D	DS_c3a8046925	ACTA2050-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2050-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2051-D	DS_c3a8046925	ACTA2051-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2051-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2056-D	DS_c3a8046925	ACTA2056-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2056-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2058-D	DS_c3a8046925	ACTA2058-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2058-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2059-D	DS_c3a8046925	ACTA2059-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2059-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2060-D	DS_c3a8046925	ACTA2060-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2060-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2061-D	DS_c3a8046925	ACTA2061-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2061-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2062-D	DS_c3a8046925	ACTA2062-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2062-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2063-D	DS_c3a8046925	ACTA2063-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2063-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2064-D	DS_c3a8046925	ACTA2064-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2064-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2065-D	DS_c3a8046925	ACTA2065-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2065-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2066-D	DS_c3a8046925	ACTA2066-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2066-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2067-D	DS_c3a8046925	ACTA2067-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2067-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2070-D	DS_c3a8046925	ACTA2070-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2070-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2073-D	DS_c3a8046925	ACTA2073-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2073-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2074-D	DS_c3a8046925	ACTA2074-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2074-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2075-D	DS_c3a8046925	ACTA2075-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2075-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2076-D	DS_c3a8046925	ACTA2076-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2076-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2077-D	DS_c3a8046925	ACTA2077-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2077-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2079-D	DS_c3a8046925	ACTA2079-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2079-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2080-D	DS_c3a8046925	ACTA2080-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2080-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2081-D	DS_c3a8046925	ACTA2081-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2081-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2083-D	DS_c3a8046925	ACTA2083-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2083-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2084-D	DS_c3a8046925	ACTA2084-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2084-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2086-D	DS_c3a8046925	ACTA2086-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2086-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2087-D	DS_c3a8046925	ACTA2087-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2087-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2088-D	DS_c3a8046925	ACTA2088-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2088-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2089-D	DS_c3a8046925	ACTA2089-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2089-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2091-D	DS_c3a8046925	ACTA2091-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2091-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2092-D	DS_c3a8046925	ACTA2092-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2092-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2093-D	DS_c3a8046925	ACTA2093-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2093-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2094-D	DS_c3a8046925	ACTA2094-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2094-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2095-D	DS_c3a8046925	ACTA2095-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2095-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2097-D	DS_c3a8046925	ACTA2097-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2097-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2101-D	DS_c3a8046925	ACTA2101-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2101-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2102-D	DS_c3a8046925	ACTA2102-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2102-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2103-D	DS_c3a8046925	ACTA2103-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2103-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2104-D	DS_c3a8046925	ACTA2104-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2104-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2105-D	DS_c3a8046925	ACTA2105-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2105-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2110-D	DS_c3a8046925	ACTA2110-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2110-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2111-D	DS_c3a8046925	ACTA2111-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2111-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2113-D	DS_c3a8046925	ACTA2113-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2113-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2114-D	DS_c3a8046925	ACTA2114-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2114-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2115-D	DS_c3a8046925	ACTA2115-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2115-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2118-D	DS_c3a8046925	ACTA2118-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2118-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2119-D	DS_c3a8046925	ACTA2119-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2119-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2120-D	DS_c3a8046925	ACTA2120-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2120-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2121-D	DS_c3a8046925	ACTA2121-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2121-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2123-D	DS_c3a8046925	ACTA2123-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2123-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2124-D	DS_c3a8046925	ACTA2124-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2124-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2125-D	DS_c3a8046925	ACTA2125-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2125-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2126-D	DS_c3a8046925	ACTA2126-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2126-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2127-D	DS_c3a8046925	ACTA2127-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2127-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2128-D	DS_c3a8046925	ACTA2128-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2128-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2129-D	DS_c3a8046925	ACTA2129-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2129-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2131-D	DS_c3a8046925	ACTA2131-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2131-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2132-D	DS_c3a8046925	ACTA2132-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2132-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2134-D	DS_c3a8046925	ACTA2134-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2134-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2135-D	DS_c3a8046925	ACTA2135-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2135-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2136-D	DS_c3a8046925	ACTA2136-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2136-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2137-D	DS_c3a8046925	ACTA2137-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2137-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2138-D	DS_c3a8046925	ACTA2138-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2138-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2139-D	DS_c3a8046925	ACTA2139-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2139-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2141-D	DS_c3a8046925	ACTA2141-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2141-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2142-D	DS_c3a8046925	ACTA2142-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2142-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2145-D	DS_c3a8046925	ACTA2145-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2145-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2146-D	DS_c3a8046925	ACTA2146-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2146-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2147-D	DS_c3a8046925	ACTA2147-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2147-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2148-D	DS_c3a8046925	ACTA2148-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2148-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2149-D	DS_c3a8046925	ACTA2149-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2149-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2153-D	DS_c3a8046925	ACTA2153-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2153-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2154-D	DS_c3a8046925	ACTA2154-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2154-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2156-D	DS_c3a8046925	ACTA2156-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2156-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2157-D	DS_c3a8046925	ACTA2157-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2157-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2158-D	DS_c3a8046925	ACTA2158-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2158-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2159-D	DS_c3a8046925	ACTA2159-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2159-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2160-D	DS_c3a8046925	ACTA2160-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2160-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2161-D	DS_c3a8046925	ACTA2161-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2161-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2164-D	DS_c3a8046925	ACTA2164-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2164-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2166-D	DS_c3a8046925	ACTA2166-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2166-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2169-D	DS_c3a8046925	ACTA2169-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2169-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2170-D	DS_c3a8046925	ACTA2170-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2170-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2172-D	DS_c3a8046925	ACTA2172-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2172-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2173-D	DS_c3a8046925	ACTA2173-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2173-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2174-D	DS_c3a8046925	ACTA2174-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2174-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2175-D	DS_c3a8046925	ACTA2175-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2175-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2179-D	DS_c3a8046925	ACTA2179-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2179-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2181-D	DS_c3a8046925	ACTA2181-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2181-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2184-D	DS_c3a8046925	ACTA2184-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2184-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2185-D	DS_c3a8046925	ACTA2185-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2185-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2187-D	DS_c3a8046925	ACTA2187-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2187-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2188-D	DS_c3a8046925	ACTA2188-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2188-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2190-D	DS_c3a8046925	ACTA2190-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2190-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2191-D	DS_c3a8046925	ACTA2191-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2191-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2192-D	DS_c3a8046925	ACTA2192-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2192-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2194-D	DS_c3a8046925	ACTA2194-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2194-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2195-D	DS_c3a8046925	ACTA2195-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2195-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2196-D	DS_c3a8046925	ACTA2196-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2196-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2198-D	DS_c3a8046925	ACTA2198-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2198-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2199-D	DS_c3a8046925	ACTA2199-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2199-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2200-D	DS_c3a8046925	ACTA2200-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2200-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2202-D	DS_c3a8046925	ACTA2202-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2202-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2203-D	DS_c3a8046925	ACTA2203-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2203-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2205-D	DS_c3a8046925	ACTA2205-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2205-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2207-D	DS_c3a8046925	ACTA2207-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2207-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2208-D	DS_c3a8046925	ACTA2208-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2208-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2209-D	DS_c3a8046925	ACTA2209-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2209-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2210-D	DS_c3a8046925	ACTA2210-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2210-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2211-D	DS_c3a8046925	ACTA2211-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2211-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2214-D	DS_c3a8046925	ACTA2214-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2214-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2216-D	DS_c3a8046925	ACTA2216-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2216-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2217-D	DS_c3a8046925	ACTA2217-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2217-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2218-D	DS_c3a8046925	ACTA2218-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2218-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2221-D	DS_c3a8046925	ACTA2221-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2221-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2222-D	DS_c3a8046925	ACTA2222-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2222-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2223-D	DS_c3a8046925	ACTA2223-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2223-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2224-D	DS_c3a8046925	ACTA2224-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2224-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2225-D	DS_c3a8046925	ACTA2225-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2225-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2226-D	DS_c3a8046925	ACTA2226-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2226-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2227-D	DS_c3a8046925	ACTA2227-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2227-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2229-D	DS_c3a8046925	ACTA2229-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2229-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2230-D	DS_c3a8046925	ACTA2230-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2230-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2231-D	DS_c3a8046925	ACTA2231-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2231-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2232-D	DS_c3a8046925	ACTA2232-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2232-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2234-D	DS_c3a8046925	ACTA2234-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2234-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2235-D	DS_c3a8046925	ACTA2235-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2235-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2236-D	DS_c3a8046925	ACTA2236-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2236-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2237-D	DS_c3a8046925	ACTA2237-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2237-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2238-D	DS_c3a8046925	ACTA2238-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2238-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2239-D	DS_c3a8046925	ACTA2239-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2239-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2242-D	DS_c3a8046925	ACTA2242-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2242-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2243-D	DS_c3a8046925	ACTA2243-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2243-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2244-D	DS_c3a8046925	ACTA2244-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2244-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2245-D	DS_c3a8046925	ACTA2245-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2245-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2246-D	DS_c3a8046925	ACTA2246-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2246-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2248-D	DS_c3a8046925	ACTA2248-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2248-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2249-D	DS_c3a8046925	ACTA2249-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2249-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2250-D	DS_c3a8046925	ACTA2250-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2250-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2252-D	DS_c3a8046925	ACTA2252-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2252-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2253-D	DS_c3a8046925	ACTA2253-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2253-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2254-D	DS_c3a8046925	ACTA2254-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2254-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA2255-D	DS_c3a8046925	ACTA2255-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA2255-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3001-D	DS_c3a8046925	ACTA3001-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3001-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3002-D	DS_c3a8046925	ACTA3002-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3002-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3004-D	DS_c3a8046925	ACTA3004-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3004-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3005-D	DS_c3a8046925	ACTA3005-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3005-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3006-D	DS_c3a8046925	ACTA3006-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3006-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3007-D	DS_c3a8046925	ACTA3007-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3007-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3008-D	DS_c3a8046925	ACTA3008-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3008-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3010-D	DS_c3a8046925	ACTA3010-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3010-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3012-D	DS_c3a8046925	ACTA3012-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3012-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3013-D	DS_c3a8046925	ACTA3013-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3013-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3014-D	DS_c3a8046925	ACTA3014-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3014-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3015-D	DS_c3a8046925	ACTA3015-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3015-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3017-D	DS_c3a8046925	ACTA3017-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3017-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3018-D	DS_c3a8046925	ACTA3018-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3018-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3019-D	DS_c3a8046925	ACTA3019-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3019-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3020-D	DS_c3a8046925	ACTA3020-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3020-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3021-D	DS_c3a8046925	ACTA3021-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3021-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3022-D	DS_c3a8046925	ACTA3022-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3022-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3023-D	DS_c3a8046925	ACTA3023-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3023-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3024-D	DS_c3a8046925	ACTA3024-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3024-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3025-D	DS_c3a8046925	ACTA3025-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3025-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3026-D	DS_c3a8046925	ACTA3026-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3026-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3028-D	DS_c3a8046925	ACTA3028-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3028-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3034-D	DS_c3a8046925	ACTA3034-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3034-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3036-D	DS_c3a8046925	ACTA3036-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3036-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3037-D	DS_c3a8046925	ACTA3037-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3037-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3038-D	DS_c3a8046925	ACTA3038-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3038-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3040-D	DS_c3a8046925	ACTA3040-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3040-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3042-D	DS_c3a8046925	ACTA3042-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3042-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3043-D	DS_c3a8046925	ACTA3043-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3043-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3044-D	DS_c3a8046925	ACTA3044-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3044-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3046-D	DS_c3a8046925	ACTA3046-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3046-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3048-D	DS_c3a8046925	ACTA3048-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3048-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3049-D	DS_c3a8046925	ACTA3049-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3049-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3050-D	DS_c3a8046925	ACTA3050-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3050-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3055-D	DS_c3a8046925	ACTA3055-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3055-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3056-D	DS_c3a8046925	ACTA3056-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3056-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3057-D	DS_c3a8046925	ACTA3057-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3057-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3058-D	DS_c3a8046925	ACTA3058-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3058-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3059-D	DS_c3a8046925	ACTA3059-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3059-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3060-D	DS_c3a8046925	ACTA3060-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3060-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3061-D	DS_c3a8046925	ACTA3061-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3061-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3064-D	DS_c3a8046925	ACTA3064-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3064-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3065-D	DS_c3a8046925	ACTA3065-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3065-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3066-D	DS_c3a8046925	ACTA3066-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3066-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3067-D	DS_c3a8046925	ACTA3067-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3067-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3069-D	DS_c3a8046925	ACTA3069-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3069-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3070-D	DS_c3a8046925	ACTA3070-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3070-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3071-D	DS_c3a8046925	ACTA3071-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3071-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3072-D	DS_c3a8046925	ACTA3072-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3072-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3073-D	DS_c3a8046925	ACTA3073-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3073-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3076-D	DS_c3a8046925	ACTA3076-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3076-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3077-D	DS_c3a8046925	ACTA3077-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3077-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3078-D	DS_c3a8046925	ACTA3078-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3078-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3079-D	DS_c3a8046925	ACTA3079-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3079-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3080-D	DS_c3a8046925	ACTA3080-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3080-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3081-D	DS_c3a8046925	ACTA3081-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3081-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3083-D	DS_c3a8046925	ACTA3083-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3083-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3085-D	DS_c3a8046925	ACTA3085-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3085-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3088-D	DS_c3a8046925	ACTA3088-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3088-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3089-D	DS_c3a8046925	ACTA3089-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3089-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3092-D	DS_c3a8046925	ACTA3092-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3092-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3094-D	DS_c3a8046925	ACTA3094-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3094-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3095-D	DS_c3a8046925	ACTA3095-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3095-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3098-D	DS_c3a8046925	ACTA3098-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3098-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3099-D	DS_c3a8046925	ACTA3099-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3099-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3103-D	DS_c3a8046925	ACTA3103-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3103-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3105-D	DS_c3a8046925	ACTA3105-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3105-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3108-D	DS_c3a8046925	ACTA3108-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3108-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3126-D	DS_c3a8046925	ACTA3126-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3126-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3135-D	DS_c3a8046925	ACTA3135-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3135-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3139-D	DS_c3a8046925	ACTA3139-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3139-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3144-D	DS_c3a8046925	ACTA3144-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3144-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3146-D	DS_c3a8046925	ACTA3146-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3146-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3147-D	DS_c3a8046925	ACTA3147-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3147-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3148-D	DS_c3a8046925	ACTA3148-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3148-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3149-D	DS_c3a8046925	ACTA3149-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3149-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3151-D	DS_c3a8046925	ACTA3151-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3151-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3153-D	DS_c3a8046925	ACTA3153-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3153-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3154-D	DS_c3a8046925	ACTA3154-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3154-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3156-D	DS_c3a8046925	ACTA3156-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3156-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3157-D	DS_c3a8046925	ACTA3157-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3157-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3158-D	DS_c3a8046925	ACTA3158-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3158-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3159-D	DS_c3a8046925	ACTA3159-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3159-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3161-D	DS_c3a8046925	ACTA3161-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3161-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3162-D	DS_c3a8046925	ACTA3162-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3162-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3501-D	DS_c3a8046925	ACTA3501-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3501-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3502-D	DS_c3a8046925	ACTA3502-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3502-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3503-D	DS_c3a8046925	ACTA3503-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3503-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3509-D	DS_c3a8046925	ACTA3509-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3509-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3510-D	DS_c3a8046925	ACTA3510-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3510-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3512-D	DS_c3a8046925	ACTA3512-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3512-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3514-D	DS_c3a8046925	ACTA3514-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3514-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3516-D	DS_c3a8046925	ACTA3516-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3516-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3518-D	DS_c3a8046925	ACTA3518-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3518-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3519-D	DS_c3a8046925	ACTA3519-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3519-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3520-D	DS_c3a8046925	ACTA3520-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3520-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3521-D	DS_c3a8046925	ACTA3521-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3521-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3522-D	DS_c3a8046925	ACTA3522-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3522-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3525-D	DS_c3a8046925	ACTA3525-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3525-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3526-D	DS_c3a8046925	ACTA3526-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3526-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3528-D	DS_c3a8046925	ACTA3528-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3528-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3529-D	DS_c3a8046925	ACTA3529-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3529-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3530-D	DS_c3a8046925	ACTA3530-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3530-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3531-D	DS_c3a8046925	ACTA3531-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3531-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3533-D	DS_c3a8046925	ACTA3533-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3533-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3537-D	DS_c3a8046925	ACTA3537-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3537-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3539-D	DS_c3a8046925	ACTA3539-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3539-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3540-D	DS_c3a8046925	ACTA3540-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3540-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3541-D	DS_c3a8046925	ACTA3541-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3541-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3543-D	DS_c3a8046925	ACTA3543-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3543-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3544-D	DS_c3a8046925	ACTA3544-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3544-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3546-D	DS_c3a8046925	ACTA3546-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3546-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3549-D	DS_c3a8046925	ACTA3549-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3549-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+ACTA3550-D	DS_c3a8046925	ACTA3550-D	2016	2016	Africa	Malawi			Cryptococcus neoformans ACTA3550-D	Cryptococcus neoformans			Cryptococcal meningitis		13.2543			34.3015		Homo sapiens		Site of infection			
+125.91	DS_d173313e7e	125.91				Tanzania			Cryptococcus neoformans var. grubii 125.91	Cryptococcus neoformans var. grubii							VNI		a	Human		Clinical			VNIa
+8-1	DS_d173313e7e	8-1				USA			Cryptococcus neoformans var. grubii 8-1	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+A1-35-8	DS_d173313e7e	A1-35-8				USA	0.067 +/- 0.062		Cryptococcus neoformans var. grubii A1-35-8	Cryptococcus neoformans var. grubii		0.372				0.223 +/- 0.020	VNI		alpha	pigeon	0.909 +/- 0.179	feces			VNIb
+A1-84-14	DS_d173313e7e	A1-84-14				USA			Cryptococcus neoformans var. grubii A1-84-14	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIb
+A2-102-5	DS_d173313e7e	A2-102-5				USA			Cryptococcus neoformans var. grubii A2-102-5	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIa
+A3-1-1	DS_d173313e7e	A3-1-1				USA			Cryptococcus neoformans var. grubii A3-1-1	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIb
+A3-38-20	DS_d173313e7e	A3-38-20				USA			Cryptococcus neoformans var. grubii A3-38-20	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIb
+A4-1-12	DS_d173313e7e	A4-1-12				USA			Cryptococcus neoformans var. grubii A4-1-12	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIb
+A4-34-6	DS_d173313e7e	A4-34-6				USA			Cryptococcus neoformans var. grubii A4-34-6	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIa
+A5-35-17	DS_d173313e7e	A5-35-17				USA			Cryptococcus neoformans var. grubii A5-35-17	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIa
+AD1-68a	DS_d173313e7e	AD1-68a				France			Cryptococcus neoformans var. grubii AD1-68a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD1-7a	DS_d173313e7e	AD1-7a				France			Cryptococcus neoformans var. grubii AD1-7a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD1-83a	DS_d173313e7e	AD1-83a				France			Cryptococcus neoformans var. grubii AD1-83a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD1-86a	DS_d173313e7e	AD1-86a				France			Cryptococcus neoformans var. grubii AD1-86a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD1-90a	DS_d173313e7e	AD1-90a				France			Cryptococcus neoformans var. grubii AD1-90a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD1-95a	DS_d173313e7e	AD1-95a				France			Cryptococcus neoformans var. grubii AD1-95a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD2-04a	DS_d173313e7e	AD2-04a				France			Cryptococcus neoformans var. grubii AD2-04a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD2-60a	DS_d173313e7e	AD2-60a				France			Cryptococcus neoformans var. grubii AD2-60a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD2-6a	DS_d173313e7e	AD2-6a				France			Cryptococcus neoformans var. grubii AD2-6a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD2-82a	DS_d173313e7e	AD2-82a				France			Cryptococcus neoformans var. grubii AD2-82a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD2-99a	DS_d173313e7e	AD2-99a				France			Cryptococcus neoformans var. grubii AD2-99a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD3-11a	DS_d173313e7e	AD3-11a				France			Cryptococcus neoformans var. grubii AD3-11a	Cryptococcus neoformans var. grubby							VNII		alpha	Human		Clinical			
+AD3-41a	DS_d173313e7e	AD3-41a				France			Cryptococcus neoformans var. grubii AD3-41a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD3-55a	DS_d173313e7e	AD3-55a				France			Cryptococcus neoformans var. grubii AD3-55a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD3-58	DS_d173313e7e	AD3-58				France			Cryptococcus neoformans var. grubii AD3-58	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD3-83a	DS_d173313e7e	AD3-83a				France			Cryptococcus neoformans var. grubii AD3-83a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD3-95a	DS_d173313e7e	AD3-95a				France			Cryptococcus neoformans var. grubii AD3-95a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD3-9a	DS_d173313e7e	AD3-9a				France			Cryptococcus neoformans var. grubii AD3-9a	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+AD4-47a	DS_d173313e7e	AD4-47a				France			Cryptococcus neoformans var. grubii AD4-47a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD4-63a	DS_d173313e7e	AD4-63a				France			Cryptococcus neoformans var. grubii AD4-63a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD4-76a	DS_d173313e7e	AD4-76a				France			Cryptococcus neoformans var. grubii AD4-76a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD4-92a	DS_d173313e7e	AD4-92a				France			Cryptococcus neoformans var. grubii AD4-92a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD5-39a	DS_d173313e7e	AD5-39a				France			Cryptococcus neoformans var. grubii AD5-39a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD5-45a	DS_d173313e7e	AD5-45a				France			Cryptococcus neoformans var. grubii AD5-45a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD5-53a	DS_d173313e7e	AD5-53a				France			Cryptococcus neoformans var. grubii AD5-53a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+AD5-67a	DS_d173313e7e	AD5-67a				France			Cryptococcus neoformans var. grubii AD5-67a	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+AD6-54a	DS_d173313e7e	AD6-54a				France			Cryptococcus neoformans var. grubii AD6-54a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+AD6-55a	DS_d173313e7e	AD6-55a				France			Cryptococcus neoformans var. grubii AD6-55a	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+Arg1366	DS_d173313e7e	Arg1366				Argentina			Cryptococcus neoformans var. grubii Arg1366	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+Br795	DS_d173313e7e	Br795				Brazil			Cryptococcus neoformans var. grubii Br795	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+Bt1	DS_d173313e7e	Bt1				Botswana	0.358 +/- 0.235		Cryptococcus neoformans var. grubii Bt1	Cryptococcus neoformans var. grubii		0	HIV+			0.146 +/- 0.029	VNBII		alpha	Human	0.444 +/- 0.318	Cerebrospinal fluid			
+Bt10	DS_d173313e7e	Bt10				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt10	Cryptococcus neoformans var. grubii		0.069	HIV+			0.310 +/- 0.039	VNBII		alpha	Human	0.879 +/- 0.040	Cerebrospinal fluid			
+Bt100	DS_d173313e7e	Bt100				Botswana			Cryptococcus neoformans var. grubii Bt100	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt101	DS_d173313e7e	Bt101				Botswana			Cryptococcus neoformans var. grubii Bt101	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt102	DS_d173313e7e	Bt102				Botswana	0.352 +/- 0.290		Cryptococcus neoformans var. grubii Bt102	Cryptococcus neoformans var. grubii		0	HIV+			0.683 +/- 0.049	VNBI		alpha	Human	0.523 +/- 0.282	Cerebrospinal fluid			
+Bt103	DS_d173313e7e	Bt103				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt103	Cryptococcus neoformans var. grubii		0.184	HIV+			0.764 +/- 0.047	VNBII		alpha	Human	1.062 +/- 0.117	Cerebrospinal fluid			
+Bt104	DS_d173313e7e	Bt104				Botswana			Cryptococcus neoformans var. grubii Bt104	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt105	DS_d173313e7e	Bt105				Botswana	0.168 +/- 0.180		Cryptococcus neoformans var. grubii Bt105	Cryptococcus neoformans var. grubii		0.203	HIV+			0.203 +/- 0.037	VNBII		alpha	Human	0.997 +/- 0.116	Cerebrospinal fluid			
+Bt106	DS_d173313e7e	Bt106				Botswana			Cryptococcus neoformans var. grubii Bt106	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt107	DS_d173313e7e	Bt107				Botswana			Cryptococcus neoformans var. grubii Bt107	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt108	DS_d173313e7e	Bt108				Botswana			Cryptococcus neoformans var. grubii Bt108	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt109	DS_d173313e7e	Bt109				Botswana	0.002 +/- 0.001		Cryptococcus neoformans var. grubii Bt109	Cryptococcus neoformans var. grubii		0.003	HIV+			0.393 +/- 0.173	VNBII		alpha	Human	0.127 +/- 0.220	Cerebrospinal fluid			
+Bt11	DS_d173313e7e	Bt11				Botswana			Cryptococcus neoformans var. grubii Bt11	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt110	DS_d173313e7e	Bt110				Botswana			Cryptococcus neoformans var. grubii Bt110	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt111	DS_d173313e7e	Bt111				Botswana			Cryptococcus neoformans var. grubii Bt111	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIb
+Bt114	DS_d173313e7e	Bt114				Botswana			Cryptococcus neoformans var. grubii Bt114	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt115	DS_d173313e7e	Bt115				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt115	Cryptococcus neoformans var. grubii		0	HIV+			0.279 +/- 0.071	VNBII		alpha	Human	0.631 +/- 0.236	Cerebrospinal fluid			
+Bt116	DS_d173313e7e	Bt116				Botswana			Cryptococcus neoformans var. grubii Bt116	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt117	DS_d173313e7e	Bt117				Botswana			Cryptococcus neoformans var. grubii Bt117	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt118	DS_d173313e7e	Bt118				Botswana			Cryptococcus neoformans var. grubii Bt118	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt119	DS_d173313e7e	Bt119				Botswana			Cryptococcus neoformans var. grubii Bt119	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt120	DS_d173313e7e	Bt120				Botswana			Cryptococcus neoformans var. grubii Bt120	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt121	DS_d173313e7e	Bt121				Botswana			Cryptococcus neoformans var. grubii Bt121	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt123	DS_d173313e7e	Bt123				Botswana			Cryptococcus neoformans var. grubii Bt123	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt126	DS_d173313e7e	Bt126				Botswana			Cryptococcus neoformans var. grubii Bt126	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt128	DS_d173313e7e	Bt128				Botswana			Cryptococcus neoformans var. grubii Bt128	Cryptococcus neoformans var. grubii			HIV+				VNBII		alpha	Human		Cerebrospinal fluid			
+Bt129	DS_d173313e7e	Bt129				Botswana			Cryptococcus neoformans var. grubii Bt129	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt130	DS_d173313e7e	Bt130				Botswana			Cryptococcus neoformans var. grubii Bt130	Cryptococcus neoformans var. grubii			HIV+				VNI		a	Human		Cerebrospinal fluid			VNIc
+Bt132	DS_d173313e7e	Bt132				Botswana			Cryptococcus neoformans var. grubii Bt132	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt133	DS_d173313e7e	Bt133				Botswana	0.022 +/- 0.032		Cryptococcus neoformans var. grubii Bt133	Cryptococcus neoformans var. grubii		0.621	HIV+			0.371 +/- 0.037	VNBII		a	Human	0.117 +/- 0.171	Cerebrospinal fluid			
+Bt134	DS_d173313e7e	Bt134				Botswana			Cryptococcus neoformans var. grubii Bt134	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt136	DS_d173313e7e	Bt136				Botswana	0.524 +/- 0.217		Cryptococcus neoformans var. grubii Bt136	Cryptococcus neoformans var. grubii		0.053	HIV+			0.212 +/- 0.092	VNBII		alpha	Human	1.058 +/- 0.174	Cerebrospinal fluid			
+Bt137	DS_d173313e7e	Bt137				Botswana			Cryptococcus neoformans var. grubii Bt137	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt138	DS_d173313e7e	Bt138				Botswana			Cryptococcus neoformans var. grubii Bt138	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt139	DS_d173313e7e	Bt139				Botswana			Cryptococcus neoformans var. grubii Bt139	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt141	DS_d173313e7e	Bt141				Botswana			Cryptococcus neoformans var. grubii Bt141	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt142	DS_d173313e7e	Bt142				Botswana	0.015 +/- 0.021		Cryptococcus neoformans var. grubii Bt142	Cryptococcus neoformans var. grubii		0.551	HIV+			0.096 +/- 0.006	VNBI		a	Human	0.927 +/- 0.326	Cerebrospinal fluid			
+Bt143	DS_d173313e7e	Bt143				Botswana	0.027 +/- 0.033		Cryptococcus neoformans var. grubii Bt143	Cryptococcus neoformans var. grubii		0.087	HIV+			0.232 +/- 0.086	VNBII		alpha	Human	0.314 +/- 0.293	Cerebrospinal fluid			
+Bt146	DS_d173313e7e	Bt146				Botswana	0.019 +/- 0.009		Cryptococcus neoformans var. grubii Bt146	Cryptococcus neoformans var. grubii		0.096	HIV+			0.654 +/- 0.098	VNBII		alpha	Human	0.721 +/- 0.257	Cerebrospinal fluid			
+Bt147	DS_d173313e7e	Bt147				Botswana	0.040 +/- 0.005		Cryptococcus neoformans var. grubii Bt147	Cryptococcus neoformans var. grubii		0.079	HIV+			0.258 +/- 0.060	VNBI		alpha	Human	1.055 +/- 0.103	Cerebrospinal fluid			
+Bt148	DS_d173313e7e	Bt148				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt148	Cryptococcus neoformans var. grubii		0	HIV+			0.257 +/- 0.054	VNBI		alpha	Human	0.557 +/- 0.500	Cerebrospinal fluid			
+Bt149	DS_d173313e7e	Bt149				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt149	Cryptococcus neoformans var. grubii		0.491	HIV+			0.611 +/- 0.022	VNBII		alpha	Human	0.078 +/- 0.107	Cerebrospinal fluid			
+Bt15	DS_d173313e7e	Bt15				Botswana			Cryptococcus neoformans var. grubii Bt15	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt150	DS_d173313e7e	Bt150				Botswana			Cryptococcus neoformans var. grubii Bt150	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt151	DS_d173313e7e	Bt151				Botswana			Cryptococcus neoformans var. grubii Bt151	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt152	DS_d173313e7e	Bt152				Botswana	0.126 +/- 0.104		Cryptococcus neoformans var. grubii Bt152	Cryptococcus neoformans var. grubii		0.032	HIV+			0.359 +/- 0.027	VNBII		alpha	Human	0.233 +/- 0.322	Cerebrospinal fluid			
+Bt153	DS_d173313e7e	Bt153				Botswana			Cryptococcus neoformans var. grubii Bt153	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt154	DS_d173313e7e	Bt154				Botswana	0.140 +/- 0.158		Cryptococcus neoformans var. grubii Bt154	Cryptococcus neoformans var. grubii		0.548	HIV+			0.195 +/- 0.021	VNBI		alpha	Human	0.069 +/- 0.118	Cerebrospinal fluid			
+Bt155	DS_d173313e7e	Bt155				Botswana			Cryptococcus neoformans var. grubii Bt155	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt156	DS_d173313e7e	Bt156				Botswana			Cryptococcus neoformans var. grubii Bt156	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt157	DS_d173313e7e	Bt157				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt157	Cryptococcus neoformans var. grubii		0.092	HIV+			0.185 +/- 0.006	VNBII		alpha	Human	1.062 +/- 0.029	Cerebrospinal fluid			
+Bt160	DS_d173313e7e	Bt160				Botswana			Cryptococcus neoformans var. grubii Bt160	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt161	DS_d173313e7e	Bt161				Botswana			Cryptococcus neoformans var. grubii Bt161	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt164	DS_d173313e7e	Bt164				Botswana			Cryptococcus neoformans var. grubii Bt164	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt17	DS_d173313e7e	Bt17				Botswana			Cryptococcus neoformans var. grubii Bt17	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt18	DS_d173313e7e	Bt18				Botswana			Cryptococcus neoformans var. grubii Bt18	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt19	DS_d173313e7e	Bt19				Botswana			Cryptococcus neoformans var. grubii Bt19	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt2	DS_d173313e7e	Bt2				Botswana			Cryptococcus neoformans var. grubii Bt2	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt20	DS_d173313e7e	Bt20				Botswana			Cryptococcus neoformans var. grubii Bt20	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt202	DS_d173313e7e	Bt202				Botswana			Cryptococcus neoformans var. grubii Bt202	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt203	DS_d173313e7e	Bt203				Botswana			Cryptococcus neoformans var. grubii Bt203	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt204	DS_d173313e7e	Bt204				Botswana	0.012 +/- 0.017		Cryptococcus neoformans var. grubii Bt204	Cryptococcus neoformans var. grubii		0.641	HIV+			0.329 +/- 0.047	VNBI		a	Human	0.277 +/- 0.246	Cerebrospinal fluid			
+Bt205	DS_d173313e7e	Bt205				Botswana			Cryptococcus neoformans var. grubii Bt205	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt206	DS_d173313e7e	Bt206				Botswana	0.037 +/- 0.033		Cryptococcus neoformans var. grubii Bt206	Cryptococcus neoformans var. grubii		0	HIV+			0.234 +/- 0.052	VNBII		a	Human	0.653 +/- 0.358	Cerebrospinal fluid			
+Bt207	DS_d173313e7e	Bt207				Botswana			Cryptococcus neoformans var. grubii Bt207	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt208	DS_d173313e7e	Bt208				Botswana	0.064 +/- 0.078		Cryptococcus neoformans var. grubii Bt208	Cryptococcus neoformans var. grubii		0.145	HIV+			0.242 +/- 0.047	VNBII		alpha	Human	0.943 +/- 0.113	Cerebrospinal fluid			
+Bt209	DS_d173313e7e	Bt209				Botswana			Cryptococcus neoformans var. grubii Bt209	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt210	DS_d173313e7e	Bt210				Botswana			Cryptococcus neoformans var. grubii Bt210	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt211	DS_d173313e7e	Bt211				Botswana			Cryptococcus neoformans var. grubii Bt211	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt212	DS_d173313e7e	Bt212				Botswana			Cryptococcus neoformans var. grubii Bt212	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt213	DS_d173313e7e	Bt213				Botswana			Cryptococcus neoformans var. grubii Bt213	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt214	DS_d173313e7e	Bt214				Botswana			Cryptococcus neoformans var. grubii Bt214	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt22	DS_d173313e7e	Bt22				Botswana	0.007 +/- 0.011		Cryptococcus neoformans var. grubii Bt22	Cryptococcus neoformans var. grubii		0.234	HIV+			0.225 +/- 0.006	VNBI		alpha	Human	0.411 +/- 0.361	Cerebrospinal fluid			
+Bt23	DS_d173313e7e	Bt23				Botswana			Cryptococcus neoformans var. grubii Bt23	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt24	DS_d173313e7e	Bt24				Botswana	0.326 +/- 0.213		Cryptococcus neoformans var. grubii Bt24	Cryptococcus neoformans var. grubii		0.276	HIV+			0.213 +/- 0.025	VNBI		a	Human	0.993 +/- 0.135	Cerebrospinal fluid			
+Bt25	DS_d173313e7e	Bt25				Botswana	0.015 +/- 0.021		Cryptococcus neoformans var. grubii Bt25	Cryptococcus neoformans var. grubii		0.053	HIV+			0.266 +/- 0.006	VNBII		alpha	Human	1.013 +/- 0.168	Cerebrospinal fluid			
+Bt27	DS_d173313e7e	Bt27				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt27	Cryptococcus neoformans var. grubii		0.387	HIV+			0.318 +/- 0.062	VNBII		alpha	Human	0.470 +/- 0.354	Cerebrospinal fluid			
+Bt28	DS_d173313e7e	Bt28				Botswana			Cryptococcus neoformans var. grubii Bt28	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt3	DS_d173313e7e	Bt3				Botswana			Cryptococcus neoformans var. grubii Bt3	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt30	DS_d173313e7e	Bt30				Botswana			Cryptococcus neoformans var. grubii Bt30	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt31	DS_d173313e7e	Bt31				Botswana	0.024 +/- 0.031		Cryptococcus neoformans var. grubii Bt31	Cryptococcus neoformans var. grubii		0	HIV+			0.637 +/- 0.117	VNBII		alpha	Human	0.954 +/- 0.051	Cerebrospinal fluid			
+Bt32	DS_d173313e7e	Bt32				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt32	Cryptococcus neoformans var. grubii		0	HIV+			0.427 +/- 0.175	VNBII		alpha	Human	0.977 +/- 0.069	Cerebrospinal fluid			
+Bt33	DS_d173313e7e	Bt33				Botswana	0.379 +/- 0.132		Cryptococcus neoformans var. grubii Bt33	Cryptococcus neoformans var. grubii		0	HIV+			0.255 +/- 0.011	VNBII		alpha	Human	0.894 +/- 0.099	Cerebrospinal fluid			
+Bt34	DS_d173313e7e	Bt34				Botswana	0.166 +/- 0.234		Cryptococcus neoformans var. grubii Bt34	Cryptococcus neoformans var. grubii		0	HIV+			0.369 +/- 0.034	VNBII		alpha	Human	0.488 +/- 0.437	Cerebrospinal fluid			
+Bt35	DS_d173313e7e	Bt35				Botswana	0.084 +/- 0.092		Cryptococcus neoformans var. grubii Bt35	Cryptococcus neoformans var. grubii		0	HIV+			0.310 +/- 0.016	VNBII		alpha	Human	0.643 +/- 0.218	Cerebrospinal fluid			
+Bt37	DS_d173313e7e	Bt37				Botswana			Cryptococcus neoformans var. grubii Bt37	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt38	DS_d173313e7e	Bt38				Botswana	0.457 +/- 0.220		Cryptococcus neoformans var. grubii Bt38	Cryptococcus neoformans var. grubii		0.45	HIV+			0.305 +/- 0.107	VNBII		alpha	Human	1.032 +/- 0.062	Cerebrospinal fluid			
+Bt39	DS_d173313e7e	Bt39				Botswana	0.481 +/- 0.279		Cryptococcus neoformans var. grubii Bt39	Cryptococcus neoformans var. grubii		0.076	HIV+			0.239 +/- 0.002	VNBII		alpha	Human	0.995 +/- 0.173	Cerebrospinal fluid			
+Bt4	DS_d173313e7e	Bt4				Botswana			Cryptococcus neoformans var. grubii Bt4	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt40	DS_d173313e7e	Bt40				Botswana	0.100 +/- 0.141		Cryptococcus neoformans var. grubii Bt40	Cryptococcus neoformans var. grubii		0.334	HIV+			0.258 +/- 0.010	VNBII		alpha	Human	0.839 +/- 0.096	Cerebrospinal fluid			
+Bt41	DS_d173313e7e	Bt41				Botswana	0.208 +/- 0.127		Cryptococcus neoformans var. grubii Bt41	Cryptococcus neoformans var. grubii		0	HIV+			0.288 +/- 0.035	VNBII		alpha	Human	0.761 +/- 0.208	Cerebrospinal fluid			
+Bt42	DS_d173313e7e	Bt42				Botswana			Cryptococcus neoformans var. grubii Bt42	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt43	DS_d173313e7e	Bt43				Botswana			Cryptococcus neoformans var. grubii Bt43	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt44	DS_d173313e7e	Bt44				Botswana			Cryptococcus neoformans var. grubii Bt44	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt45	DS_d173313e7e	Bt45				Botswana	0		Cryptococcus neoformans var. grubii Bt45	Cryptococcus neoformans var. grubii		0	HIV+			0.217 +/- 0.159	VNBI		alpha	Human	0.679 +/- 0.504	Cerebrospinal fluid			
+Bt46	DS_d173313e7e	Bt46				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt46	Cryptococcus neoformans var. grubii		0	HIV+			0.240 +/- 0.030	VNBII		alpha	Human	0.366 +/- 0.373	Cerebrospinal fluid			
+Bt47	DS_d173313e7e	Bt47				Botswana			Cryptococcus neoformans var. grubii Bt47	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt48	DS_d173313e7e	Bt48				Botswana			Cryptococcus neoformans var. grubii Bt48	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt49	DS_d173313e7e	Bt49				Botswana			Cryptococcus neoformans var. grubii Bt49	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIb
+Bt5	DS_d173313e7e	Bt5				Botswana	0.004 +/- 0.006		Cryptococcus neoformans var. grubii Bt5	Cryptococcus neoformans var. grubii		0.018	HIV+			0.344 +/- 0.028	VNBII		alpha	Human	0.056 +/- 0.097	Cerebrospinal fluid			
+Bt52	DS_d173313e7e	Bt52				Botswana	0.027 +/- 0.037		Cryptococcus neoformans var. grubii Bt52	Cryptococcus neoformans var. grubii		0.498	HIV+			0.226 +/- 0.029	VNBII		alpha	Human	0.829 +/- 0.134	Cerebrospinal fluid			
+Bt53	DS_d173313e7e	Bt53				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt53	Cryptococcus neoformans var. grubii		0	HIV+			0.339 +/- 0.124	VNBII		alpha	Human	0.000 +/- 0.000	Cerebrospinal fluid			
+Bt54	DS_d173313e7e	Bt54				Botswana	0.391 +/- 0.220		Cryptococcus neoformans var. grubii Bt54	Cryptococcus neoformans var. grubii		0	HIV+			0.226 +/- 0.073	VNBII		alpha	Human	0.866 +/- 0.103	Cerebrospinal fluid			
+Bt55	DS_d173313e7e	Bt55				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt55	Cryptococcus neoformans var. grubii		0	HIV+			0.317 +/- 0.107	VNBII		alpha	Human	0.157 +/- 0.273	Cerebrospinal fluid			
+Bt56	DS_d173313e7e	Bt56				Botswana	0.006 +/- 0.009		Cryptococcus neoformans var. grubii Bt56	Cryptococcus neoformans var. grubii		0	HIV+			0.158 +/- 0.038	VNBII		alpha	Human	0.168 +/- 0.164	Cerebrospinal fluid			
+Bt57	DS_d173313e7e	Bt57				Botswana			Cryptococcus neoformans var. grubii Bt57	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt58	DS_d173313e7e	Bt58				Botswana			Cryptococcus neoformans var. grubii Bt58	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt59	DS_d173313e7e	Bt59				Botswana			Cryptococcus neoformans var. grubii Bt59	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt6	DS_d173313e7e	Bt6				Botswana			Cryptococcus neoformans var. grubii Bt6	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt60	DS_d173313e7e	Bt60				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt60	Cryptococcus neoformans var. grubii		0.003	HIV+			0.280 +/- 0.025	VNBI		alpha	Human	0.857 +/- 0.175	Cerebrospinal fluid			
+Bt62	DS_d173313e7e	Bt62				Botswana			Cryptococcus neoformans var. grubii Bt62	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt63	DS_d173313e7e	Bt63				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt63	Cryptococcus neoformans var. grubii		0.36	HIV+			0.179 +/- 0.042	VNBI		a	Human	0.931 +/- 0.114	Cerebrospinal fluid			
+Bt65	DS_d173313e7e	Bt65				Botswana	0.683 +/- 0.065		Cryptococcus neoformans var. grubii Bt65	Cryptococcus neoformans var. grubii		0	HIV+			0.161 +/- 0.045	VNBII		a	Human	0.364 +/- 0.133	Cerebrospinal fluid			
+Bt68	DS_d173313e7e	Bt68				Botswana			Cryptococcus neoformans var. grubii Bt68	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt7	DS_d173313e7e	Bt7				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt7	Cryptococcus neoformans var. grubii		0.65	HIV+			0.261 +/- 0.021	VNBI		alpha	Human	1.018 +/- 0.097	Cerebrospinal fluid			
+Bt70	DS_d173313e7e	Bt70				Botswana	0.066 +/- 0.062		Cryptococcus neoformans var. grubii Bt70	Cryptococcus neoformans var. grubii		0.068	HIV+			0.162 +/- 0.021	VNBI		a	Human	1.059 +/- 0.182	Cerebrospinal fluid			
+Bt72	DS_d173313e7e	Bt72				Botswana			Cryptococcus neoformans var. grubii Bt72	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt75	DS_d173313e7e	Bt75				Botswana	0.278 +/- 0.131		Cryptococcus neoformans var. grubii Bt75	Cryptococcus neoformans var. grubii		0	HIV+			0.629 +/- 0.099	VNBII		alpha	Human	0.116 +/- 0.201	Cerebrospinal fluid			
+Bt76	DS_d173313e7e	Bt76				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt76	Cryptococcus neoformans var. grubii		0	HIV+			0.218 +/- 0.052	VNBII		alpha	Human	1.067 +/- 0.016	Cerebrospinal fluid			
+Bt77	DS_d173313e7e	Bt77				Botswana			Cryptococcus neoformans var. grubii Bt77	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt78	DS_d173313e7e	Bt78				Botswana			Cryptococcus neoformans var. grubii Bt78	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt79	DS_d173313e7e	Bt79				Botswana			Cryptococcus neoformans var. grubii Bt79	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt8	DS_d173313e7e	Bt8				Botswana			Cryptococcus neoformans var. grubii Bt8	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt81	DS_d173313e7e	Bt81				Botswana	0.492 +/- 0.475		Cryptococcus neoformans var. grubii Bt81	Cryptococcus neoformans var. grubii		0.345	HIV+			0.263 +/- 0.046	VNBII		a	Human	0.199 +/- 0.173	Cerebrospinal fluid			
+Bt83	DS_d173313e7e	Bt83				Botswana			Cryptococcus neoformans var. grubii Bt83	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt84	DS_d173313e7e	Bt84				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt84	Cryptococcus neoformans var. grubii		0.373	HIV+			0.404 +/- 0.020	VNBII		alpha	Human	0.492 +/- 0.443	Cerebrospinal fluid			
+Bt85	DS_d173313e7e	Bt85				Botswana	0.001 +/- 0.001		Cryptococcus neoformans var. grubii Bt85	Cryptococcus neoformans var. grubii		0.257	HIV+			0.287 +/- 0.031	VNBI		a	Human	0.773 +/- 0.353	Cerebrospinal fluid			
+Bt87	DS_d173313e7e	Bt87				Botswana			Cryptococcus neoformans var. grubii Bt87	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt88	DS_d173313e7e	Bt88				Botswana	0.002 +/- 0.003		Cryptococcus neoformans var. grubii Bt88	Cryptococcus neoformans var. grubii		0.153	HIV+			0.192 +/- 0.039	VNBII		a	Human	0.549 +/- 0.174	Cerebrospinal fluid			
+Bt89	DS_d173313e7e	Bt89				Botswana	0.803 +/- 0.257		Cryptococcus neoformans var. grubii Bt89	Cryptococcus neoformans var. grubii		0.627	HIV+			0.272 +/- 0.008	VNBII		alpha	Human	0.336 +/- 0.399	Cerebrospinal fluid			
+Bt90	DS_d173313e7e	Bt90				Botswana			Cryptococcus neoformans var. grubii Bt90	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt92	DS_d173313e7e	Bt92				Botswana			Cryptococcus neoformans var. grubii Bt92	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+Bt93	DS_d173313e7e	Bt93				Botswana			Cryptococcus neoformans var. grubii Bt93	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt95	DS_d173313e7e	Bt95				Botswana			Cryptococcus neoformans var. grubii Bt95	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt96	DS_d173313e7e	Bt96				Botswana	0.295 +/- 0.202		Cryptococcus neoformans var. grubii Bt96	Cryptococcus neoformans var. grubii		0.628	HIV+			0.231 +/- 0.052	VNBI		alpha	Human	0.617 +/- 0.307	Cerebrospinal fluid			
+Bt97	DS_d173313e7e	Bt97				Botswana			Cryptococcus neoformans var. grubii Bt97	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+Bt98	DS_d173313e7e	Bt98				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Bt98	Cryptococcus neoformans var. grubii		0.22	HIV+			0.210 +/- 0.018	VNBII		alpha	Human	0.532 +/- 0.392	Cerebrospinal fluid			
+Bt99	DS_d173313e7e	Bt99				Botswana			Cryptococcus neoformans var. grubii Bt99	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+C12	DS_d173313e7e	C12				USA			Cryptococcus neoformans var. grubii C12	Cryptococcus neoformans var. grubii			HIV-				VNII		alpha	Human		lung			
+C2	DS_d173313e7e	C2				USA			Cryptococcus neoformans var. grubii C2	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+C23	DS_d173313e7e	C23				USA			Cryptococcus neoformans var. grubii C23	Cryptococcus neoformans var. grubii			HIV-				VNI		alpha	Human		bronch wash			VNIb
+C27	DS_d173313e7e	C27				USA			Cryptococcus neoformans var. grubii C27	Cryptococcus neoformans var. grubii			cancer				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+C45	DS_d173313e7e	C45				USA			Cryptococcus neoformans var. grubii C45	Cryptococcus neoformans var. grubii			HIV-				VNII		alpha	Human		sputum			
+C8	DS_d173313e7e	C8				USA			Cryptococcus neoformans var. grubii C8	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+CHC193	DS_d173313e7e	CHC193				China			Cryptococcus neoformans var. grubii CHC193	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+D17-1	DS_d173313e7e	D17-1				S. Africa			Cryptococcus neoformans var. grubii D17-1	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIa
+Ftc102-1	DS_d173313e7e	Ftc102-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Ftc102-1	Cryptococcus neoformans var. grubii		0.299				0.193 +/- 0.049	VNBI		a	Mopane tree	1.024 +/- 0.128	Mopane tree			
+Ftc103-1	DS_d173313e7e	Ftc103-1				Botswana	0.143 +/- 0.118		Cryptococcus neoformans var. grubii Ftc103-1	Cryptococcus neoformans var. grubii		0.537				0.202 +/- 0.049	VNBI		alpha	Mopane tree	0.397 +/- 0.469	Mopane tree			
+Ftc109-1	DS_d173313e7e	Ftc109-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Ftc109-1	Cryptococcus neoformans var. grubii		0.609				0.212 +/- 0.008	VNBI		alpha	Mopane tree	0.651 +/- 0.230	Mopane tree			
+Ftc111-1	DS_d173313e7e	Ftc111-1				Botswana	0.042 +/- 0.059		Cryptococcus neoformans var. grubii Ftc111-1	Cryptococcus neoformans var. grubii		0.571				0.198 +/- 0.062	VNBI		a	Mopane tree	0.942 +/- 0.256	Mopane tree			
+Ftc132-1	DS_d173313e7e	Ftc132-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Ftc132-1	Cryptococcus neoformans var. grubii		0.466				0.151 +/- 0.030	VNBI		alpha	Mopane tree	0.926 +/- 0.188	Mopane tree			
+Ftc134-3	DS_d173313e7e	Ftc134-3				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Ftc134-3	Cryptococcus neoformans var. grubii		0.541				0.201 +/- 0.030	VNBI		alpha	Mopane tree	0.698 +/- 0.247	Mopane tree			
+Ftc137-1	DS_d173313e7e	Ftc137-1				Botswana	0.067 +/- 0.081		Cryptococcus neoformans var. grubii Ftc137-1	Cryptococcus neoformans var. grubii		0.335				0.163 +/- 0.017	VNBI		alpha	Mopane tree	0.850 +/- 0.236	Mopane tree			
+Ftc146-1	DS_d173313e7e	Ftc146-1				Botswana	0.169 +/- 0.156		Cryptococcus neoformans var. grubii Ftc146-1	Cryptococcus neoformans var. grubii		0.626				0.139 +/- 0.021	VNBI		alpha	Mopane tree	0.784 +/- 0.284	Mopane tree			
+Ftc151-1	DS_d173313e7e	Ftc151-1				Botswana	0.026 +/- 0.033		Cryptococcus neoformans var. grubii Ftc151-1	Cryptococcus neoformans var. grubii		0.014				0.214 +/- 0.090	VNBI		a	Mopane tree	1.023 +/- 0.126	Mopane tree			
+Ftc153-1	DS_d173313e7e	Ftc153-1				Botswana	0.097 +/- 0.131		Cryptococcus neoformans var. grubii Ftc153-1	Cryptococcus neoformans var. grubii		0.387				0.123 +/- 0.004	VNBI		a	Mopane tree	0.941 +/- 0.164	Mopane tree			
+Ftc158-2	DS_d173313e7e	Ftc158-2				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Ftc158-2	Cryptococcus neoformans var. grubii		0.15				0.171 +/- 0.056	VNBI		a	Aves	0.850 +/- 0.165	feces			
+Ftc167-1	DS_d173313e7e	Ftc167-1				Botswana	0.100 +/- 0.132		Cryptococcus neoformans var. grubii Ftc167-1	Cryptococcus neoformans var. grubii		0.299				0.153 +/- 0.029	VNBI		alpha	Mopane tree	0.922 +/- 0.111	Mopane tree			
+Ftc168-1	DS_d173313e7e	Ftc168-1				Botswana	0.026 +/- 0.036		Cryptococcus neoformans var. grubii Ftc168-1	Cryptococcus neoformans var. grubii		0.611				0.166 +/- 0.009	VNBI		a	Mopane tree	0.920 +/- 0.130	Mopane tree			
+Ftc170-1	DS_d173313e7e	Ftc170-1				Botswana	0.006 +/- 0.008		Cryptococcus neoformans var. grubii Ftc170-1	Cryptococcus neoformans var. grubii		0.211				0.215 +/- 0.011	VNBI		a	Mopane tree	0.694 +/- 0.409	Mopane tree			
+Ftc173-1	DS_d173313e7e	Ftc173-1				Botswana	0.009 +/- 0.013		Cryptococcus neoformans var. grubii Ftc173-1	Cryptococcus neoformans var. grubii		0.195				0.199 +/- 0.037	VNBI		alpha	Mopane tree	0.936 +/- 0.259	Mopane tree			
+Ftc192-1	DS_d173313e7e	Ftc192-1				Botswana	0.111 +/- 0.121		Cryptococcus neoformans var. grubii Ftc192-1	Cryptococcus neoformans var. grubii		0.491				0.208 +/- 0.020	VNBI		a	Mopane tree	1.000 +/- 0.060	Mopane tree			
+Ftc195-1	DS_d173313e7e	Ftc195-1				Botswana	0.303 +/- 0.163		Cryptococcus neoformans var. grubii Ftc195-1	Cryptococcus neoformans var. grubii		0.451				0.149 +/- 0.040	VNBI		alpha	Mopane tree	0.905 +/- 0.150	Mopane tree			
+Ftc200-1	DS_d173313e7e	Ftc200-1				Botswana	0.260 +/- 0.231		Cryptococcus neoformans var. grubii Ftc200-1	Cryptococcus neoformans var. grubii		0.125				0.244 +/- 0.001	VNBI		alpha	Mopane tree	1.114 +/- 0.487	Mopane tree			
+Ftc202-1	DS_d173313e7e	Ftc202-1				Botswana	0.079 +/- 0.109		Cryptococcus neoformans var. grubii Ftc202-1	Cryptococcus neoformans var. grubii		0.454				0	VNBI		alpha	Mopane tree	1.012 +/- 0.078	Mopane tree			
+Ftc207-1	DS_d173313e7e	Ftc207-1				Botswana	0.017 +/- 0.023		Cryptococcus neoformans var. grubii Ftc207-1	Cryptococcus neoformans var. grubii		0.261				0.187 +/- 0.065	VNBI		a	Mopane tree	0.958 +/- 0.116	Mopane tree			
+Ftc209-1	DS_d173313e7e	Ftc209-1				Botswana	0.163 +/- 0.230		Cryptococcus neoformans var. grubii Ftc209-1	Cryptococcus neoformans var. grubii		0.413				0.167 +/- 0.037	VNBI		alpha	Mopane tree	0.858 +/- 0.173	Mopane tree			
+Ftc209-3	DS_d173313e7e	Ftc209-3				Botswana	0.035 +/- 0.048		Cryptococcus neoformans var. grubii Ftc209-3	Cryptococcus neoformans var. grubii		0.698				0.166 +/- 0.010	VNBI		a	Mopane tree	0.941 +/- 0.129	Mopane tree			
+Ftc211-1	DS_d173313e7e	Ftc211-1				Botswana	0.004 +/- 0.005		Cryptococcus neoformans var. grubii Ftc211-1	Cryptococcus neoformans var. grubii		0.507				0.196 +/- 0.005	VNBI		alpha	Mopane tree	0.922 +/- 0.206	Mopane tree			
+Ftc214-1	DS_d173313e7e	Ftc214-1				Botswana	0.081 +/- 0.114		Cryptococcus neoformans var. grubii Ftc214-1	Cryptococcus neoformans var. grubii		0.326				0.162 +/- 0.008	VNBI		alpha	Mopane tree	0.711 +/- 0.339	Mopane tree			
+Ftc217-1	DS_d173313e7e	Ftc217-1				Botswana	0.056 +/- 0.069		Cryptococcus neoformans var. grubii Ftc217-1	Cryptococcus neoformans var. grubii		0.297				0.152 +/- 0.017	VNBI		alpha	Mopane tree	0.855 +/- 0.227	Mopane tree			
+Ftc222-2	DS_d173313e7e	Ftc222-2				Botswana	0.066 +/- 0.093		Cryptococcus neoformans var. grubii Ftc222-2	Cryptococcus neoformans var. grubii		0.568				0.105 +/- 0.041	VNBI		alpha	Mopane tree	0.843 +/- 0.200	Mopane tree			
+Ftc225-1	DS_d173313e7e	Ftc225-1				Botswana	0.072 +/- 0.098		Cryptococcus neoformans var. grubii Ftc225-1	Cryptococcus neoformans var. grubii		0.104				0.146 +/- 0.120	VNBI		alpha	Mopane tree	0.991 +/- 0.235	Mopane tree			
+Ftc225-3	DS_d173313e7e	Ftc225-3				Botswana	0.276 +/- 0.390		Cryptococcus neoformans var. grubii Ftc225-3	Cryptococcus neoformans var. grubii		0.663				0.149 +/- 0.035	VNBI		a	Mopane tree	0.962 +/- 0.211	Mopane tree			
+Ftc236-1	DS_d173313e7e	Ftc236-1				Botswana	0.113 +/- 0.034		Cryptococcus neoformans var. grubii Ftc236-1	Cryptococcus neoformans var. grubii		0				0.227 +/- 0.051	VNBI		alpha	Mopane tree	0.655 +/- 0.278	Mopane tree			
+Ftc239-1	DS_d173313e7e	Ftc239-1				Botswana	0.007 +/- 0.001		Cryptococcus neoformans var. grubii Ftc239-1	Cryptococcus neoformans var. grubii		0.292				0.194 +/- 0.039	VNBI		alpha	Mopane tree	0.468 +/- 0.451	Mopane tree			
+Ftc239-2	DS_d173313e7e	Ftc239-2				Botswana	0.004 +/- 0.006		Cryptococcus neoformans var. grubii Ftc239-2	Cryptococcus neoformans var. grubii		0.686				0.108 +/- 0.004	VNBI		a	Mopane tree	1.028 +/- 0.075	Mopane tree			
+Ftc241-1	DS_d173313e7e	Ftc241-1				Botswana	0.051 +/- 0.072		Cryptococcus neoformans var. grubii Ftc241-1	Cryptococcus neoformans var. grubii		0.42				0.170 +/- 0.045	VNBI		a	Mopane tree	1.039 +/- 0.099	Mopane tree			
+Ftc257-1	DS_d173313e7e	Ftc257-1				Botswana	ND		Cryptococcus neoformans var. grubii Ftc257-1	Cryptococcus neoformans var. grubii		0.388				0.161 +/- 0.071	VNBI		alpha	Mopane tree	0.996 +/- 0.088	Mopane tree			
+Ftc267-1	DS_d173313e7e	Ftc267-1				Botswana	0.103 +/- 0.097		Cryptococcus neoformans var. grubii Ftc267-1	Cryptococcus neoformans var. grubii		0.159				0.215 +/- 0.067	VNBI		alpha	Mopane tree	0.968 +/- 0.225	Mopane tree			
+Ftc267-2	DS_d173313e7e	Ftc267-2				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Ftc267-2	Cryptococcus neoformans var. grubii		0.621				0.186 +/- 0.016	VNBI		alpha	Mopane tree	0.859 +/- 0.291	Mopane tree			
+Ftc321-1	DS_d173313e7e	Ftc321-1				Botswana	0.038 +/- 0.048		Cryptococcus neoformans var. grubii Ftc321-1	Cryptococcus neoformans var. grubii		0.7				0.152 +/- 0.003	VNBI		alpha	Mopane tree	1.048 +/- 0.067	Mopane tree			
+Ftc321-2	DS_d173313e7e	Ftc321-2				Botswana	0.037 +/- 0.049		Cryptococcus neoformans var. grubii Ftc321-2	Cryptococcus neoformans var. grubii		0.552				0.124 +/- 0.014	VNBI		alpha	Mopane tree	0.967 +/- 0.201	Mopane tree			
+Ftc321-3	DS_d173313e7e	Ftc321-3				Botswana	0.009 +/- 0.007		Cryptococcus neoformans var. grubii Ftc321-3	Cryptococcus neoformans var. grubii		0.336				0.217 +/- 0.018	VNBI		a	Mopane tree	0.955 +/- 0.086	Mopane tree			
+Ftc327-1	DS_d173313e7e	Ftc327-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Ftc327-1	Cryptococcus neoformans var. grubii		0.389				0.269 +/- 0.060	VNBI		alpha	Mopane tree	0.675 +/- 0.398	Mopane tree			
+Ftc555-1	DS_d173313e7e	Ftc555-1				Botswana	ND		Cryptococcus neoformans var. grubii Ftc555-1	Cryptococcus neoformans var. grubii		0.526				0.224 +/- 0.015	VNBI		a	Mopane tree	0.979 +/- 0.057	Mopane tree			
+Ftc555-2	DS_d173313e7e	Ftc555-2				Botswana	0.021 +/- 0.004		Cryptococcus neoformans var. grubii Ftc555-2	Cryptococcus neoformans var. grubii		0.28				0.152 +/- 0.057	VNBI		alpha	Mopane tree	1.101 +/- 0.273	Mopane tree			
+Gb118	DS_d173313e7e	Gb118				Botswana			Cryptococcus neoformans var. grubii Gb118	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIa
+Gb159-1	DS_d173313e7e	Gb159-1				Botswana			Cryptococcus neoformans var. grubii Gb159-1	Cryptococcus neoformans var. grubii							VNI		alpha	tree		tree			VNIc
+Gbc16-1	DS_d173313e7e	Gbc16-1				Botswana			Cryptococcus neoformans var. grubii Gbc16-1	Cryptococcus neoformans var. grubii							VNI		alpha	tree		decayed tree			VNIc
+Gbc39-1	DS_d173313e7e	Gbc39-1				Botswana			Cryptococcus neoformans var. grubii Gbc39-1	Cryptococcus neoformans var. grubii							VNI		alpha	Acacia tree		Acacia tree			VNIc
+Gbc39-2	DS_d173313e7e	Gbc39-2				Botswana			Cryptococcus neoformans var. grubii Gbc39-2	Cryptococcus neoformans var. grubii							VNI		alpha	Acacia tree		Acacia tree			VNIc
+Gbc42-1	DS_d173313e7e	Gbc42-1				Botswana			Cryptococcus neoformans var. grubii Gbc42-1	Cryptococcus neoformans var. grubii							VNI		alpha	Acacia tree		Acacia tree			VNIc
+Gbc44-1	DS_d173313e7e	Gbc44-1				Botswana			Cryptococcus neoformans var. grubii Gbc44-1	Cryptococcus neoformans var. grubii							VNI		alpha	Acacia tree		Acacia tree			VNIc
+Gbc51-2	DS_d173313e7e	Gbc51-2				Botswana			Cryptococcus neoformans var. grubii Gbc51-2	Cryptococcus neoformans var. grubii							VNI		alpha	Acacia tree		Acacia tree			VNIc
+Gbc573-1	DS_d173313e7e	Gbc573-1				Botswana	0.126 +/- 0.177		Cryptococcus neoformans var. grubii Gbc573-1	Cryptococcus neoformans var. grubii		0.027				0.202 +/- 0.021	VNBI		alpha	tree	0.990 +/- 0.017	tree			
+Gbc95-1	DS_d173313e7e	Gbc95-1				Botswana			Cryptococcus neoformans var. grubii Gbc95-1	Cryptococcus neoformans var. grubii							VNI		alpha	tree		tree			VNIc
+Gbc98-1	DS_d173313e7e	Gbc98-1				Botswana			Cryptococcus neoformans var. grubii Gbc98-1	Cryptococcus neoformans var. grubii							VNI		alpha	tree		tree			VNIc
+IUM-96-28-28	DS_d173313e7e	IUM-96-28-28				Italy			Cryptococcus neoformans var. grubii IUM-96-28-28	Cryptococcus neoformans var. grubii							VNI		a			soil			VNIb
+In2632	DS_d173313e7e	In2632				India			Cryptococcus neoformans var. grubii In2632	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+Jo278-1	DS_d173313e7e	Jo278-1				S. Africa			Cryptococcus neoformans var. grubii Jo278-1	Cryptococcus neoformans var. grubii							VNI		alpha			soil			VNIa
+Jp1088	DS_d173313e7e	Jp1088				Japan			Cryptococcus neoformans var. grubii Jp1088	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+LP-RSA116	DS_d173313e7e	LP-RSA116				S. Africa			Cryptococcus neoformans var. grubii LP-RSA116	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+LP-RSA1343	DS_d173313e7e	LP-RSA1343				S. Africa			Cryptococcus neoformans var. grubii LP-RSA1343	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+LP-RSA1684	DS_d173313e7e	LP-RSA1684				S. Africa			Cryptococcus neoformans var. grubii LP-RSA1684	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+LP-RSA2296	DS_d173313e7e	LP-RSA2296				S. Africa			Cryptococcus neoformans var. grubii LP-RSA2296	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+LP-RSA2297	DS_d173313e7e	LP-RSA2297				S. Africa			Cryptococcus neoformans var. grubii LP-RSA2297	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+LP-RSA3042	DS_d173313e7e	LP-RSA3042				S. Africa			Cryptococcus neoformans var. grubii LP-RSA3042	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+LP-RSA3144	DS_d173313e7e	LP-RSA3144				S. Africa	0.355 +/- 0.503		Cryptococcus neoformans var. grubii LP-RSA3144	Cryptococcus neoformans var. grubii		0.189				0.264 +/- 0.069	VNBII		alpha	Human	0.229 +/- 0.346	Clinical			
+LP-RSA6618	DS_d173313e7e	LP-RSA6618				Botswana	0.013 +/- 0.016		Cryptococcus neoformans var. grubii LP-RSA6618	Cryptococcus neoformans var. grubii		0.524				0.236 +/- 0.013	VNBI		alpha	Human	0.620 +/- 0.372	Clinical			
+LP-RSA756	DS_d173313e7e	LP-RSA756				Botswana	0.018 +/- 0.025		Cryptococcus neoformans var. grubii LP-RSA756	Cryptococcus neoformans var. grubii		0.812				0.147 +/- 0.025	VNBI		alpha	Human	0.679 +/- 0.090	Clinical			
+LP-RSA848	DS_d173313e7e	LP-RSA848				S. Africa			Cryptococcus neoformans var. grubii LP-RSA848	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+MW-RSA1186	DS_d173313e7e	MW-RSA1186				S. Africa	0.135 +/- 0.187		Cryptococcus neoformans var. grubii MW-RSA1186	Cryptococcus neoformans var. grubii		0.482				0.213 +/- 0.033	VNBII		alpha	Human	0.810 +/- 0.152	Clinical			
+MW-RSA1327	DS_d173313e7e	MW-RSA1327				S. Africa			Cryptococcus neoformans var. grubii MW-RSA1327	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+MW-RSA1607	DS_d173313e7e	MW-RSA1607				S. Africa	0.303 +/- 0.363		Cryptococcus neoformans var. grubii MW-RSA1607	Cryptococcus neoformans var. grubii		0				0.264 +/- 0.033	VNBII		alpha	Human	0.469 +/- 0.267	Clinical			
+MW-RSA1869	DS_d173313e7e	MW-RSA1869				S. Africa			Cryptococcus neoformans var. grubii MW-RSA1869	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+MW-RSA1955	DS_d173313e7e	MW-RSA1955				S. Africa			Cryptococcus neoformans var. grubii MW-RSA1955	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+MW-RSA2628	DS_d173313e7e	MW-RSA2628				S. Africa			Cryptococcus neoformans var. grubii MW-RSA2628	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+MW-RSA2967	DS_d173313e7e	MW-RSA2967				S. Africa	0.322 +/- 0.449		Cryptococcus neoformans var. grubii MW-RSA2967	Cryptococcus neoformans var. grubii		0				0.199 +/- 0.030	VNBII		alpha	Human	0.000 +/- 0.000	Clinical			
+MW-RSA3179	DS_d173313e7e	MW-RSA3179				S. Africa	1.111 +/- 0.240		Cryptococcus neoformans var. grubii MW-RSA3179	Cryptococcus neoformans var. grubii		0.341				0.304 +/- 0.112	VNBII		alpha	Human	0.627 +/- 0.322	Clinical			
+MW-RSA3321	DS_d173313e7e	MW-RSA3321				S. Africa	0.506 +/- 0.716		Cryptococcus neoformans var. grubii MW-RSA3321	Cryptococcus neoformans var. grubii		0.461				0.212 +/- 0.069	VNBII		alpha	Human	0.459 +/- 0.458	Clinical			
+MW-RSA36	DS_d173313e7e	MW-RSA36				S. Africa			Cryptococcus neoformans var. grubii MW-RSA36	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+MW-RSA3834	DS_d173313e7e	MW-RSA3834				S. Africa			Cryptococcus neoformans var. grubii MW-RSA3834	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+MW-RSA3956	DS_d173313e7e	MW-RSA3956				S. Africa			Cryptococcus neoformans var. grubii MW-RSA3956	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+MW-RSA4119	DS_d173313e7e	MW-RSA4119				S. Africa			Cryptococcus neoformans var. grubii MW-RSA4119	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+MW-RSA524	DS_d173313e7e	MW-RSA524				S. Africa			Cryptococcus neoformans var. grubii MW-RSA524	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+MW-RSA5387	DS_d173313e7e	MW-RSA5387				S. Africa			Cryptococcus neoformans var. grubii MW-RSA5387	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+MW-RSA606	DS_d173313e7e	MW-RSA606				S. Africa			Cryptococcus neoformans var. grubii MW-RSA606	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+MW-RSA6134	DS_d173313e7e	MW-RSA6134				S. Africa			Cryptococcus neoformans var. grubii MW-RSA6134	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+MW-RSA722	DS_d173313e7e	MW-RSA722				S. Africa			Cryptococcus neoformans var. grubii MW-RSA722	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+MW-RSA82	DS_d173313e7e	MW-RSA82				S. Africa			Cryptococcus neoformans var. grubii MW-RSA82	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+MW-RSA852	DS_d173313e7e	MW-RSA852				S. Africa			Cryptococcus neoformans var. grubii MW-RSA852	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+MW-RSA913	DS_d173313e7e	MW-RSA913				S. Africa	0.001 +/- 0.001		Cryptococcus neoformans var. grubii MW-RSA913	Cryptococcus neoformans var. grubii		0				0.196 +/- 0.042	VNBII		alpha	Human	0.349 +/- 0.387	Clinical			
+Muc364-1	DS_d173313e7e	Muc364-1				Botswana	0.005 +/- 0.008		Cryptococcus neoformans var. grubii Muc364-1	Cryptococcus neoformans var. grubii		0.629				0.173 +/- 0.001	VNBI		alpha	Mopane tree	1.026 +/- 0.206	Mopane tree			
+Muc367-1	DS_d173313e7e	Muc367-1				Botswana	0.029 +/- 0.031		Cryptococcus neoformans var. grubii Muc367-1	Cryptococcus neoformans var. grubii		0.516				0.166 +/- 0.023	VNBI		alpha	Mopane tree	1.026 +/- 0.065	Mopane tree			
+Muc387-1	DS_d173313e7e	Muc387-1				Botswana	0.025 +/- 0.035		Cryptococcus neoformans var. grubii Muc387-1	Cryptococcus neoformans var. grubii		0.209				0.157 +/- 0.018	VNBII		alpha	Mopane tree	0.598 +/- 0.286	Mopane tree			
+Muc387-2	DS_d173313e7e	Muc387-2				Botswana	0.006 +/- 0.009		Cryptococcus neoformans var. grubii Muc387-2	Cryptococcus neoformans var. grubii		0.25				0.280 +/- 0.021	VNBII		alpha	Mopane tree	0.417 +/- 0.355	Mopane tree			
+Muc402-1	DS_d173313e7e	Muc402-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Muc402-1	Cryptococcus neoformans var. grubii		0.411				0.147 +/- 0.019	VNBI		alpha	Mopane tree	0.917 +/- 0.081	Mopane tree			
+Muc416-4	DS_d173313e7e	Muc416-4				Botswana	0.009 +/- 0.012		Cryptococcus neoformans var. grubii Muc416-4	Cryptococcus neoformans var. grubii		0.592				0.269 +/- 0.006	VNBI		alpha	Mopane tree	0.992 +/- 0.307	Mopane tree			
+Muc418-1	DS_d173313e7e	Muc418-1				Botswana	0.074 +/- 0.095		Cryptococcus neoformans var. grubii Muc418-1	Cryptococcus neoformans var. grubii		0.664				0.210 +/- 0.040	VNBI		alpha	Mopane tree	0.955 +/- 0.212	Mopane tree			
+Muc437-1	DS_d173313e7e	Muc437-1				Botswana	0.152 +/- 0.216		Cryptococcus neoformans var. grubii Muc437-1	Cryptococcus neoformans var. grubii		0.414				0.176 +/- 0.012	VNBI		alpha	Mopane tree	0.801 +/- 0.258	Mopane tree			
+Muc449-1	DS_d173313e7e	Muc449-1				Botswana	0.017 +/- 0.024		Cryptococcus neoformans var. grubii Muc449-1	Cryptococcus neoformans var. grubii		0.042				0.227 +/- 0.036	VNBI		alpha	Mopane tree	0.961 +/- 0.127	Mopane tree			
+Muc451-1	DS_d173313e7e	Muc451-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Muc451-1	Cryptococcus neoformans var. grubii		0.144				0.168 +/- 0.028	VNBI		alpha	Mopane tree	1.041 +/- 0.166	Mopane tree			
+Muc457-1	DS_d173313e7e	Muc457-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Muc457-1	Cryptococcus neoformans var. grubii		0.336				0.149 +/- 0.016	VNBI		alpha	Mopane tree	1.033 +/- 0.200	Mopane tree			
+Muc458-2	DS_d173313e7e	Muc458-2				Botswana	0.003 +/- 0.004		Cryptococcus neoformans var. grubii Muc458-2	Cryptococcus neoformans var. grubii		0.333				0.438 +/- 0.273	VNBI		alpha	Mopane tree	0.889 +/- 0.129	Mopane tree			
+Muc460-3	DS_d173313e7e	Muc460-3				Botswana	0.071 +/- 0.081		Cryptococcus neoformans var. grubii Muc460-3	Cryptococcus neoformans var. grubii		0.616				0.165 +/- 0.003	VNBI		alpha	Mopane tree	1.090 +/- 0.179	Mopane tree			
+Muc463-2	DS_d173313e7e	Muc463-2				Botswana			Cryptococcus neoformans var. grubii Muc463-2	Cryptococcus neoformans var. grubii							VNBI		alpha	Mopane tree		Mopane tree			
+Muc466-1	DS_d173313e7e	Muc466-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Muc466-1	Cryptococcus neoformans var. grubii		0.264				0	VNBI		alpha	Mopane tree	0.911 +/- 0.196	Mopane tree			
+Muc466-3	DS_d173313e7e	Muc466-3				Botswana	0.051 +/- 0.071		Cryptococcus neoformans var. grubii Muc466-3	Cryptococcus neoformans var. grubii		0.714				0.204 +/- 0.052	VNBI		alpha	Mopane tree	0.844 +/- 0.378	Mopane tree			
+Muc479-1	DS_d173313e7e	Muc479-1				Botswana	0.071 +/- 0.090		Cryptococcus neoformans var. grubii Muc479-1	Cryptococcus neoformans var. grubii		0.765				0.177 +/- 0.030	VNBI		alpha	Mopane tree	0.961 +/- 0.161	Mopane tree			
+Muc489-1	DS_d173313e7e	Muc489-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Muc489-1	Cryptococcus neoformans var. grubii		0.141				0.154 +/- 0.035	VNBI		alpha	Mopane tree	1.003 +/- 0.062	Mopane tree			
+Muc498-2	DS_d173313e7e	Muc498-2				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Muc498-2	Cryptococcus neoformans var. grubii		0.457				0.245 +/- 0.040	VNBI		a	Mopane tree	0.934 +/- 0.185	Mopane tree			
+Muc503-1	DS_d173313e7e	Muc503-1				Botswana	0.050 +/- 0.041		Cryptococcus neoformans var. grubii Muc503-1	Cryptococcus neoformans var. grubii		0.551				0.155 +/- 0.008	VNBI		alpha	Mopane tree	0.952 +/- 0.208	Mopane tree			
+Muc504-1	DS_d173313e7e	Muc504-1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii Muc504-1	Cryptococcus neoformans var. grubii		0				0.206 +/- 0.083	VNBI		alpha	Mopane tree	0.762 +/- 0.260	Mopane tree			
+Muc516-1	DS_d173313e7e	Muc516-1				Botswana	0.015 +/- 0.021		Cryptococcus neoformans var. grubii Muc516-1	Cryptococcus neoformans var. grubii		0.484				0.186 +/- 0.016	VNBI		alpha	Mopane tree	1.006 +/- 0.232	Mopane tree			
+Muc525-1	DS_d173313e7e	Muc525-1				Botswana	0.009 +/- 0.013		Cryptococcus neoformans var. grubii Muc525-1	Cryptococcus neoformans var. grubii		0.693				0.212 +/- 0.024	VNBI		alpha		0.971 +/- 0.105	soil			
+NRHc5001.ENR	DS_d173313e7e	NRHc5001.ENR				Botswana			Cryptococcus neoformans var. grubii NRHc5001.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+NRHc5004.ENR	DS_d173313e7e	NRHc5004.ENR				Botswana	0.580 +/- 0.187		Cryptococcus neoformans var. grubii NRHc5004.ENR	Cryptococcus neoformans var. grubii		0.303				0.185 +/- 0.032	VNBI		a	Human	0.739 +/- 0.318	Clinical			
+NRHc5005.ENR	DS_d173313e7e	NRHc5005.ENR				Botswana	0.026 +/- 0.037		Cryptococcus neoformans var. grubii NRHc5005.ENR	Cryptococcus neoformans var. grubii		0.007				0.211 +/- 0.008	VNBI		alpha	Human	0.922 +/- 0.068	Clinical			
+NRHc5008.ENR	DS_d173313e7e	NRHc5008.ENR				Botswana	0.024 +/- 0.033		Cryptococcus neoformans var. grubii NRHc5008.ENR	Cryptococcus neoformans var. grubii		0.001				0.209 +/- 0.057	VNBII		a	Human	0.679 +/- 0.592	Clinical			
+NRHc5009.ENR	DS_d173313e7e	NRHc5009.ENR				Botswana	0.120 +/- 0.001		Cryptococcus neoformans var. grubii NRHc5009.ENR	Cryptococcus neoformans var. grubii		0.13				0.213 +/- 0.008	VNBI		not assigned	Human	0.209 +/- 0.362	Clinical			
+NRHc5009.REL.INI	DS_d173313e7e	NRHc5009.REL.INI				Botswana	0.116 +/- 0.042		Cryptococcus neoformans var. grubii NRHc5009.REL.INI	Cryptococcus neoformans var. grubii		0.085				0.292 +/- 0.066	VNBI		alpha	Human	0.225 +/- 0.334	Clinical			
+NRHc5010.ENR	DS_d173313e7e	NRHc5010.ENR				Botswana			Cryptococcus neoformans var. grubii NRHc5010.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+NRHc5011.ENR	DS_d173313e7e	NRHc5011.ENR				Botswana	0.260 +/- 0.243		Cryptococcus neoformans var. grubii NRHc5011.ENR	Cryptococcus neoformans var. grubii		0.16				0.221 +/- 0.061	VNBI		alpha	Human	0.000 +/- 0.001	Clinical			
+NRHc5013.ENR	DS_d173313e7e	NRHc5013.ENR				Botswana	0.008 +/- 0.008		Cryptococcus neoformans var. grubii NRHc5013.ENR	Cryptococcus neoformans var. grubii		0.443				0.231 +/- 0.107	VNBI		a	Human	0.878 +/- 0.164	Clinical			
+NRHc5013.REL.INI	DS_d173313e7e	NRHc5013.REL.INI				Botswana	0.021 +/- 0.030		Cryptococcus neoformans var. grubii NRHc5013.REL.INI	Cryptococcus neoformans var. grubii		0.237				0.110 +/- 0.009	VNBI		a	Human	0.837 +/- 0.454	Clinical			
+NRHc5014.ENR	DS_d173313e7e	NRHc5014.ENR				Botswana	0.064 +/- 0.091		Cryptococcus neoformans var. grubii NRHc5014.ENR	Cryptococcus neoformans var. grubii		0.59				0.182 +/- 0.045	VNBII		a	Human	0.502 +/- 0.344	Clinical			
+NRHc5015.ENR	DS_d173313e7e	NRHc5015.ENR				Botswana			Cryptococcus neoformans var. grubii NRHc5015.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+NRHc5015.REL.CLIN.ISO	DS_d173313e7e	NRHc5015.REL.CLIN.ISO				Botswana			Cryptococcus neoformans var. grubii NRHc5015.REL.CLIN.ISO	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+NRHc5017.ENR	DS_d173313e7e	NRHc5017.ENR				Botswana			Cryptococcus neoformans var. grubii NRHc5017.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+NRHc5019.ENR	DS_d173313e7e	NRHc5019.ENR				Botswana	0.007 +/- 0.010		Cryptococcus neoformans var. grubii NRHc5019.ENR	Cryptococcus neoformans var. grubii		0.548				0.342 +/- 0.115	VNBI		alpha	Human	0.977 +/- 0.094	Clinical			
+NRHc5020.ENR	DS_d173313e7e	NRHc5020.ENR				Botswana	0.058 +/- 0.080		Cryptococcus neoformans var. grubii NRHc5020.ENR	Cryptococcus neoformans var. grubii		0.313				0.182 +/- 0.002	VNBI		a	Human	1.114 +/- 0.272	Clinical			
+NRHc5021.ENR	DS_d173313e7e	NRHc5021.ENR				Botswana	0.033 +/- 0.045		Cryptococcus neoformans var. grubii NRHc5021.ENR	Cryptococcus neoformans var. grubii		0.36				0.144 +/- 0.034	VNBI		a	Human	0.797 +/- 0.052	Clinical			
+NRHc5022.ENR	DS_d173313e7e	NRHc5022.ENR				Botswana	0.001 +/- 0.001		Cryptococcus neoformans var. grubii NRHc5022.ENR	Cryptococcus neoformans var. grubii		0.03				0.177 +/- 0.018	VNBI		alpha	Human	0.886 +/- 0.078	Clinical			
+NRHc5023.ENR	DS_d173313e7e	NRHc5023.ENR				Botswana	0.419 +/- 0.187		Cryptococcus neoformans var. grubii NRHc5023.ENR	Cryptococcus neoformans var. grubii		0.028				0.256 +/- 0.031	VNBI		alpha	Human	0.956 +/- 0.096	Clinical			
+NRHc5024.ENR.CLIN.1	DS_d173313e7e	NRHc5024.ENR.CLIN.1				Botswana	0.522 +/- 0.267		Cryptococcus neoformans var. grubii NRHc5024.ENR.CLIN.1	Cryptococcus neoformans var. grubii		0				0.206 +/- 0.006	VNBI		alpha	Human	0.666 +/- 0.177	Clinical			
+NRHc5024A.ENR.CLIN.ISO	DS_d173313e7e	NRHc5024A.ENR.CLIN.ISO				Botswana	0.619 +/- 0.184		Cryptococcus neoformans var. grubii NRHc5024A.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0				0.195 +/- 0.001	VNBI		alpha	Human	0.681 +/- 0.150	Clinical			
+NRHc5025.ENR.CLIN.1	DS_d173313e7e	NRHc5025.ENR.CLIN.1				Botswana			Cryptococcus neoformans var. grubii NRHc5025.ENR.CLIN.1	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+NRHc5026.ENR.CLIN.ISO	DS_d173313e7e	NRHc5026.ENR.CLIN.ISO				Botswana	0.009 +/- 0.013		Cryptococcus neoformans var. grubii NRHc5026.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0.109				0.227 +/- 0.013	VNBI		alpha	Human	0.899 +/- 0.164	Clinical			
+NRHc5027.ENR.CLIN1	DS_d173313e7e	NRHc5027.ENR.CLIN1				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii NRHc5027.ENR.CLIN1	Cryptococcus neoformans var. grubii		0.099				0.248 +/- 0.045	VNBI		alpha	Human	0.798 +/- 0.200	Clinical			
+NRHc5028.ENR.STOR	DS_d173313e7e	NRHc5028.ENR.STOR				Botswana			Cryptococcus neoformans var. grubii NRHc5028.ENR.STOR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+NRHc5029.ENR.CLIN.ISO	DS_d173313e7e	NRHc5029.ENR.CLIN.ISO				Botswana	0.300 +/- 0.264		Cryptococcus neoformans var. grubii NRHc5029.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0.445				0.184 +/- 0.033	VNBI		alpha	Human	0.934 +/- 0.209	Clinical			
+NRHc5030.ENR.CLIN.ISO	DS_d173313e7e	NRHc5030.ENR.CLIN.ISO				Botswana	0.501 +/- 0.335		Cryptococcus neoformans var. grubii NRHc5030.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0				0.232 +/- 0.074	VNBI		a	Human	0.668 +/- 0.405	Clinical			
+NRHc5031.ENR.CLIN.ISO	DS_d173313e7e	NRHc5031.ENR.CLIN.ISO				Botswana	0.064 +/- 0.073		Cryptococcus neoformans var. grubii NRHc5031.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0.033				0.220 +/- 0.019	VNBII		alpha	Human	0.333 +/- 0.391	Clinical			
+NRHc5032.ENR.CLIN.ISO	DS_d173313e7e	NRHc5032.ENR.CLIN.ISO				Botswana	0.222 +/- 0.120		Cryptococcus neoformans var. grubii NRHc5032.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0.715				0.264 +/- 0.051	VNBI		alpha	Human	0.235 +/- 0.281	Clinical			
+NRHc5035.ENR.CLIN.ISO	DS_d173313e7e	NRHc5035.ENR.CLIN.ISO				Botswana	0.068 +/- 0.095		Cryptococcus neoformans var. grubii NRHc5035.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0.758				0.158 +/- 0.000	VNBI		alpha	Human	0.457 +/- 0.388	Clinical			
+NRHc5036.ENR	DS_d173313e7e	NRHc5036.ENR				Botswana			Cryptococcus neoformans var. grubii NRHc5036.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+NRHc5037.ENR.CLIN1	DS_d173313e7e	NRHc5037.ENR.CLIN1				Botswana	0.008 +/- 0.011		Cryptococcus neoformans var. grubii NRHc5037.ENR.CLIN1	Cryptococcus neoformans var. grubii		0.602				0.209 +/- 0.009	VNBI		a	Human	0.978 +/- 0.047	Clinical			
+NRHc5039.ENR.STOR	DS_d173313e7e	NRHc5039.ENR.STOR				Botswana	0.079 +/- 0.093		Cryptococcus neoformans var. grubii NRHc5039.ENR.STOR	Cryptococcus neoformans var. grubii		0.249				0.197 +/- 0.031	VNBI		alpha	Human	0.439 +/- 0.428	Clinical			
+NRHc5040.ENR.CLIN.ISO	DS_d173313e7e	NRHc5040.ENR.CLIN.ISO				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii NRHc5040.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0.004				0.221 +/- 0.062	VNBI		alpha	Human	0.292 +/- 0.220	Clinical			
+NRHc5041.ENR.STOR	DS_d173313e7e	NRHc5041.ENR.STOR				Botswana	0.056 +/- 0.078		Cryptococcus neoformans var. grubii NRHc5041.ENR.STOR	Cryptococcus neoformans var. grubii		0.444				0.196 +/- 0.037	VNBI		alpha	Human	0.031 +/- 0.054	Clinical			
+NRHc5042.ENR.STOR	DS_d173313e7e	NRHc5042.ENR.STOR				Botswana	0.218 +/- 0.308		Cryptococcus neoformans var. grubii NRHc5042.ENR.STOR	Cryptococcus neoformans var. grubii		0.133				0.352 +/- 0.012	VNBI		alpha	Human	0.725 +/- 0.595	Clinical			
+NRHc5044.REL.INI.CLIN.ISO	DS_d173313e7e	NRHc5044.REL.INI.CLIN.ISO				Botswana			Cryptococcus neoformans var. grubii NRHc5044.REL.INI.CLIN.ISO	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+NRHc5045.ENR.CLIN.ISO	DS_d173313e7e	NRHc5045.ENR.CLIN.ISO				Botswana	0.002 +/- 0.003		Cryptococcus neoformans var. grubii NRHc5045.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0				0.112 +/- 0.000	VNBI		a	Human	1.023 +/- 0.199	Clinical			
+NRHc5048.ENR.ISO	DS_d173313e7e	NRHc5048.ENR.ISO				Botswana			Cryptococcus neoformans var. grubii NRHc5048.ENR.ISO	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+PLR10	DS_d173313e7e	PLR10				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii PLR10	Cryptococcus neoformans var. grubii		0.496				0.224 +/- 0.012	VNBI		alpha	Mopane tree	0.794 +/- 0.193	Mopane tree			
+PMHc1001.ENR	DS_d173313e7e	PMHc1001.ENR				Botswana	0.471 +/- 0.666		Cryptococcus neoformans var. grubii PMHc1001.ENR	Cryptococcus neoformans var. grubii		0				0.364 +/- 0.148	VNBI		alpha	Human	0.725 +/- 0.629	Clinical			
+PMHc1002.ENR	DS_d173313e7e	PMHc1002.ENR				Botswana	0.121 +/- 0.171		Cryptococcus neoformans var. grubii PMHc1002.ENR	Cryptococcus neoformans var. grubii		0.375				0.204 +/- 0.021	VNBII		alpha	Human	0.338 +/- 0.438	Clinical			
+PMHc1009.ENR	DS_d173313e7e	PMHc1009.ENR				Botswana	0.296 +/- 0.171		Cryptococcus neoformans var. grubii PMHc1009.ENR	Cryptococcus neoformans var. grubii		0.283				0.150 +/- 0.004	VNBII		alpha	Human	0.924 +/- 0.166	Clinical			
+PMHc1011.ENR	DS_d173313e7e	PMHc1011.ENR				Botswana	0.029 +/- 0.040		Cryptococcus neoformans var. grubii PMHc1011.ENR	Cryptococcus neoformans var. grubii		0.5				0.261 +/- 0.017	VNBI		a	Human	0.849 +/- 0.188	Clinical			
+PMHc1014.ENR	DS_d173313e7e	PMHc1014.ENR				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii PMHc1014.ENR	Cryptococcus neoformans var. grubii		0.556				0.238 +/- 0.013	VNBI		a	Human	0.894 +/- 0.187	Clinical			
+PMHc1018.ENR	DS_d173313e7e	PMHc1018.ENR				Botswana			Cryptococcus neoformans var. grubii PMHc1018.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+PMHc1020.CLIN.1	DS_d173313e7e	PMHc1020.CLIN.1				Botswana			Cryptococcus neoformans var. grubii PMHc1020.CLIN.1	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+PMHc1022.ENR	DS_d173313e7e	PMHc1022.ENR				Botswana			Cryptococcus neoformans var. grubii PMHc1022.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+PMHc1023.ENR	DS_d173313e7e	PMHc1023.ENR				Botswana			Cryptococcus neoformans var. grubii PMHc1023.ENR	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+PMHc1024.ENR	DS_d173313e7e	PMHc1024.ENR				Botswana	0.065 +/- 0.091		Cryptococcus neoformans var. grubii PMHc1024.ENR	Cryptococcus neoformans var. grubii		0.373				0.680 +/- 0.096	VNBII		a	Human	0.324 +/- 0.367	Clinical			
+PMHc1026.ENR	DS_d173313e7e	PMHc1026.ENR				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii PMHc1026.ENR	Cryptococcus neoformans var. grubii		0.072				0.225 +/- 0.044	VNBI		alpha	Human	0.262 +/- 0.366	Clinical			
+PMHc1029.ENR.STOR	DS_d173313e7e	PMHc1029.ENR.STOR				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii PMHc1029.ENR.STOR	Cryptococcus neoformans var. grubii		0				0.263 +/- 0.086	VNBII		alpha	Human	0.031 +/- 0.053	Clinical			
+PMHc1030.ENR.CLIN.ISO	DS_d173313e7e	PMHc1030.ENR.CLIN.ISO				Botswana	0.643 +/- 0.241		Cryptococcus neoformans var. grubii PMHc1030.ENR.CLIN.ISO	Cryptococcus neoformans var. grubii		0.341				0.176 +/- 0.021	VNBI		alpha	Human	0.863 +/- 0.119	Clinical			
+PMHc1031A.ENR.INI.LP	DS_d173313e7e	PMHc1031A.ENR.INI.LP				Botswana			Cryptococcus neoformans var. grubii PMHc1031A.ENR.INI.LP	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+PMHc1032.ENR	DS_d173313e7e	PMHc1032.ENR				Botswana			Cryptococcus neoformans var. grubii PMHc1032.ENR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+PMHc1033.ENR	DS_d173313e7e	PMHc1033.ENR				Botswana	0.543 +/- 0.313		Cryptococcus neoformans var. grubii PMHc1033.ENR	Cryptococcus neoformans var. grubii		0.004				0.141 +/- 0.045	VNBII		alpha	Human	0.936 +/- 0.226	Clinical			
+PMHc1034.ENR.STOR	DS_d173313e7e	PMHc1034.ENR.STOR				Botswana			Cryptococcus neoformans var. grubii PMHc1034.ENR.STOR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+PMHc1035.ENR.STOR	DS_d173313e7e	PMHc1035.ENR.STOR				Botswana	0.000 +/- 0.000		Cryptococcus neoformans var. grubii PMHc1035.ENR.STOR	Cryptococcus neoformans var. grubii		0.059				0.407 +/- 0.071	VNBII		alpha	Human	0.286 +/- 0.267	Clinical			
+PMHc1038.ENR.CLIN1	DS_d173313e7e	PMHc1038.ENR.CLIN1				Botswana	0.572 +/- 0.544		Cryptococcus neoformans var. grubii PMHc1038.ENR.CLIN1	Cryptococcus neoformans var. grubii		0.354				0.144 +/- 0.023	VNBI		alpha	Human	1.055 +/- 0.104	Clinical			
+PMHc1039.ENR.STOR	DS_d173313e7e	PMHc1039.ENR.STOR				Botswana			Cryptococcus neoformans var. grubii PMHc1039.ENR.STOR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+PMHc1040.ENR.STOR	DS_d173313e7e	PMHc1040.ENR.STOR				Botswana			Cryptococcus neoformans var. grubii PMHc1040.ENR.STOR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			
+PMHc1043.ENR.STOR	DS_d173313e7e	PMHc1043.ENR.STOR				Botswana			Cryptococcus neoformans var. grubii PMHc1043.ENR.STOR	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIc
+PMHc1047.ENR.CLIN1	DS_d173313e7e	PMHc1047.ENR.CLIN1				Botswana	0.529 +/- 0.673		Cryptococcus neoformans var. grubii PMHc1047.ENR.CLIN1	Cryptococcus neoformans var. grubii		0.042				0.526 +/- 0.398	VNBII		alpha	Human	0.385 +/- 0.334	Clinical			
+PMHc1049.THER1.STOR	DS_d173313e7e	PMHc1049.THER1.STOR				Botswana	0.069 +/- 0.084		Cryptococcus neoformans var. grubii PMHc1049.THER1.STOR	Cryptococcus neoformans var. grubii		0				0.194 +/- 0.081	VNBII		alpha	Human	0.699 +/- 0.264	Clinical			
+PMHc1050.ENR.CLIN1	DS_d173313e7e	PMHc1050.ENR.CLIN1				Botswana	0.484 +/- 0.249		Cryptococcus neoformans var. grubii PMHc1050.ENR.CLIN1	Cryptococcus neoformans var. grubii		0.011				0.142 +/- 0.056	VNBI		alpha	Human	0.849 +/- 0.094	Clinical			
+PMHc1052.ENR.STOR	DS_d173313e7e	PMHc1052.ENR.STOR				Botswana	0.261 +/- 0.182		Cryptococcus neoformans var. grubii PMHc1052.ENR.STOR	Cryptococcus neoformans var. grubii		0.384				0.262 +/- 0.048	VNBII		a	Human	0.923 +/- 0.135	Clinical			
+Pr284-1	DS_d173313e7e	Pr284-1				Botswana			Cryptococcus neoformans var. grubii Pr284-1	Cryptococcus neoformans var. grubii							VNI		alpha	aves		feces			VNIb
+Pr68	DS_d173313e7e	Pr68				S. Africa			Cryptococcus neoformans var. grubii Pr68	Cryptococcus neoformans var. grubii							VNI		alpha	pigeon		feces			VNIb
+RTC1	DS_d173313e7e	RTC1				Botswana			Cryptococcus neoformans var. grubii RTC1	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIa
+RTC3	DS_d173313e7e	RTC3				Botswana	0.015 +/- 0.021		Cryptococcus neoformans var. grubii RTC3	Cryptococcus neoformans var. grubii		0.469	HIV+			0.251 +/- 0.069	VNBI		alpha	Human	0.585 +/- 0.266	Cerebrospinal fluid			
+RTC5	DS_d173313e7e	RTC5				Botswana			Cryptococcus neoformans var. grubii RTC5	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		Cerebrospinal fluid			VNIc
+T4	DS_d173313e7e	T4				USA			Cryptococcus neoformans var. grubii T4	Cryptococcus neoformans var. grubii							VNII		alpha	oak tree		oak tree			
+TCl-11	DS_d173313e7e	TCl-11				Togo			Cryptococcus neoformans var. grubii TCl-11	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+TCl-14	DS_d173313e7e	TCl-14				Togo			Cryptococcus neoformans var. grubii TCl-14	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+Th206	DS_d173313e7e	Th206				Thailand			Cryptococcus neoformans var. grubii Th206	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		blood			VNIa
+Th84	DS_d173313e7e	Th84				Thailand			Cryptococcus neoformans var. grubii Th84	Cryptococcus neoformans var. grubii			HIV+				VNI		alpha	Human		blood			VNIa
+Tu229-1	DS_d173313e7e	Tu229-1				Botswana	0.475 +/- 0.172		Cryptococcus neoformans var. grubii Tu229-1	Cryptococcus neoformans var. grubii		0.675				0.222 +/- 0.061	VNBI		alpha	Mopane tree	0.880 +/- 0.238	Mopane tree			
+Tu241-1	DS_d173313e7e	Tu241-1				Botswana			Cryptococcus neoformans var. grubii Tu241-1	Cryptococcus neoformans var. grubii							VNI		alpha	Mopane tree		Mopane tree			
+Tu259-1	DS_d173313e7e	Tu259-1				Botswana			Cryptococcus neoformans var. grubii Tu259-1	Cryptococcus neoformans var. grubii							VNI		alpha	Mopane tree		Mopane tree			VNIa
+Tu360-1	DS_d173313e7e	Tu360-1				Botswana	0.165 +/- 0.110		Cryptococcus neoformans var. grubii Tu360-1	Cryptococcus neoformans var. grubii		0.451				0.173 +/- 0.040	VNBI		alpha	Mopane tree	0.493 +/- 0.347	Mopane tree			
+Tu369-1	DS_d173313e7e	Tu369-1				Botswana	0.027 +/- 0.038		Cryptococcus neoformans var. grubii Tu369-1	Cryptococcus neoformans var. grubii		0.647				0.170 +/- 0.025	VNBI		alpha	Mopane tree	1.025 +/- 0.258	Mopane tree			
+Tu401-1	DS_d173313e7e	Tu401-1				Botswana			Cryptococcus neoformans var. grubii Tu401-1	Cryptococcus neoformans var. grubii							VNBI		alpha	Mopane tree		Mopane tree			
+Tu406-1	DS_d173313e7e	Tu406-1				Botswana	0.002 +/- 0.003		Cryptococcus neoformans var. grubii Tu406-1	Cryptococcus neoformans var. grubii		0.523				0.160 +/- 0.057	VNBI		alpha	Mopane tree	0.986 +/- 0.321	Mopane tree			
+Tu416-1	DS_d173313e7e	Tu416-1				Botswana	0.200 +/- 0.136		Cryptococcus neoformans var. grubii Tu416-1	Cryptococcus neoformans var. grubii		0.227				0.201 +/- 0.071	VNBI		alpha	Mopane tree	0.746 +/- 0.423	Mopane tree			
+Tu422-1	DS_d173313e7e	Tu422-1				Botswana	0.005 +/- 0.008		Cryptococcus neoformans var. grubii Tu422-1	Cryptococcus neoformans var. grubii		0.918				0.171 +/- 0.001	VNBI		a	Mopane tree	1.028 +/- 0.184	Mopane tree			
+Ug2459	DS_d173313e7e	Ug2459				Uganda			Cryptococcus neoformans var. grubii Ug2459	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+Ug2462	DS_d173313e7e	Ug2462				Uganda			Cryptococcus neoformans var. grubii Ug2462	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+Ug2463	DS_d173313e7e	Ug2463				Uganda			Cryptococcus neoformans var. grubii Ug2463	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIa
+WM148	DS_d173313e7e	WM148				Australia			Cryptococcus neoformans var. grubii WM148	Cryptococcus neoformans var. grubii							VNI		alpha	Human		Clinical			VNIb
+WM626	DS_d173313e7e	WM626				Australia			Cryptococcus neoformans var. grubii WM626	Cryptococcus neoformans var. grubii							VNII		alpha	Human		Clinical			
+Ze90-1	DS_d173313e7e	Ze90-1				S. Africa			Cryptococcus neoformans var. grubii Ze90-1	Cryptococcus neoformans var. grubii							VNBII		alpha	Eucalyptus tree		Eucalyptus tree			
+18E21177	DS_c4cb3d9b82	18E21177			Europe	United Kingdom			Cryptococcus neoformans 18E21177	Cryptococcus neoformans	Glasgow									Homo sapiens		blood			
+18E26410	DS_c4cb3d9b82	18E26410			Europe	United Kingdom			Cryptococcus neoformans 18E26410	Cryptococcus neoformans	Glasgow									Homo sapiens		blood			
+36917	DS_c4cb3d9b82	36917			Europe	United Kingdom			Cryptococcus neoformans 36917	Cryptococcus neoformans	Glasgow									Homo sapiens		blood			
+38484	DS_c4cb3d9b82	38484			Europe	United Kingdom			Cryptococcus neoformans 38484	Cryptococcus neoformans	Glasgow									Homo sapiens		blood			
+1600-1	DS_61695ad8ff	1600-1			Africa	Uganda			Cryptococcus neoformans var. grubii 1600-1	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				FLC 16,000 mg/dfor 14 d	
+1600-1-d106	DS_61695ad8ff	1600-1-d106			Africa	Uganda			Cryptococcus neoformans var. grubii 1600-1-d106	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+CCTP27	DS_61695ad8ff	CCTP27			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP27	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 3 d	
+CCTP27-d121	DS_61695ad8ff	CCTP27-d121			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP27-d121	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				VOR until CD4 > 200 cells/ul	
+CCTP32	DS_61695ad8ff	CCTP32			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP32	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+CCTP32-d132	DS_61695ad8ff	CCTP32-d132			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP32-d132	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+CCTP50	DS_61695ad8ff	CCTP50			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP50	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 14 d	
+CCTP50-d257	DS_61695ad8ff	CCTP50-d257			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP50-d257	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 14 d	
+CCTP50-d409	DS_61695ad8ff	CCTP50-d409			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP50-d409	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+CCTP52	DS_61695ad8ff	CCTP52			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP52	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				FLC 400 mg/d	
+CCTP52-d55	DS_61695ad8ff	CCTP52-d55			Africa	South Africa			Cryptococcus neoformans var. grubii CCTP52-d55	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				FLC 400 mg/d	
+IFNR11	DS_61695ad8ff	IFNR11			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR11	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR11-d203	DS_61695ad8ff	IFNR11-d203			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR11-d203	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR13	DS_61695ad8ff	IFNR13			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR13	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR13-d95	DS_61695ad8ff	IFNR13-d95			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR13-d95	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR14	DS_61695ad8ff	IFNR14			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR14	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR14-d97	DS_61695ad8ff	IFNR14-d97			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR14-d97	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR18	DS_61695ad8ff	IFNR18			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR18	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR18-d134	DS_61695ad8ff	IFNR18-d134			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR18-d134	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR19-d111	DS_61695ad8ff	IFNR19-d111			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR19-d111	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR23	DS_61695ad8ff	IFNR23			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR23	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR23-d179	DS_61695ad8ff	IFNR23-d179			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR23-d179	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR24	DS_61695ad8ff	IFNR24			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR24	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR24-d101	DS_61695ad8ff	IFNR24-d101			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR24-d101	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR27	DS_61695ad8ff	IFNR27			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR27	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR27-d204	DS_61695ad8ff	IFNR27-d204			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR27-d204	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR6	DS_61695ad8ff	IFNR6			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR6	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 7 d	
+IFNR6-d73	DS_61695ad8ff	IFNR6-d73			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR6-d73	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+IFNR63	DS_61695ad8ff	IFNR63			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR63	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB plus 5FC	
+IFNR63-d126	DS_61695ad8ff	IFNR63-d126			Africa	South Africa			Cryptococcus neoformans var. grubii IFNR63-d126	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens					
+RCT24	DS_61695ad8ff	RCT24			Africa	South Africa			Cryptococcus neoformans var. grubii RCT24	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB plus 5FC for 14 d	
+RCT24-d154	DS_61695ad8ff	RCT24-d154			Africa	South Africa			Cryptococcus neoformans var. grubii RCT24-d154	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				FLC 800 mg/d	
+RCT9	DS_61695ad8ff	RCT9			Africa	South Africa			Cryptococcus neoformans var. grubii RCT9	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB 0.7 mg/kg/dplus 5FC for 14 d	
+RCT9-d99	DS_61695ad8ff	RCT9-d99			Africa	South Africa			Cryptococcus neoformans var. grubii RCT9-d99	Cryptococcus neoformans var. grubii			Cryptococcal meningitis							Homo sapiens				AmB until death	
+Zc01	DS_deae9fcd2a	Zc01				Zambia			Cryptococcus neoformans Zc01	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc02	DS_deae9fcd2a	Zc02				Zambia			Cryptococcus neoformans Zc02	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc04	DS_deae9fcd2a	Zc04				Zambia			Cryptococcus neoformans Zc04	Cryptococcus neoformans							VNB-II		alpha	Homo sapiens		Clinical			
+Zc05	DS_deae9fcd2a	Zc05				Zambia			Cryptococcus neoformans Zc05	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc06	DS_deae9fcd2a	Zc06				Zambia			Cryptococcus neoformans Zc06	Cryptococcus neoformans							VNII		alpha	Homo sapiens		Clinical			
+Zc07	DS_deae9fcd2a	Zc07				Zambia			Cryptococcus neoformans Zc07	Cryptococcus neoformans							VNB-II		alpha	Homo sapiens		Clinical			
+Zc08	DS_deae9fcd2a	Zc08				Zambia			Cryptococcus neoformans Zc08	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc10	DS_deae9fcd2a	Zc10				Zambia			Cryptococcus neoformans Zc10	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc12	DS_deae9fcd2a	Zc12				Zambia			Cryptococcus neoformans Zc12	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc13	DS_deae9fcd2a	Zc13				Zambia			Cryptococcus neoformans Zc13	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc14	DS_deae9fcd2a	Zc14				Zambia			Cryptococcus neoformans Zc14	Cryptococcus neoformans							VNII		alpha	Homo sapiens		Clinical			
+Zc15	DS_deae9fcd2a	Zc15				Zambia			Cryptococcus neoformans Zc15	Cryptococcus neoformans							VNB-II		alpha	Homo sapiens		Clinical			
+Zc16	DS_deae9fcd2a	Zc16				Zambia			Cryptococcus neoformans Zc16	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc18	DS_deae9fcd2a	Zc18				Zambia			Cryptococcus neoformans Zc18	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc21	DS_deae9fcd2a	Zc21				Zambia			Cryptococcus neoformans Zc21	Cryptococcus neoformans							VNB-II		alpha	Homo sapiens		Clinical			
+Zc23	DS_deae9fcd2a	Zc23				Zambia			Cryptococcus neoformans Zc23	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc24	DS_deae9fcd2a	Zc24				Zambia			Cryptococcus neoformans Zc24	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc26	DS_deae9fcd2a	Zc26				Zambia			Cryptococcus neoformans Zc26	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc27	DS_deae9fcd2a	Zc27				Zambia			Cryptococcus neoformans Zc27	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc28	DS_deae9fcd2a	Zc28				Zambia			Cryptococcus neoformans Zc28	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc29	DS_deae9fcd2a	Zc29				Zambia			Cryptococcus neoformans Zc29	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc30	DS_deae9fcd2a	Zc30				Zambia			Cryptococcus neoformans Zc30	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Zc32	DS_deae9fcd2a	Zc32				Zambia			Cryptococcus neoformans Zc32	Cryptococcus neoformans							VNII		alpha	Homo sapiens		Clinical			
+Zc34	DS_deae9fcd2a	Zc34				Zambia			Cryptococcus neoformans Zc34	Cryptococcus neoformans							VNI		alpha	Homo sapiens		Clinical			
+Ze1	DS_deae9fcd2a	Ze1				Zambia			Cryptococcus neoformans Ze1	Cryptococcus neoformans							VNB-II		?	Colophospermum mopane		Rural			
+Ze10	DS_deae9fcd2a	Ze10				Zambia			Cryptococcus neoformans Ze10	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze11	DS_deae9fcd2a	Ze11				Zambia			Cryptococcus neoformans Ze11	Cryptococcus neoformans							VNI		alpha	Colophospermum mopane		Rural			
+Ze12	DS_deae9fcd2a	Ze12				Zambia			Cryptococcus neoformans Ze12	Cryptococcus neoformans							VNI		?	Colophospermum mopane		Rural			
+Ze13	DS_deae9fcd2a	Ze13				Zambia			Cryptococcus neoformans Ze13	Cryptococcus neoformans							VNI		alpha	Colophospermum mopane		Rural			
+Ze14	DS_deae9fcd2a	Ze14				Zambia			Cryptococcus neoformans Ze14	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze15	DS_deae9fcd2a	Ze15				Zambia			Cryptococcus neoformans Ze15	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze16	DS_deae9fcd2a	Ze16				Zambia			Cryptococcus neoformans Ze16	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze17	DS_deae9fcd2a	Ze17				Zambia			Cryptococcus neoformans Ze17	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze18	DS_deae9fcd2a	Ze18				Zambia			Cryptococcus neoformans Ze18	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze19	DS_deae9fcd2a	Ze19				Zambia			Cryptococcus neoformans Ze19	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze2	DS_deae9fcd2a	Ze2				Zambia			Cryptococcus neoformans Ze2	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze20	DS_deae9fcd2a	Ze20				Zambia			Cryptococcus neoformans Ze20	Cryptococcus neoformans							VNB-II		?	Colophospermum mopane		Rural			
+Ze21	DS_deae9fcd2a	Ze21				Zambia			Cryptococcus neoformans Ze21	Cryptococcus neoformans							VNB-I		alpha	Colophospermum mopane		Rural			
+Ze22	DS_deae9fcd2a	Ze22				Zambia			Cryptococcus neoformans Ze22	Cryptococcus neoformans							VNB-I		alpha	Colophospermum mopane		Rural			
+Ze23	DS_deae9fcd2a	Ze23				Zambia			Cryptococcus neoformans Ze23	Cryptococcus neoformans							VNB-I		alpha	Colophospermum mopane		Rural			
+Ze3	DS_deae9fcd2a	Ze3				Zambia			Cryptococcus neoformans Ze3	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze4	DS_deae9fcd2a	Ze4				Zambia			Cryptococcus neoformans Ze4	Cryptococcus neoformans							VNB-II		?	Colophospermum mopane		Rural			
+Ze5	DS_deae9fcd2a	Ze5				Zambia			Cryptococcus neoformans Ze5	Cryptococcus neoformans							VNB-II		?	Colophospermum mopane		Rural			
+Ze6	DS_deae9fcd2a	Ze6				Zambia			Cryptococcus neoformans Ze6	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+Ze7	DS_deae9fcd2a	Ze7				Zambia			Cryptococcus neoformans Ze7	Cryptococcus neoformans							VNB-II		?	Colophospermum mopane		Rural			
+Ze9	DS_deae9fcd2a	Ze9				Zambia			Cryptococcus neoformans Ze9	Cryptococcus neoformans							VNB-I		?	Colophospermum mopane		Rural			
+DAR0101	DS_12704c2bf5	DAR0101				Tanzania			Cryptococcus neoformans DAR0101	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR0101R	DS_12704c2bf5	DAR0101R				Tanzania		heteroresistant	Cryptococcus neoformans DAR0101R	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR0122	DS_12704c2bf5	DAR0122				Tanzania			Cryptococcus neoformans DAR0122	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 22 days	
+DAR01690	DS_12704c2bf5	DAR01690				Tanzania			Cryptococcus neoformans DAR01690	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 90 days	
+DAR01690R	DS_12704c2bf5	DAR01690R				Tanzania		heteroresistant	Cryptococcus neoformans DAR01690R	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 90 days	
+DAR0190	DS_12704c2bf5	DAR0190				Tanzania			Cryptococcus neoformans DAR0190	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 90 day	
+DAR0201	DS_12704c2bf5	DAR0201				Tanzania			Cryptococcus neoformans DAR0201	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR0201R	DS_12704c2bf5	DAR0201R				Tanzania		heteroresistant	Cryptococcus neoformans DAR0201R	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR02150	DS_12704c2bf5	DAR02150				Tanzania			Cryptococcus neoformans DAR02150	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 50 days	
+DAR02356	DS_12704c2bf5	DAR02356				Tanzania			Cryptococcus neoformans DAR02356	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 356 days	
+DAR0290	DS_12704c2bf5	DAR0290				Tanzania			Cryptococcus neoformans DAR0290	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 90 days	
+DAR0301	DS_12704c2bf5	DAR0301				Tanzania			Cryptococcus neoformans DAR0301	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR0301R	DS_12704c2bf5	DAR0301R				Tanzania		heteroresistant	Cryptococcus neoformans DAR0301R	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR0601	DS_12704c2bf5	DAR0601				Tanzania			Cryptococcus neoformans DAR0601	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR0601R	DS_12704c2bf5	DAR0601R				Tanzania		heteroresistant	Cryptococcus neoformans DAR0601R	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 1 day	
+DAR0704	DS_12704c2bf5	DAR0704				Tanzania			Cryptococcus neoformans DAR0704	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 4 days	
+DAR0704R	DS_12704c2bf5	DAR0704R				Tanzania		heteroresistant	Cryptococcus neoformans DAR0704R	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 4 days	
+DAR0715C1	DS_12704c2bf5	DAR0715C1				Tanzania			Cryptococcus neoformans DAR0715C1	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 15 days	
+DAR0715C2	DS_12704c2bf5	DAR0715C2				Tanzania			Cryptococcus neoformans DAR0715C2	Cryptococcus neoformans			HIV+									Lumbar punctures	Muhimbili Hospital	FLC - 15 days	
+DAR0801	DS_12704c2bf5	DAR0801				Tanzania			Cryptococcus neoformans DAR0801	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR0801R1	DS_12704c2bf5	DAR0801R1				Tanzania		heteroresistant	Cryptococcus neoformans DAR0801R1	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR0801R2	DS_12704c2bf5	DAR0801R2				Tanzania		heteroresistant	Cryptococcus neoformans DAR0801R2	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR0815	DS_12704c2bf5	DAR0815				Tanzania			Cryptococcus neoformans DAR0815	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 15 days	
+DAR0815R1	DS_12704c2bf5	DAR0815R1				Tanzania		heteroresistant	Cryptococcus neoformans DAR0815R1	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 15 days	
+DAR0815R2	DS_12704c2bf5	DAR0815R2				Tanzania		heteroresistant	Cryptococcus neoformans DAR0815R2	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 15 days	
+DAR0901	DS_12704c2bf5	DAR0901				Tanzania			Cryptococcus neoformans DAR0901	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR0901R	DS_12704c2bf5	DAR0901R				Tanzania		heteroresistant	Cryptococcus neoformans DAR0901R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR0914	DS_12704c2bf5	DAR0914				Tanzania			Cryptococcus neoformans DAR0914	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 14 days	
+DAR1001	DS_12704c2bf5	DAR1001				Tanzania			Cryptococcus neoformans DAR1001	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1001R	DS_12704c2bf5	DAR1001R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1001R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1011	DS_12704c2bf5	DAR1011				Tanzania			Cryptococcus neoformans DAR1011	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 11 day	
+DAR1101	DS_12704c2bf5	DAR1101				Tanzania			Cryptococcus neoformans DAR1101	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1101R	DS_12704c2bf5	DAR1101R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1101R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1107	DS_12704c2bf5	DAR1107				Tanzania			Cryptococcus neoformans DAR1107	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 7 days	
+DAR1301	DS_12704c2bf5	DAR1301				Tanzania			Cryptococcus neoformans DAR1301	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1301R	DS_12704c2bf5	DAR1301R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1301R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1401	DS_12704c2bf5	DAR1401				Tanzania			Cryptococcus neoformans DAR1401	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1401R	DS_12704c2bf5	DAR1401R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1401R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1405	DS_12704c2bf5	DAR1405				Tanzania			Cryptococcus neoformans DAR1405	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 5 days	
+DAR1501	DS_12704c2bf5	DAR1501				Tanzania			Cryptococcus neoformans DAR1501	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1501R	DS_12704c2bf5	DAR1501R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1501R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1513	DS_12704c2bf5	DAR1513				Tanzania			Cryptococcus neoformans DAR1513	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 13 days	
+DAR1513R1	DS_12704c2bf5	DAR1513R1				Tanzania		heteroresistant	Cryptococcus neoformans DAR1513R1	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 13 days	
+DAR1513R2	DS_12704c2bf5	DAR1513R2				Tanzania		heteroresistant	Cryptococcus neoformans DAR1513R2	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 13 days	
+DAR1601	DS_12704c2bf5	DAR1601				Tanzania			Cryptococcus neoformans DAR1601	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1601R	DS_12704c2bf5	DAR1601R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1601R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1701	DS_12704c2bf5	DAR1701				Tanzania			Cryptococcus neoformans DAR1701	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1703R	DS_12704c2bf5	DAR1703R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1703R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 1 day	
+DAR1717	DS_12704c2bf5	DAR1717				Tanzania			Cryptococcus neoformans DAR1717	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC - 17 days	
+DAR1801	DS_12704c2bf5	DAR1801				Tanzania			Cryptococcus neoformans DAR1801	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC and 5FC - 1 day	
+DAR1801R	DS_12704c2bf5	DAR1801R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1801R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC and 5FC - 1 day	
+DAR1805	DS_12704c2bf5	DAR1805				Tanzania			Cryptococcus neoformans DAR1805	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC and 5FC - 5 days	
+DAR1901	DS_12704c2bf5	DAR1901				Tanzania			Cryptococcus neoformans DAR1901	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC and 5FC - 1 day	
+DAR1901R	DS_12704c2bf5	DAR1901R				Tanzania		heteroresistant	Cryptococcus neoformans DAR1901R	Cryptococcus neoformans			HIV+									Lumbar punctures	Amana Hospital	FLC and 5FC - 1 day	
+DAR1914	DS_12704c2bf5	DAR1914				Tanzania			Cryptococcus neoformans DAR1914	Cryptococcus neoformans			HIV+									Lumbar punctures	Mwananyamala Hospital	FLC and 5FC - 14 days	
+DAR2101	DS_12704c2bf5	DAR2101				Tanzania			Cryptococcus neoformans DAR2101	Cryptococcus neoformans			HIV+									Lumbar punctures	Mwananyamala Hospital	FLC and 5FC - 2 days	
+DAR2101R	DS_12704c2bf5	DAR2101R				Tanzania		heteroresistant	Cryptococcus neoformans DAR2101R	Cryptococcus neoformans			HIV+									Lumbar punctures	Mwananyamala Hospital	FLC and 5FC - 1 day	
+DAR2301	DS_12704c2bf5	DAR2301				Tanzania			Cryptococcus neoformans DAR2301	Cryptococcus neoformans			HIV+									Lumbar punctures	Mwananyamala Hospital	FLC and 5FC - 1 day	
+DAR2301R	DS_12704c2bf5	DAR2301R				Tanzania		heteroresistant	Cryptococcus neoformans DAR2301R	Cryptococcus neoformans			HIV+									Lumbar punctures	Mwananyamala Hospital	FLC and 5FC - 1 day	
+DAR2401	DS_12704c2bf5	DAR2401				Tanzania			Cryptococcus neoformans DAR2401	Cryptococcus neoformans			HIV+									Lumbar punctures	Mwananyamala Hospital	FLC and 5FC - 1 day	
+DAR2401R	DS_12704c2bf5	DAR2401R				Tanzania		heteroresistant	Cryptococcus neoformans DAR2401R	Cryptococcus neoformans			HIV+									Lumbar punctures	Mwananyamala Hospital	FLC and 5FC - 1 day	
+TAU02356	DS_12704c2bf5	TAU02356						Lab strain	Cryptococcus neoformans TAU02356	Cryptococcus neoformans															
+TAU1501	DS_12704c2bf5	TAU1501						Lab strain	Cryptococcus neoformans TAU1501	Cryptococcus neoformans															
+TAU190	DS_12704c2bf5	TAU190						Lab strain	Cryptococcus neoformans TAU190	Cryptococcus neoformans															
+UgCl001	DS_3a733c246d	UgCl001	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl001	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl008	DS_3a733c246d	UgCl008	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl008	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl018	DS_3a733c246d	UgCl018	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl018	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl021	DS_3a733c246d	UgCl021	2007	2007	Africa	Uganda			Cryptococcus neoformans UgCl021	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl029	DS_3a733c246d	UgCl029	2007	2007	Africa	Uganda			Cryptococcus neoformans UgCl029	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl030	DS_3a733c246d	UgCl030	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl030	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl032	DS_3a733c246d	UgCl032	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl032	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl037	DS_3a733c246d	UgCl037	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl037	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl040	DS_3a733c246d	UgCl040	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl040	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl045	DS_3a733c246d	UgCl045	2006	2006	Africa	Uganda			Cryptococcus neoformans UgCl045	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl047	DS_3a733c246d	UgCl047	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl047	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl057	DS_3a733c246d	UgCl057	2007	2007	Africa	Uganda			Cryptococcus neoformans UgCl057	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl065	DS_3a733c246d	UgCl065	2006	2006	Africa	Uganda			Cryptococcus neoformans UgCl065	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl087	DS_3a733c246d	UgCl087	2008	2008	Africa	Uganda			Cryptococcus neoformans UgCl087	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl093	DS_3a733c246d	UgCl093	2006	2006	Africa	Uganda			Cryptococcus neoformans UgCl093	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl107	DS_3a733c246d	UgCl107	2007	2007	Africa	Uganda			Cryptococcus neoformans UgCl107	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl212	DS_3a733c246d	UgCl212	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl212	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl236	DS_3a733c246d	UgCl236	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl236	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl243	DS_3a733c246d	UgCl243	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl243	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl247	DS_3a733c246d	UgCl247	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl247	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl250	DS_3a733c246d	UgCl250	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl250	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl252	DS_3a733c246d	UgCl252	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl252	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl255	DS_3a733c246d	UgCl255	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl255	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl262	DS_3a733c246d	UgCl262	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl262	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl291	DS_3a733c246d	UgCl291	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl291	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl292	DS_3a733c246d	UgCl292	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl292	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl300	DS_3a733c246d	UgCl300	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl300	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl326	DS_3a733c246d	UgCl326	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl326	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl332	DS_3a733c246d	UgCl332	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl332	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl357	DS_3a733c246d	UgCl357	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl357	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl360	DS_3a733c246d	UgCl360	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl360	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl362	DS_3a733c246d	UgCl362	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl362	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl377	DS_3a733c246d	UgCl377	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl377	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl379	DS_3a733c246d	UgCl379	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl379	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl382	DS_3a733c246d	UgCl382	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl382	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl389	DS_3a733c246d	UgCl389	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl389	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl390	DS_3a733c246d	UgCl390	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl390	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl393	DS_3a733c246d	UgCl393	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl393	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl395	DS_3a733c246d	UgCl395	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl395	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl422	DS_3a733c246d	UgCl422	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl422	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl438	DS_3a733c246d	UgCl438	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl438	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl443	DS_3a733c246d	UgCl443	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl443	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl447	DS_3a733c246d	UgCl447	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl447	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl450	DS_3a733c246d	UgCl450	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl450	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl461	DS_3a733c246d	UgCl461	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl461	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl462	DS_3a733c246d	UgCl462	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl462	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl466	DS_3a733c246d	UgCl466	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl466	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl468	DS_3a733c246d	UgCl468	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl468	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl495	DS_3a733c246d	UgCl495	2011	2011	Africa	Uganda			Cryptococcus neoformans UgCl495	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl534	DS_3a733c246d	UgCl534	2012	2012	Africa	Uganda			Cryptococcus neoformans UgCl534	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl535	DS_3a733c246d	UgCl535	2012	2012	Africa	Uganda			Cryptococcus neoformans UgCl535	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl538	DS_3a733c246d	UgCl538	2012	2012	Africa	Uganda			Cryptococcus neoformans UgCl538	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl541	DS_3a733c246d	UgCl541	2012	2012	Africa	Uganda			Cryptococcus neoformans UgCl541	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl546	DS_3a733c246d	UgCl546	2012	2012	Africa	Uganda			Cryptococcus neoformans UgCl546	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl547	DS_3a733c246d	UgCl547	2012	2012	Africa	Uganda			Cryptococcus neoformans UgCl547	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			
+UgCl549	DS_3a733c246d	UgCl549	2012	2012	Africa	Uganda			Cryptococcus neoformans UgCl549	Cryptococcus neoformans	Kampala		cryptocococcal meningitis	HIV+	0.3381 N			32.5761 E		Homo sapiens		cerebrospinal fluid			

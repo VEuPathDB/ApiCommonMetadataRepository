@@ -1,0 +1,65 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	collection_date_original	collection_year	country	haplogroup	host_common_name	organism	parasite_organism	parasite_strain	specimen
+RH	DS_704614611c	RH							Toxoplasma gondii	Toxoplasma gondii RH	specimen from organism
+CZ_cloneH3	DS_cba7458ad8	CZ_cloneH3			Czech Republic		Siberian tiger	Panthera tigris altaica	Toxoplasma gondii	Toxoplasma gondii CZ_cloneH3	Cloned by limiting dilution from Siberian tiger feces
+ARI	DS_6a38ffd412	ARI	1992	1992	USA	12		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii ARI	cell specimen
+B41	DS_6a38ffd412	B41	1994	1994	USA	12		Ursus sp.	Toxoplasma gondii	Toxoplasma gondii B41	cell specimen
+B73	DS_6a38ffd412	B73	1994	1994		2		Ursus sp.	Toxoplasma gondii	Toxoplasma gondii B73	cell specimen
+BOF	DS_6a38ffd412	BOF	1993	1993		6a		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BOF	cell specimen
+BRC_TgH_18001_GUY-DOS	DS_6a38ffd412	BRC_TgH_18001_GUY-DOS	1997	1997		10		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18001 GUY-DOS	cell specimen
+BRC_TgH_18002_GUY-KOE	DS_6a38ffd412	BRC_TgH_18002_GUY-KOE	2002	2002		5		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18002 GUY-KOE	cell specimen
+BRC_TgH_18003_GUY-MAT	DS_6a38ffd412	BRC_TgH_18003_GUY-MAT	2002	2002		5		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18003 GUY-MAT	cell specimen
+BRC_TgH_18009	DS_6a38ffd412	BRC_TgH_18009	2004	2004	French Guiana	10		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18009	cell specimen
+BRC_TgH_18021	DS_6a38ffd412	BRC_TgH_18021	2006	2006	French Guiana	10		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BRC TgH 18021	cell specimen
+BRC_TgH_20005	DS_6a38ffd412	BRC_TgH_20005	2002	2002		4		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BRC TgH 20005	cell specimen
+BRC_TgH_21016	DS_6a38ffd412	BRC_TgH_21016	2007	2007		4		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii BRC TgH 21016	cell specimen
+CAST	DS_6a38ffd412	CAST	1988	1988	USA	7		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii CAST	cell specimen
+CASTELLS	DS_6a38ffd412	CASTELLS	1993	1993	Uruguay	4		Ovis aries	Toxoplasma gondii	Toxoplasma gondii CASTELLS	cell specimen
+COUG	DS_6a38ffd412	COUG	1996	1996	Canada	11		Puma concolor couguar	Toxoplasma gondii	Toxoplasma gondii COUG	cell specimen
+FOU	DS_6a38ffd412	FOU	1992	1992	France	6a		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii FOU	cell specimen
+G662M	DS_6a38ffd412	G662M	1992	1992		3			Toxoplasma gondii	Toxoplasma gondii G662M	cell specimen
+GAB1-2007-GAL-DOM10	DS_6a38ffd412	GAB1-2007-GAL-DOM10	2007	2007	Gabon	14		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii GAB1-2007-GAL-DOM10	cell specimen
+GAB2-2007-GAL-DOM2	DS_6a38ffd412	GAB2-2007-GAL-DOM2	2007	2007	Gabon	14		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii GAB2-2007-GAL-DOM2	cell specimen
+GAB3-2007-GAL-DOM2	DS_6a38ffd412	GAB3-2007-GAL-DOM2	2007	2007		6a			Toxoplasma gondii	Toxoplasma gondii GAB3-2007-GAL-DOM2	cell specimen
+GAB3-2007-GAL-DOM9	DS_6a38ffd412	GAB3-2007-GAL-DOM9	2007	2007	Gabon	14		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii GAB3-2007-GAL-DOM9	cell specimen
+GAB5-2007-GAL-DOM1	DS_6a38ffd412	GAB5-2007-GAL-DOM1	2007	2007	Gabon	6a		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii GAB5-2007-GAL-DOM1	cell specimen
+GAB5-2007-GAL-DOM6	DS_6a38ffd412	GAB5-2007-GAL-DOM6	2007	2007	Gabon	14		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii GAB5-2007-GAL-DOM6	cell specimen
+GT1	DS_6a38ffd412	GT1	1980	1980	USA	1		Ovis aries	Toxoplasma gondii	Toxoplasma gondii GT1	cell specimen
+GUY-2003-MEL	DS_6a38ffd412	GUY-2003-MEL	2004	2004	French Guiana	5		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii GUY-2003-MEL	cell specimen
+GUY-2004-ABE	DS_6a38ffd412	GUY-2004-ABE	2004	2004	French Guiana	5		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii GUY-2004-ABE	cell specimen
+GUY-2004-JAG1	DS_6a38ffd412	GUY-2004-JAG1	2004	2004	French Guiana	11		Panthera onca	Toxoplasma gondii	Toxoplasma gondii GUY-2004-JAG1	cell specimen
+M7741	DS_6a38ffd412	M7741	1958	1958	USA	3		Ovis aries	Toxoplasma gondii	Toxoplasma gondii M7741	cell specimen
+MAS	DS_6a38ffd412	MAS	1991	1991	France	4		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii MAS	cell specimen
+PRU	DS_6a38ffd412	PRU	1964	1964	France	2		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii PRU	cell specimen
+RAY	DS_6a38ffd412	RAY	1993	1993		12		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii RAY	cell specimen
+RH-88	DS_6a38ffd412	RH-88	1939	1939	USA	1		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii RH-88	cell specimen
+RH-JSR	DS_6a38ffd412	RH-JSR	1939	1939	USA	1		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii RH-JSR	cell specimen
+ROD	DS_6a38ffd412	ROD	1993	1993	USA	3		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii ROD	cell specimen
+RUB	DS_6a38ffd412	RUB	1992	1992	French Guiana	5		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii RUB	cell specimen
+SOU	DS_6a38ffd412	SOU	1985	1985	USA	3		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii SOU	cell specimen
+TgCATBr5	DS_6a38ffd412	TgCATBr5	2006	2006	Brazil	8		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCATBr5	cell specimen
+TgCATBr9	DS_6a38ffd412	TgCATBr9	2006	2006	Brazil	6b		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCATBr9	cell specimen
+TgCatBr1	DS_6a38ffd412	TgCatBr1	2006	2006	Brazil	4		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatBr1	cell specimen
+TgCatBr10	DS_6a38ffd412	TgCatBr10	2006	2006	Brazil	9		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatBr10	cell specimen
+TgCatBr15	DS_6a38ffd412	TgCatBr15	2006	2006	USA	9		Sus scrofa	Toxoplasma gondii	Toxoplasma gondii TgCatBr15	cell specimen
+TgCatBr18	DS_6a38ffd412	TgCatBr18	2006	2006	Brazil	4		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatBr18	cell specimen
+TgCatBr25	DS_6a38ffd412	TgCatBr25	2006	2006	Brazil	8		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatBr25	cell specimen
+TgCatBr26	DS_6a38ffd412	TgCatBr26	2006	2006	Brazil	6b		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatBr26	cell specimen
+TgCatBr3	DS_6a38ffd412	TgCatBr3	2003	2003		9			Toxoplasma gondii	Toxoplasma gondii TgCatBr3	cell specimen
+TgCatBr34	DS_6a38ffd412	TgCatBr34	2006	2006	Brazil	4		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatBr34	cell specimen
+TgCatBr44	DS_6a38ffd412	TgCatBr44	2008	2008	Brazil	10		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatBr44	cell specimen
+TgCatBr64	DS_6a38ffd412	TgCatBr64	2006	2006	Brazil	8		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii TgCatBr64	cell specimen
+TgCatBr72	DS_6a38ffd412	TgCatBr72	2003	2003	Brazil	6b		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii TgCatBr72	cell specimen
+TgCatPRC3	DS_6a38ffd412	TgCatPRC3	1985	1985	China	3		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCatPRC3	cell specimen
+TgCat_PRC2	DS_6a38ffd412	TgCat_PRC2	2007	2007	China	13		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCat PRC2	cell specimen
+TgCkBr141	DS_6a38ffd412	TgCkBr141	2006	2006	Brazil	7		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii TgCkBr141	cell specimen
+TgCkCr1	DS_6a38ffd412	TgCkCr1	2005	2005	Costa Rica	1		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii TgCkCr1	cell specimen
+TgCkCr10	DS_6a38ffd412	TgCkCr10	2006	2006	Costa Rica	10		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii TgCkCr10	cell specimen
+TgCkGy2	DS_6a38ffd412	TgCkGy2	2007	2007	Guyana	3		Gallus gallus	Toxoplasma gondii	Toxoplasma gondii TgCkGy2	cell specimen
+TgCtCo5	DS_6a38ffd412	TgCtCo5	2006	2006	Columbia	15		Felis catus	Toxoplasma gondii	Toxoplasma gondii TgCtCo5	cell specimen
+TgDogCo17	DS_6a38ffd412	TgDogCo17	2006	2006	Columbia	1		Canis lupus familiaris	Toxoplasma gondii	Toxoplasma gondii TgDogCo17	cell specimen
+TgH26044	DS_6a38ffd412	TgH26044	2007	2007		4			Toxoplasma gondii	Toxoplasma gondii TgH26044	cell specimen
+TgRsCr1	DS_6a38ffd412	TgRsCr1	2006	2006	Costa Rica	5		Ramphastidae	Toxoplasma gondii	Toxoplasma gondii TgRsCr1	cell specimen
+TgShUS28	DS_6a38ffd412	TgShUS28	2008	2008	USA	3		Ovis aries	Toxoplasma gondii	Toxoplasma gondii TgShUS28	cell specimen
+VAND	DS_6a38ffd412	VAND	1996	1996	French Guiana	10		Homo sapiens	Toxoplasma gondii	Toxoplasma gondii VAND	cell specimen
+VEG	DS_6a38ffd412	VEG	1988	1988	USA	3		Capra hircus	Toxoplasma gondii	Toxoplasma gondii VEG	cell specimen
+p89	DS_6a38ffd412	p89	1991	1991	USA	9		Sus scrofa	Toxoplasma gondii	Toxoplasma gondii p89	cell specimen

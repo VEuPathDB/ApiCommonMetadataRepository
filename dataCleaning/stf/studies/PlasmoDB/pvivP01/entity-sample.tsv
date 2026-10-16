@@ -1,0 +1,235 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	age	body_temperature	collection_date	collection_date_original	collection_month	collection_year	country	geographic_location	health_status	host_common_name	lab_host	latitude_coordinate_measurement_datum	longitude_coordinate_measurement_datum	organism	organism_id	parasite_density_by_microscope	parasite_organism	parasite_strain	sex	specimen	specimen_collector	state
+PvLZCH1337	DS_7604d7c487	PvLZCH1337	20 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1337	male	blood	Dalian Institute	
+PvLZCH1403	DS_7604d7c487	PvLZCH1403	37 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1403	male	blood	Dalian Institute	
+PvLZCH1436	DS_7604d7c487	PvLZCH1436	53 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1436	female	blood	Dalian Institute	
+PvLZCH1447	DS_7604d7c487	PvLZCH1447	26 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1447	male	blood	Dalian Institute	
+PvLZCH1474	DS_7604d7c487	PvLZCH1474	21 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1474	male	blood	Dalian Institute	
+PvLZCH1476	DS_7604d7c487	PvLZCH1476	17 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1476	male	blood	Dalian Institute	
+PvLZCH1510	DS_7604d7c487	PvLZCH1510	18 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1510	female	blood	Dalian Institute	
+PvLZCH1592	DS_7604d7c487	PvLZCH1592	12 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1592	male	blood	Dalian Institute	
+PvLZCH1596	DS_7604d7c487	PvLZCH1596	61 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1596	male	blood	Dalian Institute	
+PvLZCH1597	DS_7604d7c487	PvLZCH1597	28 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1597	male	blood	Dalian Institute	
+PvLZCH1599	DS_7604d7c487	PvLZCH1599	29 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1599	male	blood	Dalian Institute	
+PvLZCH1708	DS_7604d7c487	PvLZCH1708	29 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1708	male	blood	Dalian Institute	
+PvLZCH1720	DS_7604d7c487	PvLZCH1720	14 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1720	male	blood	Dalian Institute	
+PvLZCH1751	DS_7604d7c487	PvLZCH1751	27 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1751	female	blood	Dalian Institute	
+PvLZCH1779	DS_7604d7c487	PvLZCH1779	50 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1779	male	blood	Dalian Institute	
+PvLZCH1809	DS_7604d7c487	PvLZCH1809	72 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1809	male	blood	Dalian Institute	
+PvLZCH1824	DS_7604d7c487	PvLZCH1824	53 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1824	female	blood	Dalian Institute	
+PvLZCH1873	DS_7604d7c487	PvLZCH1873	6 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1873	male	blood	Dalian Institute	
+PvLZCH1886	DS_7604d7c487	PvLZCH1886	3 years			2013		2013	Myanmar	LaiZar		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvLZCH1886	female	blood	Dalian Institute	
+PvNB43	DS_7604d7c487	PvNB43				2013		2013	China	NaBang		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvNB43		blood	Dalian Institute	
+PvNB45	DS_7604d7c487	PvNB45				2013		2013	China	NaBang		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvNB45		blood	Dalian Institute	
+PvNB48	DS_7604d7c487	PvNB48				2013		2013	China	NaBang		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvNB48		blood	Dalian Institute	
+PvNB59	DS_7604d7c487	PvNB59				2013		2013	China	NaBang		human		24.76 N degrees	97.56 E degrees	Homo sapiens			Plasmodium vivax	Plasmodium vivax PvNB59		blood	Dalian Institute	
+BrazilI	DS_8ee2413a8c	BrazilI							Brazil							human	EUSTDY0008 Subject 4		Plasmodium vivax	Plasmodium vivax BrazilI		specimen from organism		
+IndiaVII	DS_8ee2413a8c	IndiaVII							India							human	EUSTDY0008 Subject 2		Plasmodium vivax	Plasmodium vivax IndiaVII		specimen from organism		
+MauritaniaI	DS_8ee2413a8c	MauritaniaI							Mauritania							human	EUSTDY0008 Subject 3		Plasmodium vivax	Plasmodium vivax MauritaniaI		specimen from organism		
+NorthKorean	DS_8ee2413a8c	NorthKorean							North Korea							human	EUSTDY0008 Subject 1		Plasmodium vivax	Plasmodium vivax NorthKorean		specimen from organism		
+Brazil01	DS_15d2ea30cb	Brazil01				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 52		Plasmodium vivax	Plasmodium vivax Brazil01		blood		Acre State
+Brazil02	DS_15d2ea30cb	Brazil02				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 53		Plasmodium vivax	Plasmodium vivax Brazil02		blood		Acre State
+Brazil08	DS_15d2ea30cb	Brazil08				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 54		Plasmodium vivax	Plasmodium vivax Brazil08		blood		Acre State
+Brazil12	DS_15d2ea30cb	Brazil12				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 55		Plasmodium vivax	Plasmodium vivax Brazil12		blood		Acre State
+Brazil13	DS_15d2ea30cb	Brazil13				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 56		Plasmodium vivax	Plasmodium vivax Brazil13		blood		Acre State
+Brazil15	DS_15d2ea30cb	Brazil15				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 57		Plasmodium vivax	Plasmodium vivax Brazil15		blood		Acre State
+Brazil17	DS_15d2ea30cb	Brazil17				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 58		Plasmodium vivax	Plasmodium vivax Brazil17		blood		Acre State
+Brazil22	DS_15d2ea30cb	Brazil22				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 59		Plasmodium vivax	Plasmodium vivax Brazil22		blood		Acre State
+Brazil24	DS_15d2ea30cb	Brazil24				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 60		Plasmodium vivax	Plasmodium vivax Brazil24		blood		Acre State
+Brazil25	DS_15d2ea30cb	Brazil25				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 61		Plasmodium vivax	Plasmodium vivax Brazil25		blood		Acre State
+Brazil27	DS_15d2ea30cb	Brazil27				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 62		Plasmodium vivax	Plasmodium vivax Brazil27		blood		Acre State
+Brazil29	DS_15d2ea30cb	Brazil29				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 63		Plasmodium vivax	Plasmodium vivax Brazil29		blood		Acre State
+Brazil30	DS_15d2ea30cb	Brazil30				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 64		Plasmodium vivax	Plasmodium vivax Brazil30		blood		Acre State
+Brazil31	DS_15d2ea30cb	Brazil31				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 65		Plasmodium vivax	Plasmodium vivax Brazil31		blood		Acre State
+Brazil32	DS_15d2ea30cb	Brazil32				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 66		Plasmodium vivax	Plasmodium vivax Brazil32		blood		Acre State
+Brazil33	DS_15d2ea30cb	Brazil33				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 67		Plasmodium vivax	Plasmodium vivax Brazil33		blood		Acre State
+Brazil34	DS_15d2ea30cb	Brazil34				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 68		Plasmodium vivax	Plasmodium vivax Brazil34		blood		Acre State
+Brazil35	DS_15d2ea30cb	Brazil35				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 69		Plasmodium vivax	Plasmodium vivax Brazil35		blood		Acre State
+Brazil87	DS_15d2ea30cb	Brazil87				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 70		Plasmodium vivax	Plasmodium vivax Brazil87		blood		Acre State
+Brazl03	DS_15d2ea30cb	Brazl03				2011		2011	Brazil	Western Brazilian Amazon						human	EUSTDY0009 Subject 71		Plasmodium vivax	Plasmodium vivax Brazl03		blood		Acre State
+China_LZCH-13	DS_15d2ea30cb	China_LZCH-13							China							human	EUSTDY0009 Subject 77		Plasmodium vivax	Plasmodium vivax China LZCH-13		blood		
+China_LZCH-20	DS_15d2ea30cb	China_LZCH-20			2013-01-06	1/6/13	1	2013	China							human	EUSTDY0009 Subject 78		Plasmodium vivax	Plasmodium vivax China LZCH-20		blood		
+China_LZCH-36	DS_15d2ea30cb	China_LZCH-36							China							human	EUSTDY0009 Subject 79		Plasmodium vivax	Plasmodium vivax China LZCH-36		blood		
+China_LZCH-4	DS_15d2ea30cb	China_LZCH-4			2013-01-02	1/2/13	1	2013	China							human	EUSTDY0009 Subject 80		Plasmodium vivax	Plasmodium vivax China LZCH-4		blood		
+China_NB-13-1	DS_15d2ea30cb	China_NB-13-1							China							human	EUSTDY0009 Subject 81		Plasmodium vivax	Plasmodium vivax China NB-13-1		blood		
+China_NB-15	DS_15d2ea30cb	China_NB-15			2012-12-19	12/19/12	12	2012	China							human	EUSTDY0009 Subject 82		Plasmodium vivax	Plasmodium vivax China NB-15		blood		
+China_NB-16	DS_15d2ea30cb	China_NB-16							China							human	EUSTDY0009 Subject 83		Plasmodium vivax	Plasmodium vivax China NB-16		blood		
+China_NB-17	DS_15d2ea30cb	China_NB-17			2012-12-27	12/27/12	12	2012	China							human	EUSTDY0009 Subject 84		Plasmodium vivax	Plasmodium vivax China NB-17		blood		
+Columbia_30101099036	DS_15d2ea30cb	Columbia_30101099036			2012-05-19	5/19/12	5	2012	Columbia							human	EUSTDY0009 Subject 1		Plasmodium vivax	Plasmodium vivax Columbia 30101099036		blood		
+Columbia_30101099038	DS_15d2ea30cb	Columbia_30101099038			2012-06-30	6/30/12	6	2012	Columbia							human	EUSTDY0009 Subject 2		Plasmodium vivax	Plasmodium vivax Columbia 30101099038		blood		
+Columbia_30101099040	DS_15d2ea30cb	Columbia_30101099040			2012-09-29	9/29/12	9	2012	Columbia							human	EUSTDY0009 Subject 3		Plasmodium vivax	Plasmodium vivax Columbia 30101099040		blood		
+Columbia_30102100437	DS_15d2ea30cb	Columbia_30102100437			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 4		Plasmodium vivax	Plasmodium vivax Columbia 30102100437		blood		
+Columbia_30102100438-A	DS_15d2ea30cb	Columbia_30102100438-A			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 35		Plasmodium vivax	Plasmodium vivax Columbia 30102100438-A		blood		
+Columbia_30102100438-B	DS_15d2ea30cb	Columbia_30102100438-B			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 36		Plasmodium vivax	Plasmodium vivax Columbia 30102100438-B		blood		
+Columbia_30102100439	DS_15d2ea30cb	Columbia_30102100439			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 5		Plasmodium vivax	Plasmodium vivax Columbia 30102100439		blood		
+Columbia_30102100440	DS_15d2ea30cb	Columbia_30102100440			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 6		Plasmodium vivax	Plasmodium vivax Columbia 30102100440		blood		
+Columbia_30102100441-A	DS_15d2ea30cb	Columbia_30102100441-A			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 37		Plasmodium vivax	Plasmodium vivax Columbia 30102100441-A		blood		
+Columbia_30102100441-B	DS_15d2ea30cb	Columbia_30102100441-B			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 38		Plasmodium vivax	Plasmodium vivax Columbia 30102100441-B		blood		
+Columbia_30102100443-A	DS_15d2ea30cb	Columbia_30102100443-A			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 39		Plasmodium vivax	Plasmodium vivax Columbia 30102100443-A		blood		
+Columbia_30102100443-B	DS_15d2ea30cb	Columbia_30102100443-B			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 40		Plasmodium vivax	Plasmodium vivax Columbia 30102100443-B		blood		
+Columbia_30102100445	DS_15d2ea30cb	Columbia_30102100445			2012-12-05	12/5/12	12	2012	Columbia							human	EUSTDY0009 Subject 7		Plasmodium vivax	Plasmodium vivax Columbia 30102100445		blood		
+Columbia_30102100446	DS_15d2ea30cb	Columbia_30102100446			2012-12-06	12/6/12	12	2012	Columbia							human	EUSTDY0009 Subject 8		Plasmodium vivax	Plasmodium vivax Columbia 30102100446		blood		
+Columbia_30102100448	DS_15d2ea30cb	Columbia_30102100448			2012-12-07	12/7/12	12	2012	Columbia							human	EUSTDY0009 Subject 9		Plasmodium vivax	Plasmodium vivax Columbia 30102100448		blood		
+Columbia_30102100449	DS_15d2ea30cb	Columbia_30102100449			2012-12-07	12/7/12	12	2012	Columbia							human	EUSTDY0009 Subject 10		Plasmodium vivax	Plasmodium vivax Columbia 30102100449		blood		
+Columbia_30102100485	DS_15d2ea30cb	Columbia_30102100485			2013-01-11	1/11/13	1	2013	Columbia							human	EUSTDY0009 Subject 11		Plasmodium vivax	Plasmodium vivax Columbia 30102100485		blood		
+Columbia_30102100486	DS_15d2ea30cb	Columbia_30102100486			2013-03-19	3/19/13	3	2013	Columbia							human	EUSTDY0009 Subject 12		Plasmodium vivax	Plasmodium vivax Columbia 30102100486		blood		
+Columbia_30102100487	DS_15d2ea30cb	Columbia_30102100487			2013-03-20	3/20/13	3	2013	Columbia							human	EUSTDY0009 Subject 13		Plasmodium vivax	Plasmodium vivax Columbia 30102100487		blood		
+Columbia_30102100488	DS_15d2ea30cb	Columbia_30102100488			2013-03-22	3/22/13	3	2013	Columbia							human	EUSTDY0009 Subject 14		Plasmodium vivax	Plasmodium vivax Columbia 30102100488		blood		
+Columbia_30102100489	DS_15d2ea30cb	Columbia_30102100489			2013-03-22	3/22/13	3	2013	Columbia							human	EUSTDY0009 Subject 15		Plasmodium vivax	Plasmodium vivax Columbia 30102100489		blood		
+Columbia_30102100490	DS_15d2ea30cb	Columbia_30102100490			2013-03-25	3/25/13	3	2013	Columbia							human	EUSTDY0009 Subject 16		Plasmodium vivax	Plasmodium vivax Columbia 30102100490		blood		
+Columbia_30102100491	DS_15d2ea30cb	Columbia_30102100491			2013-03-26	3/26/13	3	2013	Columbia							human	EUSTDY0009 Subject 17		Plasmodium vivax	Plasmodium vivax Columbia 30102100491		blood		
+Columbia_30102100492	DS_15d2ea30cb	Columbia_30102100492			2013-03-26	3/26/13	3	2013	Columbia							human	EUSTDY0009 Subject 18		Plasmodium vivax	Plasmodium vivax Columbia 30102100492		blood		
+Columbia_30102100493	DS_15d2ea30cb	Columbia_30102100493			2013-03-26	3/26/13	3	2013	Columbia							human	EUSTDY0009 Subject 19		Plasmodium vivax	Plasmodium vivax Columbia 30102100493		blood		
+Columbia_30102100504	DS_15d2ea30cb	Columbia_30102100504			2013-04-26	4/26/13	4	2013	Columbia							human	EUSTDY0009 Subject 20		Plasmodium vivax	Plasmodium vivax Columbia 30102100504		blood		
+Columbia_30103103280	DS_15d2ea30cb	Columbia_30103103280			2013-02-21	2/21/13	2	2013	Columbia							human	EUSTDY0009 Subject 21		Plasmodium vivax	Plasmodium vivax Columbia 30103103280		blood		
+Columbia_30103103295	DS_15d2ea30cb	Columbia_30103103295			2013-02-26	2/26/13	2	2013	Columbia							human	EUSTDY0009 Subject 22		Plasmodium vivax	Plasmodium vivax Columbia 30103103295		blood		
+Columbia_30111110015	DS_15d2ea30cb	Columbia_30111110015			2013-02-08	2/8/13	2	2013	Columbia							human	EUSTDY0009 Subject 23		Plasmodium vivax	Plasmodium vivax Columbia 30111110015		blood		
+Columbia_30111110020	DS_15d2ea30cb	Columbia_30111110020			2013-02-11	2/11/13	2	2013	Columbia							human	EUSTDY0009 Subject 24		Plasmodium vivax	Plasmodium vivax Columbia 30111110020		blood		
+Columbia_30111110026	DS_15d2ea30cb	Columbia_30111110026			2013-02-20	2/20/13	2	2013	Columbia							human	EUSTDY0009 Subject 25		Plasmodium vivax	Plasmodium vivax Columbia 30111110026		blood		
+DTS0721	DS_15d2ea30cb	DTS0721							Peru							human	EUSTDY0009 Subject 72		Plasmodium vivax	Plasmodium vivax DTS 0721		blood		
+DTS0791	DS_15d2ea30cb	DTS0791							Peru							human	EUSTDY0009 Subject 73		Plasmodium vivax	Plasmodium vivax DTS 0791		blood		
+DTS0830	DS_15d2ea30cb	DTS0830							Peru							human	EUSTDY0009 Subject 74		Plasmodium vivax	Plasmodium vivax DTS 0830		blood		
+DTS0839	DS_15d2ea30cb	DTS0839			2012-03-05	3/5/12	3	2012	Peru							human	EUSTDY0009 Subject 75		Plasmodium vivax	Plasmodium vivax DTS 0839		blood		
+IndiaNYC	DS_15d2ea30cb	IndiaNYC			2012-10-01	10/1/12	10	2012	India	NYC						human	EUSTDY0009 Subject 76		Plasmodium vivax	Plasmodium vivax IndiaNYC		blood		
+Mexico_10-E-05	DS_15d2ea30cb	Mexico_10-E-05			2005-05-25	5/25/05	5	2005	Mexico	Tapachula						human	EUSTDY0009 Subject 26		Plasmodium vivax	Plasmodium vivax Mexico 10-E-05		blood		
+Mexico_1067-A	DS_15d2ea30cb	Mexico_1067-A			2002-09-27	9/27/02	9	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 27		Plasmodium vivax	Plasmodium vivax Mexico 1067-A		blood		
+Mexico_1086-A	DS_15d2ea30cb	Mexico_1086-A			2002-10-03	10/3/02	10	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 28		Plasmodium vivax	Plasmodium vivax Mexico 1086-A		blood		
+Mexico_118-A	DS_15d2ea30cb	Mexico_118-A			2002-02-20	2/20/02	2	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 29		Plasmodium vivax	Plasmodium vivax Mexico 118-A		blood		
+Mexico_161-04	DS_15d2ea30cb	Mexico_161-04			2004-04-27	4/27/04	4	2004	Mexico	Tapachula						human	EUSTDY0009 Subject 30		Plasmodium vivax	Plasmodium vivax Mexico 161-04		blood		
+Mexico_165-A	DS_15d2ea30cb	Mexico_165-A			2002-03-07	3/7/02	3	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 31		Plasmodium vivax	Plasmodium vivax Mexico 165-A		blood		
+Mexico_203-04	DS_15d2ea30cb	Mexico_203-04			2004-06-01	6/1/04	6	2004	Mexico	Tapachula						human	EUSTDY0009 Subject 32		Plasmodium vivax	Plasmodium vivax Mexico 203-04		blood		
+Mexico_21-A	DS_15d2ea30cb	Mexico_21-A			2002-01-14	1/14/02	1	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 33		Plasmodium vivax	Plasmodium vivax Mexico 21-A		blood		
+Mexico_267-A	DS_15d2ea30cb	Mexico_267-A			2002-04-16	4/16/02	4	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 34		Plasmodium vivax	Plasmodium vivax Mexico 267-A		blood		
+Mexico_31A-03	DS_15d2ea30cb	Mexico_31A-03			2003-01-29	1/29/03	1	2003	Mexico	Tapachula						human	EUSTDY0009 Subject 41		Plasmodium vivax	Plasmodium vivax Mexico 31A-03		blood		
+Mexico_32-E-03	DS_15d2ea30cb	Mexico_32-E-03			2003-06-30	6/30/03	6	2003	Mexico	Tapachula						human	EUSTDY0009 Subject 42		Plasmodium vivax	Plasmodium vivax Mexico 32-E-03		blood		
+Mexico_330-A	DS_15d2ea30cb	Mexico_330-A			2002-05-03	5/3/02	5	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 43		Plasmodium vivax	Plasmodium vivax Mexico 330-A		blood		
+Mexico_434-A	DS_15d2ea30cb	Mexico_434-A			2002-05-23	5/23/02	5	2002	Mexico	Tapachula						human	EUSTDY0009 Subject 44		Plasmodium vivax	Plasmodium vivax Mexico 434-A		blood		
+Mexico_533-07	DS_15d2ea30cb	Mexico_533-07			2007-11-28	11/28/07	11	2007	Mexico	Huehuetan						human	EUSTDY0009 Subject 45		Plasmodium vivax	Plasmodium vivax Mexico 533-07		blood		
+Mexico_55-03	DS_15d2ea30cb	Mexico_55-03			2003-02-11	2/11/03	2	2003	Mexico	Tapachula						human	EUSTDY0009 Subject 46		Plasmodium vivax	Plasmodium vivax Mexico 55-03		blood		
+Mexico_566-A	DS_15d2ea30cb	Mexico_566-A			2002-06-14	6/14/02	6	2002	Mexico	Tuxtla Chico						human	EUSTDY0009 Subject 47		Plasmodium vivax	Plasmodium vivax Mexico 566-A		blood		
+Mexico_63-08	DS_15d2ea30cb	Mexico_63-08			2008-02-12	2/12/08	2	2008	Mexico	Tapachula						human	EUSTDY0009 Subject 48		Plasmodium vivax	Plasmodium vivax Mexico 63-08		blood		
+Mexico_760-A	DS_15d2ea30cb	Mexico_760-A			2001-08-14	8/14/01	8	2001	Mexico	Tapachula						human	EUSTDY0009 Subject 49		Plasmodium vivax	Plasmodium vivax Mexico 760-A		blood		
+Mexico_938-A	DS_15d2ea30cb	Mexico_938-A			2000-09-06	9/6/00	9	2000	Mexico	Frontera hidalgo						human	EUSTDY0009 Subject 50		Plasmodium vivax	Plasmodium vivax Mexico 938-A		blood		
+Mexico_980-A	DS_15d2ea30cb	Mexico_980-A			2001-10-29	10/29/01	10	2001	Mexico	Tapachula						human	EUSTDY0009 Subject 51		Plasmodium vivax	Plasmodium vivax Mexico 980-A		blood		
+Nicaragua-462	DS_15d2ea30cb	Nicaragua-462							Nicaragua							Monkey	EUSTDY0009 Subject 85		Plasmodium vivax	Plasmodium vivax Nicaragua-462		blood		
+PNG16	DS_15d2ea30cb	PNG16							Papua New Guinea							human	EUSTDY0009 Subject 125		Plasmodium vivax	Plasmodium vivax PNG16		blood		
+PNG17	DS_15d2ea30cb	PNG17							Papua New Guinea							human	EUSTDY0009 Subject 126		Plasmodium vivax	Plasmodium vivax PNG17		blood		
+PNG58	DS_15d2ea30cb	PNG58							Papua New Guinea							human	EUSTDY0009 Subject 127		Plasmodium vivax	Plasmodium vivax PNG58		blood		
+PNG72	DS_15d2ea30cb	PNG72							Papua New Guinea							human	EUSTDY0009 Subject 128		Plasmodium vivax	Plasmodium vivax PNG72		blood		
+PNG73	DS_15d2ea30cb	PNG73							Papua New Guinea							human	EUSTDY0009 Subject 129		Plasmodium vivax	Plasmodium vivax PNG73		blood		
+PVRVL1991	DS_15d2ea30cb	PVRVL1991				1991-1992			Papua New Guinea	East Sepik						human	EUSTDY0009 Subject 130		Plasmodium vivax	Plasmodium vivax PVRVL1991		blood		
+PVRVL1997	DS_15d2ea30cb	PVRVL1997				1997		1997	Papua New Guinea	East Sepik						human	EUSTDY0009 Subject 131		Plasmodium vivax	Plasmodium vivax PVRVL1997		blood		
+PVRVL2000	DS_15d2ea30cb	PVRVL2000				2000		2000	Papua New Guinea	East Sepik						human	EUSTDY0009 Subject 132		Plasmodium vivax	Plasmodium vivax PVRVL2000		blood		
+PVRVL2003	DS_15d2ea30cb	PVRVL2003				2003		2003	Papua New Guinea	East Sepik						human	EUSTDY0009 Subject 133		Plasmodium vivax	Plasmodium vivax PVRVL2003		blood		
+PVXMQ2006	DS_15d2ea30cb	PVXMQ2006				2006		2006	Papua New Guinea	Madang						human	EUSTDY0009 Subject 134		Plasmodium vivax	Plasmodium vivax PVXMQ2006		blood		
+PVXMW2006	DS_15d2ea30cb	PVXMW2006				2006		2006	Papua New Guinea	East Sepik						human	EUSTDY0009 Subject 135		Plasmodium vivax	Plasmodium vivax PVXMW2006		blood		
+PVXMZ2010	DS_15d2ea30cb	PVXMZ2010				2010		2010	Papua New Guinea	Madang						human	EUSTDY0009 Subject 136		Plasmodium vivax	Plasmodium vivax PVXMZ2010		blood		
+Panama-458	DS_15d2ea30cb	Panama-458							Panama							Monkey	EUSTDY0009 Subject 88		Plasmodium vivax	Plasmodium vivax Panama-458		blood		
+Peru00622	DS_15d2ea30cb	Peru00622			2011-03-01	3/1/11	3	2011	Peru	Sullana						human	EUSTDY0009 Subject 89		Plasmodium vivax	Plasmodium vivax Peru00622		blood		
+Peru00692	DS_15d2ea30cb	Peru00692			2011-03-01	3/1/11	3	2011	Peru	Sullana						human	EUSTDY0009 Subject 90		Plasmodium vivax	Plasmodium vivax Peru00692		blood		
+Peru00699	DS_15d2ea30cb	Peru00699			2011-03-01	3/1/11	3	2011	Peru	Sullana						human	EUSTDY0009 Subject 91		Plasmodium vivax	Plasmodium vivax Peru00699		blood		
+Peru06	DS_15d2ea30cb	Peru06							Peru							human	EUSTDY0009 Subject 92		Plasmodium vivax	Plasmodium vivax Peru06		blood		
+Peru07	DS_15d2ea30cb	Peru07							Peru							human	EUSTDY0009 Subject 93		Plasmodium vivax	Plasmodium vivax Peru07		blood		
+Peru08	DS_15d2ea30cb	Peru08							Peru							human	EUSTDY0009 Subject 94		Plasmodium vivax	Plasmodium vivax Peru08		blood		
+Peru09	DS_15d2ea30cb	Peru09							Peru							human	EUSTDY0009 Subject 95		Plasmodium vivax	Plasmodium vivax Peru09		blood		
+Peru10	DS_15d2ea30cb	Peru10							Peru							human	EUSTDY0009 Subject 96		Plasmodium vivax	Plasmodium vivax Peru10		blood		
+Peru1008	DS_15d2ea30cb	Peru1008			2010-10-01	10/1/10	10	2010	Peru	Puerto America						human	EUSTDY0009 Subject 97		Plasmodium vivax	Plasmodium vivax Peru1008		blood		
+Peru1021	DS_15d2ea30cb	Peru1021			2011-05-01	5/1/11	5	2011	Peru	Puerto America						human	EUSTDY0009 Subject 98		Plasmodium vivax	Plasmodium vivax Peru1021		blood		
+Peru1022	DS_15d2ea30cb	Peru1022			2011-05-01	5/1/11	5	2011	Peru	Puerto America						human	EUSTDY0009 Subject 99		Plasmodium vivax	Plasmodium vivax Peru1022		blood		
+Peru2025	DS_15d2ea30cb	Peru2025			2010-12-01	12/1/10	12	2010	Peru	Puerto America						human	EUSTDY0009 Subject 100		Plasmodium vivax	Plasmodium vivax Peru2025		blood		
+Peru257	DS_15d2ea30cb	Peru257			2013-12-01	12/1/13	12	2013	Peru	Delta 1						human	EUSTDY0009 Subject 101		Plasmodium vivax	Plasmodium vivax Peru257		blood		
+Peru258	DS_15d2ea30cb	Peru258			2013-12-01	12/1/13	12	2013	Peru	Delta 2						human	EUSTDY0009 Subject 102		Plasmodium vivax	Plasmodium vivax Peru258		blood		
+Peru259	DS_15d2ea30cb	Peru259			2013-01-01	1/1/13	1	2013	Peru	Delta 3						human	EUSTDY0009 Subject 103		Plasmodium vivax	Plasmodium vivax Peru259		blood		
+Peru260	DS_15d2ea30cb	Peru260			2013-01-01	1/1/13	1	2013	Peru	Delta 4						human	EUSTDY0009 Subject 104		Plasmodium vivax	Plasmodium vivax Peru260		blood		
+Peru261	DS_15d2ea30cb	Peru261			2013-02-01	2/1/13	2	2013	Peru	Delta 5						human	EUSTDY0009 Subject 105		Plasmodium vivax	Plasmodium vivax Peru261		blood		
+Peru262	DS_15d2ea30cb	Peru262			2013-02-01	2/1/13	2	2013	Peru	Delta 6						human	EUSTDY0009 Subject 106		Plasmodium vivax	Plasmodium vivax Peru262		blood		
+Peru3043_D0	DS_15d2ea30cb	Peru3043_D0			2011-01-01	1/1/11	1	2011	Peru	Padre Cocha						human	EUSTDY0009 Subject 107		Plasmodium vivax	Plasmodium vivax Peru3043 D0		blood		
+Peru3043_D106	DS_15d2ea30cb	Peru3043_D106			2011-10-01	10/1/11	10	2011	Peru	Padre Cocha						human	EUSTDY0009 Subject 108		Plasmodium vivax	Plasmodium vivax Peru3043 D106		blood		
+Peru3043_D87	DS_15d2ea30cb	Peru3043_D87			2011-04-01	4/1/11	4	2011	Peru	Padre Cocha						human	EUSTDY0009 Subject 109		Plasmodium vivax	Plasmodium vivax Peru3043 D87		blood		
+Peru3133	DS_15d2ea30cb	Peru3133			2011-07-01	7/1/11	7	2011	Peru	Padre Cocha						human	EUSTDY0009 Subject 110		Plasmodium vivax	Plasmodium vivax Peru3133		blood		
+Peru3136	DS_15d2ea30cb	Peru3136			2011-08-01	8/1/11	8	2011	Peru	Padre Cocha						human	EUSTDY0009 Subject 111		Plasmodium vivax	Plasmodium vivax Peru3136		blood		
+Peru3232	DS_15d2ea30cb	Peru3232							Peru	Padre Cocha						human	EUSTDY0009 Subject 112		Plasmodium vivax	Plasmodium vivax Peru3232		blood		
+Peru3270_D0	DS_15d2ea30cb	Peru3270_D0			2011-10-01	10/1/11	10	2011	Peru	Padre Cocha						human	EUSTDY0009 Subject 113		Plasmodium vivax	Plasmodium vivax Peru3270 D0		blood		
+Peru3270_D43	DS_15d2ea30cb	Peru3270_D43			2012-11-01	11/1/12	11	2012	Peru	Padre Cocha						human	EUSTDY0009 Subject 114		Plasmodium vivax	Plasmodium vivax Peru3270 D43		blood		
+Peru3270_D59	DS_15d2ea30cb	Peru3270_D59			2013-01-01	1/1/13	1	2013	Peru	Padre Cocha						human	EUSTDY0009 Subject 115		Plasmodium vivax	Plasmodium vivax Peru3270 D59		blood		
+Peru3280	DS_15d2ea30cb	Peru3280							Peru	Padre Cocha						human	EUSTDY0009 Subject 116		Plasmodium vivax	Plasmodium vivax Peru3280		blood		
+Peru3323	DS_15d2ea30cb	Peru3323			2012-12-01	12/1/12	12	2012	Peru	Padre Cocha						human	EUSTDY0009 Subject 117		Plasmodium vivax	Plasmodium vivax Peru3323		blood		
+Peru4017	DS_15d2ea30cb	Peru4017			2012-03-01	3/1/12	3	2012	Peru	Iquitos						human	EUSTDY0009 Subject 118		Plasmodium vivax	Plasmodium vivax Peru4017		blood		
+Peru4023	DS_15d2ea30cb	Peru4023			2012-03-01	3/1/12	3	2012	Peru	Iquitos						human	EUSTDY0009 Subject 119		Plasmodium vivax	Plasmodium vivax Peru4023		blood		
+Peru852	DS_15d2ea30cb	Peru852							Peru							human	EUSTDY0009 Subject 120		Plasmodium vivax	Plasmodium vivax Peru852		blood		
+Peru858	DS_15d2ea30cb	Peru858							Peru							human	EUSTDY0009 Subject 121		Plasmodium vivax	Plasmodium vivax Peru858		blood		
+Peru869	DS_15d2ea30cb	Peru869							Peru							human	EUSTDY0009 Subject 122		Plasmodium vivax	Plasmodium vivax Peru869		blood		
+Peru872	DS_15d2ea30cb	Peru872							Peru							human	EUSTDY0009 Subject 123		Plasmodium vivax	Plasmodium vivax Peru872		blood		
+Peru99622	DS_15d2ea30cb	Peru99622			2011-06-01	6/1/11	6	2011	Peru	Sullana						human	EUSTDY0009 Subject 124		Plasmodium vivax	Plasmodium vivax Peru99622		blood		
+ST01	DS_15d2ea30cb	ST01							Peru							human	EUSTDY0009 Subject 137		Plasmodium vivax	Plasmodium vivax ST01		blood		
+ST02	DS_15d2ea30cb	ST02							Peru							human	EUSTDY0009 Subject 138		Plasmodium vivax	Plasmodium vivax ST02		blood		
+Thailand_Pakchong-460	DS_15d2ea30cb	Thailand_Pakchong-460							Thailand							Monkey	EUSTDY0009 Subject 87		Plasmodium vivax	Plasmodium vivax Thailand Pakchong-460		blood		
+Thailand_VKBT-100	DS_15d2ea30cb	Thailand_VKBT-100			2013-01-21	1/21/13	1	2013	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 139		Plasmodium vivax	Plasmodium vivax Thailand VKBT-100		blood		
+Thailand_VKBT-101	DS_15d2ea30cb	Thailand_VKBT-101			2013-02-04	2/4/13	2	2013	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 140		Plasmodium vivax	Plasmodium vivax Thailand VKBT-101		blood		
+Thailand_VKBT-106	DS_15d2ea30cb	Thailand_VKBT-106			2013-03-11	3/11/13	3	2013	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 141		Plasmodium vivax	Plasmodium vivax Thailand VKBT-106		blood		
+Thailand_VKBT-58	DS_15d2ea30cb	Thailand_VKBT-58			2012-07-15	7/15/12	7	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 142		Plasmodium vivax	Plasmodium vivax Thailand VKBT-58		blood		
+Thailand_VKBT-71	DS_15d2ea30cb	Thailand_VKBT-71			2012-09-17	9/17/12	9	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 143		Plasmodium vivax	Plasmodium vivax Thailand VKBT-71		blood		
+Thailand_VKBT-72	DS_15d2ea30cb	Thailand_VKBT-72			2012-09-21	9/21/12	9	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 144		Plasmodium vivax	Plasmodium vivax Thailand VKBT-72		blood		
+Thailand_VKBT-73	DS_15d2ea30cb	Thailand_VKBT-73			2012-09-24	9/24/12	9	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 145		Plasmodium vivax	Plasmodium vivax Thailand VKBT-73		blood		
+Thailand_VKBT-75	DS_15d2ea30cb	Thailand_VKBT-75			2012-10-01	10/1/12	10	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 146		Plasmodium vivax	Plasmodium vivax Thailand VKBT-75		blood		
+Thailand_VKBT-94	DS_15d2ea30cb	Thailand_VKBT-94			2012-12-06	12/6/12	12	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 147		Plasmodium vivax	Plasmodium vivax Thailand VKBT-94		blood		
+Thailand_VKBT-95	DS_15d2ea30cb	Thailand_VKBT-95			2012-12-24	12/24/12	12	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 148		Plasmodium vivax	Plasmodium vivax Thailand VKBT-95		blood		
+Thailand_VKBT-98	DS_15d2ea30cb	Thailand_VKBT-98			2013-01-10	1/10/13	1	2013	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 149		Plasmodium vivax	Plasmodium vivax Thailand VKBT-98		blood		
+Thailand_VKBT-99	DS_15d2ea30cb	Thailand_VKBT-99			2013-06-16	6/16/13	6	2013	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 150		Plasmodium vivax	Plasmodium vivax Thailand VKBT-99		blood		
+Thailand_VKPR-11	DS_15d2ea30cb	Thailand_VKPR-11			2013-02-13	2/13/13	2	2013	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 151		Plasmodium vivax	Plasmodium vivax Thailand VKPR-11		blood		
+Thailand_VKTS-36	DS_15d2ea30cb	Thailand_VKTS-36			2012-09-05	9/5/12	9	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 152		Plasmodium vivax	Plasmodium vivax Thailand VKTS-36		blood		
+Thailand_VKTS-37	DS_15d2ea30cb	Thailand_VKTS-37			2012-10-02	10/2/12	10	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 153		Plasmodium vivax	Plasmodium vivax Thailand VKTS-37		blood		
+Thailand_VKTS-38	DS_15d2ea30cb	Thailand_VKTS-38			2012-10-24	10/24/12	10	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 154		Plasmodium vivax	Plasmodium vivax Thailand VKTS-38		blood		
+Thailand_VKTS-39	DS_15d2ea30cb	Thailand_VKTS-39			2012-10-24	10/24/12	10	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 155		Plasmodium vivax	Plasmodium vivax Thailand VKTS-39		blood		
+Thailand_VKTS-45	DS_15d2ea30cb	Thailand_VKTS-45			2012-11-14	11/14/12	11	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 156		Plasmodium vivax	Plasmodium vivax Thailand VKTS-45		blood		
+Thailand_VKTS-46	DS_15d2ea30cb	Thailand_VKTS-46			2012-11-26	11/26/12	11	2012	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 157		Plasmodium vivax	Plasmodium vivax Thailand VKTS-46		blood		
+Thailand_VKTS-52	DS_15d2ea30cb	Thailand_VKTS-52			2013-06-23	6/23/13	6	2013	Thailand	Kanchanaburi						human	EUSTDY0009 Subject 158		Plasmodium vivax	Plasmodium vivax Thailand VKTS-52		blood		
+Vietnam_ONG-461	DS_15d2ea30cb	Vietnam_ONG-461							Vietnam							Monkey	EUSTDY0009 Subject 86		Plasmodium vivax	Plasmodium vivax Vietnam ONG-461		blood		
+XUA045	DS_15d2ea30cb	XUA045			2012-03-03	3/3/12	3	2012	Papua New Guinea							human	EUSTDY0009 Subject 159		Plasmodium vivax	Plasmodium vivax XUA 045		blood		
+XUA070	DS_15d2ea30cb	XUA070			2012-10-28	10/28/12	10	2012	Papua New Guinea							human	EUSTDY0009 Subject 160		Plasmodium vivax	Plasmodium vivax XUA 070		blood		
+XUC014	DS_15d2ea30cb	XUC014			2012-07-17	7/17/12	7	2012	Papua New Guinea							human	EUSTDY0009 Subject 161		Plasmodium vivax	Plasmodium vivax XUC 014		blood		
+XUC030	DS_15d2ea30cb	XUC030			2012-10-16	10/16/12	10	2012	Papua New Guinea							human	EUSTDY0009 Subject 162		Plasmodium vivax	Plasmodium vivax XUC 030		blood		
+XUC063	DS_15d2ea30cb	XUC063			2012-06-04	6/4/12	6	2012	Papua New Guinea							human	EUSTDY0009 Subject 163		Plasmodium vivax	Plasmodium vivax XUC 063		blood		
+XUC090	DS_15d2ea30cb	XUC090							Papua New Guinea							human	EUSTDY0009 Subject 164		Plasmodium vivax	Plasmodium vivax XUC 090		blood		
+Belem	DS_f2e986ba92	Belem				1980		1980	Brazil	Belem, Brazil	malaria		squirrel monkey			human			Plasmodium vivax	Plasmodium vivax Belem		blood	Mercia de Arruda	
+C08	DS_f2e986ba92	C08	20 years	37.2 C		2011		2011	Cambodia	Pailin	malaria					human		20000 /uL	Plasmodium vivax	Plasmodium vivax C08	male	blood		
+C127	DS_f2e986ba92	C127	14 years	40 C		2011		2011	Cambodia	Takavit	malaria					human		20000 /uL	Plasmodium vivax	Plasmodium vivax C127	male	blood		
+C15	DS_f2e986ba92	C15	20 years	39 C		2011		2011	Cambodia	Takavit	malaria					human		50000 /uL	Plasmodium vivax	Plasmodium vivax C15	male	blood		
+Chesson	DS_f2e986ba92	Chesson				1944		1944	Papua New Guinea	New Guinea	malaria		Aotus monkey			human			Plasmodium vivax	Plasmodium vivax Chesson		blood	Ehrman et al.	
+M08	DS_f2e986ba92	M08	3 years	37.6 C		2010		2010	Madagascar	Ampasimpotsy	malaria					human		18000 /uL	Plasmodium vivax	Plasmodium vivax M08	Female	blood		
+M15	DS_f2e986ba92	M15				2010		2010	Madagascar		malaria					human			Plasmodium vivax	Plasmodium vivax M15		blood	Didier Menard et al.	
+M19	DS_f2e986ba92	M19	3 years	37.7 C		2010		2010	Madagascar	Ampasimpotsy	malaria					human		8000 /uL	Plasmodium vivax	Plasmodium vivax M19	Female	blood		
+Sal1	DS_f2e986ba92	Sal1				1971		1971	El Salvador	San Salvador	malaria		monkey			human			Plasmodium vivax	Plasmodium vivax Sal1		blood	Central America Malaria Research Station	
+Pvl01	DS_2edb77633c	Pvl01				2012		2012	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl01				
+Pvl02	DS_2edb77633c	Pvl02				2012		2012	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl02				
+Pvl03	DS_2edb77633c	Pvl03				2012		2012	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl03				
+Pvl04	DS_2edb77633c	Pvl04				2012		2012	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl04				
+Pvl05	DS_2edb77633c	Pvl05				2013		2013	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl05				
+Pvl06	DS_2edb77633c	Pvl06				2013		2013	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl06				
+Pvl07	DS_2edb77633c	Pvl07				2013		2013	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl07				
+Pvl08	DS_2edb77633c	Pvl08				2012		2012	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl08				
+Pvl09	DS_2edb77633c	Pvl09				2013		2013	Gabon	The Lekedi National Park		mosquitoes				Anopheles sp.			Plasmodium vivax-like	Plasmodium vivax-like Pvl09				
+Pvl10	DS_2edb77633c	Pvl10				2013		2013	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl10				
+Pvl11	DS_2edb77633c	Pvl11				2012		2012	Gabon	The Lekedi National Park		Central chimpanzee				Pan troglodytes troglodytes			Plasmodium vivax-like	Plasmodium vivax-like Pvl11				
+PvGor3157	DS_1c202ca43d	PvGor3157			2001-08-31	8/31/01	8	2001	Cameroon							Gorilla gorilla			Plasmodium vivax	Plasmodium vivax PvGor3157		Blood		
+PvSY43	DS_1c202ca43d	PvSY43			2012-10-19	10/19/12	10	2012	Cameroon							Pan troglodytes troglodytes			Plasmodium vivax	Plasmodium vivax PvSY43		Blood		
+PvSY56	DS_1c202ca43d	PvSY56			2013-02-15	2/15/13	2	2013	Cameroon							Pan troglodytes ellioti			Plasmodium vivax	Plasmodium vivax PvSY56		Blood		
+PvSY81	DS_1c202ca43d	PvSY81			2013-10-14	10/14/13	10	2013	Cameroon							Pan troglodytes troglodytes			Plasmodium vivax	Plasmodium vivax PvSY81		Blood		
+PvSY90	DS_1c202ca43d	PvSY90			2013-11-20	11/20/13	11	2013	Cameroon							Pan troglodytes ellioti			Plasmodium vivax	Plasmodium vivax PvSY90		Blood		
+PvSagu	DS_1c202ca43d	PvSagu			2009-05-01	5/1/09	5	2009	Cote d'Ivoire							Pan troglodytes verus			Plasmodium vivax	Plasmodium vivax PvSagu		Blood		
+Pv004	DS_60674dc9fa	Pv004				2016		2016	Peru	Moronacocha									Plasmodium vivax	Plasmodium vivax Pv004				
+Pv005	DS_60674dc9fa	Pv005				2016		2016	Peru	Moronacocha									Plasmodium vivax	Plasmodium vivax Pv005				
+Pv017	DS_60674dc9fa	Pv017				2016		2016	Peru	Progreso de San Juan Bautista									Plasmodium vivax	Plasmodium vivax Pv017				
+Pv019	DS_60674dc9fa	Pv019				2016		2016	Peru	Progreso de San Juan Bautista									Plasmodium vivax	Plasmodium vivax Pv019				
+Pv020	DS_60674dc9fa	Pv020				2016		2016	Peru	Progreso de San Juan Bautista									Plasmodium vivax	Plasmodium vivax Pv020				
+Pv021	DS_60674dc9fa	Pv021				2016		2016	Peru	Quistococha									Plasmodium vivax	Plasmodium vivax Pv021				
+Pv022	DS_60674dc9fa	Pv022				2016		2016	Peru	Quistococha									Plasmodium vivax	Plasmodium vivax Pv022				
+Pv024	DS_60674dc9fa	Pv024				2016		2016	Peru	Varillal									Plasmodium vivax	Plasmodium vivax Pv024				
+Pv025	DS_60674dc9fa	Pv025				2016		2016	Peru	Varillal									Plasmodium vivax	Plasmodium vivax Pv025				
+Pv032	DS_60674dc9fa	Pv032				2016		2016	Peru	Quistococha									Plasmodium vivax	Plasmodium vivax Pv032				
+Pv033	DS_60674dc9fa	Pv033				2016		2016	Peru	Quistococha									Plasmodium vivax	Plasmodium vivax Pv033				
+Pv041	DS_60674dc9fa	Pv041				2016		2016	Peru	Progreso de San Juan Bautista									Plasmodium vivax	Plasmodium vivax Pv041				
+Pv07-19	DS_60674dc9fa	Pv07-19				2019		2019	Peru	Progreso de San Juan Bautista									Plasmodium vivax	Plasmodium vivax Pv07-19				
+Pv12-19	DS_60674dc9fa	Pv12-19				2019		2019	Peru	Progreso de San Juan Bautista									Plasmodium vivax	Plasmodium vivax Pv12-19				
+Pv20-19	DS_60674dc9fa	Pv20-19				2019		2019	Peru	Santa Clara									Plasmodium vivax	Plasmodium vivax Pv20-19				
+Pv21-19	DS_60674dc9fa	Pv21-19				2019		2019	Peru	Zungarococha									Plasmodium vivax	Plasmodium vivax Pv21-19				
+P01_resequence1	DS_15e249ce9d	P01_resequence1				2011		2011											Plasmodium vivax	Plasmodium vivax P01				

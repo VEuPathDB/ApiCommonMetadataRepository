@@ -1,0 +1,76 @@
+name: sample
+description: Sequenced isolates aligned to the tcruCLBrenerNon-Esmeraldo-like reference
+  genome, across all dnaseq experiments.
+display_name: Sample
+display_name_plural: Samples
+stable_id: sample
+
+id_columns:
+  - id_column: sample_id
+    entity_name: sample
+    provider_label:
+      - sample_id
+
+variables:
+  - variable: dataset_id
+    provider_label:
+      - dataset_id
+    display_name: Dataset
+    definition: 'Dataset (RSRC) this sample came from, as the DS_ presenter id: "DS_"
+      + first 10 hex chars of sha1(datasetName), matching DatasetPresenter.getId().
+      Hashed from the NEW dnaseq workflow dataset name.'
+    data_type: string
+    data_shape: categorical
+    parent_variable: provenance
+  - variable: sample_display_name
+    provider_label:
+      - sample_display_name
+    display_name: Sample name
+    definition: Preferred human-readable sample name. sample_id is kept byte-identical
+      to what the dnaseq workflow emitted so it joins to the alignment stats; where
+      the harmonized ApiCommonMetadataRepository name differs, that curated name is
+      shown here instead.
+    data_type: string
+    data_shape: categorical
+    parent_variable: provenance
+  - variable: parasite_organism
+    provider_label:
+      - parasite_organism
+    display_name: parasite organism
+    definition: parasite organism (OPL_0000232)
+    data_type: string
+    data_shape: categorical
+    parent_variable: organism_under_investigation
+  - variable: parasite_strain
+    provider_label:
+      - parasite_strain
+    display_name: parasite strain
+    definition: parasite strain (EUPATH_0000761)
+    data_type: string
+    data_shape: categorical
+    parent_variable: organism_under_investigation
+  - variable: specimen
+    provider_label:
+      - specimen
+    display_name: specimen
+    definition: specimen (OBI_0100051)
+    data_type: string
+    data_shape: categorical
+    parent_variable: specimen_and_culture
+
+categories:
+  - category: organism_under_investigation
+    display_name: Organism under investigation
+    data_type: category
+    has_values: no
+  - category: provenance
+    display_name: Provenance and identity
+    data_type: category
+    has_values: no
+  - category: specimen_and_culture
+    display_name: Specimen and culture
+    data_type: category
+    has_values: no
+
+collections: []
+

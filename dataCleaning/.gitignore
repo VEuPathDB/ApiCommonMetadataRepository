@@ -25,3 +25,6 @@ stf/harmonized/
 .Rhistory
 .RData
 .Rproj.user/
+
+# ISA lives at the root of this repository now
+ApiCommonMetadataRepository/

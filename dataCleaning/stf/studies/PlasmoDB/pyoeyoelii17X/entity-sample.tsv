@@ -1,0 +1,7 @@
+sample_id \\ Descriptors	dataset_id	sample_display_name	geographic_location	organism	organism_id	parasite_organism	parasite_strain	specimen
+17X_resequence1	DS_505211f54a	17X_resequence1	Lowlands West and Central Africa	rodent	EUSTDY0006 Subject 47	Plasmodium yoelii	Plasmodium yoelii 17X	specimen from organism
+py_cameronensis_EL	DS_53c14b1859	py_cameronensis_EL				Plasmodium yoelii	Plasmodium yoelii cameronensis EL	
+py_nigeriensis_D	DS_53c14b1859	py_nigeriensis_D				Plasmodium yoelii	Plasmodium yoelii nigeriensis D	
+py_yoelii_33X	DS_53c14b1859	py_yoelii_33X				Plasmodium yoelii	Plasmodium yoelii yoelii 33X	
+py_yoelii_AR	DS_53c14b1859	py_yoelii_AR				Plasmodium yoelii	Plasmodium yoelii yoelii AR	
+py_yoelii_CN	DS_53c14b1859	py_yoelii_CN				Plasmodium yoelii	Plasmodium yoelii yoelii CN	
