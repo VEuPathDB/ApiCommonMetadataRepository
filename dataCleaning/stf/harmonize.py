@@ -503,12 +503,17 @@ for r in mapping:
               and r['matchType']!='normalized'
     out['sample_display_name'] = mrn if (curated and mrn!=ws) else ws
     if curated and mrn!=ws: renamed.append((exp,ws,mrn))
-    if src=='NCBI':
-        hit=NCBI.get(r['joinKey'].split(',')[0])
+    if src=='NCBI' or r['matchType']=='provider':
         row=None
-        if hit is None: skipped['ncbi-run-missing']+=1
-        elif len(BS_SAMPLES[hit[0]])>1: skipped['ncbi-shared-biosample']+=1
-        else: row=hit[2]; out['_date_src']=hit[1]
+        if r['matchType']=='provider':
+            if src not in isa_cache: isa_cache[src]=load_isa(src)
+            row=isa_cache[src][1].get(mrn)
+            if row is None: skipped['provider-row-missing']+=1
+        else:
+            hit=NCBI.get(r['joinKey'].split(',')[0])
+            if hit is None: skipped['ncbi-run-missing']+=1
+            elif len(BS_SAMPLES[hit[0]])>1: skipped['ncbi-shared-biosample']+=1
+            else: row=hit[2]; out['_date_src']=hit[1]
         if row is not None:
             for h,v in row.items():
                 v=clean(v)

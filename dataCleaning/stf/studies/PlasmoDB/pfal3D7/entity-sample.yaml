@@ -41,14 +41,6 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: host
-  - variable: biomaterial_provider
-    provider_label:
-      - biomaterial_provider
-    display_name: Biomaterial provider
-    definition: Person or institution that provided the sampled material.
-    data_type: string
-    data_shape: categorical
-    parent_variable: collection_event
   - variable: collection_date
     provider_label:
       - collection_date
@@ -74,6 +66,14 @@ variables:
     data_type: integer
     data_shape: continuous
     parent_variable: collection_event
+  - variable: collection_site
+    provider_label:
+      - collection_site
+    display_name: Collection site
+    definition: Named site or institution where the specimen was collected.
+    data_type: string
+    data_shape: categorical
+    parent_variable: collection_location
   - variable: collection_year
     provider_label:
       - collection_year
@@ -123,24 +123,6 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: host
-  - variable: host_disease_stage
-    provider_label:
-      - host_disease_stage
-    display_name: Host disease stage
-    definition: Stage of the host disease at sampling, as reported in the NCBI BioSample
-      record.
-    data_type: string
-    data_shape: categorical
-    parent_variable: host
-  - variable: isolation_source
-    provider_label:
-      - isolation_source
-    display_name: Isolation source
-    definition: Material or site the organism was isolated from, as distinct from
-      the specimen type.
-    data_type: string
-    data_shape: categorical
-    parent_variable: specimen_and_culture
   - variable: organism
     provider_label:
       - organism
@@ -157,6 +139,14 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: organism_under_investigation
+  - variable: parasite_clearance_half_life
+    provider_label:
+      - parasite_clearance_half_life
+    display_name: Parasite clearance half-life
+    definition: Parasite clearance half-life following treatment.
+    data_type: number
+    data_shape: continuous
+    parent_variable: phenotype_and_drug_response
   - variable: parasite_organism
     provider_label:
       - parasite_organism
@@ -197,14 +187,6 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: specimen_and_culture
-  - variable: specimen_collector
-    provider_label:
-      - specimen_collector
-    display_name: specimen collector
-    definition: specimen collector (OBI_0001895)
-    data_type: string
-    data_shape: categorical
-    parent_variable: collection_event
 
 categories:
   - category: collection_event

@@ -6,7 +6,8 @@ usage: build_sample_mapping.py <VEuPathDatasets dir> <manualDelivery cache dir> 
 Workflow samples come from each dataset's samplesheet.csv. A dataset whose ISA
 study names it (as <org>_HTS_SNP_<name>_RSRC or <org>_copyNumberVariations_<name>_RSRC,
 or the same with a trailing _N chunk number dropped) gets one row per sample per
-ISA dataset. Otherwise an SRA-backed sample is marked for NCBI lookup by run.
+ISA dataset. Otherwise a sample in the dataset's provider_metadata spreadsheet uses
+that, and an SRA-backed sample is marked for NCBI lookup by run.
 Anything else is a gap, listed on stderr; the exit status is 1 if there are gaps.
 """
 import collections, csv, glob, os, re, sys
@@ -56,6 +57,19 @@ def isa_links(d, studies, extra_links):
     return sorted(set(found) | extra_links.get(d['datasetName'], set()))
 
 
+def provider_metadata(d):
+    """A provider's spreadsheet, for a dataset no ISA study covers: provider_metadata/<org>_<name>.tsv,
+    with or without the _N chunk number. Its first column is the workflow sample name."""
+    org, name = d['organismAbbrev'], d['name']
+    for n in dict.fromkeys([name, re.sub(r'_\d+$', '', name)]):
+        path = os.path.join(HERE, 'provider_metadata', f'{org}_{n}.tsv')
+        if os.path.exists(path):
+            with open(path, newline='') as f:
+                rows = list(csv.reader(f, delimiter='\t'))
+            return os.path.relpath(path, REPO_ROOT), {r[0].strip() for r in rows[1:] if r and r[0].strip()}
+    return None, set()
+
+
 def homoglyph_key(s):
     return s.replace('I', 'l').lower()
 
@@ -100,6 +114,7 @@ def build(veupath_datasets_dir, cache_dir):
     for d in dnaseq_datasets(veupath_datasets_dir):
         ds = d['datasetName']
         links = isa_links(d, studies, extra_links)
+        provider, provider_samples = provider_metadata(d)
         for sample, fastqs in samplesheet(os.path.join(cache_dir, d['samplesheet'])).items():
             base = {'workflowDataRsrcName': ds, 'workflowSample': sample, 'joinKey': '',
                     'projectName': d['projectName'], 'organismAbbrev': d['organismAbbrev']}
@@ -125,6 +140,13 @@ def build(veupath_datasets_dir, cache_dir):
                 rows.append({**base, 'metaDataRsrcName': isa, 'metaRepoSampleName': meta,
                              'matchType': how, 'metaDataSource': src})
             if links:
+                continue
+            if provider:
+                if sample in provider_samples:
+                    rows.append({**base, 'metaDataRsrcName': 'provider', 'metaRepoSampleName': sample,
+                                 'matchType': 'provider', 'metaDataSource': ISA_PREFIX + provider})
+                else:
+                    gaps.append((ds, sample, f'not in {provider}'))
                 continue
             if all(RUN.match(f) for f in fastqs):
                 rows.append({**base, 'metaDataRsrcName': 'NCBI', 'metaRepoSampleName': sample,
