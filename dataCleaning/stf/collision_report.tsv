@@ -1,2 +1,2 @@
 baseVariable	firstHeader	conflictingHeader	assignedVariable	nSamples	exampleDataset	exampleFirstValue	exampleConflictingValue	scope	note
-collection_date	collection date	Collection Date	collection_date_2	180	pfal3D7_Neafsey_Thai-Myanmar_DNASeq_dnaseqExperiment_RSRC	2014-04-18 00:00:00	2014	same source file, same row (two columns describing one sample)	RESOLVED downstream: consumed by date normalization into collection_date/_year/_month
+country	Characteristics [country]	Characteristics [GeographicLocation]	country_2	295	caurB8441_299_Clinical_Isolates_1_dnaseqExperiment_RSRC	USA	Maryland	same source file, same row (two columns describing one sample)	curator: rename assignedVariable to its real meaning

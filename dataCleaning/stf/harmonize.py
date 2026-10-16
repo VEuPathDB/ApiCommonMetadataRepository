@@ -422,11 +422,6 @@ def load_xlsx(rel):
     wb.close(); return hdrs,byrun,byname
 
 # ---------------------------------------------------------------- main
-projorg={}
-for l in open(f'{ROOT}/dnaseq_fasta_samples.txt'):
-    p=l.strip().split('/')
-    if len(p)>=6: projorg[p[3]]=(p[0],p[1])
-
 mapping=list(csv.DictReader(open(f'{ROOT}/dnaseq_sample_metadata_mapping.txt'),delimiter='\t'))
 isa_cache={}; xl_cache={}
 byorg=collections.defaultdict(list)      # org -> sample dicts
@@ -460,10 +455,11 @@ def put(out,prov,var,val,header):
 
 for r in mapping:
     exp=r['workflowDataRsrcName']; ws=r['workflowSample']; src=r['metaDataSource']
-    proj,org=projorg[exp]
+    proj,org=r['projectName'],r['organismAbbrev']
     fungi = (proj=='FungiDB')
-    if r['metaRepoSampleName']=='NO_METADATA_MATCH' or not src:
-        skipped['no-metadata']+=1
+    # NCBI BioSample lookup by run is not implemented yet; until it is these samples carry no metadata
+    if r['metaRepoSampleName']=='NO_METADATA_MATCH' or not src or src=='NCBI':
+        skipped['ncbi-pending' if src=='NCBI' else 'no-metadata']+=1
         byorg[org].append({'sample_id':ws,'dataset_name':exp,'dataset_id':dataset_id(exp),
                            'project':proj,'sample_display_name':ws})
         usedvars[org].add('sample_display_name')   # else the column is dropped

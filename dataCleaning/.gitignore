@@ -15,6 +15,7 @@ results/
 data/
 test_data/
 samplesheets
+manualDelivery/
 dnaseq_fasta_samples.txt
 dnaseq_sample_metadata_mapping.txt
 
