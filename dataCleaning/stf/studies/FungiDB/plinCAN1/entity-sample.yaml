@@ -39,9 +39,17 @@ variables:
     display_name: Collection date as provided
     definition: Verbatim collection date string from the data provider, retained because
       the typed collection_date is null whenever the value is incomplete or ambiguous.
-    data_type: integer
-    data_shape: continuous
+    data_type: string
+    data_shape: categorical
     parent_variable: collection_event
+  - variable: collection_site
+    provider_label:
+      - collection_site
+    display_name: Collection site
+    definition: Named site or institution where the specimen was collected.
+    data_type: string
+    data_shape: categorical
+    parent_variable: collection_location
   - variable: collection_year
     provider_label:
       - collection_year
@@ -123,6 +131,14 @@ variables:
     data_type: string
     data_shape: categorical
     parent_variable: specimen_and_culture
+  - variable: state
+    provider_label:
+      - state
+    display_name: State or province
+    definition: Sub-national administrative region of collection.
+    data_type: string
+    data_shape: categorical
+    parent_variable: collection_location
 
 categories:
   - category: collection_event
