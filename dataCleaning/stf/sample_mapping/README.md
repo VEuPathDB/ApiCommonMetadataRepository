@@ -34,8 +34,12 @@ must match exactly one study, trying these in order:
 | normalized | same after capital I → l and lowercasing |
 | suffix-stripped | workflow name minus `_resequenceN` or `_reference_reads` |
 
-A dataset with no ISA study gets `sra-run` rows whose `joinKey` is the sample's SRA
-runs. These are for NCBI BioSample lookup.
+A dataset with no ISA study uses its provider's spreadsheet when there is one:
+`provider_metadata/<org>_<name>.tsv`, `<name>` with or without the `_N` chunk
+number, first column the workflow sample. Its rows are `provider` matches, and a
+sample missing from it is a gap. Add one when the provider sent columns NCBI
+lacks. Otherwise the dataset gets `sra-run` rows whose `joinKey` is the sample's
+SRA runs, for NCBI BioSample lookup.
 
 Judgment calls are committed by hand:
 
