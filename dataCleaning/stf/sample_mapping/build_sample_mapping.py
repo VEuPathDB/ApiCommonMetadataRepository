@@ -19,7 +19,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(HERE)))
 ISA_PREFIX = 'ApiCommonMetadataRepository/'
 COLUMNS = ['metaDataRsrcName', 'metaRepoSampleName', 'workflowDataRsrcName', 'workflowSample',
-           'matchType', 'metaDataSource', 'joinKey', 'projectName', 'organismAbbrev']
+           'matchType', 'metaDataSource', 'joinKey', 'projectName', 'organismAbbrev', 'datasetPresenter']
 RUN = re.compile(r'^[SED]RR\d+$')
 
 
@@ -117,7 +117,8 @@ def build(veupath_datasets_dir, cache_dir):
         provider, provider_samples = provider_metadata(d)
         for sample, fastqs in samplesheet(os.path.join(cache_dir, d['samplesheet'])).items():
             base = {'workflowDataRsrcName': ds, 'workflowSample': sample, 'joinKey': '',
-                    'projectName': d['projectName'], 'organismAbbrev': d['organismAbbrev']}
+                    'projectName': d['projectName'], 'organismAbbrev': d['organismAbbrev'],
+                    'datasetPresenter': d['datasetPresenter']}
             fixed = overrides.get((ds, sample), [])
             used.update((ds, sample, o['metaDataRsrcName']) for o in fixed)
             if fixed and not links:
